@@ -1,0 +1,33 @@
+ca/MD not/RB you/PRP hear/VBP that/IN rooster/NN crowin/NN '/PCT ?/PCT 
+rabbit/NN runnin/NN '/PCT down/RP across/IN the/DT road/NN 
+underneath/IN the/DT bridge/NN where/WRB the/DT water/NN flowed/VBD through/IN 
+so/RB happy/JJ just/RB to/TO see/VB you/PRP smile/VBP 
+underneath/IN the/DT sky/NN of/IN blue/JJ 
+on/IN this/DT new/JJ morning/NN ,/PCT new/JJ morning/NN 
+on/IN this/DT new/JJ morning/NN with/IN you/PRP ./PCT 
+
+ca/MD not/RB you/PRP hear/VBP that/IN motor/NN turnin/NN '/PCT ?/PCT 
+automobile/NNP comin/NN '/PCT into/IN style/NN 
+comin/NNP '/POS down/RP the/DT road/NN for/IN a/DT country/NN mile/NN or/CC two/CD 
+so/RB happy/JJ just/RB to/TO see/VB you/PRP smile/VBP 
+underneath/IN the/DT sky/NN of/IN blue/JJ 
+on/IN this/DT new/JJ morning/NN ,/PCT new/JJ morning/NN 
+on/IN this/DT new/JJ morning/NN with/IN you/PRP ./PCT 
+
+the/DT night/NN passed/VBD away/RB so/RB quickly/RB 
+it/PRP always/RB does/VBZ when/WRB you/PRP are/VBP with/IN me/PRP ./PCT 
+
+ca/MD not/RB you/PRP feel/VBP that/IN sun/NN a-shinin/NN '/PCT ?/PCT 
+ground/NN hog/NN runnin/VBG '/PCT by/IN the/DT country/NN stream/NN 
+this/DT must/MD be/VB the/DT day/NN that/IN all/DT of/IN my/PRP$ dreams/NNS come/VBP true/JJ 
+so/RB happy/JJ just/RB to/TO be/VB alive/JJ 
+underneath/IN the/DT sky/NN of/IN blue/JJ 
+on/IN this/DT new/JJ morning/NN ,/PCT new/JJ morning/NN 
+on/IN this/DT new/JJ morning/NN with/IN you/PRP ./PCT 
+
+so/RB happy/JJ just/RB to/TO be/VB alive/JJ 
+underneath/IN the/DT sky/NN of/IN blue/JJ 
+on/IN this/DT new/JJ morning/NN ,/PCT new/JJ morning/NN 
+on/IN this/DT new/JJ morning/NN with/IN you/PRP ./PCT 
+new/NNP morning/NN .../PCT 
+

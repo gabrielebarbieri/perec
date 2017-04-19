@@ -1,0 +1,22 @@
+sign/NN on/IN the/DT window/NN says/VBZ ``/PCT lonely/RB ,/PCT ''/PCT 
+sign/NN on/IN the/DT door/NN said/VBD ``/PCT no/DT company/NN allowed/NNP ,/PCT ''/PCT 
+sign/NN on/IN the/DT street/NN says/VBZ ``/PCT y/NNP '/PCT do/VBP not/RB own/VB me/PRP ,/PCT ''/PCT 
+sign/NN on/IN the/DT porch/NN says/VBZ ``/PCT three/NNP 's/POS a/DT crowd/NN ,/PCT ''/PCT 
+sign/NN on/IN the/DT porch/NN says/VBZ ``/PCT three/NNP 's/POS a/DT crowd/NN ./PCT ''/PCT 
+
+her/PRP$ and/CC her/PRP$ boyfriend/NN went/VBD to/TO california/NNP ,/PCT 
+her/PRP$ and/CC her/PRP$ boyfriend/NN done/VBN changed/VBD their/PRP$ tune/NN ./PCT 
+my/PRP$ best/JJS friend/NN said/VBD ,/PCT ``/PCT now/RB didn/NN '/PCT i/PRP warn/VBP ya/PRP ,/PCT 
+brighton/NNP girls/NNS are/VBP like/IN the/DT moon/NN ,/PCT 
+brighton/NNP girls/NNS are/VBP like/IN the/DT moon/NN ./PCT ''/PCT 
+
+looks/VBZ like/IN a-nothing/JJ but/CC rain/NN .../PCT 
+sure/JJ gonna/NN be/VB wet/JJ tonight/NN on/IN main/NNP street/NNP .../PCT 
+hope/NNP that/IN it/PRP do/VBP not/RB sleet/VB ./PCT 
+
+build/VB me/PRP a/DT cabin/NN in/IN utah/NNP ,/PCT 
+marry/VB me/PRP a/DT wife/NN ,/PCT catch/VB rainbow/NN trout/NNS ,/PCT 
+have/VBP a/DT bunch/NN of/IN kids/NNS who/WP call/VBP me/PRP ``/PCT pa/NNP ,/PCT ''/PCT 
+that/DT must/MD be/VB what/WP it/PRP is/VBZ all/DT about/RB ,/PCT 
+that/DT must/MD be/VB what/WP it/PRP is/VBZ all/DT about/RB ./PCT 
+

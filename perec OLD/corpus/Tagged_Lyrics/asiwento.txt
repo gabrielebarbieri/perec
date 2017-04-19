@@ -1,0 +1,27 @@
+as/IN i/PRP went/VBD out/IN one/CD morning/NN 
+to/TO breathe/VB the/DT air/NN around/IN tom/NNP paine/NNP 's/POS ,/PCT 
+i/PRP spied/VBD the/DT fairest/JJS damsel/NN 
+that/DT ever/RB did/VBD walk/VB in/IN chains/NNS ./PCT 
+i/PRP offer/VBP 'd/MD her/PRP$ my/PRP$ hand/NN ,/PCT 
+she/PRP took/VBD me/PRP by/IN the/DT arm/NN ./PCT 
+i/PRP knew/VBD that/IN very/RB instant/JJ ,/PCT 
+she/PRP meant/VBD to/TO do/VB me/PRP harm/VB ./PCT 
+
+``/PCT depart/VB from/IN me/PRP this/DT moment/NN ,/PCT ''/PCT 
+i/PRP told/VBD her/PRP with/IN my/PRP$ voice/NN ./PCT 
+said/NNP she/PRP ,/PCT ``/PCT but/CC i/PRP do/VBP not/RB wish/VB to/TO ,/PCT ''/PCT 
+said/NNP i/PRP ,/PCT ``/PCT but/CC you/PRP have/VBP no/DT choice/NN ./PCT ''/PCT 
+``/PCT i/PRP beg/VBP you/PRP ,/PCT sir/NN ,/PCT ''/PCT she/PRP pleaded/VBD 
+from/IN the/DT corners/NNS of/IN her/PRP$ mouth/NN ,/PCT 
+``/PCT i/PRP will/MD secretly/RB accept/VB you/PRP 
+and/CC together/RB we/PRP 'll/MD fly/VB south/RB ./PCT ''/PCT 
+
+just/RB then/RB tom/NNP paine/NNP ,/PCT himself/PRP ,/PCT 
+came/NNP running/VBG from/IN across/IN the/DT field/NN ,/PCT 
+shouting/VBG at/IN this/DT lovely/JJ girl/NN 
+and/CC commanding/VBG her/PRP$ to/TO yield/VB ./PCT 
+and/CC as/IN she/PRP was/VBD letting/VBG go/VB her/PRP$ grip/NN ,/PCT 
+up/IN tom/NNP paine/NNP did/VBD run/VB ,/PCT 
+``/PCT i/PRP am/VBP sorry/JJ ,/PCT sir/NN ,/PCT ''/PCT he/PRP said/VBD to/TO me/PRP ,/PCT 
+``/PCT i/PRP am/VBP sorry/JJ for/IN what/WP she/PRP is/VBZ done/VBN ./PCT ''/PCT 
+

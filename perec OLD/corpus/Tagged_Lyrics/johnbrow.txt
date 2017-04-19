@@ -1,0 +1,66 @@
+john/NNP brown/NNP went/VBD off/RB to/TO war/NN to/TO fight/VB on/IN a/DT foreign/JJ shore/NN ./PCT 
+his/PRP$ mama/NN sure/RB was/VBD proud/JJ of/IN him/PRP !/PCT 
+he/PRP stood/VBD straight/RB and/CC tall/JJ in/IN his/PRP$ uniform/NN and/CC all/DT ./PCT 
+his/PRP$ mama/NN 's/POS face/NN broke/VBD out/IN all/DT in/IN a/DT grin/NN ./PCT 
+
+``/PCT oh/UH son/NN ,/PCT you/PRP look/VBP so/RB fine/JJ ,/PCT i/PRP am/VBP glad/JJ you/PRP are/VBP a/DT son/NN of/IN mine/NN ,/PCT 
+you/PRP make/VBP me/PRP proud/JJ to/TO know/VB you/PRP hold/VB a/DT gun/NN ./PCT 
+do/VBP what/WP the/DT captain/NN says/VBZ ,/PCT lots/NNS of/IN medals/NNS you/PRP will/MD get/VB ,/PCT 
+and/CC we/PRP 'll/MD put/VB them/PRP on/IN the/DT wall/NN when/WRB you/PRP come/VBP home/NN ./PCT ''/PCT 
+
+as/IN that/DT old/JJ train/NN pulled/VBD out/RP ,/PCT john/NNP 's/POS ma/NN began/VBD to/TO shout/VB ,/PCT 
+tellin/NNP '/POS ev/NN `/PCT ryone/NN in/IN the/DT neighborhood/NN :/PCT 
+``/PCT that/DT is/VBZ my/PRP$ son/NN that/WDT is/VBZ about/RB to/TO go/VB ,/PCT he/PRP is/VBZ a/DT soldier/NN now/RB ,/PCT you/PRP know/VBP ./PCT ''/PCT 
+she/PRP made/VBD well/RB sure/JJ her/PRP$ neighbors/NNS understood/VBN ./PCT 
+
+she/PRP got/VBD a/DT letter/NN once/RB in/IN a/DT while/NN and/CC her/PRP$ face/NN broke/VBD into/IN a/DT smile/NN 
+as/IN she/PRP showed/VBD them/PRP to/TO the/DT people/NNS from/IN next/JJ door/NN ./PCT 
+and/CC she/PRP bragged/VBD about/IN her/PRP$ son/NN with/IN his/PRP$ uniform/NN and/CC gun/NN ,/PCT 
+and/CC these/DT things/NNS you/PRP called/VBD a/DT good/JJ old-fashioned/JJ war/NN ./PCT 
+
+oh/UH !/PCT good/JJ old-fashioned/JJ war/NN !/PCT 
+
+then/RB the/DT letters/NNS ceased/VBD to/TO come/VB ,/PCT for/IN a/DT long/JJ time/NN they/PRP did/VBD not/RB come/VBN ./PCT 
+they/PRP ceased/VBD to/TO come/VB for/IN about/IN ten/CD months/NNS or/CC more/JJR ./PCT 
+then/RB a/DT letter/NN finally/RB came/VBD saying/VBG ,/PCT ``/PCT go/VB down/RB and/CC meet/VB the/DT train/NN ./PCT 
+your/PRP$ son/NN 's/POS a-coming/JJ home/NN from/IN the/DT war/NN ./PCT ''/PCT 
+
+she/PRP smiled/VBD and/CC went/VBD right/RB down/RB ,/PCT she/PRP looked/VBD everywhere/RB around/IN 
+but/CC she/PRP could/MD not/RB see/VB her/PRP$ soldier/NN son/NN in/IN sight/NN ./PCT 
+but/CC as/IN all/PDT the/DT people/NNS passed/VBD ,/PCT she/PRP saw/VBD her/PRP$ son/NN at/IN last/JJ ,/PCT 
+when/WRB she/PRP did/VBD she/PRP could/MD hardly/RB believe/VB her/PRP$ eyes/NNS ./PCT 
+
+oh/UH his/PRP$ face/NN was/VBD all/DT shot/VBN up/RB and/CC his/PRP$ hand/NN was/VBD all/DT blown/VBN off/RP 
+and/CC he/PRP wore/VBD a/DT metal/NN brace/VB around/IN his/PRP$ waist/NN ./PCT 
+he/PRP whispered/VBD kind/NN of/IN slow/JJ ,/PCT in/IN a/DT voice/NN she/PRP did/VBD not/RB know/VB ,/PCT 
+while/IN she/PRP could/MD not/RB even/RB recognize/VB his/PRP$ face/NN !/PCT 
+
+oh/UH !/PCT lord/NNP !/PCT not/RB even/RB recognize/VB his/PRP$ face/NN ./PCT 
+
+``/PCT oh/UH tell/VB me/PRP ,/PCT my/PRP$ darling/NN son/NN ,/PCT pray/NN tell/VBP me/PRP what/WP they/PRP done/VBD ./PCT 
+how/WRB is/VBZ it/PRP you/PRP come/VBP to/TO be/VB this/DT way/NN ?/PCT ''/PCT 
+he/PRP tried/VBD his/PRP$ best/JJS to/TO talk/VB but/CC his/PRP$ mouth/NN could/MD hardly/RB move/VB 
+and/CC the/DT mother/NN had/VBD to/TO turn/VB her/PRP$ face/NN away/RB ./PCT 
+
+``/PCT do/VBP not/RB you/PRP remember/VBP ,/PCT ma/NNP ,/PCT when/WRB i/PRP went/VBD off/RB to/TO war/NN 
+you/PRP thought/VBD it/PRP was/VBD the/DT best/JJS thing/NN i/PRP could/MD do/VB ?/PCT 
+i/PRP was/VBD on/IN the/DT battleground/NN ,/PCT you/PRP were/VBD home/NN .../PCT acting/VBG proud/JJ ./PCT 
+you/PRP was/VBD not/RB there/RB standing/VBG in/IN my/PRP$ shoes/NNS ./PCT ''/PCT 
+
+``/PCT oh/UH ,/PCT and/CC i/PRP thought/VBD when/WRB i/PRP was/VBD there/RB ,/PCT god/NNP ,/PCT what/WP am/VBP i/PRP doing/VBG here/RB ?/PCT 
+i/PRP am/VBP a-tryin/VBG '/PCT to/TO kill/VB somebody/NN or/CC die/VB tryin/NN '/PCT ./PCT 
+but/CC the/DT thing/NN that/WDT scared/VBD me/PRP most/RBS was/VBD when/WRB my/PRP$ enemy/NN came/VBD close/RB 
+and/CC i/PRP saw/VBD that/IN his/PRP$ face/NN looked/VBD just/RB like/IN mine/NN ./PCT ''/PCT 
+
+oh/UH !/PCT lord/NNP !/PCT just/RB like/IN mine/NN !/PCT 
+
+``/PCT and/CC i/PRP could/MD not/RB help/VB but/CC think/VB ,/PCT through/IN the/DT thunder/NN rolling/NN and/CC stink/VB ,/PCT 
+that/DT i/PRP was/VBD just/RB a/DT puppet/NN in/IN a/DT play/NN ./PCT 
+and/CC through/IN the/DT roar/NN and/CC smoke/NN ,/PCT this/DT string/NN is/VBZ finally/RB broke/VBN ,/PCT 
+and/CC a/DT cannon/NN ball/NN blew/VBD my/PRP$ eyes/NNS away/RB ./PCT ''/PCT 
+
+as/IN he/PRP turned/VBD away/RB to/TO walk/VB ,/PCT his/PRP$ ma/NNP was/VBD still/RB in/IN shock/NN 
+at/IN seein/NN '/PCT the/DT metal/NN brace/VBP that/IN helped/VBD him/PRP stand/VB ./PCT 
+but/CC as/IN he/PRP turned/VBD to/TO go/VB ,/PCT he/PRP called/VBD his/PRP$ mother/NN close/NN 
+and/CC he/PRP dropped/VBD his/PRP$ medals/NNS down/RB into/IN her/PRP$ hand/NN ./PCT 
+

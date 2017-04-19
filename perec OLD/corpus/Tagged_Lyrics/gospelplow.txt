@@ -1,0 +1,36 @@
+mary/NNP wore/VBD three/CD links/NNS of/IN chain/NN ,/PCT 
+ev/NNP `/PCT ry/FW link/NN was/VBD jesus/NNP name/NN ,/PCT 
+keep-a/NNP your/PRP$ hand/NN on/IN that/DT plow/VB ,/PCT hold/VB on/RP ,/PCT 
+oh/UH ,/PCT lord/NNP ,/PCT oh/UH ,/PCT lord/NNP ,/PCT 
+keep-a/NNP your/PRP$ hand/NN on/IN that/DT plow/VB ,/PCT hold/VB on/RP ./PCT 
+
+mary/NNP ,/PCT mark/NNP and/CC luke/NNP and/CC john/NNP ,/PCT 
+all/PDT these/DT prophets/NNS so/RB good/JJ and/CC gone/VBN ,/PCT 
+keep-a/NNP your/PRP$ hand/NN on/IN that/DT plow/VB ,/PCT hold/VB on/RP ,/PCT 
+oh/UH ,/PCT lord/NNP ,/PCT oh/UH ,/PCT lord/NNP ,/PCT 
+keep-a/NNP your/PRP$ hand/NN on/IN that/DT plow/VB ,/PCT hold/VB on/RP ./PCT 
+
+i/PRP never/RB been/VBN to/TO heaven/NN ,/PCT but/CC i/PRP have/VBP been/VBN told/VBN ,/PCT 
+streets/NNPS up/IN there/EX are/VBP line/NN with/IN gold/NN ,/PCT 
+keep-a/NNP your/PRP$ hand/NN on/IN that/DT plow/VB ,/PCT hold/VB on/RP ,/PCT 
+oh/UH ,/PCT lord/NNP ,/PCT oh/UH ,/PCT lord/NNP ,/PCT 
+keep-a/NNP your/PRP$ hand/NN on/IN that/DT plow/VB ,/PCT hold/VB on/RP ./PCT 
+
+dig/VB my/PRP$ grave/NN with/IN a/DT bloody/JJ spade/NN ,/PCT 
+see/VB that/IN my/PRP$ digger/NN gets/VBZ well/RB paid/VBN ,/PCT 
+keep-a/NNP your/PRP$ hand/NN on/IN that/DT plow/VB ,/PCT hold/VB on/RP ,/PCT 
+oh/UH ,/PCT lord/NNP ,/PCT oh/UH ,/PCT lord/NNP ,/PCT 
+keep-a/NNP your/PRP$ hand/NN on/IN that/DT plow/VB ,/PCT hold/VB on/RP ./PCT 
+
+that/DT gospel/NN line/NN gets/VBZ mighty/RB hot/JJ ,/PCT 
+but/CC just/RB hang/VB on/IN with/IN all/DT you/PRP got/VBD ,/PCT 
+keep-a/NNP your/PRP$ hand/NN on/IN that/DT plow/VB ,/PCT hold/VB on/RP ,/PCT 
+oh/UH ,/PCT lord/NNP ,/PCT oh/UH ,/PCT lord/NNP ,/PCT 
+keep-a/NNP your/PRP$ hand/NN on/IN that/DT plow/VB ,/PCT hold/VB on/RP ./PCT 
+
+when/WRB i/PRP get/VBP to/TO the/DT glory/NN land/NN ,/PCT 
+gonna/NNP play/NN in/IN the/DT glory/NN land/NN ,/PCT 
+keep-a/NNP your/PRP$ hand/NN on/IN that/DT plow/VB ,/PCT hold/VB on/RP ,/PCT 
+oh/UH ,/PCT lord/NNP ,/PCT oh/UH ,/PCT lord/NNP ,/PCT 
+keep-a/NNP your/PRP$ hand/NN on/IN that/DT plow/VB ,/PCT hold/VB on/RP ./PCT 
+

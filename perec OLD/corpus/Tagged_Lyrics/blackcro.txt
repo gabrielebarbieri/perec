@@ -1,0 +1,40 @@
+i/PRP woke/VBD in/IN the/DT mornin/NN '/PCT ,/PCT wand/VB `/PCT rin/NN '/PCT ,/PCT 
+wasted/VBN and/CC worn/JJ out/RP ./PCT 
+i/PRP woke/VBD in/IN the/DT mornin/NN '/PCT ,/PCT wand/VB `/PCT rin/NN '/PCT ,/PCT 
+wasted/VBN and/CC worn/JJ out/RP ./PCT 
+wishin/NNP '/POS my/PRP$ long-lost/JJ lover/NN 
+will/MD walk/VB to/TO me/PRP ,/PCT talk/VB to/TO me/PRP ,/PCT 
+tell/VB me/PRP what/WP it/PRP is/VBZ all/DT about/RB ./PCT 
+
+i/PRP was/VBD standin/VBG '/PCT at/IN the/DT side/NN road/NN 
+listenin/VBG '/PCT to/TO the/DT billboard/NN knock/VBP ./PCT 
+standin/VBG '/PCT at/IN the/DT side/NN road/NN 
+listenin/VBG '/PCT to/TO the/DT billboard/NN knock/VBP ./PCT 
+well/RB ,/PCT my/PRP$ wrist/NN was/VBD empty/JJ 
+but/CC my/PRP$ nerves/NNS were/VBD kickin/VBG '/PCT ,/PCT 
+tickin/NNP '/POS like/IN a/DT clock/NN ./PCT 
+
+if/IN i/PRP got/VBD anything/NN you/PRP need/VBP ,/PCT babe/VBP ,/PCT 
+let/VB me/PRP tell/VB you/PRP in/IN front/NN ./PCT 
+if/IN i/PRP got/VBD anything/NN you/PRP need/VBP ,/PCT babe/VBP ,/PCT 
+let/VB me/PRP tell/VB you/PRP in/IN front/NN ./PCT 
+you/PRP can/MD come/VB to/TO me/PRP sometime/RB ,/PCT 
+night/NNP time/NN ,/PCT day/NN time/NN ,/PCT 
+any/DT time/NN you/PRP want/VBP ./PCT 
+
+sometimes/RB i/PRP am/VBP thinkin/VBG '/PCT i/PRP am/VBP 
+too/RB high/JJ to/TO fall/VB ./PCT 
+sometimes/RB i/PRP am/VBP thinkin/VBG '/PCT 
+i/PRP am/VBP too/RB high/JJ to/TO fall/VB ./PCT 
+other/JJ times/NNS i/PRP am/VBP thinkin/VBG '/PCT i/PRP am/VBP 
+so/RB low/JJ i/PRP do/VBP not/RB know/VB 
+if/IN i/PRP can/MD come/VB up/RP at/IN all/DT ./PCT 
+
+black/NNP crows/VBZ in/IN the/DT meadow/NN 
+across/IN a/DT broad/JJ highway/NN ./PCT 
+black/NNP crows/VBZ in/IN the/DT meadow/NN 
+across/IN a/DT broad/JJ highway/NN ./PCT 
+though/IN it/PRP is/VBZ funny/JJ ,/PCT honey/NN ,/PCT 
+i/PRP just/RB do/VBP not/RB feel/VB much/RB like/IN a/DT 
+scarecrow/NNP today/NN ./PCT 
+

@@ -1,0 +1,32 @@
+one/CD by/IN one/CD ,/PCT they/PRP followed/VBD the/DT sun/NN ,/PCT 
+one/CD by/IN one/CD ,/PCT until/IN there/EX were/VBD none/NN ./PCT 
+two/CD by/IN two/CD ,/PCT to/TO their/PRP$ lovers/NNS they/PRP flew/VBD ,/PCT 
+two/CD by/IN two/CD ,/PCT into/IN the/DT foggy/JJ dew/NN ./PCT 
+three/CD by/IN three/CD ,/PCT they/PRP danced/VBD on/IN the/DT sea/NN ,/PCT 
+four/CD by/IN four/CD ,/PCT they/PRP danced/VBD on/IN the/DT shore/NN ,/PCT 
+five/CD by/IN five/CD ,/PCT they/PRP tried/VBD to/TO survive/VB ,/PCT 
+six/CD by/IN six/CD ,/PCT they/PRP were/VBD playing/VBG with/IN tricks/NNS ./PCT 
+
+how/WRB many/JJ paths/NNS did/VBD they/PRP try/VBP and/CC fail/VBP ?/PCT 
+how/WRB many/JJ of/IN their/PRP$ brothers/NNS and/CC sisters/NNS lingered/VBD in/IN jail/NN ?/PCT 
+how/WRB much/JJ poison/NN did/VBD they/PRP inhale/VB ?/PCT 
+how/WRB many/JJ black/JJ cats/NNS crossed/VBD their/PRP$ trail/NN ?/PCT 
+
+seven/CD by/IN seven/CD ,/PCT they/PRP headed/VBD for/IN heaven/NN ,/PCT 
+eight/CD by/IN eight/CD ,/PCT they/PRP got/VBD to/TO the/DT gate/NN ,/PCT 
+nine/CD by/IN nine/CD ,/PCT they/PRP drank/VBP the/DT wine/NN ,/PCT 
+ten/CD by/IN ten/NN ,/PCT they/PRP drank/VBP again/RB ./PCT 
+
+how/WRB many/JJ tomorrow/NN 's/POS have/VBP are/VBP they/PRP given/VBN away/RP ?/PCT 
+how/WRB many/JJ compared/VBN to/TO yesterday/NN ?/PCT 
+how/WRB many/JJ more/JJR without/IN any/DT reward/NN ?/PCT 
+how/WRB many/JJ more/JJR can/MD they/PRP afford/VB ?/PCT 
+
+two/CD by/IN two/CD ,/PCT they/PRP stepped/VBD into/IN the/DT ark/NN ,/PCT 
+two/CD by/IN two/CD ,/PCT they/PRP step/VBP in/IN the/DT dark/NN ./PCT 
+three/CD by/IN three/CD ,/PCT they/PRP are/VBP turning/VBG the/DT key/NN ,/PCT 
+four/CD by/IN four/CD ,/PCT they/PRP turn/VBP it/PRP some/DT more/RBR ,/PCT 
+
+one/CD by/IN one/CD ,/PCT they/PRP follow/VBP the/DT sun/NN ,/PCT 
+two/CD by/IN two/CD ,/PCT to/TO another/DT rendezvous/NN ./PCT 
+

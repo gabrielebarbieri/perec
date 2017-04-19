@@ -1,0 +1,61 @@
+{"tags": [{"word": "well", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "that", "POS": "DT"}, {"word": "big", "POS": "JJ"}, {"word": "dumb", "POS": "JJ"}, {"word": "blonde", "POS": "JJ"}], "sentence": "well , that big dumb blonde"}
+{"tags": [{"word": "with", "POS": "IN"}, {"word": "her", "POS": "PRP$"}, {"word": "wheel", "POS": "NN"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "gorge", "POS": "NN"}], "sentence": "with her wheel in the gorge"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "turtle", "POS": "NNP"}, {"word": ",", "POS": "PCT"}, {"word": "that", "POS": "IN"}, {"word": "friend", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "theirs", "POS": "JJ"}], "sentence": "and turtle , that friend of theirs"}
+{"tags": [{"word": "with", "POS": "IN"}, {"word": "his", "POS": "PRP$"}, {"word": "checks", "POS": "NNS"}, {"word": "all", "POS": "DT"}, {"word": "forged", "POS": "VBN"}], "sentence": "with his checks all forged"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "his", "POS": "PRP$"}, {"word": "cheeks", "POS": "NNS"}, {"word": "in", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "chunk", "POS": "NN"}], "sentence": "and his cheeks in a chunk"}
+{"tags": [{"word": "with", "POS": "IN"}, {"word": "his", "POS": "PRP$"}, {"word": "cheese", "POS": "NN"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "cash", "POS": "NN"}], "sentence": "with his cheese in the cash"}
+{"tags": [{"word": "they", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "all", "POS": "DT"}, {"word": "gonna", "POS": "NNS"}, {"word": "be", "POS": "VB"}, {"word": "there", "POS": "RB"}], "sentence": "they are all gonna be there"}
+{"tags": [{"word": "at", "POS": "IN"}, {"word": "that", "POS": "DT"}, {"word": "million", "POS": "CD"}, {"word": "dollar", "POS": "NN"}, {"word": "bash", "POS": "NN"}], "sentence": "at that million dollar bash"}
+{"tags": [{"word": "ooh", "POS": "NNP"}, {"word": ",", "POS": "PCT"}, {"word": "baby", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "ooh-ee", "POS": "NN"}], "sentence": "ooh , baby , ooh-ee"}
+{"tags": [{"word": "ooh", "POS": "NNP"}, {"word": ",", "POS": "PCT"}, {"word": "baby", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "ooh-ee", "POS": "NN"}], "sentence": "ooh , baby , ooh-ee"}
+{"tags": [{"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "that", "POS": "IN"}, {"word": "million", "POS": "CD"}, {"word": "dollar", "POS": "NN"}, {"word": "bash", "POS": "NN"}], "sentence": "it is that million dollar bash"}
+
+{"tags": [{"word": "ev", "POS": "NNP"}, {"word": "`", "POS": "PCT"}, {"word": "rybody", "POS": "NN"}, {"word": "from", "POS": "IN"}, {"word": "right", "POS": "RB"}, {"word": "now", "POS": "RB"}], "sentence": "ev ` rybody from right now"}
+{"tags": [{"word": "to", "POS": "TO"}, {"word": "over", "POS": "IN"}, {"word": "there", "POS": "RB"}, {"word": "and", "POS": "CC"}, {"word": "back", "POS": "RB"}], "sentence": "to over there and back"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "louder", "POS": "RBR"}, {"word": "they", "POS": "PRP"}, {"word": "come", "POS": "VBP"}], "sentence": "the louder they come"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "harder", "POS": "JJR"}, {"word": "they", "POS": "PRP"}, {"word": "crack", "POS": "VBP"}], "sentence": "the harder they crack"}
+{"tags": [{"word": "come", "POS": "VBN"}, {"word": "now", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "sweet", "POS": "JJ"}, {"word": "cream", "POS": "NN"}], "sentence": "come now , sweet cream"}
+{"tags": [{"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "forget", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "flash", "POS": "VB"}], "sentence": "do not forget to flash"}
+{"tags": [{"word": "we", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "all", "POS": "DT"}, {"word": "gonna", "POS": "NNS"}, {"word": "meet", "POS": "VBP"}], "sentence": "we are all gonna meet"}
+{"tags": [{"word": "at", "POS": "IN"}, {"word": "that", "POS": "DT"}, {"word": "million", "POS": "CD"}, {"word": "dollar", "POS": "NN"}, {"word": "bash", "POS": "NN"}], "sentence": "at that million dollar bash"}
+{"tags": [{"word": "ooh", "POS": "NNP"}, {"word": ",", "POS": "PCT"}, {"word": "baby", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "ooh-ee", "POS": "NN"}], "sentence": "ooh , baby , ooh-ee"}
+{"tags": [{"word": "ooh", "POS": "NNP"}, {"word": ",", "POS": "PCT"}, {"word": "baby", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "ooh-ee", "POS": "NN"}], "sentence": "ooh , baby , ooh-ee"}
+{"tags": [{"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "that", "POS": "IN"}, {"word": "million", "POS": "CD"}, {"word": "dollar", "POS": "NN"}, {"word": "bash", "POS": "NN"}], "sentence": "it is that million dollar bash"}
+
+{"tags": [{"word": "well", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "i", "POS": "PRP"}, {"word": "took", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "counselor", "POS": "NN"}], "sentence": "well , i took my counselor"}
+{"tags": [{"word": "out", "POS": "IN"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "barn", "POS": "NN"}], "sentence": "out to the barn"}
+{"tags": [{"word": "silly", "POS": "NNP"}, {"word": "nelly", "POS": "NNP"}, {"word": "was", "POS": "VBD"}, {"word": "there", "POS": "EX"}], "sentence": "silly nelly was there"}
+{"tags": [{"word": "she", "POS": "PRP"}, {"word": "told", "POS": "VBD"}, {"word": "him", "POS": "PRP"}, {"word": "a", "POS": "DT"}, {"word": "yarn", "POS": "NN"}], "sentence": "she told him a yarn"}
+{"tags": [{"word": "then", "POS": "RB"}, {"word": "along", "POS": "IN"}, {"word": "came", "POS": "VBD"}, {"word": "jones", "POS": "NNP"}], "sentence": "then along came jones"}
+{"tags": [{"word": "emptied", "POS": "VBN"}, {"word": "the", "POS": "DT"}, {"word": "trash", "POS": "NN"}], "sentence": "emptied the trash"}
+{"tags": [{"word": "ev", "POS": "NNP"}, {"word": "`", "POS": "PCT"}, {"word": "rybody", "POS": "JJ"}, {"word": "went", "POS": "VBD"}, {"word": "down", "POS": "RB"}], "sentence": "ev ` rybody went down"}
+{"tags": [{"word": "to", "POS": "TO"}, {"word": "that", "POS": "DT"}, {"word": "million", "POS": "CD"}, {"word": "dollar", "POS": "NN"}, {"word": "bash", "POS": "NN"}], "sentence": "to that million dollar bash"}
+{"tags": [{"word": "ooh", "POS": "NNP"}, {"word": ",", "POS": "PCT"}, {"word": "baby", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "ooh-ee", "POS": "NN"}], "sentence": "ooh , baby , ooh-ee"}
+{"tags": [{"word": "ooh", "POS": "NNP"}, {"word": ",", "POS": "PCT"}, {"word": "baby", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "ooh-ee", "POS": "NN"}], "sentence": "ooh , baby , ooh-ee"}
+{"tags": [{"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "that", "POS": "IN"}, {"word": "million", "POS": "CD"}, {"word": "dollar", "POS": "NN"}, {"word": "bash", "POS": "NN"}], "sentence": "it is that million dollar bash"}
+
+
+{"tags": [{"word": "well", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "hittin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": "it", "POS": "PRP"}, {"word": "too", "POS": "RB"}, {"word": "hard", "POS": "JJ"}], "sentence": "well , i am hittin ' it too hard"}
+{"tags": [{"word": "my", "POS": "PRP$"}, {"word": "stones", "POS": "NNS"}, {"word": "wo", "POS": "MD"}, {"word": "not", "POS": "RB"}, {"word": "take", "POS": "VB"}], "sentence": "my stones wo not take"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "get", "POS": "VBP"}, {"word": "up", "POS": "RP"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "mornin", "POS": "NN"}, {"word": "'", "POS": "PCT"}], "sentence": "i get up in the mornin '"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "too", "POS": "RB"}, {"word": "early", "POS": "JJ"}, {"word": "to", "POS": "TO"}, {"word": "wake", "POS": "NN"}], "sentence": "but it is too early to wake"}
+{"tags": [{"word": "first", "POS": "RB"}, {"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "hello", "POS": "UH"}, {"word": ",", "POS": "PCT"}, {"word": "goodbye", "POS": "NN"}], "sentence": "first it is hello , goodbye"}
+{"tags": [{"word": "then", "POS": "RB"}, {"word": "push", "POS": "NN"}, {"word": "and", "POS": "CC"}, {"word": "then", "POS": "RB"}, {"word": "crash", "POS": "NN"}], "sentence": "then push and then crash"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "we", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "all", "POS": "DT"}, {"word": "gonna", "POS": "NNS"}, {"word": "make", "POS": "VBP"}, {"word": "it", "POS": "PRP"}], "sentence": "but we are all gonna make it"}
+{"tags": [{"word": "at", "POS": "IN"}, {"word": "that", "POS": "DT"}, {"word": "million", "POS": "CD"}, {"word": "dollar", "POS": "NN"}, {"word": "bash", "POS": "NN"}], "sentence": "at that million dollar bash"}
+{"tags": [{"word": "ooh", "POS": "NNP"}, {"word": ",", "POS": "PCT"}, {"word": "baby", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "ooh-ee", "POS": "NN"}], "sentence": "ooh , baby , ooh-ee"}
+{"tags": [{"word": "ooh", "POS": "NNP"}, {"word": ",", "POS": "PCT"}, {"word": "baby", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "ooh-ee", "POS": "NN"}], "sentence": "ooh , baby , ooh-ee"}
+{"tags": [{"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "that", "POS": "IN"}, {"word": "million", "POS": "CD"}, {"word": "dollar", "POS": "NN"}, {"word": "bash", "POS": "NN"}], "sentence": "it is that million dollar bash"}
+
+{"tags": [{"word": "well", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "i", "POS": "PRP"}, {"word": "looked", "POS": "VBD"}, {"word": "at", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "watch", "POS": "NN"}], "sentence": "well , i looked at my watch"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "looked", "POS": "VBD"}, {"word": "at", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "wrist", "POS": "NN"}], "sentence": "i looked at my wrist"}
+{"tags": [{"word": "punched", "POS": "NNP"}, {"word": "myself", "POS": "PRP"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "face", "POS": "NN"}], "sentence": "punched myself in the face"}
+{"tags": [{"word": "with", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "fist", "POS": "NN"}], "sentence": "with my fist"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "took", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "potatoes", "POS": "NNS"}], "sentence": "i took my potatoes"}
+{"tags": [{"word": "down", "POS": "IN"}, {"word": "to", "POS": "TO"}, {"word": "be", "POS": "VB"}, {"word": "mashed", "POS": "VBN"}], "sentence": "down to be mashed"}
+{"tags": [{"word": "then", "POS": "RB"}, {"word": "i", "POS": "PRP"}, {"word": "made", "POS": "VBD"}, {"word": "it", "POS": "PRP"}, {"word": "over", "POS": "IN"}], "sentence": "then i made it over"}
+{"tags": [{"word": "to", "POS": "TO"}, {"word": "that", "POS": "DT"}, {"word": "million", "POS": "CD"}, {"word": "dollar", "POS": "NN"}, {"word": "bash", "POS": "NN"}], "sentence": "to that million dollar bash"}
+{"tags": [{"word": "ooh", "POS": "NNP"}, {"word": ",", "POS": "PCT"}, {"word": "baby", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "ooh-ee", "POS": "NN"}], "sentence": "ooh , baby , ooh-ee"}
+{"tags": [{"word": "ooh", "POS": "NNP"}, {"word": ",", "POS": "PCT"}, {"word": "baby", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "ooh-ee", "POS": "NN"}], "sentence": "ooh , baby , ooh-ee"}
+{"tags": [{"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "that", "POS": "IN"}, {"word": "million", "POS": "CD"}, {"word": "dollar", "POS": "NN"}, {"word": "bash", "POS": "NN"}], "sentence": "it is that million dollar bash"}
+

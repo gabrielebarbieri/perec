@@ -1,0 +1,29 @@
+trust/NNP yourself/PRP ,/PCT 
+trust/NNP yourself/PRP to/TO do/VB the/DT things/NNS that/WDT only/RB you/PRP know/VBP best/JJS ./PCT 
+trust/NNP yourself/PRP ,/PCT 
+trust/NNP yourself/PRP to/TO do/VB what/WP is/VBZ right/JJ and/CC not/RB be/VB second-guessed/VBN ./PCT 
+do/VBP not/RB trust/VB me/PRP to/TO show/VB you/PRP beauty/NN 
+when/WRB beauty/NN may/MD only/RB turn/VB to/TO rust/VB ./PCT 
+if/IN you/PRP need/VBP somebody/NN you/PRP can/MD trust/VB ,/PCT trust/NN yourself/PRP ./PCT 
+
+trust/NNP yourself/PRP ,/PCT 
+trust/NNP yourself/PRP to/TO know/VB the/DT way/NN that/WDT will/MD prove/VB true/JJ in/IN the/DT end/NN ./PCT 
+trust/NNP yourself/PRP ,/PCT 
+trust/NNP yourself/PRP to/TO find/VB the/DT path/NN where/WRB there/EX is/VBZ no/DT if/IN and/CC when/WRB ./PCT 
+do/VBP not/RB trust/VB me/PRP to/TO show/VB you/PRP the/DT truth/NN 
+when/WRB the/DT truth/NN may/MD only/RB be/VB ashes/NNS and/CC dust/NN ./PCT 
+if/IN you/PRP want/VBP somebody/NN you/PRP can/MD trust/VB ,/PCT trust/NN yourself/PRP ./PCT 
+
+well/RB ,/PCT you/PRP are/VBP on/IN your/PRP$ own/JJ ,/PCT you/PRP always/RB were/VBD ,/PCT 
+in/IN a/DT land/NN of/IN wolves/NNS and/CC thieves/NNS ./PCT 
+do/VBP not/RB put/VB your/PRP$ hope/NN in/IN ungodly/JJ man/NN 
+or/CC be/VB a/DT slave/NN to/TO what/WP somebody/NN else/RB believes/VBZ ./PCT 
+
+trust/NNP yourself/PRP 
+and/CC you/PRP wo/MD not/RB be/VB disappointed/VBN when/WRB vain/JJ people/NNS let/VBP you/PRP down/RP ./PCT 
+trust/NNP yourself/PRP 
+and/CC look/VB not/RB for/IN answers/NNS where/WRB no/DT answers/NNS can/MD be/VB found/VBN ./PCT 
+do/VBP not/RB trust/VB me/PRP to/TO show/VB you/PRP love/VBP 
+when/WRB my/PRP$ love/NN may/MD be/VB only/RB lust/JJ ./PCT 
+if/IN you/PRP want/VBP somebody/NN you/PRP can/MD trust/VB ,/PCT trust/NN yourself/PRP ./PCT 
+

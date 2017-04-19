@@ -1,0 +1,29 @@
+just/RB like/IN old/JJ saxophone/NNP joe/NNP 
+when/WRB he/PRP is/VBZ got/VBD the/DT hogshead/NN up/RP on/IN his/PRP$ toe/NN 
+oh/UH me/PRP ,/PCT oh/UH my/PRP$ 
+love/NNP that/IN country/NN pie/NN 
+
+listen/VB to/TO the/DT fiddler/NN play/NN 
+when/WRB he/PRP is/VBZ playin/VBG '/PCT 'til/IN the/DT break/NN of/IN day/NN 
+oh/UH me/PRP ,/PCT oh/UH my/PRP$ 
+love/NNP that/IN country/NN pie/NN 
+
+raspberry/NN ,/PCT strawberry/NN ,/PCT lemon/NN and/CC lime/NN 
+what/WP do/VBP i/PRP care/VB ?/PCT 
+blueberry/NNP ,/PCT apple/NN ,/PCT cherry/NN ,/PCT pumpkin/NN and/CC plum/NN 
+call/VB me/PRP for/IN dinner/NN ,/PCT honey/NN ,/PCT i/PRP 'll/MD be/VB there/RB 
+
+saddle/NNP me/PRP up/RP my/PRP$ big/JJ white/JJ goose/NN 
+tie/VB me/PRP on/IN `/PCT er/FW and/CC turn/VB her/PRP$ loose/JJ 
+oh/UH me/PRP ,/PCT oh/UH my/PRP$ 
+love/NNP that/IN country/NN pie/NN 
+
+i/PRP do/VBP not/RB need/VB much/JJ and/CC that/IN ai/VBP not/RB no/DT lie/NN 
+ai/NNP not/RB runnin/VBG '/PCT any/DT race/NN 
+give/VB to/TO me/PRP my/PRP$ country/NN pie/NN 
+i/PRP wo/MD not/RB throw/VB it/PRP up/RP in/IN anybody/NN 's/POS face/NN 
+
+shake/NNP me/PRP up/RP that/DT old/JJ peach/NN tree/NN 
+little/NNP jack/NNP horner/NNP 's/POS got/VBD nothin/NN '/PCT on/IN me/PRP 
+oh/UH me/PRP ,/PCT oh/UH my/PRP$ 
+love/NNP that/IN country/NN pie/NN 

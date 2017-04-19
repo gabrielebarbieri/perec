@@ -1,0 +1,71 @@
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "changed", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "life", "POS": "NN"}], "sentence": "you changed my life"}
+{"tags": [{"word": "came", "POS": "VBN"}, {"word": "along", "POS": "IN"}, {"word": "in", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "time", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "strife", "POS": "NN"}], "sentence": "came along in a time of strife"}
+{"tags": [{"word": "in", "POS": "IN"}, {"word": "hunger", "POS": "NN"}, {"word": "and", "POS": "CC"}, {"word": "need", "POS": "NN"}], "sentence": "in hunger and need"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "made", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "heart", "POS": "NN"}, {"word": "bleed", "POS": "VB"}], "sentence": "you made my heart bleed"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "changed", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "life", "POS": "NN"}], "sentence": "you changed my life"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "changed", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "life", "POS": "NN"}], "sentence": "you changed my life"}
+
+{"tags": [{"word": "now", "POS": "RB"}, {"word": "the", "POS": "DT"}, {"word": "nature", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "man", "POS": "NN"}], "sentence": "now the nature of man"}
+{"tags": [{"word": "is", "POS": "VBZ"}, {"word": "to", "POS": "TO"}, {"word": "beg", "POS": "VB"}, {"word": "and", "POS": "CC"}, {"word": "to", "POS": "TO"}, {"word": "steal", "POS": "VB"}], "sentence": "is to beg and to steal"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "'d", "POS": "MD"}, {"word": "do", "POS": "VB"}, {"word": "it", "POS": "PRP"}, {"word": "myself", "POS": "PRP"}], "sentence": "i 'd do it myself"}
+{"tags": [{"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "not", "POS": "RB"}, {"word": "so", "POS": "RB"}, {"word": "unreal", "POS": "JJ"}], "sentence": "it is not so unreal"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "call", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "wild", "POS": "JJ"}, {"word": "'s", "POS": "POS"}], "sentence": "the call of the wild 's"}
+{"tags": [{"word": "forever", "POS": "RB"}, {"word": "at", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "door", "POS": "NN"}], "sentence": "forever at my door"}
+{"tags": [{"word": "want", "POS": "NNP"}, {"word": "me", "POS": "PRP"}, {"word": "to", "POS": "TO"}, {"word": "fly", "POS": "VB"}, {"word": "like", "POS": "IN"}, {"word": "an", "POS": "DT"}, {"word": "eagle", "POS": "NN"}], "sentence": "want me to fly like an eagle"}
+{"tags": [{"word": "being", "POS": "VBG"}, {"word": "chained", "POS": "JJ"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "floor", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "but", "POS": "CC"}], "sentence": "being chained to the floor , but"}
+
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "changed", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "life", "POS": "NN"}], "sentence": "you changed my life"}
+{"tags": [{"word": "came", "POS": "VBN"}, {"word": "along", "POS": "IN"}, {"word": "in", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "time", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "strife", "POS": "NN"}], "sentence": "came along in a time of strife"}
+{"tags": [{"word": "in", "POS": "IN"}, {"word": "hunger", "POS": "NN"}, {"word": "and", "POS": "CC"}, {"word": "need", "POS": "NN"}], "sentence": "in hunger and need"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "made", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "heart", "POS": "NN"}, {"word": "bleed", "POS": "VB"}], "sentence": "you made my heart bleed"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "changed", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "life", "POS": "NN"}], "sentence": "you changed my life"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "changed", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "life", "POS": "NN"}], "sentence": "you changed my life"}
+
+{"tags": [{"word": "eating", "POS": "NNP"}, {"word": "with", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "pigs", "POS": "NNS"}], "sentence": "eating with the pigs"}
+{"tags": [{"word": "off", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "fancy", "POS": "JJ"}, {"word": "tray", "POS": "NN"}], "sentence": "off a fancy tray"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "was", "POS": "VBD"}, {"word": "bold", "POS": "JJ"}, {"word": ",", "POS": "PCT"}, {"word": "i", "POS": "PRP"}, {"word": "was", "POS": "VBD"}, {"word": "looking", "POS": "VBG"}, {"word": "good", "POS": "JJ"}], "sentence": "i was bold , i was looking good"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "to", "POS": "TO"}, {"word": "have", "POS": "VB"}, {"word": "a", "POS": "DT"}, {"word": "nice", "POS": "JJ"}, {"word": "day", "POS": "NN"}], "sentence": "and to have a nice day"}
+{"tags": [{"word": "it", "POS": "PRP"}, {"word": "all", "POS": "DT"}, {"word": "seemed", "POS": "VBD"}, {"word": "so", "POS": "RB"}, {"word": "proper", "POS": "JJ"}], "sentence": "it all seemed so proper"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "so", "POS": "RB"}, {"word": "elite", "POS": "JJ"}], "sentence": "and so elite"}
+{"tags": [{"word": "eating", "POS": "NNP"}, {"word": "absolute", "POS": "JJ"}, {"word": "garbage", "POS": "NN"}], "sentence": "eating absolute garbage"}
+{"tags": [{"word": "while", "POS": "IN"}, {"word": "being", "POS": "VBG"}, {"word": "so", "POS": "RB"}, {"word": "discreet", "POS": "JJ"}, {"word": ".", "POS": "PCT"}], "sentence": "while being so discreet ."}
+
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "changed", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "life", "POS": "NN"}], "sentence": "you changed my life"}
+{"tags": [{"word": "came", "POS": "VBN"}, {"word": "along", "POS": "IN"}, {"word": "in", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "time", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "strife", "POS": "NN"}], "sentence": "came along in a time of strife"}
+{"tags": [{"word": "in", "POS": "IN"}, {"word": "hunger", "POS": "NN"}, {"word": "and", "POS": "CC"}, {"word": "need", "POS": "NN"}], "sentence": "in hunger and need"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "made", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "heart", "POS": "NN"}, {"word": "bleed", "POS": "VB"}], "sentence": "you made my heart bleed"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "changed", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "life", "POS": "NN"}], "sentence": "you changed my life"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "changed", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "life", "POS": "NN"}], "sentence": "you changed my life"}
+
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "were", "POS": "VBD"}, {"word": "glowing", "POS": "JJ"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "light", "POS": "NN"}], "sentence": "you were glowing in the light"}
+{"tags": [{"word": "being", "POS": "VBG"}, {"word": "peaceably", "POS": "RB"}, {"word": "calm", "POS": "JJ"}], "sentence": "being peaceably calm"}
+{"tags": [{"word": "well", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "how", "POS": "WRB"}, {"word": "often", "POS": "RB"}, {"word": "does", "POS": "VBZ"}, {"word": "a", "POS": "DT"}, {"word": "man", "POS": "NN"}, {"word": "dance", "POS": "NN"}], "sentence": "well , how often does a man dance"}
+{"tags": [{"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "beat", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "balm", "POS": "NN"}, {"word": "?", "POS": "PCT"}], "sentence": "to the beat of the balm ?"}
+{"tags": [{"word": "your", "POS": "PRP$"}, {"word": "eyes", "POS": "NNS"}, {"word": "were", "POS": "VBD"}, {"word": "on", "POS": "IN"}, {"word": "fire", "POS": "NN"}], "sentence": "your eyes were on fire"}
+{"tags": [{"word": "your", "POS": "PRP$"}, {"word": "feet", "POS": "NNS"}, {"word": "were", "POS": "VBD"}, {"word": "of", "POS": "IN"}, {"word": "brass", "POS": "NN"}], "sentence": "your feet were of brass"}
+{"tags": [{"word": "in", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "world", "POS": "NN"}, {"word": "that", "POS": "IN"}, {"word": "you", "POS": "PRP"}, {"word": "made", "POS": "VBD"}], "sentence": "in a world that you made"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "were", "POS": "VBD"}, {"word": "an", "POS": "DT"}, {"word": "outcast", "POS": "NN"}], "sentence": "you were an outcast"}
+
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "changed", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "life", "POS": "NN"}], "sentence": "you changed my life"}
+{"tags": [{"word": "came", "POS": "VBN"}, {"word": "along", "POS": "IN"}, {"word": "in", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "time", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "strife", "POS": "NN"}], "sentence": "came along in a time of strife"}
+{"tags": [{"word": "in", "POS": "IN"}, {"word": "hunger", "POS": "NN"}, {"word": "and", "POS": "CC"}, {"word": "need", "POS": "NN"}], "sentence": "in hunger and need"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "made", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "heart", "POS": "NN"}, {"word": "bleed", "POS": "VB"}], "sentence": "you made my heart bleed"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "changed", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "life", "POS": "NN"}], "sentence": "you changed my life"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "changed", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "life", "POS": "NN"}], "sentence": "you changed my life"}
+
+{"tags": [{"word": "truce", "POS": "NN"}, {"word": "makers", "POS": "NNS"}, {"word": "and", "POS": "CC"}, {"word": "partakers", "POS": "NNS"}], "sentence": "truce makers and partakers"}
+{"tags": [{"word": "of", "POS": "IN"}, {"word": "every", "POS": "DT"}, {"word": "selfish", "POS": "JJ"}, {"word": "whim", "POS": "NN"}], "sentence": "of every selfish whim"}
+{"tags": [{"word": "her", "POS": "PRP$"}, {"word": "running", "POS": "VBG"}, {"word": "to", "POS": "TO"}, {"word": "meet", "POS": "VB"}, {"word": "me", "POS": "PRP"}, {"word": "running", "POS": "VBG"}, {"word": "to", "POS": "TO"}, {"word": "her", "POS": "PRP$"}], "sentence": "her running to meet me running to her"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "you", "POS": "PRP"}, {"word": "running", "POS": "VBG"}, {"word": "back", "POS": "RB"}, {"word": "to", "POS": "TO"}, {"word": "him", "POS": "PRP"}], "sentence": "and you running back to him"}
+{"tags": [{"word": "their", "POS": "PRP$"}, {"word": "destruction", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "confidence", "POS": "NN"}], "sentence": "their destruction of my confidence"}
+{"tags": [{"word": "was", "POS": "VBD"}, {"word": "like", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "sharpness", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "tongue", "POS": "NN"}], "sentence": "was like a sharpness of the tongue"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "said", "POS": "VBD"}, {"word": ":", "POS": "PCT"}, {"word": "make", "POS": "VB"}, {"word": "my", "POS": "PRP$"}, {"word": "faith", "POS": "NN"}, {"word": "greater", "POS": "JJR"}], "sentence": "i said : make my faith greater"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "was", "POS": "VBD"}, {"word": "a", "POS": "DT"}, {"word": "little", "POS": "JJ"}, {"word": "high", "POS": "JJ"}, {"word": "strung", "POS": "NN"}], "sentence": "but i was a little high strung"}
+
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "changed", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "life", "POS": "NN"}], "sentence": "you changed my life"}
+{"tags": [{"word": "came", "POS": "VBN"}, {"word": "along", "POS": "IN"}, {"word": "in", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "time", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "strife", "POS": "NN"}], "sentence": "came along in a time of strife"}
+{"tags": [{"word": "in", "POS": "IN"}, {"word": "hunger", "POS": "NN"}, {"word": "and", "POS": "CC"}, {"word": "need", "POS": "NN"}], "sentence": "in hunger and need"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "made", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "heart", "POS": "NN"}, {"word": "bleed", "POS": "VB"}], "sentence": "you made my heart bleed"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "changed", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "life", "POS": "NN"}], "sentence": "you changed my life"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "changed", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "life", "POS": "NN"}], "sentence": "you changed my life"}
+

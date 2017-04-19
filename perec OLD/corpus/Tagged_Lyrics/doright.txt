@@ -1,0 +1,50 @@
+do/VBP not/RB wanna/VB judge/NN nobody/NN ,/PCT do/VBP not/RB wanna/VB be/VB judged/VBN ,/PCT 
+do/VBP not/RB wanna/VB touch/NN nobody/NN ,/PCT do/VBP not/RB wanna/VB be/VB touched/VBN ./PCT 
+do/VBP not/RB wanna/VB hurt/JJ nobody/NN ,/PCT do/VBP not/RB wanna/VB be/VB hurt/VBN ,/PCT 
+do/VBP not/RB wanna/VB treat/VB nobody/NN like/IN they/PRP was/VBD dirt/NN ./PCT 
+
+but/CC if/IN you/PRP do/VBP right/RB to/TO me/PRP ,/PCT baby/NN ,/PCT 
+i/PRP 'll/MD do/VB right/RB to/TO you/PRP ,/PCT too/RB ./PCT 
+ya/NNP got/VBD to/TO do/VB unto/JJ others/NNS 
+like/IN you/PRP 'd/MD have/VB them/PRP ,/PCT like/IN you/PRP 'd/MD have/VB them/PRP ,/PCT do/VBP unto/VB you/PRP ./PCT 
+
+do/VBP not/RB wanna/VB shoot/NN nobody/NN ,/PCT do/VBP not/RB wanna/VB be/VB shot/VBN ,/PCT 
+do/VBP not/RB wanna/VB buy/VB nobody/NN ,/PCT do/VBP not/RB wanna/VB be/VB bought/VBN ./PCT 
+do/VBP not/RB wanna/VB bury/VB nobody/NN ,/PCT do/VBP not/RB wanna/VB be/VB buried/VBN ,/PCT 
+do/VBP not/RB wanna/VB marry/VB nobody/NN if/IN they/PRP are/VBP already/RB married/VBN ./PCT 
+
+but/CC if/IN you/PRP do/VBP right/RB to/TO me/PRP ,/PCT baby/NN ,/PCT 
+i/PRP 'll/MD do/VB right/RB to/TO you/PRP ,/PCT too/RB ./PCT 
+ya/NNP got/VBD to/TO do/VB unto/JJ others/NNS 
+like/IN you/PRP 'd/MD have/VB them/PRP ,/PCT like/IN you/PRP 'd/MD have/VB them/PRP ,/PCT do/VBP unto/VB you/PRP ./PCT 
+
+do/VBP not/RB wanna/VB burn/VBP nobody/NN ,/PCT do/VBP not/RB wanna/VB be/VB burned/VBN ,/PCT 
+do/VBP not/RB wanna/VB learn/VB from/IN nobody/NN what/WP i/PRP gotta/VBP unlearn/JJ ./PCT 
+do/VBP not/RB wanna/VB cheat/VB nobody/NN ,/PCT do/VBP not/RB wanna/VB be/VB cheated/VBN ,/PCT 
+do/VBP not/RB wanna/VB defeat/NN nobody/NN if/IN they/PRP already/RB been/VBN defeated/VBN ./PCT 
+
+but/CC if/IN you/PRP do/VBP right/RB to/TO me/PRP ,/PCT baby/NN ,/PCT 
+i/PRP 'll/MD do/VB right/RB to/TO you/PRP ,/PCT too/RB ./PCT 
+ya/NNP got/VBD to/TO do/VB unto/JJ others/NNS 
+like/IN you/PRP 'd/MD have/VB them/PRP ,/PCT like/IN you/PRP 'd/MD have/VB them/PRP ,/PCT do/VBP unto/VB you/PRP ./PCT 
+
+do/VBP not/RB wanna/VB wink/NN at/IN nobody/NN ,/PCT do/VBP not/RB wanna/VB be/VB winked/VBN at/IN ,/PCT 
+do/VBP not/RB wanna/VB be/VB used/VBN by/IN nobody/NN for/IN a/DT doormat/NN ./PCT 
+do/VBP not/RB wanna/VB confuse/VB nobody/NN ,/PCT do/VBP not/RB wanna/VB be/VB confused/VBN ,/PCT 
+do/VBP not/RB wanna/VB amuse/VB nobody/NN ,/PCT do/VBP not/RB wanna/VB be/VB amused/VBN ./PCT 
+
+but/CC if/IN you/PRP do/VBP right/RB to/TO me/PRP ,/PCT baby/NN ,/PCT 
+i/PRP 'll/MD do/VB right/RB to/TO you/PRP ,/PCT too/RB ./PCT 
+ya/NNP got/VBD to/TO do/VB unto/JJ others/NNS 
+like/IN you/PRP 'd/MD have/VB them/PRP ,/PCT like/IN you/PRP 'd/MD have/VB them/PRP ,/PCT do/VBP unto/VB you/PRP ./PCT 
+
+do/VBP not/RB wanna/VB betray/IN nobody/NN ,/PCT do/VBP not/RB wanna/VB be/VB betrayed/VBN ,/PCT 
+do/VBP not/RB wanna/VB play/NN with/IN nobody/NN ,/PCT do/VBP not/RB wanna/VB be/VB waylaid/VBN ./PCT 
+do/VBP not/RB wanna/VB miss/VB nobody/NN ,/PCT do/VBP not/RB wanna/VB be/VB missed/VBN ,/PCT 
+do/VBP not/RB put/VB my/PRP$ faith/NN in/IN nobody/NN ,/PCT not/RB even/RB a/DT scientist/NN ./PCT 
+
+but/CC if/IN you/PRP do/VBP right/RB to/TO me/PRP ,/PCT baby/NN ,/PCT 
+i/PRP 'll/MD do/VB right/RB to/TO you/PRP ,/PCT too/RB ./PCT 
+ya/NNP got/VBD to/TO do/VB unto/JJ others/NNS 
+like/IN you/PRP 'd/MD have/VB them/PRP ,/PCT like/IN you/PRP 'd/MD have/VB them/PRP ,/PCT do/VBP unto/VB you/PRP ./PCT 
+

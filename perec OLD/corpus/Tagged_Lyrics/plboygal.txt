@@ -1,0 +1,56 @@
+oh/UH ,/PCT ye/JJ playboys/NNS and/CC playgirls/NNS 
+ai/NNP not/RB a-gonna/VB run/VB my/PRP$ world/NN ,/PCT 
+ai/NNP not/RB a-gonna/VB run/VB my/PRP$ world/NN ,/PCT 
+ai/NNP not/RB a-gonna/VB run/VB my/PRP$ world/NN ./PCT 
+ye/NN playboys/NNS and/CC playgirls/NNS 
+ai/NNP not/RB a-gonna/VB run/VB my/PRP$ world/NN ,/PCT 
+not/RB now/RB or/CC no/DT other/JJ time/NN ./PCT 
+
+you/PRP fallout/NN shelter/NN sellers/NNS 
+ca/MD not/RB get/VB in/IN my/PRP$ door/NN ,/PCT 
+ca/MD not/RB get/VB in/IN my/PRP$ door/NN ,/PCT 
+ca/MD not/RB get/VB in/IN my/PRP$ door/NN ./PCT 
+you/PRP fallout/NN shelter/NN seller/NN 
+ca/MD not/RB get/VB in/IN my/PRP$ door/NN ,/PCT 
+not/RB now/RB or/CC no/DT other/JJ time/NN ./PCT 
+
+your/PRP$ jim/NNP crow/NNP ground/NN 
+ca/MD not/RB turn/VB me/PRP around/IN ,/PCT 
+ca/MD not/RB turn/VB me/PRP around/IN ,/PCT 
+ca/MD not/RB turn/VB me/PRP around/IN ./PCT 
+your/PRP$ jim/NNP crow/NNP ground/NN 
+ca/MD not/RB turn/VB me/PRP around/IN ,/PCT 
+not/RB now/RB or/CC no/DT other/JJ time/NN ./PCT 
+
+the/DT laughter/NN in/IN the/DT lynch/NN mob/NN 
+ai/FW not/RB a-gonna/VB do/VB no/DT more/JJR ,/PCT 
+ai/FW not/RB a-gonna/VB do/VB no/DT more/JJR ,/PCT 
+ai/FW not/RB a-gonna/VB do/VB no/DT more/JJR ./PCT 
+the/DT laughter/NN in/IN the/DT lynch/NN mob/NN 
+ai/FW not/RB a-gonna/VB do/VB no/DT more/JJR ,/PCT 
+not/RB now/RB or/CC no/DT other/JJ time/NN ./PCT 
+
+you/PRP insane/JJ tongues/NNS of/IN war/NN talk/NN 
+ai/NNP not/RB a-gonna/VBD guide/NN my/PRP$ road/NN ,/PCT 
+ai/NNP not/RB a-gonna/VBD guide/NN my/PRP$ road/NN ,/PCT 
+ai/NNP not/RB a-gonna/VBD guide/NN my/PRP$ road/NN ./PCT 
+you/PRP insane/JJ tongues/NNS of/IN war/NN talk/NN 
+ai/NNP not/RB a-gonna/VBD guide/NN my/PRP$ road/NN ,/PCT 
+not/RB now/RB or/CC no/DT other/JJ time/NN ./PCT 
+
+you/PRP red/JJ baiters/NNS and/CC race/NN haters/NNS 
+ai/NNP not/RB a-gonna/VB hang/VB around/RP here/RB ,/PCT 
+ai/NNP not/RB a-gonna/VB hang/VB around/RP here/RB ,/PCT 
+ai/NNP not/RB a-gonna/VB hang/VB around/RP here/RB ./PCT 
+you/PRP red/JJ baiters/NNS and/CC race/NN haters/NNS ,/PCT 
+ai/NNP not/RB a-gonna/VB hang/VB around/RP here/RB ,/PCT 
+not/RB now/RB or/CC no/DT other/JJ time/NN ./PCT 
+
+ye/NN playboys/NNS and/CC playgirls/NNS 
+ai/NNP not/RB a-gonna/VB own/JJ my/PRP$ world/NN ,/PCT 
+ai/NNP not/RB a-gonna/VB own/JJ my/PRP$ world/NN ,/PCT 
+ai/NNP not/RB a-gonna/VB own/JJ my/PRP$ world/NN ./PCT 
+ye/NN playboys/NNS and/CC playgirls/NNS ,/PCT 
+ai/NNP not/RB a-gonna/VB own/JJ my/PRP$ world/NN ,/PCT 
+not/RB now/RB or/CC no/DT other/JJ time/NN ./PCT 
+

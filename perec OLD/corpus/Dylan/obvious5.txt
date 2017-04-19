@@ -1,0 +1,48 @@
+{"tags": [{"word": "early", "POS": "RB"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "mornin", "POS": "NN"}, {"word": "'", "POS": "PCT"}], "sentence": "early in the mornin '"}
+{"tags": [{"word": "early", "POS": "RB"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "mornin", "POS": "NN"}, {"word": "'", "POS": "PCT"}], "sentence": "early in the mornin '"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "callin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": "you", "POS": "PRP"}, {"word": "to", "POS": "TO"}], "sentence": "i am callin ' you to"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "callin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": "you", "POS": "PRP"}, {"word": "to", "POS": "TO"}], "sentence": "i am callin ' you to"}
+{"tags": [{"word": "please", "POS": "VB"}, {"word": "come", "POS": "VB"}, {"word": "home", "POS": "NN"}], "sentence": "please come home"}
+{"tags": [{"word": "yes", "POS": "UH"}, {"word": ",", "POS": "PCT"}, {"word": "i", "POS": "PRP"}, {"word": "guess", "POS": "VBP"}, {"word": "i", "POS": "PRP"}, {"word": "could", "POS": "MD"}, {"word": "make", "POS": "VB"}, {"word": "it", "POS": "PRP"}, {"word": "without", "POS": "IN"}, {"word": "you", "POS": "PRP"}], "sentence": "yes , i guess i could make it without you"}
+{"tags": [{"word": "if", "POS": "IN"}, {"word": "i", "POS": "PRP"}, {"word": "just", "POS": "RB"}, {"word": "did", "POS": "VBD"}, {"word": "not", "POS": "RB"}, {"word": "feel", "POS": "VB"}, {"word": "so", "POS": "RB"}, {"word": "all", "POS": "RB"}, {"word": "alone", "POS": "RB"}], "sentence": "if i just did not feel so all alone"}
+
+{"tags": [{"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "let", "POS": "VB"}, {"word": "me", "POS": "PRP"}, {"word": "down", "POS": "IN"}], "sentence": "do not let me down"}
+{"tags": [{"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "let", "POS": "VB"}, {"word": "me", "POS": "PRP"}, {"word": "down", "POS": "IN"}], "sentence": "do not let me down"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "wo", "POS": "MD"}, {"word": "not", "POS": "RB"}, {"word": "let", "POS": "VB"}, {"word": "you", "POS": "PRP"}, {"word": "down", "POS": "RP"}], "sentence": "i wo not let you down"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "wo", "POS": "MD"}, {"word": "not", "POS": "RB"}, {"word": "let", "POS": "VB"}, {"word": "you", "POS": "PRP"}, {"word": "down", "POS": "RP"}], "sentence": "i wo not let you down"}
+{"tags": [{"word": "no", "POS": "DT"}, {"word": "i", "POS": "PRP"}, {"word": "wo", "POS": "MD"}, {"word": "not", "POS": "RB"}], "sentence": "no i wo not"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "know", "POS": "VBP"}, {"word": "i", "POS": "PRP"}, {"word": "can", "POS": "MD"}, {"word": "if", "POS": "IN"}, {"word": "you", "POS": "PRP"}, {"word": "can", "POS": "MD"}, {"word": ",", "POS": "PCT"}, {"word": "honey", "POS": "NN"}], "sentence": "you know i can if you can , honey"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": ",", "POS": "PCT"}, {"word": "honey", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "please", "POS": "VB"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}], "sentence": "but , honey , please do not"}
+
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "got", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "black", "POS": "JJ"}, {"word": "dog", "POS": "NN"}, {"word": "barkin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}], "sentence": "i got my black dog barkin '"}
+{"tags": [{"word": "black", "POS": "NNP"}, {"word": "dog", "POS": "NN"}, {"word": "barkin", "POS": "NN"}, {"word": "'", "POS": "PCT"}], "sentence": "black dog barkin '"}
+{"tags": [{"word": "yes", "POS": "UH"}, {"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "now", "POS": "RB"}], "sentence": "yes it is now"}
+{"tags": [{"word": "yes", "POS": "UH"}, {"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "now", "POS": "RB"}], "sentence": "yes it is now"}
+{"tags": [{"word": "outside", "POS": "JJ"}, {"word": "my", "POS": "PRP$"}, {"word": "yard", "POS": "NN"}], "sentence": "outside my yard"}
+{"tags": [{"word": "yes", "POS": "UH"}, {"word": ",", "POS": "PCT"}, {"word": "i", "POS": "PRP"}, {"word": "could", "POS": "MD"}, {"word": "tell", "POS": "VB"}, {"word": "you", "POS": "PRP"}, {"word": "what", "POS": "WP"}, {"word": "he", "POS": "PRP"}, {"word": "means", "POS": "VBZ"}], "sentence": "yes , i could tell you what he means"}
+{"tags": [{"word": "if", "POS": "IN"}, {"word": "i", "POS": "PRP"}, {"word": "just", "POS": "RB"}, {"word": "did", "POS": "VBD"}, {"word": "not", "POS": "RB"}, {"word": "have", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "try", "POS": "VB"}, {"word": "so", "POS": "RB"}, {"word": "hard", "POS": "JJ"}], "sentence": "if i just did not have to try so hard"}
+
+{"tags": [{"word": "your", "POS": "PRP$"}, {"word": "mama", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "workin", "POS": "NN"}, {"word": "'", "POS": "PCT"}], "sentence": "your mama 's workin '"}
+{"tags": [{"word": "your", "POS": "PRP$"}, {"word": "mama", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "moanin", "POS": "NN"}, {"word": "'", "POS": "PCT"}], "sentence": "your mama 's moanin '"}
+{"tags": [{"word": "she", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "cryin", "POS": "NN"}, {"word": "'", "POS": "PCT"}, {"word": "you", "POS": "PRP"}, {"word": "know", "POS": "VBP"}], "sentence": "she is cryin ' you know"}
+{"tags": [{"word": "she", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "tryin", "POS": "NN"}, {"word": "'", "POS": "PCT"}, {"word": "you", "POS": "PRP"}, {"word": "know", "POS": "VBP"}], "sentence": "she is tryin ' you know"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "better", "POS": "RB"}, {"word": "go", "POS": "VBP"}, {"word": "now", "POS": "RB"}], "sentence": "you better go now"}
+{"tags": [{"word": "well", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "i", "POS": "PRP"}, {"word": "'d", "POS": "MD"}, {"word": "tell", "POS": "VB"}, {"word": "you", "POS": "PRP"}, {"word": "what", "POS": "WP"}, {"word": "she", "POS": "PRP"}, {"word": "wants", "POS": "VBZ"}], "sentence": "well , i 'd tell you what she wants"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "just", "POS": "RB"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "know", "POS": "VB"}, {"word": "how", "POS": "WRB"}], "sentence": "but i just do not know how"}
+
+{"tags": [{"word": "fifteen", "POS": "CD"}, {"word": "jugglers", "POS": "NNS"}], "sentence": "fifteen jugglers"}
+{"tags": [{"word": "fifteen", "POS": "CD"}, {"word": "jugglers", "POS": "NNS"}], "sentence": "fifteen jugglers"}
+{"tags": [{"word": "five", "POS": "CD"}, {"word": "believers", "POS": "NNS"}], "sentence": "five believers"}
+{"tags": [{"word": "five", "POS": "CD"}, {"word": "believers", "POS": "NNS"}], "sentence": "five believers"}
+{"tags": [{"word": "all", "POS": "DT"}, {"word": "dressed", "POS": "VBN"}, {"word": "like", "POS": "IN"}, {"word": "men", "POS": "NNS"}], "sentence": "all dressed like men"}
+{"tags": [{"word": "tell", "POS": "VB"}, {"word": "yo", "POS": "NN"}, {"word": "'", "POS": "PCT"}, {"word": "mama", "POS": "NN"}, {"word": "not", "POS": "RB"}, {"word": "to", "POS": "TO"}, {"word": "worry", "POS": "VB"}, {"word": "because", "POS": "IN"}], "sentence": "tell yo ' mama not to worry because"}
+{"tags": [{"word": "they", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "just", "POS": "RB"}, {"word": "my", "POS": "PRP$"}, {"word": "friends", "POS": "NNS"}], "sentence": "they are just my friends"}
+
+{"tags": [{"word": "early", "POS": "RB"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "mornin", "POS": "NN"}, {"word": "'", "POS": "PCT"}], "sentence": "early in the mornin '"}
+{"tags": [{"word": "early", "POS": "RB"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "mornin", "POS": "NN"}, {"word": "'", "POS": "PCT"}], "sentence": "early in the mornin '"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "callin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": "you", "POS": "PRP"}, {"word": "to", "POS": "TO"}], "sentence": "i am callin ' you to"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "callin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": "you", "POS": "PRP"}, {"word": "to", "POS": "TO"}], "sentence": "i am callin ' you to"}
+{"tags": [{"word": "please", "POS": "VB"}, {"word": "come", "POS": "VB"}, {"word": "home", "POS": "NN"}], "sentence": "please come home"}
+{"tags": [{"word": "yes", "POS": "UH"}, {"word": ",", "POS": "PCT"}, {"word": "i", "POS": "PRP"}, {"word": "could", "POS": "MD"}, {"word": "make", "POS": "VB"}, {"word": "it", "POS": "PRP"}, {"word": "without", "POS": "IN"}, {"word": "you", "POS": "PRP"}], "sentence": "yes , i could make it without you"}
+{"tags": [{"word": "if", "POS": "IN"}, {"word": "i", "POS": "PRP"}, {"word": "just", "POS": "RB"}, {"word": "did", "POS": "VBD"}, {"word": "not", "POS": "RB"}, {"word": "feel", "POS": "VB"}, {"word": "so", "POS": "RB"}, {"word": "all", "POS": "RB"}, {"word": "alone", "POS": "RB"}], "sentence": "if i just did not feel so all alone"}
+

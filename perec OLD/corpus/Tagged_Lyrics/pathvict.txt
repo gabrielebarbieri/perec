@@ -1,0 +1,65 @@
+trails/NNS of/IN troubles/NNS ,/PCT 
+roads/NNS of/IN battles/NNS ,/PCT 
+paths/NNS of/IN victory/NN ,/PCT 
+i/PRP shall/MD walk/VB ./PCT 
+
+the/DT trail/NN is/VBZ dusty/JJ 
+and/CC my/PRP$ road/NN it/PRP might/MD be/VB rough/JJ ,/PCT 
+but/CC the/DT better/JJR roads/NNS are/VBP waiting/VBG 
+and/CC boys/NNS it/PRP ai/VBP not/RB far/RB off/RB ./PCT 
+
+trails/NNS of/IN troubles/NNS ,/PCT 
+roads/NNS of/IN battles/NNS ,/PCT 
+paths/NNS of/IN victory/NN ,/PCT 
+we/PRP shall/MD walk/VB ./PCT 
+
+i/PRP walked/VBD down/RP by/IN the/DT river/NN ,/PCT 
+i/PRP turned/VBD my/PRP$ head/NN up/RB high/JJ ./PCT 
+i/PRP saw/VBD that/DT silver/NN linin/NN '/PCT 
+that/DT was/VBD hangin/VBG '/PCT in/IN the/DT sky/NN ./PCT 
+
+trails/NNS of/IN troubles/NNS ,/PCT 
+roads/NNS of/IN battles/NNS ,/PCT 
+paths/NNS of/IN victory/NN ,/PCT 
+we/PRP shall/MD walk/VB ./PCT 
+
+the/DT evenin/NN '/PCT dusk/NN was/VBD rollin/VBG '/PCT ,/PCT 
+i/PRP was/VBD walking/VBG down/RP the/DT track/NN ./PCT 
+there/EX was/VBD a/DT one-way/JJ wind/NN a-blowin/NN '/PCT 
+and/CC it/PRP was/VBD blowin/VBG '/PCT at/IN my/PRP$ back/NN ./PCT 
+
+trails/NNS of/IN troubles/NNS ,/PCT 
+roads/NNS of/IN battles/NNS ,/PCT 
+paths/NNS of/IN victory/NN ,/PCT 
+we/PRP shall/MD walk/VB ./PCT 
+
+the/DT gravel/NN road/NN is/VBZ bumpy/JJ ,/PCT 
+it/PRP is/VBZ a/DT hard/JJ road/NN to/TO ride/VB ,/PCT 
+but/CC there/EX is/VBZ a/DT clearer/JJR road/NN a-waitin/NN '/PCT 
+with/IN the/DT cinders/NNS on/IN the/DT side/NN ./PCT 
+
+trails/NNS of/IN troubles/NNS ,/PCT 
+roads/NNS of/IN battles/NNS ,/PCT 
+paths/NNS of/IN victory/NN ,/PCT 
+we/PRP shall/MD walk/VB ./PCT 
+
+that/DT evening/NN train/NN was/VBD rollin/VBG '/PCT ,/PCT 
+the/DT hummin/NN '/PCT of/IN its/PRP$ wheels/NNS ,/PCT 
+my/PRP$ eyes/NNS they/PRP saw/VBD a/DT better/JJR day/NN 
+as/IN i/PRP looked/VBD across/IN the/DT fields/NNS ./PCT 
+
+trails/NNS of/IN troubles/NNS ,/PCT 
+roads/NNS of/IN battles/NNS ,/PCT 
+paths/NNS of/IN victory/NN ,/PCT 
+we/PRP shall/MD walk/VB ./PCT 
+
+the/DT trail/NN is/VBZ dusty/JJ ,/PCT 
+the/DT road/NN it/PRP might/MD be/VB rough/JJ ,/PCT 
+but/CC the/DT good/JJ road/NN is/VBZ a-waitin/VBG '/PCT 
+and/CC boys/NNS it/PRP ai/VBP not/RB far/RB off/RB ./PCT 
+
+trails/NNS of/IN troubles/NNS ,/PCT 
+roads/NNS of/IN battles/NNS ,/PCT 
+paths/NNS of/IN victory/NN ,/PCT 
+we/PRP shall/MD walk/VB ./PCT 
+

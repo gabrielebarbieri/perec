@@ -1,0 +1,33 @@
+honey/NNP ,/PCT just/RB allow/VB me/PRP one/CD more/JJR chance/NN 
+to/TO get/VB along/RP with/IN you/PRP ./PCT 
+honey/NNP ,/PCT just/RB allow/VB me/PRP one/CD more/JJR chance/NN ,/PCT 
+ah/UH 'll/MD do/VB anything/NN with/IN you/PRP ./PCT 
+well/RB ,/PCT i/PRP am/VBP a-walkin/VBG '/PCT down/IN the/DT road/NN 
+with/IN my/PRP$ head/NN in/IN my/PRP$ hand/NN ,/PCT 
+i/PRP am/VBP lookin/VBG '/PCT for/IN a/DT woman/NN 
+needs/NNS a/DT worried/JJ man/NN ./PCT 
+just-a/NN one/CD kind/NN favor/NN i/PRP ask/VBP you/PRP ,/PCT 
+`/PCT low/NNP me/PRP just-a/JJ one/CD more/JJR chance/NN ./PCT 
+
+honey/NNP ,/PCT just/RB allow/VB me/PRP one/CD more/JJR chance/NN 
+to/TO ride/VB your/PRP$ aeroplane/NN ./PCT 
+honey/NNP ,/PCT just/RB allow/VB me/PRP one/CD more/JJR chance/NN 
+to/TO ride/VB your/PRP$ passenger/NN train/NN ./PCT 
+well/RB ,/PCT i/PRP have/VBP been/VBN lookin/VBG '/PCT all/DT over/IN 
+for/IN a/DT gal/NN like/IN you/PRP ,/PCT 
+i/PRP ca/MD not/RB find/VB nobody/NN 
+so/IN you/PRP 'll/MD have/VB to/TO do/VB ./PCT 
+just-a/NN one/CD kind/NN favor/NN i/PRP ask/VBP you/PRP ,/PCT 
+`/PCT low/NNP me/PRP just-a/JJ one/CD more/JJR chance/NN ./PCT 
+
+honey/NNP ,/PCT just/RB allow/VB me/PRP one/CD more/JJR chance/NN 
+to/TO get/VB along/RP with/IN you/PRP ./PCT 
+honey/NNP ,/PCT just/RB allow/VB me/PRP one/CD more/JJR chance/NN ,/PCT 
+ah/UH 'll/MD do/VB anything/NN with/IN you/PRP ./PCT 
+well/RB ,/PCT lookin/VBG '/PCT for/IN a/DT woman/NN 
+that/DT ai/VBP not/RB got/VBD no/DT man/NN ,/PCT 
+is/VBZ just/RB lookin/VBG '/PCT for/IN a/DT needle/NN 
+that/DT is/VBZ lost/VBN in/IN the/DT sand/NN ./PCT 
+just-a/NN one/CD kind/NN favor/NN i/PRP ask/VBP you/PRP ,/PCT 
+`/PCT low/NNP me/PRP just-a/JJ one/CD more/JJR chance/NN ./PCT 
+

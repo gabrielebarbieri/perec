@@ -1,0 +1,78 @@
+blackjack/NNP davey/NNP come/VBP a-ridin/JJ '/PCT on/IN back/RB ,/PCT 
+a-whistlin/NN '/PCT loud/JJ and/CC merry/NN ./PCT 
+made/VBN the/DT woods/NNS around/IN him/PRP ring/VBP ,/PCT 
+and/CC he/PRP charmed/VBD the/DT heart/NN of/IN a/DT lady/NN ,/PCT 
+charmed/VBN the/DT heart/NN of/IN a/DT lady/NN ./PCT 
+
+``/PCT how/WRB old/JJ are/VBP you/PRP ,/PCT my/PRP$ pretty/RB little/JJ miss/VBP ,/PCT 
+how/WRB old/JJ are/VBP you/PRP ,/PCT my/PRP$ honey/NN ?/PCT ''/PCT 
+she/PRP answered/VBD to/TO him/PRP with/IN a/DT lovin/NN '/PCT smile/NN 
+``/PCT i/PRP 'll/MD be/VB sixteen/VBN come/VBN sunday/NNP ,/PCT 
+be/VB sixteen/JJ come/VBN sunday/NNP ./PCT ''/PCT 
+
+``/PCT come/VBN and/CC go/VB with/IN me/PRP ,/PCT my/PRP$ pretty/RB little/JJ miss/VBP ,/PCT 
+come/VBN and/CC go/VB with/IN me/PRP ,/PCT my/PRP$ honey/NN ./PCT 
+take/VB you/PRP where/WRB the/DT grass/NN grows/VBZ green/JJ ,/PCT 
+you/PRP never/RB will/MD want/VB for/IN money/NN ,/PCT 
+you/PRP never/RB will/MD want/VB for/IN money/NN ./PCT 
+
+``/PCT pull/VB off/RP ,/PCT pull/VB off/RP them/PRP high-heeled/JJ shoes/NNS 
+all/DT made/VBN of/IN spanish/JJ leather/NN ./PCT 
+get/VB behind/IN me/PRP on/IN my/PRP$ horse/NN 
+and/CC we/PRP 'll/MD ride/VB off/RB together/RB ,/PCT 
+we/PRP 'll/MD both/DT go/VB off/RB together/RB ./PCT ''/PCT 
+
+well/RB ,/PCT she/PRP pulled/VBD off/RP them/PRP high-heeled/JJ shoes/NNS 
+made/VBN of/IN spanish/JJ leather/NN ./PCT 
+got/NNP behind/IN him/PRP on/IN his/PRP$ horse/NN 
+and/CC they/PRP rode/VBD off/RB together/RB ,/PCT 
+they/PRP both/DT rode/VBD off/RB together/RB ./PCT 
+
+at/IN night/NN the/DT boss/NN came/VBD home/NN 
+inquiring/VBG about/IN his/PRP$ lady/NN ./PCT 
+his/PRP$ servant/JJ spoke/VBD before/IN she/PRP thought/VBD ,/PCT 
+``/PCT she/PRP is/VBZ been/VBN with/IN blackjack/NNP davey/NNP ,/PCT 
+rode/VBD off/RP with/IN blackjack/NNP davey/NNP ./PCT ''/PCT 
+
+``/PCT well/UH ,/PCT saddle/NN for/IN me/PRP my/PRP$ coal-black/NN stud/NN ,/PCT 
+he/PRP is/VBZ speedier/JJR than/IN the/DT gray/JJ ./PCT 
+i/PRP rode/VBD all/DT day/NN and/CC i/PRP 'll/MD ride/VB all/DT night/NN ,/PCT 
+and/CC i/PRP 'll/MD overtake/VB my/PRP$ lady/NN ,/PCT 
+i/PRP 'll/MD bring/VB back/RP my/PRP$ lady/NN ./PCT ''/PCT 
+
+well/RB ,/PCT he/PRP rode/VBD all/DT night/NN till/IN the/DT broad/JJ daylight/NN ,/PCT 
+till/IN he/PRP came/VBD to/TO a/DT river/NN ragin/NN '/PCT ,/PCT 
+and/CC there/EX he/PRP spied/VBD his/PRP$ darlin/NN '/PCT bride/NN 
+in/IN the/DT arms/NNS of/IN blackjack/NNP davey/NNP ,/PCT 
+wrapped/VBD up/RP with/IN blackjack/NNP davey/NNP ./PCT 
+
+``/PCT pull/VB off/RP ,/PCT pull/VB off/RP them/PRP long/RB blue/JJ gloves/NNS 
+all/DT made/VBN of/IN the/DT finest/JJS leather/NN ./PCT 
+give/VB to/TO me/PRP your/PRP$ lily-white/JJ hand/NN 
+and/CC we/PRP 'll/MD both/DT go/VB home/RB together/RB ,/PCT 
+we/PRP 'll/MD both/DT go/VB home/RB together/RB ./PCT ''/PCT 
+
+well/RB ,/PCT she/PRP pulled/VBD off/RP them/PRP long/RB blue/JJ gloves/NNS 
+all/DT made/VBN of/IN the/DT finest/JJS leather/NN ,/PCT 
+gave/VBD to/TO him/PRP her/PRP$ lily-white/JJ hand/NN 
+and/CC said/VBD good-bye/JJ forever/RB ./PCT 
+bid/NN farewell/NN forever/RB ./PCT 
+
+``/PCT would/MD you/PRP forsake/VB your/PRP$ house/NN and/CC home/NN ,/PCT 
+would/MD you/PRP forsake/VB your/PRP$ baby/NN ?/PCT 
+would/MD you/PRP forsake/VB your/PRP$ husband/NN ,/PCT too/RB ,/PCT 
+to/TO go/VB with/IN blackjack/NNP davey/NNP ,/PCT 
+ride/NN off/RP with/IN blackjack/NNP davey/NNP ?/PCT ''/PCT 
+
+``/PCT well/UH ,/PCT i/PRP 'll/MD forsake/VB my/PRP$ house/NN and/CC home/NN ,/PCT 
+and/CC i/PRP 'll/MD forsake/VB my/PRP$ baby/NN ./PCT 
+i/PRP 'll/MD forsake/VB my/PRP$ husband/NN ,/PCT too/RB ,/PCT 
+for/IN the/DT love/NN of/IN blackjack/NNP davey/NNP ,/PCT 
+love/NNP my/PRP$ blackjack/NNP davey/NNP ./PCT ''/PCT 
+
+``/PCT last/JJ night/NN i/PRP slept/VBD in/IN a/DT feather/NN bed/NN 
+between/IN my/PRP$ husband/NN and/CC baby/NN ./PCT 
+tonight/NNP i/PRP lay/VBD on/IN the/DT river/NN banks/NNS 
+in/IN the/DT arms/NNS of/IN blackjack/NNP davey/NNP ,/PCT 
+love/NNP my/PRP$ blackjack/NNP davey/NNP ./PCT ''/PCT 
+

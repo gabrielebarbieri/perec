@@ -1,0 +1,35 @@
+seen/VBN a/DT shooting/NN star/NN tonight/NN 
+and/CC i/PRP thought/VBD of/IN you/PRP ./PCT 
+you/PRP were/VBD trying/VBG to/TO break/VB into/IN another/DT world/NN 
+a/DT world/NN i/PRP never/RB knew/VBD ./PCT 
+i/PRP always/RB kind/NN of/IN wondered/VBN 
+if/IN you/PRP ever/RB made/VBD it/PRP through/IN ./PCT 
+seen/VBN a/DT shooting/NN star/NN tonight/NN 
+and/CC i/PRP thought/VBD of/IN you/PRP ./PCT 
+
+seen/VBN a/DT shooting/NN star/NN tonight/NN 
+and/CC i/PRP thought/VBD of/IN me/PRP ./PCT 
+if/IN i/PRP was/VBD still/RB the/DT same/JJ 
+if/IN i/PRP ever/RB became/VBD what/WP you/PRP wanted/VBD me/PRP to/TO be/VB 
+did/VBD i/PRP miss/VBP the/DT mark/NN or/CC 
+over-step/NN the/DT line/NN 
+that/DT only/RB you/PRP could/MD see/VB ?/PCT 
+seen/VBN a/DT shooting/NN star/NN tonight/NN 
+and/CC i/PRP thought/VBD of/IN me/PRP ./PCT 
+
+listen/VB to/TO the/DT engine/NN ,/PCT listen/VBP to/TO the/DT bell/NN 
+as/IN the/DT last/JJ fire/NN truck/NN from/IN hell/NN 
+goes/VBZ rolling/VBG by/IN ,/PCT all/DT good/JJ people/NNS are/VBP praying/VBG ,/PCT 
+it/PRP is/VBZ the/DT last/JJ temptation/NN 
+the/DT last/JJ account/NN 
+the/DT last/JJ time/NN you/PRP might/MD hear/VB the/DT sermon/NN on/IN the/DT mount/VB ,/PCT 
+the/DT last/JJ radio/NN is/VBZ playing/VBG ./PCT 
+
+seen/VBN a/DT shooting/NN star/NN tonight/NN 
+slip/NN away/RB ./PCT 
+tomorrow/NN will/MD be/VB another/DT day/NN ./PCT 
+guess/NNP it/PRP is/VBZ too/RB late/JJ to/TO say/VB the/DT things/NNS to/TO you/PRP 
+that/DT you/PRP needed/VBD to/TO hear/VB me/PRP say/VB ./PCT 
+seen/VBN a/DT shooting/NN star/NN tonight/NN 
+slip/NN away/RB ./PCT 
+

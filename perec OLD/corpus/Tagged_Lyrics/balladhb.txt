@@ -1,0 +1,77 @@
+hollis/NNP brown/NNP 
+he/PRP lived/VBD on/IN the/DT outside/NN of/IN town/NN 
+hollis/NNP brown/NNP 
+he/PRP lived/VBD on/IN the/DT outside/NN of/IN town/NN 
+with/IN his/PRP$ wife/NN and/CC five/CD children/NNS 
+and/CC his/PRP$ cabin/NN fallin/NN '/PCT down/RP 
+
+you/PRP looked/VBD for/IN work/NN and/CC money/NN 
+and/CC you/PRP walked/VBD a/DT rugged/JJ mile/NN 
+you/PRP looked/VBD for/IN work/NN and/CC money/NN 
+and/CC you/PRP walked/VBD a/DT rugged/JJ mile/NN 
+your/PRP$ children/NNS are/VBP so/RB hungry/JJ 
+that/IN they/PRP do/VBP not/RB know/VB how/WRB to/TO smile/VB 
+
+your/PRP$ baby/NN 's/POS eyes/NNS look/VBP crazy/JJ 
+they/PRP are/VBP a-tuggin/VBG '/PCT at/IN your/PRP$ sleeve/NN 
+your/PRP$ baby/NN 's/POS eyes/NNS look/VBP crazy/JJ 
+they/PRP are/VBP a-tuggin/VBG '/PCT at/IN your/PRP$ sleeve/NN 
+you/PRP walk/VBP the/DT floor/NN and/CC wonder/VB why/WRB 
+with/IN every/DT breath/NN you/PRP breathe/VBP 
+
+the/DT rats/NNS have/VBP got/VBN your/PRP$ flour/NN 
+bad/JJ blood/NN it/PRP got/VBD your/PRP$ mare/NN 
+the/DT rats/NNS have/VBP got/VBN your/PRP$ flour/NN 
+bad/JJ blood/NN it/PRP got/VBD your/PRP$ mare/NN 
+if/IN there/EX is/VBZ anyone/NN that/IN knows/VBZ 
+is/VBZ there/EX anyone/NN that/IN cares/VBZ ?/PCT 
+
+you/PRP prayed/VBD to/TO the/DT lord/NNP above/IN 
+oh/UH please/VB send/VB you/PRP a/DT friend/NN 
+you/PRP prayed/VBD to/TO the/DT lord/NNP above/IN 
+oh/UH please/VB send/VB you/PRP a/DT friend/NN 
+your/PRP$ empty/JJ pockets/NNS tell/VBP yuh/NN 
+that/DT you/PRP ai/VBP not/RB a-got/VB no/DT friend/NN 
+
+your/PRP$ babies/NNS are/VBP crying/VBG louder/RBR 
+it/PRP is/VBZ pounding/VBG on/IN your/PRP$ brain/NN 
+your/PRP$ babies/NNS are/VBP crying/VBG louder/RBR now/RB 
+it/PRP is/VBZ pounding/VBG on/IN your/PRP$ brain/NN 
+your/PRP$ wife/NN 's/POS screams/NNS are/VBP stabbin/VBG '/PCT you/PRP 
+like/IN the/DT dirty/JJ drivin/NN '/PCT rain/NN 
+
+your/PRP$ grass/NN it/PRP is/VBZ turning/VBG black/JJ 
+there/EX is/VBZ no/DT water/NN in/IN your/PRP$ well/NN 
+your/PRP$ grass/NN is/VBZ turning/VBG black/JJ 
+there/EX is/VBZ no/DT water/NN in/IN your/PRP$ well/NN 
+you/PRP spent/VBD your/PRP$ last/JJ lone/JJ dollar/NN 
+on/IN seven/CD shotgun/NN shells/NNS 
+
+way/NN out/IN in/IN the/DT wilderness/NN 
+a/DT cold/JJ coyote/NN calls/NNS 
+way/NN out/IN in/IN the/DT wilderness/NN 
+a/DT cold/JJ coyote/NN calls/NNS 
+your/PRP$ eyes/NNS fix/VBP on/IN the/DT shotgun/NN 
+that/DT is/VBZ hangin/NN '/PCT on/IN the/DT wall/NN 
+
+your/PRP$ brain/NN is/VBZ a-bleedin/VBG '/PCT 
+and/CC your/PRP$ legs/NNS ca/MD not/RB seem/VB to/TO stand/VB 
+your/PRP$ brain/NN is/VBZ a-bleedin/VBG '/PCT 
+and/CC your/PRP$ legs/NNS ca/MD not/RB seem/VB to/TO stand/VB 
+your/PRP$ eyes/NNS fix/VBP on/IN the/DT shotgun/NN 
+that/DT you/PRP are/VBP holdin/VBG '/PCT in/IN your/PRP$ hand/NN 
+
+there/EX is/VBZ seven/CD breezes/NNS a-blowin/VBG '/PCT 
+all/DT around/IN the/DT cabin/NN door/NN 
+there/EX is/VBZ seven/CD breezes/NNS a-blowin/VBG '/PCT 
+all/DT around/IN the/DT cabin/NN door/NN 
+seven/CD shots/NNS ring/VBP out/RP 
+like/IN the/DT ocean/NN 's/POS pounding/VBG roar/NN 
+
+there/EX is/VBZ seven/CD people/NNS dead/JJ 
+on/IN a/DT south/NNP dakota/NNP farm/NN 
+there/EX is/VBZ seven/CD people/NNS dead/JJ 
+on/IN a/DT south/NNP dakota/NNP farm/NN 
+somewhere/RB in/IN the/DT distance/NN 
+there/EX is/VBZ seven/CD new/JJ people/NNS born/VBN 
+

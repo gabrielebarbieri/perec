@@ -1,0 +1,21 @@
+three/CD angels/NNS up/RB above/IN the/DT street/NN ,/PCT 
+each/DT one/CD playing/VBG a/DT horn/NN ,/PCT 
+dressed/VBN in/IN green/JJ robes/NNS with/IN wings/NNS that/WDT stick/VBP out/RP ,/PCT 
+they/PRP have/VBP been/VBN there/RB since/IN christmas/NNP morn/NN ./PCT 
+the/DT wildest/JJS cat/NN from/IN montana/NNP passes/VBZ by/IN in/IN a/DT flash/NN ,/PCT 
+then/RB a/DT lady/NN in/IN a/DT bright/JJ orange/NN dress/NN ,/PCT 
+one/CD u-haul/JJ trailer/NN ,/PCT a/DT truck/NN with/IN no/DT wheels/NNS ,/PCT 
+the/DT tenth/NNP avenue/NNP bus/NN going/VBG west/RB ./PCT 
+the/DT dogs/NNS and/CC pigeons/NNS fly/VBP up/RB and/CC they/PRP flutter/VBP around/RB ,/PCT 
+a/DT man/NN with/IN a/DT badge/NN skips/NNS by/IN ,/PCT 
+three/CD fellas/NNS crawlin/VBG '/PCT on/IN their/PRP$ way/NN back/RB to/TO work/VB ,/PCT 
+nobody/NN stops/VBZ to/TO ask/VB why/WRB ./PCT 
+the/DT bakery/NN truck/NN stops/VBZ outside/IN of/IN that/DT fence/NN 
+where/WRB the/DT angels/NNS stand/VBP high/JJ on/IN their/PRP$ poles/NNS ,/PCT 
+the/DT driver/NN peeks/VBZ out/RP ,/PCT trying/VBG to/TO find/VB one/CD face/NN 
+in/IN this/DT concrete/JJ world/NN full/JJ of/IN souls/NNS ./PCT 
+the/DT angels/NNS play/VBP on/IN their/PRP$ horns/NNS all/DT day/NN ,/PCT 
+the/DT whole/JJ earth/NN in/IN progression/NN seems/VBZ to/TO pass/VB by/IN ./PCT 
+but/CC does/VBZ anyone/NN hear/VBP the/DT music/NN they/PRP play/VBP ,/PCT 
+does/NNP anyone/NN even/RB try/VB ?/PCT 
+

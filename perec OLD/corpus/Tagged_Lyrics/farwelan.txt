@@ -1,0 +1,60 @@
+farewell/NNP angelina/NNP 
+the/DT bells/NNS of/IN the/DT crown/NN 
+are/VBP being/VBG stolen/VBN by/IN bandits/NNS 
+i/PRP must/MD follow/VB the/DT sound/NN 
+the/DT triangle/JJ tingles/NNS 
+and/CC the/DT trumpet/NN play/NN slow/JJ 
+farewell/NNP angelina/NNP 
+the/DT sky/NN is/VBZ on/IN fire/NN 
+and/CC i/PRP must/MD go/VB ./PCT 
+
+there/EX is/VBZ no/DT need/NN for/IN anger/NN 
+there/EX is/VBZ no/DT need/NN for/IN blame/NN 
+there/EX is/VBZ nothing/NN to/TO prove/VB 
+ev/NNP `/PCT rything/NN is/VBZ still/RB the/DT same/JJ 
+just/RB a/DT table/NN standing/NN empty/JJ 
+by/IN the/DT edge/NN of/IN the/DT sea/NN 
+farewell/NNP angelina/NNP 
+the/DT sky/NN is/VBZ trembling/VBG 
+and/CC i/PRP must/MD leave/VB ./PCT 
+
+the/DT jacks/NNS and/CC queens/NNS 
+have/NNP forsaked/VBD the/DT courtyard/NN 
+fifty-two/JJ gypsies/NNS 
+now/RB file/NN past/IN the/DT guards/NNS 
+in/IN the/DT space/NN where/WRB the/DT deuce/NN 
+and/CC the/DT ace/NN once/RB ran/VBD wild/JJ 
+farewell/NNP angelina/NNP 
+the/DT sky/NN is/VBZ folding/JJ 
+i/PRP 'll/MD see/VB you/PRP in/IN a/DT while/NN ./PCT 
+
+see/VB the/DT cross-eyed/JJ pirates/NNS sitting/VBG 
+perched/VBN in/IN the/DT sun/NN 
+shooting/VBG tin/NN cans/NNS 
+with/IN a/DT sawed-off/JJ shotgun/NN 
+and/CC the/DT neighbors/NNS they/PRP clap/VBP 
+and/CC they/PRP cheer/VBP with/IN each/DT blast/NN 
+farewell/NNP angelina/NNP 
+the/DT sky/NN 's/POS changing/VBG color/NN 
+and/CC i/PRP must/MD leave/VB fast/RB ./PCT 
+
+king/NNP kong/NNP ,/PCT little/JJ elves/NNS 
+on/IN the/DT rooftoops/NNS they/PRP dance/VBP 
+valentino-type/JJ tangos/NNS 
+while/IN the/DT make-up/JJ man/NN 's/POS hands/NNS 
+shut/VB the/DT eyes/NNS of/IN the/DT dead/JJ 
+not/RB to/TO embarrass/VB anyone/NN 
+farewell/NNP angelina/NNP 
+the/DT sky/NN is/VBZ embarrassed/JJ 
+and/CC i/PRP must/MD be/VB gone/VBN ./PCT 
+
+the/DT machine/NN guns/NNS are/VBP roaring/VBG 
+the/DT puppets/NNS heave/VBP rocks/NNS 
+the/DT fiends/NNS nail/VBP time/NN bombs/NNS 
+to/TO the/DT hands/NNS of/IN the/DT clocks/NNS 
+call/VB me/PRP any/DT name/NN you/PRP like/VBP 
+i/PRP will/MD never/RB deny/VB it/PRP 
+farewell/NNP angelina/NNP 
+the/DT sky/NN is/VBZ erupting/VBG 
+i/PRP must/MD go/VB where/WRB it/PRP is/VBZ quiet/JJ ./PCT 
+

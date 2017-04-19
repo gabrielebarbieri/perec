@@ -1,0 +1,23 @@
+lay/NNP ,/PCT lady/NN ,/PCT lay/VBD ,/PCT lay/VBD across/IN my/PRP$ big/JJ brass/NN bed/NN 
+lay/NNP ,/PCT lady/NN ,/PCT lay/VBD ,/PCT lay/VBD across/IN my/PRP$ big/JJ brass/NN bed/NN 
+whatever/WDT colors/NNS you/PRP have/VBP in/IN your/PRP$ mind/NN 
+i/PRP 'll/MD show/VB them/PRP to/TO you/PRP and/CC you/PRP 'll/MD see/VB them/PRP shine/VB 
+
+lay/NNP ,/PCT lady/NN ,/PCT lay/VBD ,/PCT lay/VBD across/IN my/PRP$ big/JJ brass/NN bed/NN 
+stay/NNP ,/PCT lady/NN ,/PCT stay/VB ,/PCT stay/VB with/IN your/PRP$ man/NN awhile/RB 
+until/IN the/DT break/NN of/IN day/NN ,/PCT let/VB me/PRP see/VB you/PRP make/VB him/PRP smile/VB 
+his/PRP$ clothes/NNS are/VBP dirty/JJ but/CC his/PRP$ hands/NNS are/VBP clean/JJ 
+and/CC you/PRP are/VBP the/DT best/JJS thing/NN that/IN he/PRP is/VBZ ever/RB seen/VBN 
+
+stay/NNP ,/PCT lady/NN ,/PCT stay/VB ,/PCT stay/VB with/IN your/PRP$ man/NN awhile/RB 
+why/WRB wait/VB any/DT longer/JJR for/IN the/DT world/NN to/TO begin/VB 
+you/PRP can/MD have/VB your/PRP$ cake/NN and/CC eat/VB it/PRP too/RB 
+why/WRB wait/VB any/DT longer/JJR for/IN the/DT one/CD you/PRP love/VBP 
+when/WRB he/PRP is/VBZ standing/VBG in/IN front/NN of/IN you/PRP 
+
+lay/NNP ,/PCT lady/NN ,/PCT lay/VBD ,/PCT lay/VBD across/IN my/PRP$ big/JJ brass/NN bed/NN 
+stay/NNP ,/PCT lady/NN ,/PCT stay/VB ,/PCT stay/VB while/IN the/DT night/NN is/VBZ still/RB ahead/RB 
+i/PRP long/RB to/TO see/VB you/PRP in/IN the/DT morning/NN light/NN 
+i/PRP long/RB to/TO reach/VB for/IN you/PRP in/IN the/DT night/NN 
+stay/NNP ,/PCT lady/NN ,/PCT stay/VB ,/PCT stay/VB while/IN the/DT night/NN is/VBZ still/RB ahead/RB 
+

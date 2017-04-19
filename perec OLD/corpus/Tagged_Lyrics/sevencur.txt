@@ -1,0 +1,45 @@
+old/NNP reilly/NNP stole/VBD a/DT stallion/NN 
+but/CC they/PRP caught/VBD him/PRP and/CC they/PRP brought/VBD him/PRP back/RB 
+and/CC they/PRP laid/VBD him/PRP down/RP on/IN the/DT jailhouse/NN ground/NN 
+with/IN an/DT iron/NN chain/NN around/IN his/PRP$ neck/NN ./PCT 
+
+old/NNP reilly/NNP 's/POS daughter/NN got/VBD a/DT message/NN 
+that/DT her/PRP$ father/NN was/VBD goin/VBG '/PCT to/TO hang/VB ./PCT 
+she/PRP rode/VBD by/IN night/NN and/CC came/VBD by/IN morning/NN 
+with/IN gold/NN and/CC silver/NN in/IN her/PRP$ hand/NN ./PCT 
+
+when/WRB the/DT judge/NN he/PRP saw/VBD reilly/NNP 's/POS daughter/NN 
+his/PRP$ old/JJ eyes/NNS deepened/VBD in/IN his/PRP$ head/NN ,/PCT 
+sayin/NNP '/POS ,/PCT ``/PCT gold/NNP will/MD never/RB free/VB your/PRP$ father/NN ,/PCT 
+the/DT price/NN ,/PCT my/PRP$ dear/RB ,/PCT is/VBZ you/PRP instead/RB ./PCT ''/PCT 
+
+``/PCT oh/UH i/PRP am/VBP as/RB good/JJ as/IN dead/JJ ,/PCT ''/PCT cried/VBD reilly/NNP ,/PCT 
+``/PCT it/PRP is/VBZ only/RB you/PRP that/IN he/PRP does/VBZ crave/VB 
+and/CC my/PRP$ skin/NN will/MD surely/RB crawl/VB if/IN he/PRP touches/NNS you/PRP at/IN all/DT ./PCT 
+get/VB on/IN your/PRP$ horse/NN and/CC ride/VB away/RB ./PCT ''/PCT 
+
+``/PCT oh/UH father/NN you/PRP will/MD surely/RB die/VB 
+if/IN i/PRP do/VBP not/RB take/VB the/DT chance/NN to/TO try/VB 
+and/CC pay/VB the/DT price/NN and/CC not/RB take/VB your/PRP$ advice/NN ./PCT 
+for/IN that/DT reason/NN i/PRP will/MD have/VB to/TO stay/VB ./PCT ''/PCT 
+
+the/DT gallows/NNS shadows/NNS shook/VBD the/DT evening/NN ,/PCT 
+in/IN the/DT night/NN a/DT hound/JJ dog/NN bayed/VBN ,/PCT 
+in/IN the/DT night/NN the/DT grounds/NNS were/VBD groanin/VBG '/PCT ,/PCT 
+in/IN the/DT night/NN the/DT price/NN was/VBD paid/VBN ./PCT 
+
+the/DT next/JJ mornin/NN '/PCT she/PRP had/VBD awoken/JJ 
+to/TO know/VB that/IN the/DT judge/NN had/VBD never/RB spoken/VBN ./PCT 
+she/PRP saw/VBD that/IN hangin/NN '/PCT branch/NN a-bendin/NN '/PCT ,/PCT 
+she/PRP saw/VBD her/PRP$ father/NN 's/POS body/NN broken/VBN ./PCT 
+
+these/DT be/VB seven/CD curses/NNS on/IN a/DT judge/NN so/RB cruel/JJ :/PCT 
+that/DT one/CD doctor/NN will/MD not/RB save/VB him/PRP ,/PCT 
+that/IN two/CD healers/NNS will/MD not/RB heal/VB him/PRP ,/PCT 
+that/DT three/CD eyes/NNS will/MD not/RB see/VB him/PRP ./PCT 
+
+that/DT four/CD ears/NNS will/MD not/RB hear/VB him/PRP ,/PCT 
+that/DT five/CD walls/NNS will/MD not/RB hide/VB him/PRP ,/PCT 
+that/DT six/CD diggers/NNS will/MD not/RB bury/VB him/PRP 
+and/CC that/DT seven/CD deaths/NNS shall/MD never/RB kill/VB him/PRP ./PCT 
+

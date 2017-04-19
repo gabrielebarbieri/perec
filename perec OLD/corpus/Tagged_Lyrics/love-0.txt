@@ -1,0 +1,36 @@
+my/PRP$ love/NN she/PRP speaks/VBZ like/IN silence/NN ,/PCT 
+without/IN ideals/NNS or/CC violence/NN ,/PCT 
+she/PRP does/VBZ not/RB have/VB to/TO say/VB she/PRP is/VBZ faithful/JJ ,/PCT 
+yet/RB she/PRP is/VBZ true/JJ ,/PCT like/IN ice/NN ,/PCT like/IN fire/NN ./PCT 
+people/NNS carry/VBP roses/NNS ,/PCT 
+make/NNP promises/VBZ by/IN the/DT hours/NNS ,/PCT 
+my/PRP$ love/NN she/PRP laughs/VBZ like/IN the/DT flowers/NNS ,/PCT 
+valentines/NNS ca/MD not/RB buy/VB her/PRP ./PCT 
+
+in/IN the/DT dime/NN stores/NNS and/CC bus/NN stations/NNS ,/PCT 
+people/NNS talk/NN of/IN situations/NNS ,/PCT 
+read/VB books/NNS ,/PCT repeat/NN quotations/NNS ,/PCT 
+draw/VB conclusions/NNS on/IN the/DT wall/NN ./PCT 
+some/DT speak/VBP of/IN the/DT future/NN ,/PCT 
+my/PRP$ love/NN she/PRP speaks/VBZ softly/RB ,/PCT 
+she/PRP knows/VBZ there/EX is/VBZ no/DT success/NN like/IN failure/NN 
+and/CC that/DT failure/NN 's/POS no/DT success/NN at/IN all/DT ./PCT 
+
+the/DT cloak/NN and/CC dagger/NN dangles/NNS ,/PCT 
+madams/NNP light/NN the/DT candles/NNS ./PCT 
+in/IN ceremonies/NNS of/IN the/DT horsemen/NNS ,/PCT 
+even/RB the/DT pawn/NN must/MD hold/VB a/DT grudge/NN ./PCT 
+statues/NNS made/VBD of/IN match/NN sticks/NNS ,/PCT 
+crumble/VB into/IN one/CD another/DT ,/PCT 
+my/PRP$ love/NN winks/VBZ ,/PCT she/PRP does/VBZ not/RB bother/VB ,/PCT 
+she/PRP knows/VBZ too/RB much/JJ to/TO argue/VB or/CC to/TO judge/VB ./PCT 
+
+the/DT bridge/NN at/IN midnight/NN trembles/NNS ,/PCT 
+the/DT country/NN doctor/NN rambles/NNS ,/PCT 
+bankers/NNP '/POS nieces/NNS seek/VBP perfection/NN ,/PCT 
+expecting/VBG all/PDT the/DT gifts/NNS that/WDT wise/JJ men/NNS bring/VBP ./PCT 
+the/DT wind/NN howls/VBZ like/IN a/DT hammer/NN ,/PCT 
+the/DT night/NN blows/NNS cold/JJ and/CC rainy/JJ ,/PCT 
+my/PRP$ love/NN she/PRP is/VBZ like/IN some/DT raven/NN 
+at/IN my/PRP$ window/NN with/IN a/DT broken/JJ wing/NN ./PCT 
+

@@ -1,0 +1,27 @@
+if/IN today/NN was/VBD not/RB an/DT endless/JJ highway/NN ,/PCT 
+if/IN tonight/NN was/VBD not/RB a/DT crooked/JJ trail/NN ,/PCT 
+if/IN tomorrow/NN was/VBD not/RB such/JJ a/DT long/JJ time/NN ,/PCT 
+then/RB lonesome/JJ would/MD mean/VB nothing/NN to/TO you/PRP at/IN all/DT ./PCT 
+yes/UH ,/PCT and/CC only/RB if/IN my/PRP$ own/JJ true/JJ love/NN was/VBD waitin/VBG '/PCT ,/PCT 
+yes/UH ,/PCT and/CC if/IN i/PRP could/MD hear/VB her/PRP$ heart/NN a-softly/RB poundin/VBG '/PCT ,/PCT 
+only/RB if/IN she/PRP was/VBD lyin/VBG '/PCT by/IN me/PRP ,/PCT 
+then/RB i/PRP 'd/MD lie/VB in/IN my/PRP$ bed/NN once/RB again/RB ./PCT 
+
+i/PRP ca/MD not/RB see/VB my/PRP$ reflection/NN in/IN the/DT waters/NNS ,/PCT 
+i/PRP ca/MD not/RB speak/VB the/DT sounds/NNS that/WDT show/VBP no/DT pain/NN ,/PCT 
+i/PRP ca/MD not/RB hear/VB the/DT echo/VB of/IN my/PRP$ footsteps/NNS ,/PCT 
+or/CC ca/MD not/RB remember/VB the/DT sound/NN of/IN my/PRP$ own/JJ name/NN ./PCT 
+yes/UH ,/PCT and/CC only/RB if/IN my/PRP$ own/JJ true/JJ love/NN was/VBD waitin/VBG '/PCT ,/PCT 
+yes/UH ,/PCT and/CC if/IN i/PRP could/MD hear/VB her/PRP$ heart/NN a-softly/RB poundin/VBG '/PCT ,/PCT 
+only/RB if/IN she/PRP was/VBD lyin/VBG '/PCT by/IN me/PRP ,/PCT 
+then/RB i/PRP 'd/MD lie/VB in/IN my/PRP$ bed/NN once/RB again/RB ./PCT 
+
+there/EX is/VBZ beauty/NN in/IN the/DT silver/NN ,/PCT singin/VBG '/PCT river/NN ,/PCT 
+there/EX is/VBZ beauty/NN in/IN the/DT sunrise/NN in/IN the/DT sky/NN ,/PCT 
+but/CC none/NN of/IN these/DT and/CC nothing/NN else/RB can/MD touch/VB the/DT beauty/NN 
+that/DT i/PRP remember/VBP in/IN my/PRP$ true/JJ love/NN 's/POS eyes/NNS ./PCT 
+yes/UH ,/PCT and/CC only/RB if/IN my/PRP$ own/JJ true/JJ love/NN was/VBD waitin/VBG '/PCT ,/PCT 
+yes/UH ,/PCT and/CC if/IN i/PRP could/MD hear/VB her/PRP$ heart/NN a-softly/RB poundin/VBG '/PCT ,/PCT 
+only/RB if/IN she/PRP was/VBD lyin/VBG '/PCT by/IN me/PRP ,/PCT 
+then/RB i/PRP 'd/MD lie/VB in/IN my/PRP$ bed/NN once/RB again/RB ./PCT 
+

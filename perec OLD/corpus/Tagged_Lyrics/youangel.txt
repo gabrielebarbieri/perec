@@ -1,0 +1,32 @@
+you/PRP angel/VBP you/PRP 
+you/PRP got/VBD me/PRP under/IN your/PRP$ wing/NN ./PCT 
+the/DT way/NN you/PRP walk/VBP and/CC the/DT way/NN you/PRP talk/VBP 
+i/PRP feel/VBP i/PRP could/MD almost/RB sing/VB ./PCT 
+
+you/PRP angel/VBP you/PRP 
+you/PRP are/VBP as/IN fine/JJ as/IN anything/NN 's/POS fine/NN ./PCT 
+the/DT way/NN you/PRP walk/VBP and/CC the/DT way/NN you/PRP talk/VBP 
+it/PRP sure/JJ plays/NNS on/IN my/PRP$ mind/NN ./PCT 
+
+you/PRP know/VBP i/PRP ca/MD not/RB sleep/VB at/IN night/NN for/IN trying/VBG ,/PCT 
+never/RB did/VBD feel/VB this/DT way/NN before/IN ./PCT 
+i/PRP get/VBP up/RP at/IN night/NN and/CC walk/VB the/DT floor/NN ./PCT 
+if/IN this/DT is/VBZ love/NN then/RB gimme/VB more/JJR 
+and/CC more/RBR and/CC more/RBR and/CC more/RBR and/CC more/RBR ./PCT 
+
+you/PRP angel/VBP you/PRP 
+you/PRP are/VBP as/IN fine/JJ as/IN can/MD be/VB ./PCT 
+the/DT way/NN you/PRP smile/VBP like/IN a/DT sweet/JJ baby/NN child/NN ,/PCT 
+it/PRP just/RB falls/VBZ all/DT over/IN me/PRP ./PCT 
+
+you/PRP know/VBP i/PRP ca/MD not/RB sleep/VB at/IN night/NN for/IN trying/VBG 
+never/RB did/VBD feel/VB this/DT way/NN before/IN ,/PCT 
+never/RB did/VBD get/VB up/RB and/CC walk/VB the/DT floor/NN ./PCT 
+if/IN this/DT is/VBZ love/NN then/RB gimme/VB more/JJR 
+and/CC more/RBR and/CC more/RBR and/CC more/RBR ./PCT 
+
+you/PRP angel/VBP you/PRP 
+you/PRP got/VBD me/PRP under/IN your/PRP$ wing/NN ./PCT 
+the/DT way/NN you/PRP walk/VBP and/CC the/DT way/NN you/PRP talk/VBP 
+it/PRP says/VBZ everything/NN ./PCT 
+

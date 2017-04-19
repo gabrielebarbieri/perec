@@ -1,0 +1,40 @@
+santa-fe/NNP ,/PCT 
+dear/RB ,/PCT dear/RB ,/PCT dear/RB ,/PCT dear/RB ,/PCT dear/RB santa-fe/JJ ,/PCT 
+my/PRP$ woman/NN needs/VBZ it/PRP ev/VB `/PCT ryday/NN ,/PCT 
+she/PRP promised/VBD this/DT a-lad/JJ she/PRP 'd/MD stay/VB ,/PCT 
+she/PRP is/VBZ rollin/VBG '/PCT up/RP a/DT lotta/NN bread/NN 
+to/TO toss/VB away/RB ./PCT 
+she/PRP is/VBZ in/IN santa-fe/NNP ,/PCT 
+dear/RB ,/PCT dear/RB ,/PCT dear/RB ,/PCT dear/RB ,/PCT dear/RB santa-fe/JJ 
+now/RB she/PRP is/VBZ opened/VBN up/RP an/DT old/JJ maid/NN 's/POS home/NN ,/PCT 
+she/PRP is/VBZ proud/JJ ,/PCT but/CC she/PRP needs/VBZ to/TO roam/VB ,/PCT 
+she/PRP is/VBZ gonna/NN write/VB herself/PRP a/DT roadside/NN poem/NN ,/PCT 
+about/IN santa-fe/NNP ./PCT 
+
+santa-fe/NNP ,/PCT 
+dear/RB ,/PCT dear/RB ,/PCT dear/RB ,/PCT dear/RB santa-fe/JJ ./PCT 
+since/IN i/PRP am/VBP never/RB gonna/JJ cease/VBP to/TO roam/VB ,/PCT 
+i/PRP am/VBP never/RB ,/PCT ever/RB far/RB from/IN home/NN ,/PCT 
+but/CC i/PRP 'll/MD build/VB a/DT geodesic/JJ dome/NN 
+and/CC sail/VB away/RB ./PCT 
+do/VBP not/RB feel/VB bad/JJ ./PCT 
+no/DT ,/PCT no/DT ,/PCT no/DT ,/PCT no/DT ,/PCT do/VBP not/RB feel/VB bad/JJ 
+it/PRP is/VBZ the/DT best/JJS food/NN i/PRP have/VBP ever/RB had/VBN ./PCT 
+makes/VBZ me/PRP feel/VB so/RB glad/JJ 
+that/IN she/PRP is/VBZ cooking/NN in/IN a/DT home-made/JJ pad/NN 
+she/PRP never/RB caught/VBD a/DT cold/JJ so/RB bad/JJ 
+when/WRB i/PRP am/VBP away/RB ./PCT 
+
+santa-fe/NNP ,/PCT 
+dear/RB ,/PCT dear/RB ,/PCT dear/RB ,/PCT dear/RB ,/PCT dear/RB ,/PCT dear/RB santa-fe/JJ ./PCT 
+my/PRP$ shrimp/NN boat/NN 's/POS in/IN the/DT bay/NN 
+i/PRP wo/MD not/RB have/VB my/PRP$ nature/NN this/DT way/NN ,/PCT 
+and/CC i/PRP am/VBP leanin/VBG '/PCT on/IN the/DT wheel/NN each/DT day/NN 
+to/TO drift/VB away/RB 
+from/IN santa-fe/NNP ,/PCT 
+dear/RB ,/PCT dear/RB ,/PCT dear/RB ,/PCT dear/RB ,/PCT dear/RB santa-fe/JJ ./PCT 
+my/PRP$ sister/NN looks/VBZ good/JJ at/IN home/NN ,/PCT 
+she/PRP is/VBZ lickin/VBG '/PCT on/IN an/DT ice/NN cream/NN cone/NN ,/PCT 
+she/PRP is/VBZ packin/VBG '/PCT her/PRP$ big/JJ white/JJ comb/NN ,/PCT 
+what/WP does/VBZ it/PRP weigh/VB ?/PCT 
+

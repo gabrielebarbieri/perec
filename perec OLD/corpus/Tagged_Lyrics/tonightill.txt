@@ -1,0 +1,29 @@
+throw/VB my/PRP$ ticket/NN out/IN the/DT window/NN ,/PCT 
+throw/VB my/PRP$ suitcase/NN out/IN there/RB ,/PCT too/RB ,/PCT 
+throw/VB my/PRP$ troubles/NNS out/IN the/DT door/NN ,/PCT 
+i/PRP do/VBP not/RB need/VB them/PRP any/DT more/JJR 
+'cause/JJ tonight/NN i/PRP 'll/MD be/VB staying/VBG here/RB with/IN you/PRP ./PCT 
+
+i/PRP should/MD have/VB left/VBN this/DT town/NN this/DT morning/NN 
+but/CC it/PRP was/VBD more/JJR than/IN i/PRP could/MD do/VB ./PCT 
+oh/UH ,/PCT your/PRP$ love/NN comes/VBZ on/IN so/RB strong/JJ 
+and/CC i/PRP have/VBP waited/VBD all/DT day/NN long/RB 
+for/IN tonight/NN when/WRB i/PRP 'll/MD be/VB staying/VBG here/RB with/IN you/PRP ./PCT 
+
+is/VBZ it/PRP really/RB any/DT wonder/NN 
+the/DT love/NN that/IN a/DT stranger/NN might/MD receive/VB ./PCT 
+you/PRP cast/VBD your/PRP$ spell/NN and/CC i/PRP went/VBD under/IN ,/PCT 
+i/PRP find/VBP it/PRP so/RB difficult/JJ to/TO leave/VB ./PCT 
+
+i/PRP can/MD hear/VB that/IN whistle/VBP blowin/VBG '/PCT ,/PCT 
+i/PRP see/VBP that/IN stationmaster/NN ,/PCT too/RB ,/PCT 
+if/IN there/EX is/VBZ a/DT poor/JJ boy/NN on/IN the/DT street/NN ,/PCT 
+then/RB let/VB him/PRP have/VB my/PRP$ seat/NN 
+'cause/JJ tonight/NN i/PRP 'll/MD be/VB staying/VBG here/RB with/IN you/PRP ./PCT 
+
+throw/VB my/PRP$ ticket/NN out/IN the/DT window/NN ,/PCT 
+throw/VB my/PRP$ suitcase/NN out/IN there/RB ,/PCT too/RB ,/PCT 
+throw/VB my/PRP$ troubles/NNS out/IN the/DT door/NN ,/PCT 
+i/PRP do/VBP not/RB need/VB them/PRP any/DT more/JJR 
+'cause/JJ tonight/NN i/PRP 'll/MD be/VB staying/VBG here/RB with/IN you/PRP ./PCT 
+

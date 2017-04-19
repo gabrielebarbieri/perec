@@ -1,0 +1,65 @@
+{"tags": [{"word": "trails", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "troubles", "POS": "NNS"}, {"word": ",", "POS": "PCT"}], "sentence": "trails of troubles ,"}
+{"tags": [{"word": "roads", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "battles", "POS": "NNS"}, {"word": ",", "POS": "PCT"}], "sentence": "roads of battles ,"}
+{"tags": [{"word": "paths", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "victory", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "paths of victory ,"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "shall", "POS": "MD"}, {"word": "walk", "POS": "VB"}, {"word": ".", "POS": "PCT"}], "sentence": "i shall walk ."}
+
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "trail", "POS": "NN"}, {"word": "is", "POS": "VBZ"}, {"word": "dusty", "POS": "JJ"}], "sentence": "the trail is dusty"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "my", "POS": "PRP$"}, {"word": "road", "POS": "NN"}, {"word": "it", "POS": "PRP"}, {"word": "might", "POS": "MD"}, {"word": "be", "POS": "VB"}, {"word": "rough", "POS": "JJ"}, {"word": ",", "POS": "PCT"}], "sentence": "and my road it might be rough ,"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "better", "POS": "JJR"}, {"word": "roads", "POS": "NNS"}, {"word": "are", "POS": "VBP"}, {"word": "waiting", "POS": "VBG"}], "sentence": "but the better roads are waiting"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "boys", "POS": "NNS"}, {"word": "it", "POS": "PRP"}, {"word": "ai", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "far", "POS": "RB"}, {"word": "off", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "and boys it ai not far off ."}
+
+{"tags": [{"word": "trails", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "troubles", "POS": "NNS"}, {"word": ",", "POS": "PCT"}], "sentence": "trails of troubles ,"}
+{"tags": [{"word": "roads", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "battles", "POS": "NNS"}, {"word": ",", "POS": "PCT"}], "sentence": "roads of battles ,"}
+{"tags": [{"word": "paths", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "victory", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "paths of victory ,"}
+{"tags": [{"word": "we", "POS": "PRP"}, {"word": "shall", "POS": "MD"}, {"word": "walk", "POS": "VB"}, {"word": ".", "POS": "PCT"}], "sentence": "we shall walk ."}
+
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "walked", "POS": "VBD"}, {"word": "down", "POS": "RP"}, {"word": "by", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "river", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "i walked down by the river ,"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "turned", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "head", "POS": "NN"}, {"word": "up", "POS": "RB"}, {"word": "high", "POS": "JJ"}, {"word": ".", "POS": "PCT"}], "sentence": "i turned my head up high ."}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "saw", "POS": "VBD"}, {"word": "that", "POS": "DT"}, {"word": "silver", "POS": "NN"}, {"word": "linin", "POS": "NN"}, {"word": "'", "POS": "PCT"}], "sentence": "i saw that silver linin '"}
+{"tags": [{"word": "that", "POS": "DT"}, {"word": "was", "POS": "VBD"}, {"word": "hangin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "sky", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "that was hangin ' in the sky ."}
+
+{"tags": [{"word": "trails", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "troubles", "POS": "NNS"}, {"word": ",", "POS": "PCT"}], "sentence": "trails of troubles ,"}
+{"tags": [{"word": "roads", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "battles", "POS": "NNS"}, {"word": ",", "POS": "PCT"}], "sentence": "roads of battles ,"}
+{"tags": [{"word": "paths", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "victory", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "paths of victory ,"}
+{"tags": [{"word": "we", "POS": "PRP"}, {"word": "shall", "POS": "MD"}, {"word": "walk", "POS": "VB"}, {"word": ".", "POS": "PCT"}], "sentence": "we shall walk ."}
+
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "evenin", "POS": "NN"}, {"word": "'", "POS": "PCT"}, {"word": "dusk", "POS": "NN"}, {"word": "was", "POS": "VBD"}, {"word": "rollin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": ",", "POS": "PCT"}], "sentence": "the evenin ' dusk was rollin ' ,"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "was", "POS": "VBD"}, {"word": "walking", "POS": "VBG"}, {"word": "down", "POS": "RP"}, {"word": "the", "POS": "DT"}, {"word": "track", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "i was walking down the track ."}
+{"tags": [{"word": "there", "POS": "EX"}, {"word": "was", "POS": "VBD"}, {"word": "a", "POS": "DT"}, {"word": "one-way", "POS": "JJ"}, {"word": "wind", "POS": "NN"}, {"word": "a-blowin", "POS": "NN"}, {"word": "'", "POS": "PCT"}], "sentence": "there was a one-way wind a-blowin '"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "it", "POS": "PRP"}, {"word": "was", "POS": "VBD"}, {"word": "blowin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": "at", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "back", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "and it was blowin ' at my back ."}
+
+{"tags": [{"word": "trails", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "troubles", "POS": "NNS"}, {"word": ",", "POS": "PCT"}], "sentence": "trails of troubles ,"}
+{"tags": [{"word": "roads", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "battles", "POS": "NNS"}, {"word": ",", "POS": "PCT"}], "sentence": "roads of battles ,"}
+{"tags": [{"word": "paths", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "victory", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "paths of victory ,"}
+{"tags": [{"word": "we", "POS": "PRP"}, {"word": "shall", "POS": "MD"}, {"word": "walk", "POS": "VB"}, {"word": ".", "POS": "PCT"}], "sentence": "we shall walk ."}
+
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "gravel", "POS": "NN"}, {"word": "road", "POS": "NN"}, {"word": "is", "POS": "VBZ"}, {"word": "bumpy", "POS": "JJ"}, {"word": ",", "POS": "PCT"}], "sentence": "the gravel road is bumpy ,"}
+{"tags": [{"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "a", "POS": "DT"}, {"word": "hard", "POS": "JJ"}, {"word": "road", "POS": "NN"}, {"word": "to", "POS": "TO"}, {"word": "ride", "POS": "VB"}, {"word": ",", "POS": "PCT"}], "sentence": "it is a hard road to ride ,"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "there", "POS": "EX"}, {"word": "is", "POS": "VBZ"}, {"word": "a", "POS": "DT"}, {"word": "clearer", "POS": "JJR"}, {"word": "road", "POS": "NN"}, {"word": "a-waitin", "POS": "NN"}, {"word": "'", "POS": "PCT"}], "sentence": "but there is a clearer road a-waitin '"}
+{"tags": [{"word": "with", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "cinders", "POS": "NNS"}, {"word": "on", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "side", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "with the cinders on the side ."}
+
+{"tags": [{"word": "trails", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "troubles", "POS": "NNS"}, {"word": ",", "POS": "PCT"}], "sentence": "trails of troubles ,"}
+{"tags": [{"word": "roads", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "battles", "POS": "NNS"}, {"word": ",", "POS": "PCT"}], "sentence": "roads of battles ,"}
+{"tags": [{"word": "paths", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "victory", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "paths of victory ,"}
+{"tags": [{"word": "we", "POS": "PRP"}, {"word": "shall", "POS": "MD"}, {"word": "walk", "POS": "VB"}, {"word": ".", "POS": "PCT"}], "sentence": "we shall walk ."}
+
+{"tags": [{"word": "that", "POS": "DT"}, {"word": "evening", "POS": "NN"}, {"word": "train", "POS": "NN"}, {"word": "was", "POS": "VBD"}, {"word": "rollin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": ",", "POS": "PCT"}], "sentence": "that evening train was rollin ' ,"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "hummin", "POS": "NN"}, {"word": "'", "POS": "PCT"}, {"word": "of", "POS": "IN"}, {"word": "its", "POS": "PRP$"}, {"word": "wheels", "POS": "NNS"}, {"word": ",", "POS": "PCT"}], "sentence": "the hummin ' of its wheels ,"}
+{"tags": [{"word": "my", "POS": "PRP$"}, {"word": "eyes", "POS": "NNS"}, {"word": "they", "POS": "PRP"}, {"word": "saw", "POS": "VBD"}, {"word": "a", "POS": "DT"}, {"word": "better", "POS": "JJR"}, {"word": "day", "POS": "NN"}], "sentence": "my eyes they saw a better day"}
+{"tags": [{"word": "as", "POS": "IN"}, {"word": "i", "POS": "PRP"}, {"word": "looked", "POS": "VBD"}, {"word": "across", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "fields", "POS": "NNS"}, {"word": ".", "POS": "PCT"}], "sentence": "as i looked across the fields ."}
+
+{"tags": [{"word": "trails", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "troubles", "POS": "NNS"}, {"word": ",", "POS": "PCT"}], "sentence": "trails of troubles ,"}
+{"tags": [{"word": "roads", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "battles", "POS": "NNS"}, {"word": ",", "POS": "PCT"}], "sentence": "roads of battles ,"}
+{"tags": [{"word": "paths", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "victory", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "paths of victory ,"}
+{"tags": [{"word": "we", "POS": "PRP"}, {"word": "shall", "POS": "MD"}, {"word": "walk", "POS": "VB"}, {"word": ".", "POS": "PCT"}], "sentence": "we shall walk ."}
+
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "trail", "POS": "NN"}, {"word": "is", "POS": "VBZ"}, {"word": "dusty", "POS": "JJ"}, {"word": ",", "POS": "PCT"}], "sentence": "the trail is dusty ,"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "road", "POS": "NN"}, {"word": "it", "POS": "PRP"}, {"word": "might", "POS": "MD"}, {"word": "be", "POS": "VB"}, {"word": "rough", "POS": "JJ"}, {"word": ",", "POS": "PCT"}], "sentence": "the road it might be rough ,"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "good", "POS": "JJ"}, {"word": "road", "POS": "NN"}, {"word": "is", "POS": "VBZ"}, {"word": "a-waitin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}], "sentence": "but the good road is a-waitin '"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "boys", "POS": "NNS"}, {"word": "it", "POS": "PRP"}, {"word": "ai", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "far", "POS": "RB"}, {"word": "off", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "and boys it ai not far off ."}
+
+{"tags": [{"word": "trails", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "troubles", "POS": "NNS"}, {"word": ",", "POS": "PCT"}], "sentence": "trails of troubles ,"}
+{"tags": [{"word": "roads", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "battles", "POS": "NNS"}, {"word": ",", "POS": "PCT"}], "sentence": "roads of battles ,"}
+{"tags": [{"word": "paths", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "victory", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "paths of victory ,"}
+{"tags": [{"word": "we", "POS": "PRP"}, {"word": "shall", "POS": "MD"}, {"word": "walk", "POS": "VB"}, {"word": ".", "POS": "PCT"}], "sentence": "we shall walk ."}
+

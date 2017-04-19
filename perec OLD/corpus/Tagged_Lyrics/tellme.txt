@@ -1,0 +1,46 @@
+tell/VB me/PRP ,/PCT i/PRP have/VBP got/VBN to/TO know/VB ./PCT 
+tell/VB me/PRP ,/PCT tell/VBP me/PRP before/IN i/PRP go/VBP ./PCT 
+does/VBZ that/IN flame/NN still/RB burn/VBP ?/PCT does/VBZ that/IN fire/NN still/RB glow/NN ?/PCT 
+or/CC has/VBZ it/PRP died/VBD out/RP and/CC melted/VBN like/IN the/DT snow/NN ./PCT 
+tell/VB me/PRP ./PCT 
+tell/VB me/PRP ./PCT 
+
+tell/VB me/PRP ,/PCT what/WDT are/VBP you/PRP focused/VBN upon/IN ?/PCT 
+tell/VB me/PRP what/WP i/PRP 'll/MD know/VB better/JJR when/WRB you/PRP are/VBP gone/VBN ./PCT 
+tell/VB me/PRP quick/JJ with/IN a/DT glance/NN on/IN the/DT side/NN ./PCT 
+shall/NNP i/PRP hold/VBP you/PRP close/VB ?/PCT 
+or/CC shall/NNP i/PRP let/VBP you/PRP go/VB by/IN ?/PCT 
+tell/VB me/PRP ./PCT 
+tell/VB me/PRP ./PCT 
+
+are/VBP you/PRP looking/VBG at/IN me/PRP and/CC thinking/VBG of/IN somebody/NN else/RB ?/PCT 
+can/MD you/PRP feel/VB the/DT heat/NN and/CC the/DT beat/NN of/IN my/PRP$ pulse/NN ?/PCT 
+do/VBP you/PRP have/VBP any/DT secrets/NNS that/WDT will/MD come/VB out/RP in/IN time/NN ?/PCT 
+do/VBP you/PRP lie/VB in/IN bed/NN and/CC stare/VB at/IN the/DT stars/NNS ?/PCT 
+is/VBZ your/PRP$ main/JJ friend/NN an/DT acquaintance/NN of/IN ours/JJ ?/PCT 
+tell/VB me/PRP ./PCT 
+tell/VB me/PRP ./PCT 
+
+tell/VB me/PRP ,/PCT do/VBP those/DT neon/NN lights/NNS blind/JJ your/PRP$ eyes/NNS ?/PCT 
+tell/VB me/PRP ,/PCT behind/IN what/WP door/NN your/PRP$ treasure/NN lies/VBZ ./PCT 
+ever/RB gone/VBN broke/VBD in/IN a/DT big/JJ way/NN ?/PCT 
+ever/RB gone/VBN the/DT opposite/NN of/IN what/WP the/DT experts/NNS say/VBP ?/PCT 
+tell/VB me/PRP ./PCT 
+tell/VB me/PRP ./PCT 
+
+is/VBZ it/PRP some/DT kind/NN of/IN game/NN that/IN you/PRP are/VBP playin/VBG '/PCT with/IN me/PRP ./PCT 
+am/VBP i/PRP imagining/VBG something/NN that/WDT never/RB can/MD be/VB ?/PCT 
+do/VBP you/PRP have/VBP any/DT morals/NNS ?/PCT 
+do/VBP you/PRP have/VBP any/DT point/NN of/IN view/NN ?/PCT 
+do/VBP you/PRP long/RB to/TO ride/VB on/IN that/DT old/JJ ship/NN of/IN zion/NNP ?/PCT 
+what/WP means/VBZ more/JJR to/TO you/PRP ,/PCT a/DT lap/NN dog/NN or/CC a/DT dead/JJ lion/NN ?/PCT 
+tell/VB me/PRP ./PCT 
+tell/VB me/PRP ./PCT 
+
+tell/VB me/PRP ,/PCT is/VBZ my/PRP$ name/NN in/IN your/PRP$ book/NN ?/PCT 
+tell/VB me/PRP ,/PCT should/MD i/PRP come/VB back/RB and/CC take/VB another/DT look/NN ?/PCT 
+tell/VB me/PRP the/DT truth/NN ,/PCT tell/VBP me/PRP no/DT lies/NNS ./PCT 
+are/VBP you/PRP someone/NN ,/PCT anyone/NN ?/PCT 
+tell/VB me/PRP ./PCT 
+tell/VB me/PRP ./PCT 
+

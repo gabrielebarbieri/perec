@@ -1,0 +1,27 @@
+gypsy/NNP gal/NN ,/PCT the/DT hands/NNS of/IN harlem/NNP 
+can/MD not/RB hold/VB you/PRP to/TO its/PRP$ heat/NN ./PCT 
+your/PRP$ temperature/NN 's/POS too/RB hot/JJ for/IN taming/VBG ,/PCT 
+your/PRP$ flaming/JJ feet/NNS burn/VBP up/RP the/DT street/NN ./PCT 
+i/PRP am/VBP homeless/JJ ,/PCT come/VB and/CC take/VB me/PRP 
+into/NNP reach/NN of/IN your/PRP$ rattling/VBG drums/NNS ./PCT 
+let/VB me/PRP know/VB ,/PCT babe/NN ,/PCT about/IN my/PRP$ fortune/NN 
+down/IN along/IN my/PRP$ restless/JJ palms/NNS ./PCT 
+
+gypsy/NNP gal/NN ,/PCT you/PRP got/VBD me/PRP swallowed/VBD ./PCT 
+i/PRP have/VBP fallen/VBN far/RB beneath/IN 
+your/PRP$ pearly/JJ eyes/NNS ,/PCT so/RB fast/RB an/DT '/PCT slashing/VBG ,/PCT 
+an/DT '/PCT your/PRP$ flashing/VBG diamond/NN teeth/NNS ./PCT 
+the/DT night/NN is/VBZ pitch/NN black/JJ ,/PCT come/VB an/DT '/PCT make/VB my/PRP$ 
+pale/NNP face/NN fit/NN into/IN place/NN ,/PCT ah/NN ,/PCT please/VB !/PCT 
+let/VB me/PRP know/VB ,/PCT babe/NN ,/PCT i/PRP got/VBD to/TO know/VB ,/PCT babe/NN ,/PCT 
+if/IN it/PRP is/VBZ you/PRP my/PRP$ lifelines/NNS trace/VBP ./PCT 
+
+i/PRP been/VBN wond/VBN `/PCT rin/NN '/PCT all/DT about/IN me/PRP 
+ever/RB since/IN i/PRP seen/VBN you/PRP there/EX ./PCT 
+on/IN the/DT cliffs/NNS of/IN your/PRP$ wildcat/NN charms/VBZ i/PRP am/VBP riding/VBG ,/PCT 
+i/PRP know/VBP i/PRP am/VBP `/PCT round/NN you/PRP but/CC i/PRP do/VBP not/RB know/VB where/WRB ./PCT 
+you/PRP have/VBP slayed/VBN me/PRP ,/PCT you/PRP have/VBP made/VBN me/PRP ,/PCT 
+i/PRP got/VBD to/TO laugh/NN halfways/NNS off/IN my/PRP$ heels/NNS ./PCT 
+i/PRP got/VBD to/TO know/VB ,/PCT babe/NN ,/PCT will/MD i/PRP be/VB touching/VBG you/PRP 
+so/IN i/PRP can/MD tell/VB if/IN i/PRP am/VBP really/RB real/JJ ./PCT 
+

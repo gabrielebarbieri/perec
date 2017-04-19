@@ -1,0 +1,35 @@
+got/VBD a/DT little/JJ girl/NN ,/PCT little/JJ and/CC low/JJ ,/PCT 
+she/PRP used/VBD to/TO love/VB me/PRP but/CC she/PRP do/VBP not/RB no/RB more/RBR ./PCT 
+she/PRP gotta/JJ step/NN it/PRP up/RP and/CC go-yeah/JJ ,/PCT go/VB ,/PCT 
+ca/MD not/RB stand/VB pat/NN ,/PCT swear/VB you/PRP gotta/JJ step/NN it/PRP up/RB and/CC go/VB ./PCT 
+
+got/VBD a/DT little/JJ girl/NN ,/PCT she/PRP stays/VBZ upstairs/NN ,/PCT 
+make/VB a/DT livin/NN '/PCT by/IN puttin/NN '/PCT on/IN airs/NNS ./PCT 
+gotta/NNP step/VB it/PRP up/RB and/CC go-yeah/NNP ,/PCT man/NN ,/PCT 
+ca/MD not/RB stand/VB pat/NN ,/PCT swear/VB you/PRP gotta/JJ step/NN it/PRP up/RB and/CC go/VB ./PCT 
+
+front/NN door/NN shut/VBN ,/PCT back/RB door/NN too/RB ,/PCT 
+blinds/NNP pulled/VBD down/RP ,/PCT what/WP `/PCT cha/FW gonna/FW do/VB ?/PCT 
+gotta/NNP step/VB it/PRP up/RP and/CC go-yeah/JJ ,/PCT go/VB ,/PCT 
+ca/MD not/RB stand/VB pat/NN ,/PCT swear/VB you/PRP gotta/JJ step/NN it/PRP up/RB and/CC go/VB ./PCT 
+
+got/VBD a/DT little/JJ girl/NN ,/PCT her/PRP$ name/NN is/VBZ ball/NNP ,/PCT 
+give/VB a/DT little/JJ bit/NN ,/PCT she/PRP took/VBD it/PRP all/DT ./PCT 
+i/PRP said/VBD step/NN it/PRP up/RB and/CC go-yeah/NNP ,/PCT man/NN ,/PCT 
+ca/MD not/RB stand/VB pat/NN ,/PCT swear/VB you/PRP gotta/JJ step/NN it/PRP up/RB and/CC go/VB ./PCT 
+
+me/PRP an/DT '/PCT my/PRP$ baby/NN walkin/VBG '/PCT down/IN the/DT street/NN ,/PCT 
+tellin/NNP '/POS everybody/NN `/PCT bout/NN the/DT chief/NN of/IN police/NN ./PCT 
+gotta/NNP step/VB it/PRP up/RP and/CC go-yeah/JJ ,/PCT go/VB ./PCT 
+ca/MD not/RB stand/VB pat/NN ,/PCT swear/VB you/PRP gotta/JJ step/NN it/PRP up/RB and/CC go/VB ./PCT 
+
+tell/VB my/PRP$ woman/NN i/PRP 'll/MD see/VB her/PRP$ at/IN home/NN ,/PCT 
+ai/NNP not/RB no/DT lovin/NN '/PCT since/IN she/PRP been/VBN gone/VBN ./PCT 
+gotta/NNP step/VB it/PRP up/RP and/CC go-yeah/JJ ,/PCT go/VB ./PCT 
+ca/MD not/RB stand/VB pat/NN ,/PCT swear/VB you/PRP gotta/JJ step/NN it/PRP up/RB and/CC go/VB ./PCT 
+
+well/RB ,/PCT i/PRP 'll/MD sing/VB this/DT verse/JJ ,/PCT ai/VBP not/RB gonna/VB sing/VB no/DT more/JJR ,/PCT 
+hear/VB my/PRP$ gal/JJ call/NN me/PRP and/CC i/PRP got/VBD to/TO go/VB ./PCT 
+step/NN it/PRP up/RB and/CC go-yeah/NNP ,/PCT man/NN ./PCT 
+ca/MD not/RB stand/VB pat/NN ,/PCT swear/VB you/PRP gotta/JJ step/NN it/PRP up/RB and/CC go/VB ./PCT 
+

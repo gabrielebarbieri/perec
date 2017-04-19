@@ -1,0 +1,45 @@
+i/PRP woke/VBD up/RP this/DT mornin/NN '/PCT ,/PCT 
+there/EX were/VBD tears/NNS in/IN my/PRP$ bed/NN ./PCT 
+they/PRP killed/VBD a/DT man/NN i/PRP really/RB loved/VBD 
+shot/NN him/PRP through/IN the/DT head/NN ./PCT 
+lord/NNP ,/PCT lord/NNP ,/PCT 
+they/PRP cut/VBD george/NNP jackson/NNP down/RB ./PCT 
+lord/NNP ,/PCT lord/NNP ,/PCT 
+they/PRP laid/VBD him/PRP in/IN the/DT ground/NN ./PCT 
+
+sent/VBD him/PRP off/RP to/TO prison/NN 
+for/IN a/DT seventy-dollar/JJ robbery/NN ./PCT 
+closed/JJ the/DT door/NN behind/IN him/PRP 
+and/CC they/PRP threw/VBD away/RP the/DT key/NN ./PCT 
+lord/NNP ,/PCT lord/NNP ,/PCT 
+they/PRP cut/VBD george/NNP jackson/NNP down/RB ./PCT 
+lord/NNP ,/PCT lord/NNP ,/PCT 
+they/PRP laid/VBD him/PRP in/IN the/DT ground/NN ./PCT 
+
+he/PRP would/MD not/RB take/VB shit/NN from/IN no/DT one/NN 
+he/PRP would/MD not/RB bow/VB down/RP or/CC kneel/NN ./PCT 
+authorities/NNP ,/PCT they/PRP hated/VBD him/PRP 
+because/IN he/PRP was/VBD just/RB too/RB real/JJ ./PCT 
+lord/NNP ,/PCT lord/NNP ,/PCT 
+they/PRP cut/VBD george/NNP jackson/NNP down/RB ./PCT 
+lord/NNP ,/PCT lord/NNP ,/PCT 
+they/PRP laid/VBD him/PRP in/IN the/DT ground/NN ./PCT 
+
+prison/NNP guards/NNS ,/PCT they/PRP cursed/VBD him/PRP 
+as/IN they/PRP watched/VBD him/PRP from/IN above/IN 
+but/CC they/PRP were/VBD frightened/VBN of/IN his/PRP$ power/NN 
+they/PRP were/VBD scared/VBN of/IN his/PRP$ love/NN ./PCT 
+lord/NNP ,/PCT lord/NNP ,/PCT 
+so/IN they/PRP cut/VBD george/NNP jackson/NNP down/RB ./PCT 
+lord/NNP ,/PCT lord/NNP ,/PCT 
+they/PRP laid/VBD him/PRP in/IN the/DT ground/NN ./PCT 
+
+sometimes/RB i/PRP think/VBP this/DT whole/JJ world/NN 
+is/VBZ one/CD big/JJ prison/NN yard/NN ./PCT 
+some/DT of/IN us/PRP are/VBP prisoners/NNS 
+the/DT rest/NN of/IN us/PRP are/VBP guards/NNS ./PCT 
+lord/NNP ,/PCT lord/NNP ,/PCT 
+they/PRP cut/VBD george/NNP jackson/NNP down/RB ./PCT 
+lord/NNP ,/PCT lord/NNP ,/PCT 
+they/PRP laid/VBD him/PRP in/IN the/DT ground/NN ./PCT 
+

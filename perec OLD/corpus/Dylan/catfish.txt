@@ -1,0 +1,48 @@
+{"tags": [{"word": "lazy", "POS": "JJ"}, {"word": "stadium", "POS": "NN"}, {"word": "night", "POS": "NN"}], "sentence": "lazy stadium night"}
+{"tags": [{"word": "catfish", "POS": "NN"}, {"word": "on", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "mound", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "catfish on the mound ."}
+{"tags": [{"word": "``", "POS": "PCT"}, {"word": "strike", "POS": "NN"}, {"word": "three", "POS": "CD"}, {"word": ",", "POS": "PCT"}, {"word": "''", "POS": "PCT"}, {"word": "the", "POS": "DT"}, {"word": "umpire", "POS": "NN"}, {"word": "said", "POS": "VBD"}, {"word": ",", "POS": "PCT"}], "sentence": "`` strike three , '' the umpire said ,"}
+{"tags": [{"word": "batter", "POS": "NN"}, {"word": "have", "POS": "VBP"}, {"word": "to", "POS": "TO"}, {"word": "go", "POS": "VB"}, {"word": "back", "POS": "RB"}, {"word": "and", "POS": "CC"}, {"word": "sit", "POS": "VB"}, {"word": "down", "POS": "RP"}, {"word": ".", "POS": "PCT"}], "sentence": "batter have to go back and sit down ."}
+
+{"tags": [{"word": "catfish", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "million-dollar-man", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "catfish , million-dollar-man ,"}
+{"tags": [{"word": "nobody", "POS": "NN"}, {"word": "can", "POS": "MD"}, {"word": "throw", "POS": "VB"}, {"word": "the", "POS": "DT"}, {"word": "ball", "POS": "NN"}, {"word": "like", "POS": "IN"}, {"word": "catfish", "POS": "NN"}, {"word": "can", "POS": "MD"}, {"word": ".", "POS": "PCT"}], "sentence": "nobody can throw the ball like catfish can ."}
+
+{"tags": [{"word": "used", "POS": "VBN"}, {"word": "to", "POS": "TO"}, {"word": "work", "POS": "VB"}, {"word": "on", "POS": "IN"}, {"word": "mr.", "POS": "NNP"}, {"word": "finley", "POS": "NNP"}, {"word": "'s", "POS": "POS"}, {"word": "farm", "POS": "NN"}], "sentence": "used to work on mr. finley 's farm"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "old", "POS": "JJ"}, {"word": "man", "POS": "NN"}, {"word": "would", "POS": "MD"}, {"word": "not", "POS": "RB"}, {"word": "pay", "POS": "VB"}], "sentence": "but the old man would not pay"}
+{"tags": [{"word": "so", "POS": "IN"}, {"word": "he", "POS": "PRP"}, {"word": "packed", "POS": "VBD"}, {"word": "his", "POS": "PRP$"}, {"word": "glove", "POS": "NN"}, {"word": "and", "POS": "CC"}, {"word": "took", "POS": "VBD"}, {"word": "his", "POS": "PRP$"}, {"word": "arm", "POS": "NN"}], "sentence": "so he packed his glove and took his arm"}
+{"tags": [{"word": "an", "POS": "DT"}, {"word": "'", "POS": "PCT"}, {"word": "one", "POS": "CD"}, {"word": "day", "POS": "NN"}, {"word": "he", "POS": "PRP"}, {"word": "just", "POS": "RB"}, {"word": "ran", "POS": "VBD"}, {"word": "away", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "an ' one day he just ran away ."}
+
+{"tags": [{"word": "catfish", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "million-dollar-man", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "catfish , million-dollar-man ,"}
+{"tags": [{"word": "nobody", "POS": "NN"}, {"word": "can", "POS": "MD"}, {"word": "throw", "POS": "VB"}, {"word": "the", "POS": "DT"}, {"word": "ball", "POS": "NN"}, {"word": "like", "POS": "IN"}, {"word": "catfish", "POS": "NN"}, {"word": "can", "POS": "MD"}, {"word": ".", "POS": "PCT"}], "sentence": "nobody can throw the ball like catfish can ."}
+
+{"tags": [{"word": "come", "POS": "VBN"}, {"word": "up", "POS": "IN"}, {"word": "where", "POS": "WRB"}, {"word": "the", "POS": "DT"}, {"word": "yankees", "POS": "NNPS"}, {"word": "are", "POS": "VBP"}, {"word": ",", "POS": "PCT"}], "sentence": "come up where the yankees are ,"}
+{"tags": [{"word": "dress", "POS": "NNP"}, {"word": "up", "POS": "RB"}, {"word": "in", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "pinstripe", "POS": "NN"}, {"word": "suit", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "dress up in a pinstripe suit ,"}
+{"tags": [{"word": "smoke", "POS": "VB"}, {"word": "a", "POS": "DT"}, {"word": "custom-made", "POS": "JJ"}, {"word": "cigar", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "smoke a custom-made cigar ,"}
+{"tags": [{"word": "wear", "POS": "VB"}, {"word": "an", "POS": "DT"}, {"word": "alligator", "POS": "NN"}, {"word": "boot", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "wear an alligator boot ."}
+
+{"tags": [{"word": "catfish", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "million-dollar-man", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "catfish , million-dollar-man ,"}
+{"tags": [{"word": "nobody", "POS": "NN"}, {"word": "can", "POS": "MD"}, {"word": "throw", "POS": "VB"}, {"word": "the", "POS": "DT"}, {"word": "ball", "POS": "NN"}, {"word": "like", "POS": "IN"}, {"word": "catfish", "POS": "NN"}, {"word": "can", "POS": "MD"}, {"word": ".", "POS": "PCT"}], "sentence": "nobody can throw the ball like catfish can ."}
+
+{"tags": [{"word": "carolina", "POS": "NNP"}, {"word": "born", "POS": "VBN"}, {"word": "and", "POS": "CC"}, {"word": "bred", "POS": "VBN"}, {"word": ",", "POS": "PCT"}], "sentence": "carolina born and bred ,"}
+{"tags": [{"word": "love", "POS": "NNP"}, {"word": "to", "POS": "TO"}, {"word": "hunt", "POS": "NN"}, {"word": "the", "POS": "DT"}, {"word": "little", "POS": "JJ"}, {"word": "quail", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "love to hunt the little quail ."}
+{"tags": [{"word": "got", "POS": "VBD"}, {"word": "a", "POS": "DT"}, {"word": "hundred-acre", "POS": "JJ"}, {"word": "spread", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "got a hundred-acre spread ,"}
+{"tags": [{"word": "got", "POS": "VBD"}, {"word": "some", "POS": "DT"}, {"word": "huntin", "POS": "NN"}, {"word": "'", "POS": "PCT"}, {"word": "dogs", "POS": "NNS"}, {"word": "for", "POS": "IN"}, {"word": "sale", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "got some huntin ' dogs for sale ."}
+
+{"tags": [{"word": "catfish", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "million-dollar-man", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "catfish , million-dollar-man ,"}
+{"tags": [{"word": "nobody", "POS": "NN"}, {"word": "can", "POS": "MD"}, {"word": "throw", "POS": "VB"}, {"word": "the", "POS": "DT"}, {"word": "ball", "POS": "NN"}, {"word": "like", "POS": "IN"}, {"word": "catfish", "POS": "NN"}, {"word": "can", "POS": "MD"}, {"word": ".", "POS": "PCT"}], "sentence": "nobody can throw the ball like catfish can ."}
+
+{"tags": [{"word": "reggie", "POS": "NNP"}, {"word": "jackson", "POS": "NNP"}, {"word": "at", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "plate", "POS": "NN"}], "sentence": "reggie jackson at the plate"}
+{"tags": [{"word": "seein", "POS": "NNP"}, {"word": "'", "POS": "POS"}, {"word": "nothin", "POS": "NN"}, {"word": "'", "POS": "PCT"}, {"word": "but", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "curve", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "seein ' nothin ' but the curve ,"}
+{"tags": [{"word": "swing", "POS": "NN"}, {"word": "too", "POS": "RB"}, {"word": "early", "POS": "JJ"}, {"word": "or", "POS": "CC"}, {"word": "too", "POS": "RB"}, {"word": "late", "POS": "JJ"}], "sentence": "swing too early or too late"}
+{"tags": [{"word": "got", "POS": "NNP"}, {"word": "to", "POS": "TO"}, {"word": "eat", "POS": "VB"}, {"word": "what", "POS": "WP"}, {"word": "catfish", "POS": "NN"}, {"word": "serve", "POS": "VBP"}, {"word": ".", "POS": "PCT"}], "sentence": "got to eat what catfish serve ."}
+
+{"tags": [{"word": "catfish", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "million-dollar-man", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "catfish , million-dollar-man ,"}
+{"tags": [{"word": "nobody", "POS": "NN"}, {"word": "can", "POS": "MD"}, {"word": "throw", "POS": "VB"}, {"word": "the", "POS": "DT"}, {"word": "ball", "POS": "NN"}, {"word": "like", "POS": "IN"}, {"word": "catfish", "POS": "NN"}, {"word": "can", "POS": "MD"}, {"word": ".", "POS": "PCT"}], "sentence": "nobody can throw the ball like catfish can ."}
+
+{"tags": [{"word": "even", "POS": "RB"}, {"word": "billy", "POS": "NNP"}, {"word": "martin", "POS": "NNP"}, {"word": "grins", "POS": "NNS"}], "sentence": "even billy martin grins"}
+{"tags": [{"word": "when", "POS": "WRB"}, {"word": "the", "POS": "DT"}, {"word": "fish", "POS": "NN"}, {"word": "is", "POS": "VBZ"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "game", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "when the fish is in the game ."}
+{"tags": [{"word": "every", "POS": "DT"}, {"word": "season", "POS": "NN"}, {"word": "twenty", "POS": "CD"}, {"word": "wins", "POS": "NNS"}], "sentence": "every season twenty wins"}
+{"tags": [{"word": "gonna", "POS": "NNP"}, {"word": "make", "POS": "VBP"}, {"word": "the", "POS": "DT"}, {"word": "hall", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "fame", "POS": "NNP"}, {"word": ".", "POS": "PCT"}], "sentence": "gonna make the hall of fame ."}
+
+{"tags": [{"word": "catfish", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "million-dollar-man", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "catfish , million-dollar-man ,"}
+{"tags": [{"word": "nobody", "POS": "NN"}, {"word": "can", "POS": "MD"}, {"word": "throw", "POS": "VB"}, {"word": "the", "POS": "DT"}, {"word": "ball", "POS": "NN"}, {"word": "like", "POS": "IN"}, {"word": "catfish", "POS": "NN"}, {"word": "can", "POS": "MD"}, {"word": ".", "POS": "PCT"}], "sentence": "nobody can throw the ball like catfish can ."}
+

@@ -1,0 +1,28 @@
+you/PRP know/VBP ,/PCT there/EX is/VBZ two/CD ol'/JJ maids/NNS layin/VBP '/PCT in/IN the/DT bed/NN ,/PCT 
+one/CD picked/VBD herself/PRP up/RP an/DT '/PCT the/DT other/JJ one/CD ,/PCT she/PRP said/VBD :/PCT 
+``/PCT get/VB your/PRP$ rocks/NNS off/IN !/PCT 
+get/VB your/PRP$ rocks/NNS off/IN !/PCT -lrb-/PCT get/VB 'em/PRP off/RP !/PCT -rrb-/PCT 
+get/VB your/PRP$ rocks/NNS off/IN !/PCT -lrb-/PCT get/VB 'em/PRP off/RP !/PCT -rrb-/PCT 
+get/VB your/PRP$ rocks/NNS off-a/VBP me/PRP !/PCT -lrb-/PCT get/VB 'em/PRP off/RP !/PCT -rrb-/PCT ''/PCT 
+
+well/RB ,/PCT you/PRP know/VBP ,/PCT there/EX late/RB one/CD night/NN up/RP on/IN blueberry/NNP hill/NNP ,/PCT 
+one/CD man/NN turned/VBD to/TO the/DT other/JJ man/NN and/CC said/VBD ,/PCT with/IN a/DT blood-curdlin/NN '/PCT chill/NN ,/PCT he/PRP said/VBD :/PCT 
+``/PCT get/VB your/PRP$ rocks/NNS off/IN !/PCT -lrb-/PCT get/VB 'em/PRP off/RP !/PCT -rrb-/PCT 
+get/VB your/PRP$ rocks/NNS off/IN !/PCT -lrb-/PCT get/VB 'em/PRP off/RP !/PCT -rrb-/PCT 
+get/VB your/PRP$ rocks/NNS off/IN !/PCT -lrb-/PCT get/VB 'em/PRP off/RP !/PCT -rrb-/PCT 
+get/VB your/PRP$ rocks/NNS off-a/VBP me/PRP !/PCT -lrb-/PCT get/VB 'em/PRP off/RP !/PCT -rrb-/PCT ''/PCT 
+
+well/RB ,/PCT you/PRP know/VBP ,/PCT we/PRP was/VBD layin/VBG '/PCT down/RP around/IN mink/NNP muscle/NNP creek/NNP ,/PCT 
+one/CD man/NN said/VBD to/TO the/DT other/JJ man/NN ,/PCT he/PRP began/VBD to/TO speak/VB ,/PCT he/PRP said/VBD :/PCT 
+``/PCT get/VB your/PRP$ rocks/NNS off/IN !/PCT -lrb-/PCT get/VB 'em/PRP off/RP !/PCT -rrb-/PCT 
+get/VB your/PRP$ rocks/NNS off/IN !/PCT -lrb-/PCT get/VB 'em/PRP off/RP !/PCT -rrb-/PCT 
+get/VB your/PRP$ rocks/NNS off/IN !/PCT -lrb-/PCT get/VB 'em/PRP off/RP !/PCT -rrb-/PCT 
+get/VB your/PRP$ rocks/NNS off-a/VBP me/PRP !/PCT -lrb-/PCT get/VB 'em/PRP off/RP !/PCT -rrb-/PCT ''/PCT 
+
+well/RB ,/PCT you/PRP know/VBP ,/PCT we/PRP was/VBD cruisin/VBG '/PCT down/IN the/DT highway/NN in/IN a/DT greyhound/NNP bus/NN ./PCT 
+all/DT kinds-a/JJ children/NNS in/IN the/DT side/NN road/NN ,/PCT they/PRP was/VBD hollerin/VBG '/PCT at/IN us/PRP ,/PCT sayin/VBG '/PCT :/PCT 
+``/PCT get/VB your/PRP$ rocks/NNS off/IN !/PCT -lrb-/PCT get/VB 'em/PRP off/RP !/PCT -rrb-/PCT 
+get/VB your/PRP$ rocks/NNS off/IN !/PCT -lrb-/PCT get/VB 'em/PRP off/RP !/PCT -rrb-/PCT 
+get/VB your/PRP$ rocks/NNS off/IN !/PCT -lrb-/PCT get/VB 'em/PRP off/RP !/PCT -rrb-/PCT 
+get/VB your/PRP$ rocks/NNS off-a/VBP me/PRP !/PCT ''/PCT 
+

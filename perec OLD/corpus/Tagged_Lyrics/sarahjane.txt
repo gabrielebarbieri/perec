@@ -1,0 +1,32 @@
+i/PRP have/VBP got/VBD a/DT wife/NN and/CC five/CD little/JJ children/NNS 
+i/PRP am/VBP gonna/NNS take/VB a/DT trip/NN on/IN the/DT big/JJ mcmillan/NNP 
+with/IN sarah/NNP jane/NNP -lrb-/PCT sarah/NNP jane/NNP -rrb-/PCT 
+sarah/NNP jane/NNP -lrb-/PCT sarah/NNP jane/NNP -rrb-/PCT 
+ai/NNP not/RB nothin/NN '/PCT to/TO do/VB 
+but/CC to/TO set/VB down/RP and/CC sing/VB 
+and/CC rock/NN about/IN my/PRP$ sarah/NNP jane/NNP 
+
+whistle/NNP done/VBN blows/NNS and/CC the/DT fiddler/NN squalls/NNS 
+captain/NN gone/VBN through/IN hole-in-the-wall/NN 
+oh/UH sarah/NNP jane/NNP -lrb-/PCT sarah/NNP jane/NNP -rrb-/PCT 
+sarah/NNP jane/NNP -lrb-/PCT sarah/NNP jane/NNP -rrb-/PCT 
+ai/NNP not/RB nothin/NN '/PCT to/TO do/VB 
+but/CC to/TO set/VB down/RP and/CC sing/VB 
+and/CC rock/NN about/IN my/PRP$ sarah/NNP jane/NNP 
+
+yankee/NNP built/VBD boats/NNS to/TO shoot/VB them/PRP rebels/NNPS 
+my/PRP$ gun/NN 's/POS steady/JJ gonna/NN hold/VBP it/PRP level/NN 
+sarah/NNP jane/NNP -lrb-/PCT sarah/NNP jane/NNP -rrb-/PCT 
+sarah/NNP jane/NNP -lrb-/PCT sarah/NNP jane/NNP -rrb-/PCT 
+ai/NNP not/RB nothin/NN '/PCT to/TO do/VB 
+but/CC to/TO set/VB down/RP and/CC sing/VB 
+and/CC rock/NN about/IN my/PRP$ sarah/NNP jane/NNP 
+
+i/PRP have/VBP got/VBD a/DT wife/NN and/CC five/CD little/JJ children/NNS 
+i/PRP am/VBP gonna/NNS take/VB a/DT trip/NN on/IN the/DT big/JJ mcmillan/NNP 
+sarah/NNP jane/NNP -lrb-/PCT sarah/NNP jane/NNP -rrb-/PCT 
+sarah/NNP jane/NNP -lrb-/PCT sarah/NNP jane/NNP -rrb-/PCT 
+ai/NNP not/RB nothin/NN '/PCT to/TO do/VB 
+but/CC to/TO set/VB down/RP and/CC sing/VB 
+and/CC rock/NN about/IN my/PRP$ sarah/NNP jane/NNP 
+

@@ -1,0 +1,55 @@
+we/PRP live/VBP in/IN a/DT political/JJ world/NN ,/PCT 
+love/NNP do/VBP not/RB have/VB any/DT place/NN ./PCT 
+we/PRP are/VBP living/VBG in/IN times/NNS where/WRB men/NNS commit/VBP crimes/NNS ,/PCT 
+and/CC crime/NN do/VBP not/RB have/VB a/DT face/NN ./PCT 
+
+we/PRP live/VBP in/IN a/DT political/JJ world/NN ,/PCT 
+icicles/NNP hanging/VBG down/RB ,/PCT 
+wedding/NN bells/NNS ring/VBP and/CC angels/NNS sing/VBP ,/PCT 
+clouds/NNS cover/VBP up/RP the/DT ground/NN ./PCT 
+
+we/PRP live/VBP in/IN a/DT political/JJ world/NN ,/PCT 
+wisdom/NN is/VBZ thrown/VBN into/IN jail/NN ,/PCT 
+it/PRP rots/VBZ in/IN a/DT cell/NN ,/PCT is/VBZ misguided/JJ as/IN hell/NN ,/PCT 
+leaving/VBG no/DT one/NN to/TO pick/VB up/RP a/DT trail/NN ./PCT 
+
+we/PRP live/VBP in/IN a/DT political/JJ world/NN 
+where/WRB mercy/NN walks/VBZ the/DT plank/NN ,/PCT 
+life/NNP is/VBZ in/IN mirrors/VBZ ,/PCT death/NN disappears/VBZ 
+up/IN the/DT steps/NNS into/IN the/DT nearest/JJS bank/NN ./PCT 
+
+we/PRP live/VBP in/IN a/DT political/JJ world/NN 
+where/WRB courage/NN is/VBZ a/DT thing/NN of/IN the/DT past/NN ,/PCT 
+houses/NNS are/VBP haunted/VBN ,/PCT children/NNS are/VBP unwanted/JJ ,/PCT 
+the/DT next/JJ day/NN could/MD be/VB your/PRP$ last/JJ ./PCT 
+
+we/PRP live/VBP in/IN a/DT political/JJ world/NN ,/PCT 
+the/DT one/CD we/PRP can/MD see/VB and/CC can/MD feel/VB ,/PCT 
+but/CC there/EX is/VBZ no/DT one/NN to/TO check/VB ,/PCT it/PRP is/VBZ all/PDT a/DT stacked/VBN deck/NN ,/PCT 
+we/PRP all/DT know/VBP for/IN sure/JJ that/IN it/PRP is/VBZ real/JJ ./PCT 
+
+we/PRP live/VBP in/IN a/DT political/JJ world/NN ,/PCT 
+in/IN the/DT cities/NNS of/IN lonesome/JJ fear/NN ,/PCT 
+little/RB by/IN little/JJ you/PRP turn/VBP in/IN the/DT middle/NN 
+but/CC you/PRP are/VBP never/RB sure/JJ why/WRB you/PRP are/VBP here/RB ./PCT 
+
+we/PRP live/VBP in/IN a/DT political/JJ world/NN ,/PCT 
+under/IN the/DT microscope/NN ,/PCT 
+you/PRP can/MD travel/VB anywhere/RB and/CC hang/VB yourself/PRP there/RB ,/PCT 
+you/PRP always/RB got/VBD more/JJR than/IN enough/JJ rope/NN ./PCT 
+
+we/PRP live/VBP in/IN a/DT political/JJ world/NN ,/PCT 
+turning/VBG and/CC a-thrashing/VBG about/RB ,/PCT 
+as/RB soon/RB as/IN you/PRP are/VBP awake/RB ,/PCT you/PRP are/VBP trained/VBN to/TO take/VB ,/PCT 
+what/WP looks/VBZ like/IN the/DT easy/JJ way/NN out/IN ./PCT 
+
+we/PRP live/VBP in/IN a/DT political/JJ world/NN ,/PCT 
+where/WRB peace/NN is/VBZ not/RB welcome/JJ at/IN all/DT ,/PCT 
+it/PRP is/VBZ turned/VBN away/RB from/IN the/DT door/NN to/TO wander/VB some/DT more/JJR ,/PCT 
+or/CC put/VB up/RP against/IN the/DT wall/NN ./PCT 
+
+we/PRP live/VBP in/IN a/DT political/JJ world/NN ,/PCT 
+everything/NN is/VBZ hers/NNS or/CC his/PRP$ ,/PCT 
+climb/NN into/IN the/DT frame/NN and/CC shout/NN god/NNP 's/POS name/NN ,/PCT 
+but/CC you/PRP are/VBP never/RB sure/JJ what/WP it/PRP is/VBZ ./PCT 
+

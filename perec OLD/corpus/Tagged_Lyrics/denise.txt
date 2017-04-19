@@ -1,0 +1,35 @@
+denise/NNP ,/PCT denise/NNP ,/PCT 
+gal/NNP ,/PCT what/WP is/VBZ on/IN your/PRP$ mind/NN ?/PCT 
+denise/NNP ,/PCT denise/NNP ,/PCT 
+gal/NNP ,/PCT what/WP is/VBZ on/IN your/PRP$ mind/NN ?/PCT 
+you/PRP got/VBD your/PRP$ eyes/NNS closed/VBD ,/PCT 
+heaven/NNP knows/VBZ that/IN you/PRP ai/VBP not/RB blind/JJ ./PCT 
+
+well/RB ,/PCT i/PRP can/MD see/VB you/PRP smiling/VBG ,/PCT 
+but/CC oh/UH your/PRP$ mouth/NN is/VBZ inside/IN out/RB ./PCT 
+i/PRP can/MD see/VB you/PRP smiling/VBG ,/PCT 
+but/CC you/PRP are/VBP smiling/VBG inside/IN out/RB ./PCT 
+well/RB ,/PCT i/PRP know/VBP you/PRP are/VBP laughin/VBG '/PCT 
+but/CC what/WP are/VBP you/PRP laughin/VBG '/PCT about/RB ./PCT 
+
+well/RB ,/PCT if/IN you/PRP are/VBP tryin/VBG '/PCT to/TO throw/VB me/PRP ,/PCT 
+babe/NNP ,/PCT i/PRP have/VBP already/RB been/VBN tossed/VBN ./PCT 
+if/IN you/PRP are/VBP tryin/VBG '/PCT to/TO throw/VB me/PRP ,/PCT 
+babe/NNP ,/PCT i/PRP have/VBP already/RB been/VBN tossed/VBN ./PCT 
+babe/NNP ,/PCT you/PRP are/VBP tryin/VBG '/PCT to/TO lose/VB me/PRP ./PCT 
+babe/NNP ,/PCT i/PRP am/VBP already/RB lost/VBN ./PCT 
+
+well/RB ,/PCT what/WDT are/VBP you/PRP doing/VBG ,/PCT 
+are/VBP you/PRP flying/VBG or/CC have/VB you/PRP flipped/VBN ?/PCT 
+oh/UH ,/PCT what/WDT are/VBP you/PRP doing/VBG ,/PCT 
+are/VBP you/PRP flying/VBG or/CC have/VB you/PRP flipped/VBN ?/PCT 
+well/RB ,/PCT you/PRP call/VBP my/PRP$ name/NN 
+and/CC then/RB say/VB your/PRP$ tongue/NN just/RB slipped/VBD ./PCT 
+
+denise/NNP ,/PCT denise/NNP ,/PCT 
+you/PRP are/VBP concealed/VBN here/RB on/IN the/DT shelf/NN ./PCT 
+denise/NNP ,/PCT denise/NNP ,/PCT 
+you/PRP are/VBP concealed/VBN here/RB on/IN the/DT shelf/NN ./PCT 
+i/PRP am/VBP looking/VBG deep/RB in/IN your/PRP$ eyes/NNS ,/PCT babe/NN ,/PCT 
+and/CC all/DT i/PRP can/MD see/VB is/VBZ myself/PRP ./PCT 
+

@@ -1,0 +1,45 @@
+god/NNP knows/VBZ you/PRP ai/VBP not/RB pretty/RB ,/PCT 
+god/NNP knows/VBZ it/PRP is/VBZ true/JJ ./PCT 
+god/NNP knows/VBZ there/EX ai/VBP not/RB anybody/NN 
+ever/RB gonna/NNS take/VBP the/DT place/NN of/IN you/PRP ./PCT 
+
+god/NNP knows/VBZ it/PRP is/VBZ a/DT struggle/NN ,/PCT 
+god/NNP knows/VBZ it/PRP is/VBZ a/DT crime/NN ,/PCT 
+god/NNP knows/VBZ there/EX is/VBZ gonna/NN be/VB no/RB more/RBR water/NN 
+but/CC fire/NN next/JJ time/NN ./PCT 
+
+god/NNP don't/NNP call/VBP it/PRP treason/NN ,/PCT
+god/NNP don't/NNP call/VBP it/PRP wrong/JJ ./PCT
+it/PRP was/VBD supposed/VBN to/TO last/VB a/DT season/NN 
+but/CC it/PRP is/VBZ been/VBN so/RB strong/JJ for/IN so/RB long/JJ ./PCT 
+
+god/NNP knows/VBZ it/PRP is/VBZ fragile/JJ ,/PCT 
+god/NNP knows/VBZ everything/NN ,/PCT 
+god/NNP knows/VBZ it/PRP could/MD snap/VB apart/RB right/RB now/RB 
+just/RB like/IN putting/VBG scissors/NNS to/TO a/DT string/NN ./PCT 
+
+god/NNP knows/VBZ it/PRP is/VBZ terrifying/JJ ,/PCT 
+god/NNP sees/VBZ it/PRP all/DT unfold/VBP ,/PCT 
+there/EX is/VBZ a/DT million/CD reasons/NNS for/IN you/PRP to/TO be/VB crying/VBG 
+you/PRP been/VBN so/RB bold/JJ and/CC so/RB cold/JJ ./PCT 
+
+god/NNP knows/VBZ that/IN when/WRB you/PRP see/VBP it/PRP ,/PCT 
+god/NNP knows/VBZ you/PRP have/VBP got/VBN to/TO weep/NN ,/PCT 
+god/NNP knows/VBZ the/DT secrets/NNS of/IN your/PRP$ heart/NN ,/PCT 
+he/PRP 'll/MD tell/VB them/PRP to/TO you/PRP when/WRB you/PRP are/VBP asleep/RB ./PCT 
+
+god/NNP knows/VBZ there/EX is/VBZ a/DT river/NN ,/PCT 
+god/NNP knows/VBZ how/WRB to/TO make/VB it/PRP flow/NN ,/PCT 
+god/NNP knows/VBZ you/PRP ai/VBP not/RB gonna/VB be/VB taking/VBG 
+nothing/NN with/IN you/PRP when/WRB you/PRP go/VBP ./PCT 
+
+god/NNP knows/VBZ there/EX is/VBZ a/DT purpose/NN ,/PCT 
+god/NNP knows/VBZ there/EX is/VBZ a/DT chance/NN ,/PCT 
+god/NNP knows/VBZ you/PRP can/MD rise/VB above/IN the/DT darkest/JJS hour/NN 
+of/IN any/DT circumstance/NN ./PCT 
+
+god/NNP knows/VBZ there/EX is/VBZ a/DT heaven/NN ,/PCT 
+god/NNP knows/VBZ it/PRP is/VBZ out/IN of/IN sight/NN ,/PCT 
+god/NNP knows/VBZ we/PRP can/MD get/VB all/PDT the/DT way/NN from/IN here/RB to/TO there/EX 
+even/RB if/IN we/PRP have/VBP got/VBN to/TO walk/VB a/DT million/CD miles/NNS by/IN candlelight/NN ./PCT 
+

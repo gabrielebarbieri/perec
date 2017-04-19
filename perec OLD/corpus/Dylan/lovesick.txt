@@ -1,0 +1,53 @@
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "walking", "POS": "VBG"}, {"word": ",", "POS": "PCT"}], "sentence": "i am walking ,"}
+{"tags": [{"word": "through", "POS": "IN"}, {"word": "streets", "POS": "NNS"}, {"word": "that", "POS": "WDT"}, {"word": "are", "POS": "VBP"}, {"word": "dead", "POS": "JJ"}], "sentence": "through streets that are dead"}
+{"tags": [{"word": "walking", "POS": "VBG"}, {"word": ",", "POS": "PCT"}], "sentence": "walking ,"}
+{"tags": [{"word": "walking", "POS": "VBG"}, {"word": "with", "POS": "IN"}, {"word": "you", "POS": "PRP"}, {"word": "in", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "head", "POS": "NN"}], "sentence": "walking with you in my head"}
+
+{"tags": [{"word": "my", "POS": "PRP$"}, {"word": "feet", "POS": "NNS"}, {"word": "are", "POS": "VBP"}, {"word": "so", "POS": "RB"}, {"word": "tired", "POS": "JJ"}], "sentence": "my feet are so tired"}
+{"tags": [{"word": "my", "POS": "PRP$"}, {"word": "brain", "POS": "NN"}, {"word": "is", "POS": "VBZ"}, {"word": "so", "POS": "RB"}, {"word": "wired", "POS": "VBN"}], "sentence": "my brain is so wired"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "clouds", "POS": "NNS"}, {"word": "are", "POS": "VBP"}, {"word": "weeping", "POS": "VBG"}], "sentence": "and the clouds are weeping"}
+
+{"tags": [{"word": "did", "POS": "VBD"}, {"word": "i", "POS": "PRP"}, {"word": ",", "POS": "PCT"}], "sentence": "did i ,"}
+{"tags": [{"word": "hear", "POS": "VB"}, {"word": "someone", "POS": "NN"}, {"word": "tell", "POS": "VB"}, {"word": "a", "POS": "DT"}, {"word": "lie", "POS": "NN"}], "sentence": "hear someone tell a lie"}
+{"tags": [{"word": "did", "POS": "VBD"}, {"word": "i", "POS": "PRP"}, {"word": ",", "POS": "PCT"}], "sentence": "did i ,"}
+{"tags": [{"word": "hear", "POS": "VB"}, {"word": "someone", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "distant", "POS": "JJ"}, {"word": "cry", "POS": "NN"}], "sentence": "hear someone 's distant cry"}
+
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "spoke", "POS": "VBD"}, {"word": "like", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "child", "POS": "NN"}], "sentence": "i spoke like a child"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "destroyed", "POS": "VBD"}, {"word": "me", "POS": "PRP"}, {"word": "with", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "smile", "POS": "NN"}], "sentence": "you destroyed me with a smile"}
+{"tags": [{"word": "while", "POS": "IN"}, {"word": "i", "POS": "PRP"}, {"word": "was", "POS": "VBD"}, {"word": "sleeping", "POS": "VBG"}], "sentence": "while i was sleeping"}
+
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "sick", "POS": "JJ"}, {"word": "of", "POS": "IN"}, {"word": "love", "POS": "NN"}], "sentence": "i am sick of love"}
+{"tags": [{"word": "that", "POS": "DT"}, {"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "thick", "POS": "JJ"}, {"word": "of", "POS": "IN"}, {"word": "it", "POS": "PRP"}], "sentence": "that i am in the thick of it"}
+{"tags": [{"word": "this", "POS": "DT"}, {"word": "kind", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "love", "POS": "NN"}], "sentence": "this kind of love"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "so", "POS": "RB"}, {"word": "sick", "POS": "JJ"}, {"word": "of", "POS": "IN"}, {"word": "it", "POS": "PRP"}], "sentence": "i am so sick of it"}
+
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "see", "POS": "VBP"}, {"word": ",", "POS": "PCT"}], "sentence": "i see ,"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "see", "POS": "VBP"}, {"word": "lovers", "POS": "NNS"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "meadow", "POS": "NN"}], "sentence": "i see lovers in the meadow"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "see", "POS": "VBP"}, {"word": ",", "POS": "PCT"}], "sentence": "i see ,"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "see", "POS": "VBP"}, {"word": "silhouettes", "POS": "NNS"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "window", "POS": "NN"}], "sentence": "i see silhouettes in the window"}
+
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "watch", "POS": "VBP"}, {"word": "them", "POS": "PRP"}, {"word": "'til", "POS": "IN"}, {"word": "they", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "gone", "POS": "VBN"}], "sentence": "i watch them 'til they are gone"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "they", "POS": "PRP"}, {"word": "leave", "POS": "VBP"}, {"word": "me", "POS": "PRP"}, {"word": "hangin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": "on", "POS": "IN"}], "sentence": "and they leave me hangin ' on"}
+{"tags": [{"word": "to", "POS": "TO"}, {"word": "a", "POS": "DT"}, {"word": "shadow", "POS": "NN"}], "sentence": "to a shadow"}
+
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "sick", "POS": "JJ"}, {"word": "of", "POS": "IN"}, {"word": "love", "POS": "NN"}], "sentence": "i am sick of love"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "hear", "POS": "VBP"}, {"word": "the", "POS": "DT"}, {"word": "clock", "POS": "NN"}, {"word": "tick", "POS": "VB"}], "sentence": "i hear the clock tick"}
+{"tags": [{"word": "this", "POS": "DT"}, {"word": "kind", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "love", "POS": "NN"}], "sentence": "this kind of love"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "lovesick", "POS": "JJ"}], "sentence": "i am lovesick"}
+
+{"tags": [{"word": "sometimes", "POS": "RB"}], "sentence": "sometimes"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "silence", "POS": "NN"}, {"word": "can", "POS": "MD"}, {"word": "be", "POS": "VB"}, {"word": "like", "POS": "IN"}, {"word": "thunder", "POS": "NN"}], "sentence": "the silence can be like thunder"}
+{"tags": [{"word": "sometimes", "POS": "RB"}], "sentence": "sometimes"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "wanna", "POS": "VBP"}, {"word": "take", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "road", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "plunder", "POS": "NN"}], "sentence": "i wanna take to the road of plunder"}
+
+{"tags": [{"word": "could", "POS": "MD"}, {"word": "you", "POS": "PRP"}, {"word": "ever", "POS": "RB"}, {"word": "be", "POS": "VB"}, {"word": "true", "POS": "JJ"}, {"word": "?", "POS": "PCT"}], "sentence": "could you ever be true ?"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "think", "POS": "VBP"}, {"word": "of", "POS": "IN"}, {"word": "you", "POS": "PRP"}, {"word": "and", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "wonder", "POS": "VBP"}], "sentence": "i think of you and i wonder"}
+
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "sick", "POS": "JJ"}, {"word": "of", "POS": "IN"}, {"word": "love", "POS": "NN"}], "sentence": "i am sick of love"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "wish", "POS": "VBP"}, {"word": "i", "POS": "PRP"}, {"word": "'d", "POS": "MD"}, {"word": "never", "POS": "RB"}, {"word": "met", "POS": "VBD"}, {"word": "you", "POS": "PRP"}], "sentence": "i wish i 'd never met you"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "sick", "POS": "JJ"}, {"word": "of", "POS": "IN"}, {"word": "love", "POS": "NN"}], "sentence": "i am sick of love"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "tryin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": "to", "POS": "TO"}, {"word": "forget", "POS": "VB"}, {"word": "you", "POS": "PRP"}], "sentence": "i am tryin ' to forget you"}
+
+{"tags": [{"word": "just", "POS": "RB"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "know", "POS": "VB"}, {"word": "what", "POS": "WP"}, {"word": "to", "POS": "TO"}, {"word": "do", "POS": "VB"}], "sentence": "just do not know what to do"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "'d", "POS": "MD"}, {"word": "give", "POS": "VB"}, {"word": "anything", "POS": "NN"}, {"word": "to", "POS": "TO"}, {"word": "be", "POS": "VB"}, {"word": "with", "POS": "IN"}, {"word": "you", "POS": "PRP"}], "sentence": "i 'd give anything to be with you"}
+

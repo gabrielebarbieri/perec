@@ -1,0 +1,90 @@
+my/PRP$ name/NN is/VBZ donald/NNP white/NNP ,/PCT you/PRP see/VBP ,/PCT 
+i/PRP stand/VBP before/IN you/PRP all/DT ./PCT 
+i/PRP was/VBD judged/VBN by/IN you/PRP a/DT murderer/NN 
+and/CC the/DT hangman/NN 's/POS knot/NN must/MD fall/VB ./PCT 
+i/PRP will/MD die/VB upon/IN the/DT gallows/NNS pole/VBP 
+when/WRB the/DT moon/NN is/VBZ shining/VBG clear/JJ ,/PCT 
+and/CC these/DT are/VBP my/PRP$ final/JJ words/NNS 
+that/DT you/PRP will/MD ever/RB hear/VB ./PCT 
+
+i/PRP left/VBD my/PRP$ home/NN in/IN kansas/NNP 
+when/WRB i/PRP was/VBD very/RB young/JJ ,/PCT 
+i/PRP landed/VBD in/IN the/DT old/JJ northwest/NNP ,/PCT 
+seattle/NNP ,/PCT washington/NNP 
+although/IN i/PRP 'd/MD a-traveled/VBD many/JJ miles/NNS ,/PCT 
+i/PRP never/RB made/VBD a/DT friend/NN ,/PCT 
+for/IN i/PRP could/MD never/RB get/VB along/RB in/IN life/NN 
+with/IN people/NNS that/IN i/PRP met/VBD ./PCT 
+
+if/IN i/PRP had/VBD some/DT education/NN 
+to/TO give/VB me/PRP a/DT decent/JJ start/NN ,/PCT 
+i/PRP might/MD have/VB been/VBN a/DT doctor/NN or/CC 
+a/DT master/NN in/IN the/DT arts/NNS ./PCT 
+but/CC i/PRP used/VBD my/PRP$ hands/NNS for/IN stealing/VBG 
+when/WRB i/PRP was/VBD very/RB young/JJ ,/PCT 
+and/CC they/PRP locked/VBD me/PRP down/RP in/IN jailhouse/NN cells/NNS ,/PCT 
+that/DT is/VBZ how/WRB my/PRP$ life/NN begun/VBN ./PCT 
+
+oh/UH ,/PCT the/DT inmates/NNS and/CC the/DT prisoners/NNS ,/PCT 
+i/PRP found/VBD they/PRP were/VBD my/PRP$ kind/NN ,/PCT 
+and/CC it/PRP was/VBD there/EX inside/IN the/DT bars/NNS 
+i/PRP found/VBD my/PRP$ peace/NN of/IN mind/NN ./PCT 
+but/CC the/DT jails/NNS they/PRP were/VBD too/RB crowded/VBN ,/PCT 
+institutions/NNS overflowed/VBD ,/PCT 
+so/IN they/PRP turned/VBD me/PRP loose/JJ to/TO walk/VB upon/IN 
+life/NNP 's/POS hurried/VBN tangled/VBD road/NN ./PCT 
+
+and/CC there/EX is/VBZ danger/NN on/IN the/DT ocean/NN 
+where/WRB the/DT salt/NN sea/NN waves/NNS split/VBD high/RB ,/PCT 
+and/CC there/EX is/VBZ danger/NN on/IN the/DT battlefield/NN 
+where/WRB the/DT shells/NNS of/IN bullets/NNS fly/VBP ,/PCT 
+and/CC there/EX is/VBZ danger/NN in/IN this/DT open/JJ world/NN 
+where/WRB men/NNS strive/VBP to/TO be/VB free/JJ ,/PCT 
+and/CC for/IN me/PRP the/DT greatest/JJS danger/NN 
+was/VBD in/IN society/NN ./PCT 
+
+so/IN i/PRP asked/VBD them/PRP to/TO send/VB me/PRP back/RB 
+to/TO the/DT institution/NN home/NN ./PCT 
+but/CC they/PRP said/VBD they/PRP were/VBD too/RB crowded/VBN ,/PCT 
+for/IN me/PRP they/PRP had/VBD no/DT room/NN ./PCT 
+i/PRP got/VBD down/RP on/IN my/PRP$ knees/NNS and/CC begged/VBN ,/PCT 
+``/PCT oh/UH ,/PCT please/VB put/VB me/PRP away/RB ,/PCT ''/PCT 
+but/CC they/PRP would/MD not/RB listen/VB to/TO my/PRP$ plea/NN 
+or/CC nothing/NN i/PRP would/MD say/VB ./PCT 
+
+and/CC so/IN it/PRP was/VBD on/IN christmas/NNP eve/NN 
+in/IN the/DT year/NN of/IN '/PCT 59/CD ,/PCT 
+it/PRP was/VBD on/IN that/DT night/NN i/PRP killed/VBD a/DT man/NN ,/PCT 
+i/PRP did/VBD not/RB try/VB to/TO hide/VB ,/PCT 
+the/DT jury/NN found/VBD me/PRP guilty/JJ 
+and/CC i/PRP wo/MD not/RB disagree/VB ,/PCT 
+for/IN i/PRP knew/VBD that/IN it/PRP would/MD happen/VB 
+if/IN i/PRP was/VBD not/RB put/VB away/RB ./PCT 
+
+and/CC i/PRP am/VBP glad/JJ i/PRP have/VBP had/VBD no/DT parents/NNS 
+to/TO care/VB for/IN me/PRP or/CC cry/VB ,/PCT 
+for/IN now/RB they/PRP will/MD never/RB know/VB 
+the/DT horrible/JJ death/NN i/PRP die/VBP ./PCT 
+and/CC i/PRP am/VBP also/RB glad/JJ i/PRP have/VBP had/VBD no/DT friends/NNS 
+to/TO see/VB me/PRP in/IN disgrace/NN ,/PCT 
+for/IN they/PRP 'll/MD never/RB see/VB that/DT hangman/NN 's/POS hood/NN 
+wrap/NNP around/IN my/PRP$ face/NN ./PCT 
+
+farewell/NNP unto/VBP the/DT old/JJ north/NN woods/NNS 
+of/IN which/WDT i/PRP used/VBD to/TO roam/VB ,/PCT 
+farewell/NNP unto/VBP the/DT crowded/JJ bars/NNS 
+of/IN which/WDT have/VBP been/VBN my/PRP$ home/NN ,/PCT 
+farewell/NNP to/TO all/DT you/PRP people/NNS 
+who/WP think/VBP the/DT worst/JJS of/IN me/PRP ,/PCT 
+i/PRP guess/VBP you/PRP 'll/MD feel/VB much/RB better/JJR when/WRB 
+i/PRP am/VBP on/IN that/DT hanging/VBG tree/NN ./PCT 
+
+but/CC there/EX is/VBZ just/RB one/CD question/NN 
+before/IN they/PRP kill/VBP me/PRP dead/JJ ,/PCT 
+i/PRP am/VBP wondering/VBG just/RB how/WRB much/JJ 
+to/TO you/PRP i/PRP really/RB said/VBD 
+concerning/VBG all/PDT the/DT boys/NNS that/WDT come/VBP 
+down/IN a/DT road/NN like/IN me/PRP ,/PCT 
+are/VBP they/PRP enemies/NNS or/CC victims/NNS 
+of/IN your/PRP$ society/NN ?/PCT 
+

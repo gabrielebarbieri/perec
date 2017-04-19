@@ -1,0 +1,36 @@
+handy/NNP dandy/NNP ,/PCT controversy/NN surrounds/VBZ him/PRP 
+he/PRP been/VBN around/IN the/DT world/NN and/CC back/RB again/RB 
+something/NN in/IN the/DT moonlight/NN still/RB hounds/VBZ him/PRP 
+handy/NNP dandy/NNP ,/PCT just/RB like/IN sugar/NN and/CC candy/NN 
+
+handy/NNP dandy/NNP ,/PCT if/IN every/DT bone/NN in/IN his/PRP$ body/NN was/VBD broken/VBN he/PRP would/MD never/RB admit/VB it/PRP 
+he/PRP got/VBD an/DT all/DT girl/NN orchestra/NN and/CC when/WRB he/PRP says/VBZ 
+``/PCT strike/NN up/IN the/DT band/NN ''/PCT ,/PCT they/PRP hit/VBD it/PRP 
+handy/NNP dandy/NNP ,/PCT handy/NNP dandy/NNP 
+
+you/PRP say/VBP ,/PCT ``/PCT what/WP are/VBP ya/PRP made/VBN of/IN ?/PCT ''/PCT 
+he/PRP says/VBZ ,/PCT ``/PCT can/MD you/PRP repeat/VB what/WP you/PRP said/VBD ?/PCT ''/PCT 
+you/PRP 'll/MD say/VB ,/PCT ``/PCT what/WP are/VBP you/PRP afraid/JJ of/IN ?/PCT ''/PCT 
+he/PRP 'll/MD say/VB ,/PCT ``/PCT nothin/NN '/PCT neither/CC `/PCT live/JJ nor/CC dead/JJ ./PCT ''/PCT 
+
+handy/NNP dandy/NNP ,/PCT he/PRP got/VBD a/DT stick/NN in/IN his/PRP$ hand/NN and/CC a/DT pocket/NN full/JJ of/IN money/NN 
+he/PRP says/VBZ ,/PCT ``/PCT darling/NN ,/PCT tell/VBP me/PRP the/DT truth/NN ,/PCT how/WRB much/JJ time/NN i/PRP got/VBD ?/PCT ''/PCT 
+she/PRP says/VBZ ,/PCT ``/PCT you/PRP got/VBD all/PDT the/DT time/NN in/IN the/DT world/NN ,/PCT honey/NN ./PCT ''/PCT 
+handy/NNP dandy/NNP ,/PCT handy/NNP dandy/NNP 
+
+he/PRP is/VBZ got/VBN that/IN clear/JJ crystal/NN fountain/NN 
+he/PRP is/VBZ got/VBN that/IN soft/JJ silky/JJ skin/NN 
+he/PRP is/VBZ got/VBN that/IN fortress/NN on/IN the/DT mountain/NN 
+with/IN no/DT doors/NNS ,/PCT no/DT windows/NNS ,/PCT no/DT thieves/NNS can/MD break/VB in/IN 
+
+handy/NNP dandy/NNP ,/PCT sitting/VBG with/IN a/DT girl/NN named/VBN nancy/NNP in/IN a/DT garden/NN feelin/NN '/PCT kind/NN of/IN lazy/JJ 
+he/PRP says/VBZ ,/PCT ``/PCT ya/NNP want/VBP a/DT gun/NN ?/PCT i/PRP 'll/MD give/VB you/PRP one/CD ./PCT ''/PCT she/PRP says/VBZ ,/PCT ``/PCT boy/NNP ,/PCT you/PRP talking/VBG crazy/JJ ./PCT ''/PCT 
+handy/NNP dandy/NNP ,/PCT just/RB like/IN sugar/NN and/CC candy/NN 
+handy/NNP dandy/NNP ,/PCT pour/VBP him/PRP another/DT brandy/NN 
+
+handy/NNP dandy/NNP ,/PCT he/PRP got/VBD a/DT basket/NN of/IN flowers/NNS and/CC a/DT bag/NN full/JJ or/CC sorrow/NN 
+he/PRP finishes/VBZ his/PRP$ drink/NN ,/PCT he/PRP gets/VBZ up/RB from/IN the/DT table/NN he/PRP says/VBZ ,/PCT 
+``/PCT okay/UH ,/PCT boys/NNS ,/PCT i/PRP 'll/MD see/VB you/PRP tomorrow/NN ./PCT ''/PCT 
+handy/NNP dandy/NNP ,/PCT handy/NNP dandy/NNP ,/PCT just/RB like/IN sugar/NN and/CC candy/NN 
+handy/NNP dandy/NNP ,/PCT just/RB like/IN sugar/NN and/CC candy/NN 
+

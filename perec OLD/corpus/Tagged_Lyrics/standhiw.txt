@@ -1,0 +1,49 @@
+well/RB ,/PCT i/PRP am/VBP standin/VBG '/PCT on/IN the/DT highway/NN 
+tryin/NNP '/POS to/TO bum/VB a/DT ride/NN ,/PCT tryin/NN '/PCT to/TO bum/VB a/DT ride/NN ,/PCT 
+tryin/NNP '/POS to/TO bum/VB a/DT ride/NN ./PCT 
+well/RB ,/PCT i/PRP am/VBP standin/VBG '/PCT on/IN the/DT highway/NN 
+tryin/NNP '/POS to/TO bum/VB a/DT ride/NN ,/PCT tryin/NN '/PCT to/TO bum/VB a/DT ride/NN ,/PCT 
+tryin/NNP '/POS to/TO bum/VB a/DT ride/NN ./PCT 
+nobody/NN seem/VBP to/TO know/VB me/PRP ,/PCT 
+everybody/NN pass/VB me/PRP by/IN ./PCT 
+
+well/RB ,/PCT i/PRP am/VBP standin/VBG '/PCT on/IN the/DT highway/NN 
+tryin/NNP '/POS to/TO hold/VB up/RP ,/PCT tryin/NN '/PCT to/TO hold/VB up/RP ,/PCT 
+tryin/NNP to/TO hold/VB up/RP and/CC be/VB brave/VB ./PCT 
+well/RB ,/PCT i/PRP am/VBP standin/VBG '/PCT on/IN the/DT highway/NN 
+tryin/NNP '/POS to/TO hold/VB up/RP ,/PCT tryin/NN to/TO hold/VB up/RP and/CC be/VB brave/VB ./PCT 
+one/CD roads/NNS goin/NN '/PCT to/TO the/DT bright/JJ lights/NNS ,/PCT 
+the/DT others/NNS goin/NN '/PCT down/RP to/TO my/PRP$ grave/NN ./PCT 
+
+well/RB ,/PCT i/PRP am/VBP lookin/VBG '/PCT down/RP at/IN two/CD card/NN ,/PCT 
+they/PRP seem/VBP to/TO be/VB handmade/NN ./PCT 
+well/RB ,/PCT i/PRP am/VBP lookin/VBG '/PCT down/RP at/IN two/CD card/NN ,/PCT 
+they/PRP seem/VBP to/TO be/VB handmade/NN ./PCT 
+one/CD looks/VBZ like/IN it/PRP is/VBZ the/DT ace/NN of/IN diamonds/NNS ,/PCT 
+the/DT other/JJ looks/NNS like/IN it/PRP is/VBZ the/DT ace/NN of/IN spades/NNS ./PCT 
+
+well/RB ,/PCT i/PRP am/VBP standin/VBG '/PCT on/IN the/DT highway/NN 
+watchin/NNP '/POS my/PRP$ life/NN roll/NN by/IN ./PCT 
+well/RB ,/PCT i/PRP am/VBP standin/VBG '/PCT on/IN the/DT highway/NN 
+watchin/NNP '/POS my/PRP$ life/NN roll/NN by/IN ./PCT 
+well/RB ,/PCT i/PRP am/VBP standin/VBG '/PCT on/IN the/DT highway/NN 
+tryin/NNP '/POS to/TO bum/VB a/DT ride/NN ./PCT 
+
+well/RB ,/PCT i/PRP am/VBP standin/VBG '/PCT on/IN the/DT highway/NN 
+wonderin/NNP '/POS where/WRB everybody/NN went/VBD ,/PCT wonderin/VBG '/PCT where/WRB everybody/NN went/VBD ,/PCT 
+wonderin/NNP '/POS where/WRB everybody/NN went/VBD ./PCT 
+well/RB ,/PCT i/PRP am/VBP standin/VBG '/PCT on/IN the/DT highway/NN 
+wonderin/NNP '/POS where/WRB everybody/NN went/VBD ,/PCT wonderin/VBG '/PCT where/WRB everybody/NN went/VBD ,/PCT 
+wonderin/NNP '/POS where/WRB everybody/NN went/VBD ./PCT 
+please/VB mister/NN ,/PCT pick/VBP me/PRP up/RP ,/PCT 
+i/PRP swear/VBP i/PRP ai/VBP not/RB gonna/VB kill/NN nobody/NN 's/POS kids/NNS ./PCT 
+
+i/PRP wonder/VBP if/IN my/PRP$ good/JJ gal/NN ,/PCT 
+i/PRP wonder/VBP if/IN she/PRP knows/VBZ i/PRP am/VBP here/RB ,/PCT 
+nobody/NN else/RB seems/VBZ to/TO know/VB i/PRP am/VBP here/RB ./PCT 
+i/PRP wonder/VBP if/IN my/PRP$ good/JJ gal/NN ,/PCT 
+i/PRP wonder/VBP if/IN she/PRP knows/VBZ i/PRP am/VBP here/RB ,/PCT 
+nobody/NN else/RB seems/VBZ to/TO know/VB i/PRP am/VBP here/RB ./PCT 
+if/IN she/PRP knows/VBZ i/PRP am/VBP here/RB ,/PCT lawd/NNP ,/PCT 
+i/PRP wonder/VBP if/IN she/PRP said/VBD a/DT prayer/NN ./PCT 
+

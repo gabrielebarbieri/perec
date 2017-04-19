@@ -1,0 +1,25 @@
+i/PRP am/VBP out/RP here/RB a/DT thousand/CD miles/NNS from/IN my/PRP$ home/NN ,/PCT 
+walkin/NNP '/POS a/DT road/NN other/JJ men/NNS have/VBP gone/VBN down/RB ./PCT 
+i/PRP am/VBP seein/VBG '/PCT your/PRP$ world/NN of/IN people/NNS and/CC things/NNS ,/PCT 
+your/PRP$ paupers/NNS and/CC peasants/NNS and/CC princes/NNS and/CC kings/NNS ./PCT 
+
+hey/NNP ,/PCT hey/NN woody/NNP guthrie/NNP ,/PCT i/PRP wrote/VBD you/PRP a/DT song/NN 
+`/PCT bout/NN a/DT funny/JJ ol'/JJ world/NN that/WDT is/VBZ a-comin/JJ '/PCT along/IN ./PCT 
+seems/VBZ sick/JJ an/DT '/PCT it/PRP is/VBZ hungry/JJ ,/PCT it/PRP is/VBZ tired/VBN an/DT '/PCT it/PRP is/VBZ torn/VBN ,/PCT 
+it/PRP looks/VBZ like/IN it/PRP is/VBZ a-dyin/JJ '/PCT an/DT '/PCT it/PRP is/VBZ hardly/RB been/VBN born/VBN ./PCT 
+
+hey/NNP ,/PCT woody/NNP guthrie/NNP ,/PCT but/CC i/PRP know/VBP that/IN you/PRP know/VBP 
+all/PDT the/DT things/NNS that/IN i/PRP am/VBP a-sayin/VBG '/PCT an/DT '/PCT a-many/JJ times/NNS more/RBR ./PCT 
+i/PRP am/VBP a-singin/VBG '/PCT you/PRP the/DT song/NN ,/PCT but/CC i/PRP ca/MD not/RB sing/VB enough/RB ,/PCT 
+'cause/NN there/EX is/VBZ not/RB many/JJ men/NNS that/WDT done/VBD the/DT things/NNS that/IN you/PRP have/VBP done/VBN ./PCT 
+
+here/RB is/VBZ to/TO cisco/VB an/DT '/PCT sonny/NNP an/DT '/PCT leadbelly/NNP too/RB ,/PCT 
+an/DT '/PCT to/TO all/PDT the/DT good/JJ people/NNS that/WDT traveled/VBD with/IN you/PRP ./PCT 
+here/RB is/VBZ to/TO the/DT hearts/NNS and/CC the/DT hands/NNS of/IN the/DT men/NNS 
+that/DT come/VBN with/IN the/DT dust/NN and/CC are/VBP gone/VBN with/IN the/DT wind/NN ./PCT 
+
+i/PRP am/VBP a-leaving/VBG '/PCT tomorrow/NN ,/PCT but/CC i/PRP could/MD leave/VB today/NN ,/PCT 
+somewhere/RB down/IN the/DT road/NN someday/RB ./PCT 
+the/DT very/RB last/JJ thing/NN that/IN i/PRP 'd/MD want/VB to/TO do/VB 
+is/VBZ to/TO say/VB i/PRP have/VBP been/VBN hittin/VBG '/PCT some/DT hard/JJ travelin/NN '/PCT too/RB ./PCT 
+

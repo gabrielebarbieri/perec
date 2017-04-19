@@ -1,0 +1,45 @@
+tell/VB me/PRP what/WP you/PRP are/VBP gonna/NNS do/VBP 
+when/WRB the/DT shadow/NN comes/VBZ under/IN your/PRP$ door/NN ./PCT 
+tell/VB me/PRP what/WP you/PRP are/VBP gonna/NNS do/VBP 
+when/WRB the/DT shadow/NN comes/VBZ under/IN your/PRP$ door/NN ./PCT 
+tell/VB me/PRP what/WP you/PRP are/VBP gonna/NNS do/VBP 
+when/WRB the/DT shadow/NN comes/VBZ under/IN your/PRP$ door/NN ./PCT 
+o/NNP lord/NNP ,/PCT o/NNP lord/NNP ,/PCT 
+what/WP shall/MD you/PRP do/VB ?/PCT 
+
+tell/VB me/PRP what/WP you/PRP are/VBP gonna/NNS do/VBP 
+when/WRB the/DT devil/NN calls/VBZ your/PRP$ cards/NNS ./PCT 
+tell/VB me/PRP what/WP you/PRP are/VBP gonna/NNS do/VBP 
+when/WRB the/DT devil/NN calls/VBZ your/PRP$ cards/NNS ./PCT 
+tell/VB me/PRP what/WP you/PRP are/VBP gonna/NNS do/VBP 
+when/WRB the/DT devil/NN calls/VBZ your/PRP$ cards/NNS ./PCT 
+o/NNP lord/NNP ,/PCT o/NNP lord/NNP ,/PCT 
+what/WP shall/MD you/PRP do/VB ?/PCT 
+
+tell/VB me/PRP what/WP you/PRP are/VBP gonna/NNS do/VBP 
+when/WRB your/PRP$ water/NN turns/VBZ to/TO wine/NN ./PCT 
+tell/VB me/PRP what/WP you/PRP are/VBP gonna/NNS do/VBP 
+when/WRB your/PRP$ water/NN turns/VBZ to/TO wine/NN ./PCT 
+tell/VB me/PRP what/WP you/PRP are/VBP gonna/NNS do/VBP 
+when/WRB your/PRP$ water/NN turns/VBZ to/TO wine/NN ./PCT 
+o/NNP lord/NNP ,/PCT o/NNP lord/NNP ,/PCT 
+what/WP should/MD you/PRP do/VB ?/PCT 
+
+tell/VB me/PRP what/WP you/PRP are/VBP gonna/NNS do/VBP 
+when/WRB you/PRP ca/MD not/RB play/VB god/NNP no/DT more/RBR ./PCT 
+tell/VB me/PRP what/WP you/PRP are/VBP gonna/NNS do/VBP 
+when/WRB you/PRP ca/MD not/RB play/VB god/NNP no/DT more/RBR ./PCT 
+tell/VB me/PRP what/WP you/PRP are/VBP gonna/NNS do/VBP 
+when/WRB you/PRP ca/MD not/RB play/VB god/NNP no/DT more/RBR ./PCT 
+o/NNP lord/NNP ,/PCT o/NNP lord/NNP ,/PCT 
+what/WP shall/MD you/PRP do/VB ?/PCT 
+
+tell/VB me/PRP what/WP you/PRP are/VBP gonna/NNS do/VBP 
+when/WRB the/DT shadow/NN comes/VBZ creepin/NN '/PCT in/IN your/PRP$ room/NN ./PCT 
+tell/VB me/PRP what/WP you/PRP are/VBP gonna/NNS do/VBP 
+when/WRB the/DT shadow/NN comes/VBZ creepin/NN '/PCT in/IN your/PRP$ room/NN ./PCT 
+tell/VB me/PRP what/WP you/PRP are/VBP gonna/NNS do/VBP 
+when/WRB the/DT shadow/NN comes/VBZ creepin/NN '/PCT in/IN your/PRP$ room/NN ./PCT 
+o/NNP lord/NNP ,/PCT o/NNP lord/NNP ,/PCT 
+what/WP should/MD you/PRP do/VB ?/PCT 
+

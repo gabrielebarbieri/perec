@@ -1,0 +1,75 @@
+johnny/NNP 's/POS in/IN the/DT basement/NN 
+mixing/VBG up/RP the/DT medicine/NN 
+i/PRP am/VBP on/IN the/DT pavement/NN 
+thinking/VBG about/IN the/DT government/NN 
+the/DT man/NN in/IN the/DT trench/NN coat/NN 
+badge/NNP out/RB ,/PCT laid/VBD off/RP 
+says/VBZ he/PRP is/VBZ got/VBD a/DT bad/JJ cough/NN 
+wants/VBZ to/TO get/VB it/PRP paid/VBN off/RP 
+look/VB out/RP kid/NN 
+it/PRP is/VBZ somethin'/NN you/PRP did/VBD 
+god/NNP knows/VBZ when/WRB 
+but/CC you/PRP are/VBP doin/VBG '/PCT it/PRP again/RB 
+you/PRP better/RB duck/VBP down/RP the/DT alley/NN way/NN 
+lookin/NNP '/POS for/IN a/DT new/JJ friend/NN 
+the/DT man/NN in/IN the/DT coon-skin/JJ cap/NN 
+in/IN the/DT big/JJ pen/NN 
+wants/VBZ eleven/JJ dollar/NN bills/NNS 
+you/PRP only/RB got/VBD ten/NN 
+
+maggie/NNP comes/VBZ fleet/NN foot/NN 
+face/NNP full/JJ of/IN black/JJ soot/NN 
+talkin/NNP '/POS that/IN the/DT heat/NN put/VBD 
+plants/NNS in/IN the/DT bed/NN but/CC 
+the/DT phone/NN 's/POS tapped/VBN anyway/RB 
+maggie/NNP says/VBZ that/IN many/JJ say/VBP 
+they/PRP must/MD bust/NN in/IN early/JJ may/NNP 
+orders/NNS from/IN the/DT d./NNP a./NN 
+look/VB out/RP kid/NN 
+do/VBP not/RB matter/VB what/WP you/PRP did/VBD 
+walk/VB on/IN your/PRP$ tip/NN toes/NNS 
+do/VBP not/RB try/VB ``/PCT no/DT doz/NN ''/PCT 
+better/RBR stay/VB away/RB from/IN those/DT 
+that/DT carry/VBP around/RP a/DT fire/NN hose/NN 
+keep/VB a/DT clean/JJ nose/NN 
+watch/NNP the/DT plain/JJ clothes/NNS 
+you/PRP do/VBP not/RB need/VB a/DT weather/NN man/NN 
+to/TO know/VB which/WDT way/NN the/DT wind/NN blows/NNS 
+
+get/VB sick/JJ ,/PCT get/VB well/RB 
+hang/NNP around/IN a/DT ink/NN well/RB 
+ring/NN bell/NN ,/PCT hard/JJ to/TO tell/VB 
+if/IN anything/NN is/VBZ goin/VBG '/PCT to/TO sell/VB 
+try/VB hard/RB ,/PCT get/VB barred/VBN 
+get/VB back/RB ,/PCT write/VB braille/NN 
+get/VB jailed/VBN ,/PCT jump/NN bail/NN 
+join/VB the/DT army/NN ,/PCT if/IN you/PRP fail/VBP 
+look/VB out/RP kid/NN 
+you/PRP are/VBP gonna/NNS get/VB hit/VBN 
+but/CC users/NNS ,/PCT cheaters/NNS 
+six-time/JJ losers/NNS 
+hang/NNP around/IN the/DT theaters/NNS 
+girl/NNP by/IN the/DT whirlpool/NN 
+lookin/NNP '/POS for/IN a/DT new/JJ fool/NN 
+do/VBP not/RB follow/VB leaders/NNS 
+watch/NNP the/DT parkin/NN '/PCT meters/NNS 
+
+ah/UH get/VB born/VBN ,/PCT keep/VB warm/JJ 
+short/JJ pants/NNS ,/PCT romance/NN ,/PCT learn/VBP to/TO dance/VB 
+get/VB dressed/VBN ,/PCT get/VB blessed/VBN 
+try/VB to/TO be/VB a/DT success/NN 
+please/VB her/PRP ,/PCT please/VB him/PRP ,/PCT buy/VB gifts/NNS 
+do/VBP not/RB steal/VB ,/PCT do/VBP not/RB lift/VB 
+twenty/CD years/NNS of/IN schoolin/NN '/PCT 
+and/CC they/PRP put/VBP you/PRP on/IN the/DT day/NN shift/NN 
+look/VB out/RP kid/NN 
+they/PRP keep/VBP it/PRP all/DT hid/VBD 
+better/RBR jump/VB down/RP a/DT manhole/NN 
+light/NNP yourself/PRP a/DT candle/NN 
+do/VBP not/RB wear/VB sandals/NNS 
+try/VB to/TO avoid/VB the/DT scandals/NNS 
+do/VBP not/RB wanna/VB be/VB a/DT bum/NN 
+you/PRP better/RB chew/VBP gum/NN 
+the/DT pump/NN do/VBP not/RB work/VB 
+'cause/VB the/DT vandals/NNS took/VBD the/DT handles/VBZ 
+

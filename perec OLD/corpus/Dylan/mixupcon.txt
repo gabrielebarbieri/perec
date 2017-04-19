@@ -1,0 +1,24 @@
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "got", "POS": "VBD"}, {"word": "mixed", "POS": "VBN"}, {"word": "up", "POS": "RP"}, {"word": "confusion", "POS": "NN"}], "sentence": "i got mixed up confusion"}
+{"tags": [{"word": "man", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "a-killin", "POS": "JJ"}, {"word": "'", "POS": "PCT"}, {"word": "me", "POS": "PRP"}], "sentence": "man , it is a-killin ' me"}
+
+{"tags": [{"word": "well", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "there", "POS": "EX"}, {"word": "is", "POS": "VBZ"}, {"word": "too", "POS": "RB"}, {"word": "many", "POS": "JJ"}, {"word": "people", "POS": "NNS"}], "sentence": "well , there is too many people"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "they", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "all", "POS": "DT"}, {"word": "too", "POS": "RB"}, {"word": "hard", "POS": "JJ"}, {"word": "to", "POS": "TO"}, {"word": "please", "POS": "VB"}], "sentence": "and they are all too hard to please"}
+
+{"tags": [{"word": "well", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "my", "POS": "PRP$"}, {"word": "hat", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "in", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "hand", "POS": "NN"}], "sentence": "well , my hat 's in my hand"}
+{"tags": [{"word": "babe", "POS": "NNP"}, {"word": ",", "POS": "PCT"}, {"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "walkin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": "down", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "line", "POS": "NN"}], "sentence": "babe , i am walkin ' down the line"}
+
+{"tags": [{"word": "an", "POS": "DT"}, {"word": "'", "POS": "PCT"}, {"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "lookin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": "for", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "woman", "POS": "NN"}], "sentence": "an ' i am lookin ' for a woman"}
+{"tags": [{"word": "whose", "POS": "JJ"}, {"word": "head", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "mixed", "POS": "VBN"}, {"word": "up", "POS": "RP"}, {"word": "like", "POS": "IN"}, {"word": "mine", "POS": "NN"}], "sentence": "whose head 's mixed up like mine"}
+
+{"tags": [{"word": "well", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "my", "POS": "PRP$"}, {"word": "head", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "full", "POS": "JJ"}, {"word": "of", "POS": "IN"}, {"word": "questions", "POS": "NNS"}], "sentence": "well , my head 's full of questions"}
+{"tags": [{"word": "my", "POS": "PRP$"}, {"word": "temp", "POS": "NN"}, {"word": "`", "POS": "PCT"}, {"word": "rature", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "risin", "POS": "NN"}, {"word": "'", "POS": "PCT"}, {"word": "fast", "POS": "RB"}], "sentence": "my temp ` rature 's risin ' fast"}
+
+{"tags": [{"word": "well", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "lookin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": "for", "POS": "IN"}, {"word": "some", "POS": "DT"}, {"word": "answers", "POS": "NNS"}], "sentence": "well , i am lookin ' for some answers"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "know", "POS": "VB"}, {"word": "who", "POS": "WP"}, {"word": "to", "POS": "TO"}, {"word": "ask", "POS": "VB"}], "sentence": "but i do not know who to ask"}
+
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "walkin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": "and", "POS": "CC"}, {"word": "wonderin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}], "sentence": "but i am walkin ' and wonderin '"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "my", "POS": "PRP$"}, {"word": "poor", "POS": "JJ"}, {"word": "feet", "POS": "NNS"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "ever", "POS": "RB"}, {"word": "stop", "POS": "VB"}], "sentence": "and my poor feet do not ever stop"}
+
+{"tags": [{"word": "seein", "POS": "NNP"}, {"word": "'", "POS": "POS"}, {"word": "my", "POS": "PRP$"}, {"word": "reflection", "POS": "NN"}], "sentence": "seein ' my reflection"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "hung", "POS": "JJ"}, {"word": "over", "POS": "IN"}, {"word": ",", "POS": "PCT"}, {"word": "hung", "POS": "VBD"}, {"word": "down", "POS": "RP"}, {"word": ",", "POS": "PCT"}, {"word": "hung", "POS": "VBD"}, {"word": "up", "POS": "RP"}, {"word": "!", "POS": "PCT"}], "sentence": "i am hung over , hung down , hung up !"}
+

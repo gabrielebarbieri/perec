@@ -1,0 +1,21 @@
+smoky/NNP autumn/NN night/NN ,/PCT stars/VBZ up/RP in/IN the/DT sky/NN ,/PCT 
+i/PRP see/VBP the/DT sailin/NN '/PCT boats/NNS across/IN the/DT bay/NN go/VB by/IN ./PCT 
+eucalyptus/NNP trees/NNS hang/VBP above/IN the/DT street/NN 
+and/CC then/RB i/PRP turn/VB my/PRP$ head/NN ,/PCT for/IN you/PRP are/VBP approachin/VBG '/PCT me/PRP ./PCT 
+moonlight/NNP on/IN the/DT water/NN ,/PCT fisherman/NN 's/POS daughter/NN ,/PCT floatin/NN '/PCT in/IN to/TO my/PRP$ room/NN 
+with/IN a/DT golden/JJ loom/VBP ./PCT 
+
+first/RB we/PRP wash/VBP our/PRP$ feet/NNS near/IN the/DT immortal/JJ shrine/NN 
+and/CC then/RB our/PRP$ shadows/NNS meet/VBP and/CC then/RB we/PRP drink/VBP the/DT wine/NN ./PCT 
+i/PRP see/VBP the/DT hungry/JJ clouds/NNS up/RB above/IN your/PRP$ face/NN 
+and/CC then/RB the/DT tears/NNS roll/VBP down/RB ,/PCT what/WP a/DT bitter/JJ taste/NN ./PCT 
+and/CC then/RB you/PRP drift/VBP away/RB on/IN a/DT summer/NN 's/POS day/NN where/WRB the/DT wildflowers/NNS bloom/VBP 
+with/IN your/PRP$ golden/JJ loom/VBP ./PCT 
+
+i/PRP walk/VBP across/IN the/DT bridge/NN in/IN the/DT dismal/JJ light/NN 
+where/WRB all/PDT the/DT cars/NNS are/VBP stripped/VBN between/IN the/DT gates/NNS of/IN night/NN ./PCT 
+i/PRP see/VBP the/DT trembling/VBG lion/NN with/IN the/DT lotus/NN flower/NN tail/NN 
+and/CC then/RB i/PRP kiss/VB your/PRP$ lips/NNS as/IN i/PRP lift/VBP your/PRP$ veil/NN ./PCT 
+but/CC you/PRP are/VBP gone/VBN and/CC then/RB all/DT i/PRP seem/VBP to/TO recall/VB is/VBZ the/DT smell/NN of/IN perfume/NN 
+and/CC your/PRP$ golden/JJ loom/VBP ./PCT 
+

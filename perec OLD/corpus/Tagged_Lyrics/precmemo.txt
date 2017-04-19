@@ -1,0 +1,15 @@
+as/IN i/PRP travel/VBP down/RP life/NN 's/POS pathway/NN ,/PCT 
+know/NNP not/RB what/WP the/DT years/NNS may/MD hold/VB ./PCT 
+as/IN i/PRP ponder/VBP ,/PCT hopes/VBZ grow/VB fonder/NN ,/PCT 
+precious/JJ memories/NNS flood/NN my/PRP$ soul/NN 
+
+precious/JJ father/NN ,/PCT loving/VBG mother/NN ,/PCT 
+glide/VB across/IN the/DT lonely/JJ years/NNS ./PCT 
+and/CC old/JJ homes/NNS scenes/NNS of/IN my/PRP$ childhood/NN 
+in/IN fond/JJ memory/NN appears/VBZ ./PCT 
+
+precious/JJ memories/NNS ,/PCT how/WRB they/PRP linger/VBP 
+how/WRB they/PRP ever/RB flood/NN my/PRP$ soul/NN ./PCT 
+in/IN the/DT stillness/NN of/IN the/DT midnight/NN ,/PCT 
+precious/JJ sacred/JJ scenes/NNS unfold/VBP ./PCT 
+

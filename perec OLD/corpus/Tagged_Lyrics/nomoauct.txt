@@ -1,0 +1,20 @@
+no/DT more/RBR auction/NN block/NN for/IN me/PRP 
+no/DT more/RBR ,/PCT no/DT more/JJR 
+no/DT more/RBR auction/NN block/NN for/IN me/PRP 
+many/JJ thousands/NNS gone/VBN 
+
+no/DT more/RBR driver/NN 's/POS lash/VB for/IN me/PRP 
+no/DT more/RBR ,/PCT no/DT more/JJR 
+no/DT more/RBR driver/NN 's/POS lash/VB for/IN me/PRP 
+many/JJ thousands/NNS gone/VBN 
+
+no/DT more/RBR whip/NN lash/VBP for/IN me/PRP 
+no/DT more/RBR ,/PCT no/DT more/JJR 
+no/DT more/RBR pint/JJ of/IN salt/NN for/IN me/PRP 
+many/JJ thousands/NNS gone/VBN 
+
+no/DT more/RBR auction/NN block/NN for/IN me/PRP 
+no/DT more/RBR ,/PCT no/DT more/JJR 
+no/DT more/RBR auction/NN block/NN for/IN me/PRP 
+many/JJ thousands/NNS gone/VBN 
+

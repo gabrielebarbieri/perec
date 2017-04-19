@@ -1,0 +1,70 @@
+well/RB ,/PCT my/PRP$ shoes/NNS ,/PCT they/PRP come/VBP from/IN singapore/NNP ,/PCT 
+my/PRP$ flashlight/NN 's/POS from/IN taiwan/NNP ,/PCT 
+my/PRP$ tablecloth/NN 's/POS from/IN malaysia/NNP ,/PCT 
+my/PRP$ belt/NN buckle/NN 's/POS from/IN the/DT amazon/NNP ./PCT 
+you/PRP know/VBP ,/PCT this/DT shirt/NN i/PRP wear/VBP comes/VBZ from/IN the/DT philippines/NNPS 
+and/CC the/DT car/NN i/PRP drive/VBP is/VBZ a/DT chevrolet/NNP ,/PCT 
+it/PRP was/VBD put/VBN together/RB down/RB in/IN argentina/NNP 
+by/IN a/DT guy/NN makin/FW '/PCT thirty/CD cents/NNS a/DT day/NN ./PCT 
+
+well/RB ,/PCT it/PRP is/VBZ sundown/VBN on/IN the/DT union/NN 
+and/CC what/WP is/VBZ made/VBN in/IN the/DT u.s.a./NN 
+sure/NNP was/VBD a/DT good/JJ idea/NN 
+'til/JJ greed/NN got/VBD in/IN the/DT way/NN ./PCT 
+
+well/RB ,/PCT this/DT silk/NN dress/NN is/VBZ from/IN hong/NNP kong/NNP 
+and/CC the/DT pearls/NNS are/VBP from/IN japan/NNP ./PCT 
+well/RB ,/PCT the/DT dog/NN collar/NN 's/POS from/IN india/NNP 
+and/CC the/DT flower/NN pot/NN 's/POS from/IN pakistan/NNP ./PCT 
+all/PDT the/DT furniture/NN ,/PCT it/PRP says/VBZ ``/PCT made/VBN in/IN brazil/NNP ''/PCT 
+where/WRB a/DT woman/NN ,/PCT she/PRP slaved/VBD for/IN sure/JJ 
+bringin/NNP '/POS home/NN thirty/CD cents/NNS a/DT day/NN to/TO a/DT family/NN of/IN twelve/CD ,/PCT 
+you/PRP know/VBP ,/PCT that/DT is/VBZ a/DT lot/NN of/IN money/NN to/TO her/PRP ./PCT 
+
+well/RB ,/PCT it/PRP is/VBZ sundown/VBN on/IN the/DT union/NN 
+and/CC what/WP is/VBZ made/VBN in/IN the/DT u.s.a./NN 
+sure/NNP was/VBD a/DT good/JJ idea/NN 
+'til/JJ greed/NN got/VBD in/IN the/DT way/NN ./PCT 
+
+well/RB ,/PCT you/PRP know/VBP ,/PCT lots/NNS of/IN people/NNS complainin/VBG '/PCT that/IN there/EX is/VBZ no/DT work/NN ./PCT 
+i/PRP say/VBP ,/PCT ``/PCT why/WRB you/PRP say/VBP that/IN for/IN 
+when/WRB nothin/NN '/PCT you/PRP got/VBD is/VBZ u.s.-made/JJ ?/PCT ''/PCT 
+they/PRP do/VBP not/RB make/VB nothin/NN '/PCT here/RB no/RB more/RBR ,/PCT 
+you/PRP know/VBP ,/PCT capitalism/NN is/VBZ above/IN the/DT law/NN ./PCT 
+it/PRP say/VBP ,/PCT ``/PCT it/PRP do/VBP not/RB count/VB `/PCT less/JJR it/PRP sells/VBZ ./PCT ''/PCT 
+when/WRB it/PRP costs/VBZ too/RB much/JJ to/TO build/VB it/PRP at/IN home/NN 
+you/PRP just/RB build/VBP it/PRP cheaper/JJR someplace/NN else/RB ./PCT 
+
+well/RB ,/PCT it/PRP is/VBZ sundown/VBN on/IN the/DT union/NN 
+and/CC what/WP is/VBZ made/VBN in/IN the/DT u.s.a./NN 
+sure/NNP was/VBD a/DT good/JJ idea/NN 
+'til/JJ greed/NN got/VBD in/IN the/DT way/NN ./PCT 
+
+well/RB ,/PCT the/DT job/NN that/IN you/PRP used/VBD to/TO have/VB ,/PCT 
+they/PRP gave/VBD it/PRP to/TO somebody/NN down/RP in/IN el/NNP salvador/NNP ./PCT 
+the/DT unions/NNS are/VBP big/JJ business/NN ,/PCT friend/NN ,/PCT 
+and/CC they/PRP are/VBP goin/VBG '/PCT out/RP like/IN a/DT dinosaur/NN ./PCT 
+they/PRP used/VBD to/TO grow/VB food/NN in/IN kansas/NNP 
+now/RB they/PRP want/VBP to/TO grow/VB it/PRP on/IN the/DT moon/NN and/CC eat/VB it/PRP raw/JJ ./PCT 
+i/PRP can/MD see/VB the/DT day/NN coming/VBG when/WRB even/RB your/PRP$ home/NN garden/NN 
+is/VBZ gonna/NN be/VB against/IN the/DT law/NN ./PCT 
+
+well/RB ,/PCT it/PRP is/VBZ sundown/VBN on/IN the/DT union/NN 
+and/CC what/WP is/VBZ made/VBN in/IN the/DT u.s.a./NN 
+sure/NNP was/VBD a/DT good/JJ idea/NN 
+'til/JJ greed/NN got/VBD in/IN the/DT way/NN ./PCT 
+
+democracy/NN do/VBP not/RB rule/VB the/DT world/NN ,/PCT 
+you/PRP 'd/MD better/RBR get/VB that/DT in/IN your/PRP$ head/NN ./PCT 
+this/DT world/NN is/VBZ ruled/VBN by/IN violence/NN 
+but/CC i/PRP guess/VBP that/DT is/VBZ better/JJR left/VBD unsaid/JJ ./PCT 
+from/IN broadway/NNP to/TO the/DT milky/NNP way/NNP ,/PCT 
+that/DT is/VBZ a/DT lot/NN of/IN territory/NN indeed/RB 
+and/CC a/DT man/NN 's/POS gonna/NNS do/VBP what/WP he/PRP has/VBZ to/TO do/VB 
+when/WRB he/PRP is/VBZ got/VBD a/DT hungry/JJ mouth/NN to/TO feed/VB ./PCT 
+
+well/RB ,/PCT it/PRP is/VBZ sundown/VBN on/IN the/DT union/NN 
+and/CC what/WP is/VBZ made/VBN in/IN the/DT u.s.a./NN 
+sure/NNP was/VBD a/DT good/JJ idea/NN 
+'til/JJ greed/NN got/VBD in/IN the/DT way/NN ./PCT 
+

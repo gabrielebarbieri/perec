@@ -1,0 +1,78 @@
+who/WP killed/VBD davey/NNP moore/NNP ,/PCT 
+why/WRB an/DT '/PCT what/WP is/VBZ the/DT reason/NN for/IN ?/PCT 
+
+``/PCT not/RB i/PRP ,/PCT ''/PCT says/VBZ the/DT referee/NN ,/PCT 
+``/PCT do/VBP not/RB point/VB your/PRP$ finger/NN at/IN me/PRP ./PCT 
+i/PRP could/MD have/VB stopped/VBD it/PRP in/IN the/DT eighth/JJ 
+an/DT '/PCT maybe/RB kept/VBD him/PRP from/IN his/PRP$ fate/NN ,/PCT 
+but/CC the/DT crowd/NN would/MD have/VB booed/VBN ,/PCT i/PRP am/VBP sure/JJ ,/PCT 
+at/IN not/RB gettin/VBG '/PCT their/PRP$ money/NN 's/POS worth/NN ./PCT 
+it/PRP is/VBZ too/RB bad/JJ he/PRP had/VBD to/TO go/VB ,/PCT 
+but/CC there/EX was/VBD a/DT pressure/NN on/IN me/PRP too/RB ,/PCT you/PRP know/VBP ./PCT 
+it/PRP was/VBD not/RB me/PRP that/IN made/VBD him/PRP fall/VB ./PCT 
+no/DT ,/PCT you/PRP ca/MD not/RB blame/VB me/PRP at/IN all/DT ./PCT ''/PCT 
+
+who/WP killed/VBD davey/NNP moore/NNP ,/PCT 
+why/WRB an/DT '/PCT what/WP is/VBZ the/DT reason/NN for/IN ?/PCT 
+
+``/PCT not/RB us/PRP ,/PCT ''/PCT says/VBZ the/DT angry/JJ crowd/NN ,/PCT 
+whose/JJ screams/NNS filled/VBD the/DT arena/NN loud/JJ ./PCT 
+``/PCT it/PRP is/VBZ too/RB bad/JJ he/PRP died/VBD that/DT night/NN 
+but/CC we/PRP just/RB like/VBP to/TO see/VB a/DT fight/NN ./PCT 
+we/PRP did/VBD not/RB mean/VB for/IN him/PRP t/VB '/PCT meet/VB his/PRP$ death/NN ,/PCT 
+we/PRP just/RB meant/VBD to/TO see/VB some/DT sweat/NN ,/PCT 
+there/EX ai/VBP not/RB nothing/NN wrong/JJ in/IN that/DT ./PCT 
+it/PRP was/VBD not/RB us/PRP that/IN made/VBD him/PRP fall/VB ./PCT 
+no/DT ,/PCT you/PRP ca/MD not/RB blame/VB us/PRP at/IN all/DT ./PCT ''/PCT 
+
+who/WP killed/VBD davey/NNP moore/NNP ,/PCT 
+why/WRB an/DT '/PCT what/WP is/VBZ the/DT reason/NN for/IN ?/PCT 
+
+``/PCT not/RB me/PRP ,/PCT ''/PCT says/VBZ his/PRP$ manager/NN ,/PCT 
+puffing/VBG on/IN a/DT big/JJ cigar/NN ./PCT 
+``/PCT it/PRP is/VBZ hard/JJ to/TO say/VB ,/PCT it/PRP is/VBZ hard/JJ to/TO tell/VB ,/PCT 
+i/PRP always/RB thought/VBD that/IN he/PRP was/VBD well/RB ./PCT 
+it/PRP is/VBZ too/RB bad/JJ for/IN his/PRP$ wife/NN an/DT '/PCT kids/NNS he/PRP is/VBZ dead/JJ ,/PCT 
+but/CC if/IN he/PRP was/VBD sick/JJ ,/PCT he/PRP should/MD have/VB said/VBD ./PCT 
+it/PRP was/VBD not/RB me/PRP that/IN made/VBD him/PRP fall/VB ./PCT 
+no/DT ,/PCT you/PRP ca/MD not/RB blame/VB me/PRP at/IN all/DT ./PCT ''/PCT 
+
+who/WP killed/VBD davey/NNP moore/NNP ,/PCT 
+why/WRB an/DT '/PCT what/WP is/VBZ the/DT reason/NN for/IN ?/PCT 
+
+``/PCT not/RB me/PRP ,/PCT ''/PCT says/VBZ the/DT gambling/NN man/NN ,/PCT 
+with/IN his/PRP$ ticket/NN stub/NN still/RB in/IN his/PRP$ hand/NN ./PCT 
+``/PCT it/PRP was/VBD not/RB me/PRP that/IN knocked/VBD him/PRP down/RP ,/PCT 
+my/PRP$ hands/NNS never/RB touched/VBD him/PRP none/NN ./PCT 
+i/PRP did/VBD not/RB commit/VB no/DT ugly/JJ sin/NN ,/PCT 
+anyway/RB ,/PCT i/PRP put/VBP money/NN on/IN him/PRP to/TO win/VB ./PCT 
+it/PRP was/VBD not/RB me/PRP that/IN made/VBD him/PRP fall/VB ./PCT 
+no/DT ,/PCT you/PRP ca/MD not/RB blame/VB me/PRP at/IN all/DT ./PCT ''/PCT 
+
+who/WP killed/VBD davey/NNP moore/NNP ,/PCT 
+why/WRB an/DT '/PCT what/WP is/VBZ the/DT reason/NN for/IN ?/PCT 
+
+``/PCT not/RB me/PRP ,/PCT ''/PCT says/VBZ the/DT boxing/VBG writer/NN ,/PCT 
+pounding/VBG print/NN on/IN his/PRP$ old/JJ typewriter/NN ,/PCT 
+sayin/NNP '/POS ,/PCT ``/PCT boxing/NNP ai/VBP not/RB to/TO blame/VB ,/PCT 
+there/EX is/VBZ just/RB as/RB much/JJ danger/NN in/IN a/DT football/NN game/NN ./PCT ''/PCT 
+sayin/NNP '/POS ,/PCT ``/PCT fist/NN fighting/NN is/VBZ here/RB to/TO stay/VB ,/PCT 
+it/PRP is/VBZ just/RB the/DT old/JJ american/JJ way/NN ./PCT 
+it/PRP was/VBD not/RB me/PRP that/IN made/VBD him/PRP fall/VB ./PCT 
+no/DT ,/PCT you/PRP ca/MD not/RB blame/VB me/PRP at/IN all/DT ./PCT ''/PCT 
+
+who/WP killed/VBD davey/NNP moore/NNP ,/PCT 
+why/WRB an/DT '/PCT what/WP is/VBZ the/DT reason/NN for/IN ?/PCT 
+
+``/PCT not/RB me/PRP ,/PCT ''/PCT says/VBZ the/DT man/NN whose/WP$ fists/NNS 
+laid/VBN him/PRP low/JJ in/IN a/DT cloud/NN of/IN mist/NN ,/PCT 
+who/WP came/VBD here/RB from/IN cuba/NNP 's/POS door/NN 
+where/WRB boxing/VBG ai/VBP not/RB allowed/VBN no/RB more/RBR ./PCT 
+``/PCT i/PRP hit/VBD him/PRP ,/PCT yes/UH ,/PCT it/PRP is/VBZ true/JJ ,/PCT 
+but/CC that/DT is/VBZ what/WP i/PRP am/VBP paid/VBN to/TO do/VB ./PCT 
+do/VBP not/RB say/VB `/PCT murder/NN ,/PCT '/PCT do/VBP not/RB say/VB `/PCT kill/NN ./PCT '/PCT 
+it/PRP was/VBD destiny/NN ,/PCT it/PRP was/VBD god/NNP 's/POS will/NN ./PCT ''/PCT 
+
+who/WP killed/VBD davey/NNP moore/NNP ,/PCT 
+why/WRB an/DT '/PCT what/WP is/VBZ the/DT reason/NN for/IN ?/PCT 
+

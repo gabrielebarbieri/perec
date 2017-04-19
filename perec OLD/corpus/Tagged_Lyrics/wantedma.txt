@@ -1,0 +1,30 @@
+wanted/VBD man/NN in/IN california/NNP ,/PCT wanted/VBD man/NN in/IN buffalo/NNP ,/PCT 
+wanted/VBD man/NN in/IN kansas/NNP city/NNP ,/PCT wanted/VBD man/NN in/IN ohio/NNP ,/PCT 
+wanted/VBD man/NN in/IN mississippi/NNP ,/PCT wanted/VBD man/NN in/IN old/JJ cheyenne/NNP ,/PCT 
+wherever/NNP you/PRP might/MD look/VB tonight/RB ,/PCT you/PRP might/MD see/VB this/DT wanted/VBD man/NN ./PCT 
+
+i/PRP might/MD be/VB in/IN colorado/NNP or/CC georgia/NNP by/IN the/DT sea/NN ,/PCT 
+working/VBG for/IN some/DT man/NN who/WP may/MD not/RB know/VB at/IN all/DT who/WP i/PRP might/MD be/VB ./PCT 
+if/IN you/PRP ever/RB see/VBP me/PRP comin/VB '/PCT and/CC if/IN you/PRP know/VBP who/WP i/PRP am/VBP ,/PCT 
+do/VBP not/RB you/PRP breathe/VBP it/PRP to/TO nobody/NN 'cause/NN you/PRP know/VBP i/PRP am/VBP on/IN the/DT lam/NN ./PCT 
+
+wanted/VBD man/NN by/IN lucy/NNP watson/NNP ,/PCT wanted/VBD man/NN by/IN jeannie/NNP brown/NNP ,/PCT 
+wanted/VBD man/NN by/IN nellie/NNP johnson/NNP ,/PCT wanted/VBD man/NN in/IN this/DT next/JJ town/NN ./PCT 
+but/CC i/PRP have/VBP had/VBD all/DT that/IN i/PRP have/VBP wanted/VBN of/IN a/DT lot/NN of/IN things/NNS i/PRP had/VBD 
+and/CC a/DT lot/NN more/JJR than/IN i/PRP needed/VBD of/IN some/DT things/NNS that/WDT turned/VBD out/RP bad/JJ ./PCT 
+
+i/PRP got/VBD sidetracked/VBN in/IN el/NNP paso/NNP ,/PCT stopped/VBD to/TO get/VB myself/PRP a/DT map/NN 
+went/VBD the/DT wrong/JJ way/NN into/IN juarez/NNP with/IN juanita/NNP on/IN my/PRP$ lap/NN ./PCT 
+then/RB i/PRP went/VBD to/TO sleep/VB in/IN shreveport/NNP ,/PCT woke/VBD up/RP in/IN abilene/NNP 
+wonderin/NNP '/POS why/WRB the/DT hell/NN i/PRP am/VBP wanted/VBD at/IN some/DT town/NN halfway/NN between/IN ./PCT 
+
+wanted/VBD man/NN in/IN albuquerque/NNP ,/PCT wanted/VBD man/NN in/IN syracuse/NNP ,/PCT 
+wanted/VBD man/NN in/IN tallahassee/NNP ,/PCT wanted/VBD man/NN in/IN baton/NNP rouge/NNP ,/PCT 
+there/EX is/VBZ somebody/NN set/VBN to/TO grab/VB me/PRP anywhere/RB that/IN i/PRP might/MD be/VB 
+and/CC wherever/WRB you/PRP might/MD look/VB tonight/RB ,/PCT you/PRP might/MD get/VB a/DT glimpse/NN of/IN me/PRP ./PCT 
+
+wanted/VBD man/NN in/IN california/NNP ,/PCT wanted/VBD man/NN in/IN buffalo/NNP ,/PCT 
+wanted/VBD man/NN in/IN kansas/NNP city/NNP ,/PCT wanted/VBD man/NN in/IN ohio/NNP ,/PCT 
+wanted/VBD man/NN in/IN mississippi/NNP ,/PCT wanted/VBD man/NN in/IN old/JJ cheyenne/NNP ,/PCT 
+wherever/NNP you/PRP might/MD look/VB tonight/RB ,/PCT you/PRP might/MD see/VB this/DT wanted/VBD man/NN ./PCT 
+

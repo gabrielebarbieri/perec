@@ -1,0 +1,26 @@
+john/NNP wesley/NNP harding/NNP 
+was/VBD a/DT friend/NN to/TO the/DT poor/JJ ,/PCT 
+he/PRP trav/VBD `/PCT led/VBN with/IN a/DT gun/NN in/IN ev/NN `/PCT ry/JJ hand/NN ./PCT 
+all/DT along/IN this/DT countryside/NN ,/PCT 
+he/PRP opened/VBD a/DT many/JJ a/DT door/NN ,/PCT 
+but/CC he/PRP was/VBD never/RB known/VBN 
+to/TO hurt/VB a/DT honest/JJ man/NN ./PCT 
+
+'twas/NNS down/RB in/IN chaynee/NNP county/NNP ,/PCT 
+a/DT time/NN they/PRP talk/VBP about/IN ,/PCT 
+with/IN his/PRP$ lady/NN by/IN his/PRP$ side/NN 
+he/PRP took/VBD a/DT stand/NN ./PCT 
+and/CC soon/RB the/DT situation/NN there/RB 
+was/VBD all/DT but/CC straightened/VBN out/RP ,/PCT 
+for/IN he/PRP was/VBD always/RB known/VBN 
+to/TO lend/VB a/DT helping/VBG hand/NN ./PCT 
+
+all/DT across/IN the/DT telegraph/NN 
+his/PRP$ name/NN it/PRP did/VBD resound/VB ,/PCT 
+but/CC no/DT charge/NN held/VBN against/IN him/PRP 
+could/MD they/PRP prove/VB ./PCT 
+and/CC there/EX was/VBD no/DT man/NN around/IN 
+who/WP could/MD track/VB or/CC chain/VB him/PRP down/RB ,/PCT 
+he/PRP was/VBD never/RB known/VBN 
+to/TO make/VB a/DT foolish/JJ move/NN ./PCT 
+

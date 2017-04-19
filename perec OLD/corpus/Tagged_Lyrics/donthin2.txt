@@ -1,0 +1,36 @@
+it/PRP ai/VBP not/RB no/DT use/NN to/TO sit/VB and/CC wonder/VB why/WRB ,/PCT babe/NN 
+it/PRP do/VBP not/RB matter/VB ,/PCT anyhow/VB 
+an/DT '/PCT it/PRP ai/VBP not/RB no/DT use/NN to/TO sit/VB and/CC wonder/VB why/WRB ,/PCT babe/NN 
+if/IN you/PRP do/VBP not/RB know/VB by/IN now/RB 
+when/WRB your/PRP$ rooster/NN crows/VBZ at/IN the/DT break/NN of/IN dawn/NN 
+look/VB out/RP your/PRP$ window/NN and/CC i/PRP 'll/MD be/VB gone/VBN 
+you/PRP are/VBP the/DT reason/NN i/PRP am/VBP trav/JJ `/PCT lin/NN '/PCT on/IN 
+do/VBP not/RB think/VB twice/RB ,/PCT it/PRP is/VBZ all/RB right/JJ 
+
+it/PRP ai/VBP not/RB no/DT use/NN in/IN turnin/NN '/PCT on/IN your/PRP$ light/NN ,/PCT babe/NN 
+that/DT light/NN i/PRP never/RB knowed/VBD 
+an/DT '/PCT it/PRP ai/VBP not/RB no/DT use/NN in/IN turnin/NN '/PCT on/IN your/PRP$ light/NN ,/PCT babe/NN 
+i/PRP am/VBP on/IN the/DT dark/JJ side/NN of/IN the/DT road/NN 
+still/RB i/PRP wish/VBP there/EX was/VBD somethin'/NN you/PRP would/MD do/VB or/CC say/VB 
+to/TO try/VB and/CC make/VB me/PRP change/VB my/PRP$ mind/NN and/CC stay/VB 
+we/PRP never/RB did/VBD too/RB much/JJ talkin/NN '/PCT anyway/RB 
+so/RB do/VBP not/RB think/VB twice/RB ,/PCT it/PRP is/VBZ all/RB right/JJ 
+
+it/PRP ai/VBP not/RB no/DT use/NN in/IN callin/NN '/PCT out/RP my/PRP$ name/NN ,/PCT gal/NN 
+like/IN you/PRP never/RB did/VBD before/IN 
+it/PRP ai/VBP not/RB no/DT use/NN in/IN callin/NN '/PCT out/RP my/PRP$ name/NN ,/PCT gal/NN 
+i/PRP ca/MD not/RB hear/VB you/PRP any/DT more/JJR 
+i/PRP am/VBP a-thinkin/VBG '/PCT and/CC a-wond/JJ `/PCT rin/NN '/PCT all/PDT the/DT way/NN down/IN the/DT road/NN 
+i/PRP once/RB loved/VBD a/DT woman/NN ,/PCT a/DT child/NN i/PRP am/VBP told/VBN 
+i/PRP give/VBP her/PRP$ my/PRP$ heart/NN but/CC she/PRP wanted/VBD my/PRP$ soul/NN 
+but/CC do/VBP not/RB think/VB twice/RB ,/PCT it/PRP is/VBZ all/RB right/JJ 
+
+i/PRP am/VBP walkin/VBG '/PCT down/RP that/DT long/RB ,/PCT lonesome/JJ road/NN ,/PCT babe/NN 
+where/WRB i/PRP am/VBP bound/VBN ,/PCT i/PRP ca/MD not/RB tell/VB 
+but/CC goodbye/NN 's/POS too/RB good/JJ a/DT word/NN ,/PCT gal/NN 
+so/IN i/PRP 'll/MD just/RB say/VB fare/NN thee/RB well/RB 
+i/PRP ai/VBP not/RB sayin/VBG '/PCT you/PRP treated/VBD me/PRP unkind/VB 
+you/PRP could/MD have/VB done/VBN better/RB but/CC i/PRP do/VBP not/RB mind/VB 
+you/PRP just/RB kinda/VBP wasted/VBN my/PRP$ precious/JJ time/NN 
+but/CC do/VBP not/RB think/VB twice/RB ,/PCT it/PRP is/VBZ all/RB right/JJ 
+

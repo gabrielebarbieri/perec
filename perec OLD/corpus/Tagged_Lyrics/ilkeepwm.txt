@@ -1,0 +1,30 @@
+you/PRP will/MD search/VB ,/PCT babe/NN ,/PCT 
+at/IN any/DT cost/NN ./PCT 
+but/CC how/WRB long/RB ,/PCT babe/NN ,/PCT 
+can/MD you/PRP search/VB for/IN what/WP is/VBZ not/RB lost/VBN ?/PCT 
+ev/NNP `/PCT rybody/NN will/MD help/VB you/PRP ,/PCT 
+some/DT people/NNS are/VBP very/RB kind/RB ./PCT 
+but/CC if/IN i/PRP can/MD save/VB you/PRP any/DT time/NN ,/PCT 
+come/VBN on/IN ,/PCT give/VB it/PRP to/TO me/PRP ,/PCT 
+i/PRP 'll/MD keep/VB it/PRP with/IN mine/NN ./PCT 
+
+i/PRP ca/MD not/RB help/VB it/PRP 
+if/IN you/PRP might/MD think/VB i/PRP am/VBP odd/JJ ,/PCT 
+if/IN i/PRP say/VBP i/PRP am/VBP not/RB loving/VBG you/PRP for/IN what/WP you/PRP are/VBP 
+but/CC for/IN what/WP you/PRP are/VBP not/RB ./PCT 
+everybody/NN will/MD help/VB you/PRP 
+discover/NNP what/WP you/PRP set/VBP out/RP to/TO find/VB ./PCT 
+but/CC if/IN i/PRP can/MD save/VB you/PRP any/DT time/NN ,/PCT 
+come/VBN on/IN ,/PCT give/VB it/PRP to/TO me/PRP ,/PCT 
+i/PRP 'll/MD keep/VB it/PRP with/IN mine/NN ./PCT 
+
+the/DT train/NN leaves/VBZ 
+at/IN half/DT past/JJ ten/NN ,/PCT 
+but/CC it/PRP 'll/MD be/VB back/RB tomorrow/NN ,/PCT 
+same/JJ time/NN again/RB ./PCT 
+the/DT conductor/NN he/PRP is/VBZ weary/JJ ,/PCT 
+he/PRP is/VBZ still/RB stuck/VBN on/IN the/DT line/NN ./PCT 
+but/CC if/IN i/PRP can/MD save/VB you/PRP any/DT time/NN ,/PCT 
+come/VBN on/IN ,/PCT give/VB it/PRP to/TO me/PRP ,/PCT 
+i/PRP 'll/MD keep/VB it/PRP with/IN mine/NN ./PCT 
+

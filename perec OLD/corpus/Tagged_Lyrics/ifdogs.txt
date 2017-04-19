@@ -1,0 +1,27 @@
+if/IN dogs/NNS run/VBP free/JJ ,/PCT then/RB why/WRB not/RB we/PRP 
+across/IN the/DT swooping/VBG plain/NN ?/PCT 
+my/PRP$ ears/NNS hear/VBP a/DT symphony/NN 
+of/IN two/CD mules/NNS ,/PCT trains/NNS and/CC rain/NN ./PCT 
+the/DT best/JJS is/VBZ always/RB yet/RB to/TO come/VB ,/PCT 
+that/DT is/VBZ what/WP they/PRP explain/VBP to/TO me/PRP ./PCT 
+just/RB do/VB your/PRP$ thing/NN ,/PCT you/PRP 'll/MD be/VB king/NN ,/PCT 
+if/IN dogs/NNS run/VBP free/JJ ./PCT 
+
+if/IN dogs/NNS run/VBP free/JJ ,/PCT why/WRB not/RB me/PRP 
+across/IN the/DT swamp/VB of/IN time/NN ?/PCT 
+my/PRP$ mind/NN weaves/VBZ a/DT symphony/NN 
+and/CC tapestry/NN of/IN rhyme/NN ./PCT 
+oh/UH ,/PCT winds/NNS which/WDT rush/VBP my/PRP$ tale/NN to/TO thee/VB 
+so/IN it/PRP may/MD flow/VB and/CC be/VB ,/PCT 
+to/TO each/DT his/PRP$ own/JJ ,/PCT it/PRP is/VBZ all/DT unknown/JJ ,/PCT 
+if/IN dogs/NNS run/VBP free/JJ ./PCT 
+
+if/IN dogs/NNS run/VBP free/JJ ,/PCT then/RB what/WP must/MD be/VB ,/PCT 
+must/MD be/VB ,/PCT and/CC that/DT is/VBZ all/DT ./PCT 
+true/JJ love/NN can/MD make/VB a/DT blade/NN of/IN grass/NN 
+stand/VB up/RP straight/JJ and/CC tall/JJ ./PCT 
+in/IN harmony/NN with/IN the/DT cosmic/JJ sea/NN ,/PCT 
+true/JJ love/NN needs/VBZ no/DT company/NN ,/PCT 
+it/PRP can/MD cure/VB the/DT soul/NN ,/PCT it/PRP can/MD make/VB it/PRP whole/JJ ,/PCT 
+if/IN dogs/NNS run/VBP free/JJ ./PCT 
+

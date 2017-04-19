@@ -1,0 +1,27 @@
+well/RB ,/PCT i/PRP ride/VBP on/IN a/DT mailtrain/NN ,/PCT baby/NN ,/PCT 
+ca/MD not/RB buy/VB a/DT thrill/NN ./PCT 
+well/RB ,/PCT i/PRP have/VBP been/VBN up/RP all/DT night/NN ,/PCT baby/NN ,/PCT 
+leanin/NNP '/POS on/IN the/DT window/NN sill/NN ./PCT 
+well/RB ,/PCT if/IN i/PRP die/VBP 
+on/IN top/NN of/IN the/DT hill/NN 
+and/CC if/IN i/PRP do/VBP not/RB make/VB it/PRP ,/PCT 
+you/PRP know/VBP my/PRP$ baby/NN will/MD ./PCT 
+
+do/VBP not/RB the/DT moon/NN look/NN good/JJ ,/PCT mama/NN ,/PCT 
+shinin/VBG '/PCT through/IN the/DT trees/NNS ?/PCT 
+do/VBP not/RB the/DT brakeman/NN look/NN good/JJ ,/PCT mama/NN ,/PCT 
+flagging/VBG down/RP the/DT ``/PCT double/RB e/NNP ''/PCT ?/PCT 
+do/VBP not/RB the/DT sun/NN look/VB good/JJ 
+goin/NNP '/POS down/RP over/IN the/DT sea/NN ?/PCT 
+do/VBP not/RB my/PRP$ gal/JJ look/NN fine/NN 
+when/WRB she/PRP is/VBZ comin/NN '/PCT after/IN me/PRP ?/PCT 
+
+now/RB the/DT wintertime/NN is/VBZ coming/VBG ,/PCT 
+the/DT windows/NNS are/VBP filled/VBN with/IN frost/NN ./PCT 
+i/PRP went/VBD to/TO tell/VB everybody/NN ,/PCT 
+but/CC i/PRP could/MD not/RB get/VB across/IN ./PCT 
+well/RB ,/PCT i/PRP wanna/VBP be/VB your/PRP$ lover/NN ,/PCT baby/NN ,/PCT 
+i/PRP do/VBP not/RB wanna/VB be/VB your/PRP$ boss/NN ./PCT 
+do/VBP not/RB say/VB i/PRP never/RB warned/VBD you/PRP 
+when/WRB your/PRP$ train/NN gets/VBZ lost/VBN ./PCT 
+

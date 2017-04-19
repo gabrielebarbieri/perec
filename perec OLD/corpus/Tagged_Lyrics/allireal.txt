@@ -1,0 +1,42 @@
+i/PRP ai/VBP not/RB lookin/VBG '/PCT to/TO compete/VB with/IN you/PRP ,/PCT 
+beat/NN or/CC cheat/VB or/CC mistreat/VB you/PRP ,/PCT 
+simplify/VB you/PRP ,/PCT classify/VB you/PRP ,/PCT 
+deny/JJ ,/PCT defy/VB or/CC crucify/VB you/PRP ./PCT 
+all/DT i/PRP really/RB want/VBP to/TO do/VB 
+is/VBZ ,/PCT baby/NN ,/PCT be/VB friends/NNS with/IN you/PRP ./PCT 
+
+no/DT ,/PCT and/CC i/PRP ai/VBP not/RB lookin/VBG '/PCT to/TO fight/VB with/IN you/PRP ,/PCT 
+frighten/NNP you/PRP or/CC tighten/VB you/PRP ,/PCT 
+drag/VB you/PRP down/IN or/CC drain/VB you/PRP down/RB ,/PCT 
+chain/NNP you/PRP down/RP or/CC bring/VB you/PRP down/RP ./PCT 
+all/DT i/PRP really/RB want/VBP to/TO do/VB 
+is/VBZ ,/PCT baby/NN ,/PCT be/VB friends/NNS with/IN you/PRP ./PCT 
+
+i/PRP ai/VBP not/RB lookin/VBG '/PCT to/TO block/VB you/PRP up/RP 
+shock/NN or/CC knock/VB or/CC lock/VB you/PRP up/RP ,/PCT 
+analyze/VB you/PRP ,/PCT categorize/VB you/PRP ,/PCT 
+finalize/VB you/PRP or/CC advertise/VB you/PRP ./PCT 
+all/DT i/PRP really/RB want/VBP to/TO do/VB 
+is/VBZ ,/PCT baby/NN ,/PCT be/VB friends/NNS with/IN you/PRP ./PCT 
+
+i/PRP do/VBP not/RB want/VB to/TO straight-face/VB you/PRP ,/PCT 
+race/NN or/CC chase/VB you/PRP ,/PCT track/VBP or/CC trace/VBP you/PRP ,/PCT 
+or/CC disgrace/NN you/PRP or/CC displace/VB you/PRP ,/PCT 
+or/CC define/VB you/PRP or/CC confine/VB you/PRP ./PCT 
+all/DT i/PRP really/RB want/VBP to/TO do/VB 
+is/VBZ ,/PCT baby/NN ,/PCT be/VB friends/NNS with/IN you/PRP ./PCT 
+
+i/PRP do/VBP not/RB want/VB to/TO meet/VB your/PRP$ kin/FW ,/PCT 
+make/NNP you/PRP spin/VBP or/CC do/VBP you/PRP in/IN ,/PCT 
+or/CC select/VB you/PRP or/CC dissect/VB you/PRP ,/PCT 
+or/CC inspect/VB you/PRP or/CC reject/VBP you/PRP ./PCT 
+all/DT i/PRP really/RB want/VBP to/TO do/VB 
+is/VBZ ,/PCT baby/NN ,/PCT be/VB friends/NNS with/IN you/PRP ./PCT 
+
+i/PRP do/VBP not/RB want/VB to/TO fake/JJ you/PRP out/RP ,/PCT 
+take/VB or/CC shake/VB or/CC forsake/VB you/PRP out/RP ,/PCT 
+i/PRP ai/VBP not/RB lookin/VBG '/PCT for/IN you/PRP to/TO feel/VB like/IN me/PRP ,/PCT 
+see/VB like/IN me/PRP or/CC be/VB like/IN me/PRP ./PCT 
+all/DT i/PRP really/RB want/VBP to/TO do/VB 
+is/VBZ ,/PCT baby/NN ,/PCT be/VB friends/NNS with/IN you/PRP ./PCT 
+

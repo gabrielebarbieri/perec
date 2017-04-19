@@ -1,0 +1,15 @@
+some/DT say/VBP it/PRP was/VBD radiation/NN ,/PCT some/DT say/VBP there/EX was/VBD acid/NN on/IN the/DT microphone/NN ,/PCT 
+some/DT say/VBP a/DT combination/NN that/WDT turned/VBD their/PRP$ hearts/NNS to/TO stone/NN ,/PCT 
+but/CC whatever/WDT it/PRP was/VBD ,/PCT it/PRP drove/VBD them/PRP to/TO their/PRP$ knees/NNS ./PCT 
+oh/UH ,/PCT legionnaire/NNP 's/POS disease/NN ./PCT 
+
+i/PRP wish/VBP i/PRP had/VBD a/DT dollar/NN for/IN everyone/NN that/IN died/VBD within/IN that/DT year/NN ,/PCT 
+got/NNP 'em/PRP hot/JJ by/IN the/DT collar/NN ,/PCT plenty/RB an/DT old/JJ maid/NN shed/VBD a/DT tear/VB ,/PCT 
+now/RB within/IN my/PRP$ heart/NN ,/PCT it/PRP sure/RB put/VBD on/IN a/DT squeeze/NN ./PCT 
+oh/UH ,/PCT that/IN legionnaire/NNP 's/POS disease/NN ./PCT 
+
+granddad/NNP fought/VBD in/IN a/DT revolutionary/JJ war/NN ,/PCT father/NN in/IN the/DT war/NNP of/IN 1812/CD ,/PCT 
+uncle/NNP fought/VBD in/IN vietnam/NNP and/CC then/RB he/PRP fought/VBD a/DT war/NN all/DT by/IN himself/PRP ,/PCT 
+but/CC whatever/WDT it/PRP was/VBD ,/PCT it/PRP came/VBD out/IN of/IN the/DT trees/NNS ./PCT 
+oh/UH ,/PCT that/IN legionnaire/NNP 's/POS disease/NN ./PCT 
+

@@ -1,0 +1,42 @@
+well/RB ,/PCT i/PRP am/VBP walkin/VBG '/PCT down/IN the/DT highway/NN 
+with/IN my/PRP$ suitcase/NN in/IN my/PRP$ hand/NN ./PCT 
+yes/UH ,/PCT i/PRP am/VBP walkin/VBG '/PCT down/IN the/DT highway/NN 
+with/IN my/PRP$ suitcase/NN in/IN my/PRP$ hand/NN ./PCT 
+lord/NNP ,/PCT i/PRP really/RB miss/VBP my/PRP$ baby/NN ,/PCT 
+she/PRP is/VBZ in/IN some/DT far-off/JJ land/NN ./PCT 
+
+well/RB ,/PCT your/PRP$ streets/NNS are/VBP gettin/VBG '/PCT empty/JJ ,/PCT 
+lord/NNP ,/PCT your/PRP$ highway/NN 's/POS gettin/NN '/PCT filled/VBN ./PCT 
+and/CC your/PRP$ streets/NNS are/VBP gettin/VBG '/PCT empty/JJ 
+and/CC your/PRP$ highway/NN 's/POS gettin/NN '/PCT filled/VBN ./PCT 
+well/RB ,/PCT the/DT way/NN i/PRP love/VBP that/IN woman/NN ,/PCT 
+i/PRP swear/VBP it/PRP is/VBZ bound/VBN to/TO get/VB me/PRP killed/VBN ./PCT 
+
+well/RB ,/PCT i/PRP been/VBN gamblin/VBG '/PCT so/RB long/RB ,/PCT 
+lord/NNP ,/PCT i/PRP ai/VBP not/RB got/VBN much/RB more/RBR to/TO lose/VB ./PCT 
+yes/UH ,/PCT i/PRP been/VBN gamblin/VBG '/PCT so/RB long/RB ,/PCT 
+lord/NNP ,/PCT i/PRP ai/VBP not/RB got/VBN much/RB more/RBR to/TO lose/VB ./PCT 
+right/RB now/RB i/PRP am/VBP havin/VBG '/PCT trouble/NN ,/PCT 
+please/VB do/VB not/RB take/VB away/RP my/PRP$ highway/NN shoes/NNS ./PCT 
+
+well/RB ,/PCT i/PRP am/VBP bound/VBN to/TO get/VB lucky/JJ ,/PCT baby/NN ,/PCT 
+or/CC i/PRP am/VBP bound/VBN to/TO die/VB tryin/NN '/PCT ./PCT 
+yes/UH ,/PCT i/PRP am/VBP a-bound/JJ to/TO get/VB lucky/JJ ,/PCT baby/NN ,/PCT 
+lord/NNP ,/PCT lord/NNP i/PRP am/VBP a-bound/JJ to/TO die/VB tryin/NN '/PCT ./PCT 
+well/RB ,/PCT meet/VBP me/PRP in/IN the/DT middle/NN of/IN the/DT ocean/NN 
+and/CC we/PRP 'll/MD leave/VB this/DT ol'/JJ highway/NN behind/IN ./PCT 
+
+well/RB ,/PCT the/DT ocean/NN took/VBD my/PRP$ baby/NN ,/PCT 
+my/PRP$ baby/NN stole/VBD my/PRP$ heart/NN from/IN me/PRP ./PCT 
+yes/UH ,/PCT the/DT ocean/NN took/VBD my/PRP$ baby/NN ,/PCT 
+my/PRP$ baby/NN took/VBD my/PRP$ heart/NN from/IN me/PRP ./PCT 
+she/PRP packed/VBD it/PRP all/DT up/RP in/IN a/DT suitcase/NN ,/PCT 
+lord/NNP ,/PCT she/PRP took/VBD it/PRP away/RB to/TO italy/NNP ,/PCT italy/NNP ./PCT 
+
+so/RB ,/PCT i/PRP am/VBP a-walkin/VBG '/PCT down/RP your/PRP$ highway/NN 
+just/RB as/IN far/RB as/IN my/PRP$ poor/JJ eyes/NNS can/MD see/VB ./PCT 
+yes/UH ,/PCT i/PRP am/VBP a-walkin/VBG '/PCT down/RP your/PRP$ highway/NN 
+just/RB as/IN far/RB as/IN my/PRP$ eyes/NNS can/MD see/VB ./PCT 
+from/IN the/DT golden/NNP gate/NNP bridge/NNP 
+all/PDT the/DT way/NN to/TO the/DT statue/NNP of/IN liberty/NNP ./PCT 
+

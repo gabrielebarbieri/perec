@@ -1,0 +1,64 @@
+if/IN you/PRP getcha/VBP one/CD girl/NN ,/PCT better/JJR get/VB two/CD 
+case/NNP you/PRP run/VBP into/IN gypsy/NNP lou/NNP 
+she/PRP is/VBZ a/DT ramblin/NN '/PCT woman/NN with/IN a/DT ramblin/NN '/PCT mind/NN 
+always/RB leavin/VBG '/PCT somebody/NN behind/IN ./PCT 
+hey/NNP ,/PCT `/PCT round/VB the/DT bend/VB 
+gypsy/NNP lou/NNP 's/POS gone/VBN again/RB 
+gypsy/NNP lou/NNP 's/POS gone/VBN again/RB ./PCT 
+
+well/RB ,/PCT i/PRP seen/VBD the/DT whole/JJ country/NN through/IN 
+just/RB to/TO find/VB gypsy/NNP lou/NNP 
+seen/VBN it/PRP up/RP ,/PCT seen/VBN it/PRP down/RP 
+followin/VBG '/PCT gypsy/NNP lou/NNP around/IN ./PCT 
+hey/NNP ,/PCT `/PCT round/VB the/DT bend/VB 
+gypsy/NNP lou/NNP 's/POS gone/VBN again/RB 
+gypsy/NNP lou/NNP 's/POS gone/VBN again/RB ./PCT 
+
+well/RB ,/PCT i/PRP gotta/VBP stop/VB and/CC take/VB some/DT rest/NN 
+my/PRP$ poor/JJ feet/NNS are/VBP second/JJ best/JJS 
+my/PRP$ poor/JJ feet/NNS are/VBP wearin/VBG '/PCT thin/JJ 
+gypsy/NNP lou/NNP 's/POS gone/VBN again/RB ./PCT 
+hey/NNP ,/PCT gone/VBN again/RB 
+gypsy/NNP lou/NNP 's/POS around/NNP the/DT bend/VB
+gypsy/NNP lou/NNP 's/POS around/NNP the/DT bend/VB ./PCT
+
+well/RB ,/PCT seen/VBN her/PRP$ up/RP in/IN old/JJ cheyenne/NNP 
+turned/VBN my/PRP$ head/NN and/CC away/RB she/PRP ran/VBD 
+from/IN denver/NNP town/NNP to/TO wichita/NNP 
+last/JJ i/PRP heard/VBD she/PRP is/VBZ in/IN arkansas/NNP ./PCT 
+hey/NNP ,/PCT `/PCT round/VB the/DT bend/VB 
+gypsy/NNP lou/NNP 's/POS gone/VBN again/RB 
+gypsy/NNP lou/NNP 's/POS gone/VBN again/RB 
+
+well/RB ,/PCT i/PRP tell/VBP you/PRP what/WP if/IN you/PRP what/WP if/IN you/PRP want/VBP to/TO do/VB 
+tell/VB you/PRP what/WP ,/PCT you/PRP 'll/MD wear/VB out/RP your/PRP$ shoes/NNS 
+if/IN you/PRP want/VBP to/TO wear/VB out/RP your/PRP$ shoes/NNS 
+try/VB and/CC follow/VB gypsy/NNP lou/NNP ./PCT 
+hey/NNP ,/PCT gone/VBN again/RB 
+gypsy/NNP lou/NNP 's/POS �round/NNP the/DT bend/VB 
+gypsy/NNP lou/NNP 's/POS �round/NNP the/DT bend/VB ./PCT 
+
+well/RB ,/PCT gypsy/NNP lou/NNP ,/PCT i/PRP been/VBN told/VBN 
+livin/NNP '/POS down/RP on/IN gallus/NNP road/NNP 
+gallus/NNP road/NNP ,/PCT arlington/NNP 
+moved/VBN away/RB to/TO washington/NNP ./PCT 
+hey/NNP ,/PCT `/PCT round/VB the/DT bend/VB 
+gypsy/NNP lou/NNP 's/POS gone/VBN again/RB 
+gypsy/NNP lou/NNP 's/POS gone/VBN again/RB 
+
+well/RB ,/PCT i/PRP went/VBD down/RB to/TO washington/NNP 
+then/RB she/PRP went/VBD to/TO oregon/NNP 
+i/PRP skipped/VBD the/DT ground/NN and/CC hopped/VBD a/DT train/NN 
+she/PRP is/VBZ back/RB in/IN gallus/NNP road/NNP again/RB ./PCT 
+hey/NNP ,/PCT i/PRP can�t/VBP win/VB 
+gypsy/NNP lou/NNP 's/POS gone/VBN again/RB 
+gypsy/NNP lou/NNP 's/POS gone/VBN again/RB 
+
+well/RB ,/PCT the/DT last/JJ i/PRP heard/VBD of/IN gypsy/NNP lou/NNP 
+she/PRP is/VBZ in/IN a/DT memphis/NNP calaboose/NN 
+she/PRP left/VBD one/CD too/RB many/JJ a/DT boy/NN behind/IN 
+he/PRP committed/VBD suicide/NN ./PCT 
+hey/NNP ,/PCT you/PRP can�t/VBP win/VB 
+gypsy/NNP lou/NNP 's/POS gone/VBN again/RB 
+gypsy/NNP lou/NNP 's/POS gone/VBN again/RB 
+

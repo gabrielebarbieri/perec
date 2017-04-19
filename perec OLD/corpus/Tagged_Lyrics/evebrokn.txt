@@ -1,0 +1,35 @@
+broken/JJ lines/NNS ,/PCT broken/VBN strings/NNS ,/PCT 
+broken/JJ threads/NNS ,/PCT broken/VBN springs/NNS ,/PCT 
+broken/JJ idols/NNS ,/PCT broken/VBN heads/NNS ,/PCT 
+people/NNS sleeping/VBG in/IN broken/JJ beds/NNS ./PCT 
+ai/NNP not/RB no/DT use/NN jiving/NN 
+ai/NNP not/RB no/DT use/NN joking/VBG 
+everything/NN is/VBZ broken/VBN ./PCT 
+
+broken/JJ bottles/NNS ,/PCT broken/VBN plates/NNS ,/PCT 
+broken/JJ switches/NNS ,/PCT broken/VBN gates/NNS ,/PCT 
+broken/JJ dishes/NNS ,/PCT broken/JJ parts/NNS ,/PCT 
+streets/NNPS are/VBP filled/VBN with/IN broken/JJ hearts/NNS ./PCT 
+broken/JJ words/NNS never/RB meant/VBD to/TO be/VB spoken/VBN ,/PCT 
+everything/NN is/VBZ broken/VBN ./PCT 
+
+seem/NNP like/IN every/DT time/NN you/PRP stop/VBP and/CC turn/VBP around/RP 
+something/NN else/RB just/RB hit/VB the/DT ground/NN 
+
+broken/JJ cutters/NNS ,/PCT broken/VBN saws/NNS ,/PCT 
+broken/JJ buckles/NNS ,/PCT broken/VBN laws/NNS ,/PCT 
+broken/JJ bodies/NNS ,/PCT broken/VBN bones/NNS ,/PCT 
+broken/JJ voices/NNS on/IN broken/JJ phones/NNS ./PCT 
+take/VB a/DT deep/JJ breath/NN ,/PCT feel/VB like/IN you/PRP are/VBP chokin/VBG '/PCT ,/PCT 
+everything/NN is/VBZ broken/VBN ./PCT 
+
+every/DT time/NN you/PRP leave/VBP and/CC go/VBP off/RP someplace/NN 
+things/NNS fall/VBP to/TO pieces/NNS in/IN my/PRP$ face/NN 
+
+broken/JJ hands/NNS on/IN broken/JJ ploughs/NNS ,/PCT 
+broken/JJ treaties/NNS ,/PCT broken/VBN vows/VBZ ,/PCT 
+broken/JJ pipes/NNS ,/PCT broken/VBN tools/NNS ,/PCT 
+people/NNS bending/VBG broken/JJ rules/NNS ./PCT 
+hound/NNP dog/NN howling/NN ,/PCT bull/NN frog/NN croaking/NN ,/PCT 
+everything/NN is/VBZ broken/VBN ./PCT 
+

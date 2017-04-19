@@ -1,0 +1,59 @@
+man/NN gave/VBD names/NNS to/TO all/PDT the/DT animals/NNS 
+in/IN the/DT beginning/NN ,/PCT in/IN the/DT beginning/NN ./PCT 
+man/NN gave/VBD names/NNS to/TO all/PDT the/DT animals/NNS 
+in/IN the/DT beginning/NN ,/PCT long/JJ time/NN ago/RB ./PCT 
+
+he/PRP saw/VBD an/DT animal/NN that/WDT liked/VBD to/TO growl/VB ,/PCT 
+big/JJ furry/NN paws/NNS and/CC he/PRP liked/VBD to/TO howl/NN ,/PCT 
+great/NNP big/JJ furry/NN back/RB and/CC furry/RB hair/NN ./PCT 
+``/PCT ah/UH ,/PCT think/VBP i/PRP 'll/MD call/VB it/PRP a/DT bear/NN ./PCT ''/PCT 
+
+man/NN gave/VBD names/NNS to/TO all/PDT the/DT animals/NNS 
+in/IN the/DT beginning/NN ,/PCT in/IN the/DT beginning/NN ./PCT 
+man/NN gave/VBD names/NNS to/TO all/PDT the/DT animals/NNS 
+in/IN the/DT beginning/NN ,/PCT long/JJ time/NN ago/RB ./PCT 
+
+he/PRP saw/VBD an/DT animal/NN up/RP on/IN a/DT hill/NN 
+chewing/VBG up/RP so/RB much/JJ grass/NN until/IN she/PRP was/VBD filled/VBN ./PCT 
+he/PRP saw/VBD milk/NN comin/NN '/PCT out/RP but/CC he/PRP did/VBD not/RB know/VB how/WRB ./PCT 
+``/PCT ah/UH ,/PCT think/VBP i/PRP 'll/MD call/VB it/PRP a/DT cow/NN ./PCT ''/PCT 
+
+man/NN gave/VBD names/NNS to/TO all/PDT the/DT animals/NNS 
+in/IN the/DT beginning/NN ,/PCT in/IN the/DT beginning/NN ./PCT 
+man/NN gave/VBD names/NNS to/TO all/PDT the/DT animals/NNS 
+in/IN the/DT beginning/NN ,/PCT long/JJ time/NN ago/RB ./PCT 
+
+he/PRP saw/VBD an/DT animal/NN that/WDT liked/VBD to/TO snort/VB ,/PCT 
+horns/NNS on/IN his/PRP$ head/NN and/CC they/PRP were/VBD not/RB too/RB short/JJ ./PCT 
+it/PRP looked/VBD like/IN there/EX was/VBD not/RB nothin/NN '/PCT that/IN he/PRP could/MD not/RB pull/VB ./PCT 
+``/PCT ah/UH ,/PCT think/VBP i/PRP 'll/MD call/VB it/PRP a/DT bull/NN ./PCT ''/PCT 
+
+man/NN gave/VBD names/NNS to/TO all/PDT the/DT animals/NNS 
+in/IN the/DT beginning/NN ,/PCT in/IN the/DT beginning/NN ./PCT 
+man/NN gave/VBD names/NNS to/TO all/PDT the/DT animals/NNS 
+in/IN the/DT beginning/NN ,/PCT long/JJ time/NN ago/RB ./PCT 
+
+he/PRP saw/VBD an/DT animal/NN leavin/NN '/PCT a/DT muddy/JJ trail/NN ,/PCT 
+real/JJ dirty/JJ face/NN and/CC a/DT curly/JJ tail/NN ./PCT 
+he/PRP was/VBD not/RB too/RB small/JJ and/CC he/PRP was/VBD not/RB too/RB big/JJ ./PCT 
+``/PCT ah/UH ,/PCT think/VBP i/PRP 'll/MD call/VB it/PRP a/DT pig/NN ./PCT ''/PCT 
+
+man/NN gave/VBD names/NNS to/TO all/PDT the/DT animals/NNS 
+in/IN the/DT beginning/NN ,/PCT in/IN the/DT beginning/NN ./PCT 
+man/NN gave/VBD names/NNS to/TO all/PDT the/DT animals/NNS 
+in/IN the/DT beginning/NN ,/PCT long/JJ time/NN ago/RB ./PCT 
+
+next/JJ animal/NN that/IN he/PRP did/VBD meet/VB 
+had/VBD wool/NN on/IN his/PRP$ back/NN and/CC hooves/NNS on/IN his/PRP$ feet/NNS ,/PCT 
+eating/NNP grass/NN on/IN a/DT mountainside/NN so/RB steep/JJ ./PCT 
+``/PCT ah/UH ,/PCT think/VBP i/PRP 'll/MD call/VB it/PRP a/DT sheep/NN ./PCT ''/PCT 
+
+man/NN gave/VBD names/NNS to/TO all/PDT the/DT animals/NNS 
+in/IN the/DT beginning/NN ,/PCT in/IN the/DT beginning/NN ./PCT 
+man/NN gave/VBD names/NNS to/TO all/PDT the/DT animals/NNS 
+in/IN the/DT beginning/NN ,/PCT long/JJ time/NN ago/RB ./PCT 
+
+he/PRP saw/VBD an/DT animal/NN as/IN smooth/JJ as/IN glass/NN 
+slithering/VBG his/PRP$ way/NN through/IN the/DT grass/NN ./PCT 
+saw/VB him/PRP disappear/VB by/IN a/DT tree/NN near/IN a/DT lake/NN .../PCT 
+

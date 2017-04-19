@@ -1,0 +1,77 @@
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+
+{"tags": [{"word": "down", "POS": "IN"}, {"word": "these", "POS": "DT"}, {"word": "streets", "POS": "NNS"}, {"word": "the", "POS": "DT"}, {"word": "fools", "POS": "NNS"}, {"word": "rule", "POS": "NN"}], "sentence": "down these streets the fools rule"}
+{"tags": [{"word": "there", "POS": "EX"}, {"word": "is", "POS": "VBZ"}, {"word": "no", "POS": "DT"}, {"word": "freedom", "POS": "NN"}, {"word": "or", "POS": "CC"}, {"word": "self", "POS": "NN"}, {"word": "respect", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "there is no freedom or self respect ,"}
+{"tags": [{"word": "a", "POS": "DT"}, {"word": "knife", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "point", "POS": "NN"}, {"word": "or", "POS": "CC"}, {"word": "a", "POS": "DT"}, {"word": "trip", "POS": "NN"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "joint", "POS": "NN"}], "sentence": "a knife 's point or a trip to the joint"}
+{"tags": [{"word": "is", "POS": "VBZ"}, {"word": "about", "POS": "IN"}, {"word": "all", "POS": "DT"}, {"word": "you", "POS": "PRP"}, {"word": "can", "POS": "MD"}, {"word": "expect", "POS": "VB"}, {"word": ".", "POS": "PCT"}], "sentence": "is about all you can expect ."}
+
+{"tags": [{"word": "they", "POS": "PRP"}, {"word": "kill", "POS": "VBP"}, {"word": "people", "POS": "NNS"}, {"word": "here", "POS": "RB"}, {"word": "who", "POS": "WP"}, {"word": "stand", "POS": "VBP"}, {"word": "up", "POS": "RP"}, {"word": "for", "POS": "IN"}, {"word": "their", "POS": "PRP$"}, {"word": "rights", "POS": "NNS"}, {"word": ",", "POS": "PCT"}], "sentence": "they kill people here who stand up for their rights ,"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "system", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "just", "POS": "RB"}, {"word": "too", "POS": "RB"}, {"word": "damned", "POS": "RB"}, {"word": "corrupt", "POS": "JJ"}], "sentence": "the system 's just too damned corrupt"}
+{"tags": [{"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "always", "POS": "RB"}, {"word": "the", "POS": "DT"}, {"word": "same", "POS": "JJ"}, {"word": ",", "POS": "PCT"}, {"word": "the", "POS": "DT"}, {"word": "name", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "game", "POS": "NN"}], "sentence": "it is always the same , the name of the game"}
+{"tags": [{"word": "is", "POS": "VBZ"}, {"word": "who", "POS": "WP"}, {"word": "do", "POS": "VBP"}, {"word": "you", "POS": "PRP"}, {"word": "know", "POS": "VBP"}, {"word": "higher", "POS": "JJR"}, {"word": "up", "POS": "RP"}, {"word": ".", "POS": "PCT"}], "sentence": "is who do you know higher up ."}
+
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "blacks", "POS": "NNS"}, {"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "whites", "POS": "NNS"}, {"word": ",", "POS": "PCT"}], "sentence": "the blacks and the whites ,"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "idiotic", "POS": "JJ"}, {"word": ",", "POS": "PCT"}, {"word": "the", "POS": "DT"}, {"word": "exotic", "POS": "JJ"}, {"word": ",", "POS": "PCT"}], "sentence": "the idiotic , the exotic ,"}
+{"tags": [{"word": "wealth", "POS": "NN"}, {"word": "is", "POS": "VBZ"}, {"word": "a", "POS": "DT"}, {"word": "filthy", "POS": "JJ"}, {"word": "rag", "POS": "NN"}], "sentence": "wealth is a filthy rag"}
+{"tags": [{"word": "so", "POS": "RB"}, {"word": "erotic", "POS": "JJ"}, {"word": "so", "POS": "IN"}, {"word": "unpatriotic", "POS": "JJ"}], "sentence": "so erotic so unpatriotic"}
+{"tags": [{"word": "so", "POS": "RB"}, {"word": "wrapped", "POS": "VBN"}, {"word": "up", "POS": "RP"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "american", "POS": "JJ"}, {"word": "flag", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "so wrapped up in the american flag ."}
+
+{"tags": [{"word": "witchcraft", "POS": "NN"}, {"word": "scum", "POS": "NN"}, {"word": "exploiting", "POS": "VBG"}, {"word": "the", "POS": "DT"}, {"word": "dumb", "POS": "JJ"}, {"word": ",", "POS": "PCT"}], "sentence": "witchcraft scum exploiting the dumb ,"}
+{"tags": [{"word": "turning", "POS": "VBG"}, {"word": "children", "POS": "NNS"}, {"word": "into", "POS": "IN"}, {"word": "punks", "POS": "NNS"}, {"word": "and", "POS": "CC"}, {"word": "slaves", "POS": "NNS"}], "sentence": "turning children into punks and slaves"}
+{"tags": [{"word": "whose", "POS": "JJ"}, {"word": "heroes", "POS": "NNS"}, {"word": "and", "POS": "CC"}, {"word": "healers", "POS": "NNS"}, {"word": "are", "POS": "VBP"}, {"word": "rich", "POS": "JJ"}, {"word": "drug", "POS": "NN"}, {"word": "dealers", "POS": "NNS"}], "sentence": "whose heroes and healers are rich drug dealers"}
+{"tags": [{"word": "who", "POS": "WP"}, {"word": "should", "POS": "MD"}, {"word": "be", "POS": "VB"}, {"word": "put", "POS": "VBN"}, {"word": "in", "POS": "RP"}, {"word": "their", "POS": "PRP$"}, {"word": "graves", "POS": "NNS"}, {"word": ".", "POS": "PCT"}], "sentence": "who should be put in their graves ."}
+
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+
+{"tags": [{"word": "listen", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "me", "POS": "PRP"}, {"word": "mr.", "POS": "NNP"}, {"word": "pussyman", "POS": "NNP"}], "sentence": "listen to me mr. pussyman"}
+{"tags": [{"word": "this", "POS": "DT"}, {"word": "might", "POS": "MD"}, {"word": "be", "POS": "VB"}, {"word": "your", "POS": "PRP$"}, {"word": "last", "POS": "JJ"}, {"word": "night", "POS": "NN"}, {"word": "in", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "bed", "POS": "NN"}, {"word": "so", "POS": "RB"}, {"word": "soft", "POS": "JJ"}], "sentence": "this might be your last night in a bed so soft"}
+{"tags": [{"word": "we", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "pimps", "POS": "NNS"}, {"word": "on", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "make", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "politicians", "POS": "NNS"}, {"word": "on", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "take", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "we are not pimps on the make , politicians on the take ,"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "ca", "POS": "MD"}, {"word": "not", "POS": "RB"}, {"word": "pay", "POS": "VB"}, {"word": "us", "POS": "PRP"}, {"word": "off", "POS": "RP"}, {"word": ".", "POS": "PCT"}], "sentence": "you ca not pay us off ."}
+
+{"tags": [{"word": "we", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "gonna", "POS": "NNS"}, {"word": "blow", "POS": "VB"}, {"word": "up", "POS": "RP"}, {"word": "your", "POS": "PRP$"}, {"word": "home", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "voodoo", "POS": "NNP"}], "sentence": "we are gonna blow up your home of voodoo"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "watch", "POS": "VB"}, {"word": "it", "POS": "PRP"}, {"word": "burn", "POS": "VB"}, {"word": "without", "POS": "IN"}, {"word": "any", "POS": "DT"}, {"word": "regret", "POS": "NN"}], "sentence": "and watch it burn without any regret"}
+{"tags": [{"word": "we", "POS": "PRP"}, {"word": "got", "POS": "VBD"}, {"word": "the", "POS": "DT"}, {"word": "power", "POS": "NN"}, {"word": "we", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "the", "POS": "DT"}, {"word": "new", "POS": "JJ"}, {"word": "government", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "we got the power we are the new government ,"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "just", "POS": "RB"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "know", "POS": "VB"}, {"word": "it", "POS": "PRP"}, {"word": "yet", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "you just do not know it yet ."}
+
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+
+{"tags": [{"word": "for", "POS": "IN"}, {"word": "all", "POS": "DT"}, {"word": "of", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "brothers", "POS": "NNS"}, {"word": "from", "POS": "IN"}, {"word": "vietnam", "POS": "NNP"}], "sentence": "for all of my brothers from vietnam"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "my", "POS": "PRP$"}, {"word": "uncles", "POS": "NNS"}, {"word": "from", "POS": "IN"}, {"word": "world", "POS": "NNP"}, {"word": "war", "POS": "NNP"}, {"word": "ii", "POS": "NNP"}, {"word": ",", "POS": "PCT"}], "sentence": "and my uncles from world war ii ,"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "'d", "POS": "MD"}, {"word": "like", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "say", "POS": "VB"}, {"word": "that", "POS": "IN"}, {"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "countdown", "POS": "JJ"}, {"word": "time", "POS": "NN"}, {"word": "now", "POS": "RB"}], "sentence": "i 'd like to say that it is countdown time now"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "we", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "gonna", "POS": "NNS"}, {"word": "do", "POS": "VBP"}, {"word": "what", "POS": "WP"}, {"word": "the", "POS": "DT"}, {"word": "law", "POS": "NN"}, {"word": "should", "POS": "MD"}, {"word": "do", "POS": "VB"}, {"word": ".", "POS": "PCT"}], "sentence": "and we are gonna do what the law should do ."}
+
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "for", "POS": "IN"}, {"word": "you", "POS": "PRP"}, {"word": "pretty", "POS": "RB"}, {"word": "baby", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "and for you pretty baby ,"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "know", "POS": "VBP"}, {"word": "you", "POS": "PRP"}, {"word": "have", "POS": "VBP"}, {"word": "seen", "POS": "VBN"}, {"word": "it", "POS": "PRP"}, {"word": "all", "POS": "DT"}, {"word": ".", "POS": "PCT"}], "sentence": "i know you have seen it all ."}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "know", "POS": "VBP"}, {"word": "your", "POS": "PRP$"}, {"word": "story", "POS": "NN"}, {"word": "is", "POS": "VBZ"}, {"word": "too", "POS": "RB"}, {"word": "painful", "POS": "JJ"}, {"word": "to", "POS": "TO"}, {"word": "share", "POS": "VB"}, {"word": ".", "POS": "PCT"}], "sentence": "i know your story is too painful to share ."}
+{"tags": [{"word": "one", "POS": "CD"}, {"word": "day", "POS": "NN"}, {"word": "though", "POS": "IN"}, {"word": "you", "POS": "PRP"}, {"word": "'ll", "POS": "MD"}, {"word": "be", "POS": "VB"}, {"word": "talking", "POS": "VBG"}, {"word": "in", "POS": "IN"}, {"word": "your", "POS": "PRP$"}, {"word": "sleep", "POS": "NN"}], "sentence": "one day though you 'll be talking in your sleep"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "when", "POS": "WRB"}, {"word": "you", "POS": "PRP"}, {"word": "do", "POS": "VBP"}, {"word": ",", "POS": "PCT"}, {"word": "i", "POS": "PRP"}, {"word": "wanna", "POS": "VBP"}, {"word": "be", "POS": "VB"}, {"word": "there", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "and when you do , i wanna be there ."}
+
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+{"tags": [{"word": "band", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "hand", "POS": "NN"}], "sentence": "band of the hand"}
+

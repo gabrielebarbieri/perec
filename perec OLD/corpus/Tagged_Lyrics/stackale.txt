@@ -1,0 +1,44 @@
+hawlin/NNP alley/NNP on/IN a/DT dark/JJ and/CC drizzly/RB night/NN ,/PCT 
+billy/NNP lyons/NNP and/CC stack-a-lee/NNP had/VBD one/CD terrible/JJ fight/NN ./PCT 
+all/DT about/IN that/DT john/NNP b./NNP stetson/NNP hat/NN ./PCT 
+
+stack-a-lee/NNP walked/VBD to/TO the/DT bar-room/NN ,/PCT and/CC he/PRP called/VBD for/IN a/DT glass/NN of/IN beer/NN ,/PCT 
+turned/VBN around/IN to/TO billy/NNP lyons/NNP ,/PCT said/VBD ,/PCT ``/PCT what/WP are/VBP you/PRP doin/NN '/PCT here/RB ?/PCT ''/PCT 
+``/PCT waitin/NNP '/PCT for/IN a/DT train/NN ,/PCT please/VB bring/VB my/PRP$ woman/NN home/NN ./PCT 
+
+``/PCT stack-a-lee/NNP ,/PCT oh/UH stack-a-lee/NNP ,/PCT please/VB do/VBP not/RB take/VB my/PRP$ life/NN ./PCT 
+got/VBD three/CD little/JJ children/NNS and/CC a-weepin/NN '/PCT ,/PCT lovin/NN '/PCT wife/NN ./PCT 
+you/PRP are/VBP a/DT bad/JJ man/NN ,/PCT bad/JJ man/NN ,/PCT stack-a-lee/NNP ./PCT ''/PCT 
+
+``/PCT god/NNP bless/VB your/PRP$ children/NNS and/CC i/PRP 'll/MD take/VB care/NN of/IN your/PRP$ wife/NN ./PCT 
+you/PRP stole/VBD my/PRP$ john/NNP b./NNP ,/PCT now/RB i/PRP am/VBP bound/VBN to/TO take/VB your/PRP$ life/NN ./PCT ''/PCT 
+all/DT about/IN that/DT john/NNP b./NNP stetson/NNP hat/NN ./PCT 
+
+stack-a-lee/NNP turned/VBD to/TO billy/NNP lyons/NNP and/CC he/PRP shot/VBD him/PRP right/RB through/IN the/DT head/NN ,/PCT 
+only/RB taking/VBG one/CD shot/NN to/TO kill/VB billy/NNP lyons/NNP dead/JJ ./PCT 
+all/DT about/IN that/DT john/NNP b./NNP stetson/NNP hat/NN ./PCT 
+
+sent/NNP for/IN the/DT doctor/NN ,/PCT well/RB the/DT doctor/NN he/PRP did/VBD come/VB ,/PCT 
+just/RB pointed/VBD out/RP stack-a-lee/NNP ,/PCT said/VBD ,/PCT ``/PCT now/RB what/WP have/VBP you/PRP done/VBN ?/PCT ''/PCT 
+you/PRP are/VBP a/DT bad/JJ man/NN ,/PCT bad/JJ man/NN ,/PCT stack-a-lee/NNP ./PCT ''/PCT 
+
+six/CD big/JJ horses/NNS and/CC a/DT rubber-tired/JJ hack/VBP ,/PCT 
+taking/VBG him/PRP to/TO the/DT cemetery/NN ,/PCT but/CC they/PRP failed/VBD to/TO bring/VB him/PRP back/RB ./PCT 
+all/DT about/IN that/DT john/NNP b./NNP stetson/NNP hat/NN ./PCT 
+
+hawlin/NNP alley/NNP ,/PCT thought/VBD i/PRP heard/VBD the/DT bulldogs/NNS bark/NN ./PCT 
+it/PRP must/MD have/VB been/VBN old/JJ stack-a-lee/NNP stumbling/VBG in/IN the/DT dark/NN ./PCT 
+he/PRP is/VBZ a/DT bad/JJ man/NN ,/PCT gonna/NN land/NN him/PRP right/RB back/RB in/IN jail/NN ./PCT 
+
+high/JJ police/NNS walked/VBD on/IN to/TO stack-a-lee/NNP ,/PCT he/PRP was/VBD lying/VBG fast/RB asleep/RB ./PCT 
+high/JJ police/NNS catched/VBD stack-a-lee/NNP ,/PCT and/CC he/PRP jumped/VBD forty/JJ feet/NNS ./PCT 
+he/PRP is/VBZ a/DT bad/JJ man/NN ,/PCT gonna/NN land/NN him/PRP right/RB back/RB in/IN jail/NN ./PCT 
+
+well/RB they/PRP got/VBD old/JJ stack-a-lee/NNP and/CC they/PRP laid/VBD him/PRP right/RB back/RB in/IN jail/NN ./PCT 
+could/MD not/RB get/VB a/DT man/NN around/IN to/TO go/VB stack-a-lee/NNP 's/POS bail/NN 
+all/DT about/IN that/DT john/NNP b./NNP stetson/NNP hat/NN ./PCT 
+
+stack-a-lee/NNP turned/VBD to/TO the/DT jailer/NN ,/PCT he/PRP said/VBD ,/PCT ``/PCT jailer/NNP ,/PCT i/PRP ca/MD not/RB sleep/VB ./PCT 
+`/PCT round/NNP my/PRP$ bedside/NN billy/NNP lyons/NNP began/VBD to/TO creep/VB ./PCT ''/PCT 
+all/DT about/IN that/DT john/NNP b./NNP stetson/NNP hat/NN ./PCT 
+

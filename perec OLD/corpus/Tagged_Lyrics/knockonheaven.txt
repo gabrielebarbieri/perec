@@ -1,0 +1,20 @@
+mama/NNP ,/PCT take/VB this/DT badge/NN off/IN of/IN me/PRP 
+i/PRP ca/MD not/RB use/VB it/PRP anymore/RB ./PCT 
+it/PRP is/VBZ gettin/VBG '/PCT dark/JJ ,/PCT too/RB dark/JJ for/IN me/PRP to/TO see/VB 
+i/PRP feel/VBP like/IN i/PRP am/VBP knockin/VBG '/PCT on/IN heaven/NN 's/POS door/NN ./PCT 
+
+knock/VB ,/PCT knock/VB ,/PCT knockin/VBG '/PCT on/IN heaven/NN 's/POS door/NN 
+knock/VB ,/PCT knock/VB ,/PCT knockin/VBG '/PCT on/IN heaven/NN 's/POS door/NN 
+knock/VB ,/PCT knock/VB ,/PCT knockin/VBG '/PCT on/IN heaven/NN 's/POS door/NN 
+knock/VB ,/PCT knock/VB ,/PCT knockin/VBG '/PCT on/IN heaven/NN 's/POS door/NN 
+
+mama/NNP ,/PCT put/VBD my/PRP$ guns/NNS in/IN the/DT ground/NN 
+i/PRP ca/MD not/RB shoot/VB them/PRP anymore/RB ./PCT 
+that/DT long/JJ black/JJ cloud/NN is/VBZ comin/VBG '/PCT down/RP 
+i/PRP feel/VBP like/IN i/PRP am/VBP knockin/VBG '/PCT on/IN heaven/NN 's/POS door/NN ./PCT 
+
+knock/VB ,/PCT knock/VB ,/PCT knockin/VBG '/PCT on/IN heaven/NN 's/POS door/NN 
+knock/VB ,/PCT knock/VB ,/PCT knockin/VBG '/PCT on/IN heaven/NN 's/POS door/NN 
+knock/VB ,/PCT knock/VB ,/PCT knockin/VBG '/PCT on/IN heaven/NN 's/POS door/NN 
+knock/VB ,/PCT knock/VB ,/PCT knockin/VBG '/PCT on/IN heaven/NN 's/POS door/NN 
+

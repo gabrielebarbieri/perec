@@ -1,0 +1,45 @@
+``/PCT get/VB down/RB ,/PCT get/VB down/RB ,/PCT love/NNP henry/NNP ,/PCT ''/PCT she/PRP cried/VBD ,/PCT 
+``/PCT and/CC stay/VB all/DT night/NN with/IN me/PRP ./PCT 
+i/PRP have/VBP gold/NN chains/NNS ,/PCT and/CC the/DT finest/JJS i/PRP have/VBP 
+i/PRP 'll/MD apply/VB them/PRP all/DT to/TO thee/VB ./PCT ''/PCT 
+
+``/PCT i/PRP ca/MD not/RB get/VB down/RB and/CC i/PRP sha/VBP not/RB get/VB down/RB ,/PCT 
+or/CC stay/VB all/DT night/NN with/IN thee/NN ./PCT 
+some/DT pretty/RB little/JJ girl/NN in/IN cornersville/NNP 
+i/PRP love/VBP far/RB better/JJR than/IN thee/NN ./PCT ''/PCT 
+
+he/PRP layed/VBD his/PRP$ head/NN on/IN a/DT pillow/NN of/IN down/RB ./PCT 
+kisses/NNP she/PRP gave/VBD him/PRP three/CD ./PCT 
+with/IN a/DT penny/NN knife/NN that/IN she/PRP held/VBD in/IN her/PRP$ hand/NN 
+she/PRP murdered/VBD mortal/JJ he/PRP ./PCT 
+
+``/PCT get/VB well/RB ,/PCT get/VB well/RB ,/PCT love/NNP henry/NNP ,/PCT ''/PCT she/PRP cried/VBD ,/PCT 
+``/PCT get/VB well/RB ,/PCT get/VB well/RB ,/PCT ''/PCT said/VBD she/PRP ./PCT 
+``/PCT oh/UH do/VBP not/RB you/PRP see/VB my/PRP$ own/JJ heart/NN 's/POS blood/NN 
+come/VBN flowin/NN '/PCT down/RP so/RB free/JJ ?/PCT ''/PCT 
+
+she/PRP took/VBD him/PRP by/IN his/PRP$ long/JJ yellow/JJ hair/NN ,/PCT 
+and/CC also/RB by/IN his/PRP$ feet/NNS ./PCT 
+she/PRP plunged/VBD him/PRP into/IN well/RB water/NN ,/PCT where/WRB 
+it/PRP runs/VBZ both/DT cold/JJ and/CC deep/JJ ./PCT 
+
+``/PCT lie/NN there/RB ,/PCT lie/VBP there/RB ,/PCT love/NNP henry/NNP ,/PCT ''/PCT she/PRP cried/VBD ,/PCT 
+''/PCT �til/NNP the/DT flesh/NN rots/VBZ off/RP your/PRP$ bones/NNS ./PCT 
+some/DT pretty/RB little/JJ girl/NN in/IN cornersville/NNP 
+will/MD mourn/VB for/IN your/PRP$ return/NN ./PCT ''/PCT 
+
+hush/VB up/RP ,/PCT hush/VB up/RP ,/PCT my/PRP$ parrot/NN ,/PCT she/PRP cried/VBD ,/PCT
+don't/NNP tell/VBP no/DT news/NN on/IN me/PRP ,/PCT
+or/CC these/DT costly/JJ beads/NNS around/IN my/PRP$ neck/NN ,/PCT 
+i'll/NNP apply/VB them/PRP all/DT to/TO thee/VB ./PCT
+
+``/PCT fly/VB down/RB ,/PCT fly/VBP down/RB ,/PCT pretty/RB parrot/NN ,/PCT ''/PCT she/PRP cried/VBD ,/PCT 
+``/PCT and/CC light/NN on/IN my/PRP$ right/JJ knee/NN ./PCT 
+the/DT doors/NNS to/TO your/PRP$ cage/NN shall/MD be/VB decked/VBN with/IN gold/NN 
+and/CC hung/VBN on/IN a/DT willow/NN tree/NN ./PCT ''/PCT 
+
+``/PCT i/PRP wo/MD not/RB fly/VB down/RB ,/PCT i/PRP ca/MD not/RB fly/VB down/RB 
+and/CC light/JJ on/IN your/PRP$ right/JJ knee/NN ./PCT 
+a/DT girl/NN who/WP would/MD murder/NN her/PRP$ own/JJ true/JJ love/NN 
+would/MD kill/VB a/DT little/JJ birdlike/JJ me/PRP ./PCT ''/PCT 
+

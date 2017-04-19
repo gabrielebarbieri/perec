@@ -1,0 +1,30 @@
+twilight/NNP on/IN the/DT frozen/JJ lake/NN 
+north/NNP wind/NN about/IN to/TO break/VB 
+on/IN footprints/NNS in/IN the/DT snow/NN 
+silence/NN down/RB below/RB ./PCT 
+
+you/PRP are/VBP beautiful/JJ beyond/IN words/NNS 
+you/PRP are/VBP beautiful/JJ to/TO me/PRP 
+you/PRP can/MD make/VB me/PRP cry/VB 
+never/RB say/VB goodbye/NN ./PCT 
+
+time/NNP is/VBZ all/DT i/PRP have/VBP to/TO give/VB 
+you/PRP can/MD have/VB it/PRP if/IN you/PRP choose/VBP 
+with/IN me/PRP you/PRP can/MD live/VB 
+never/RB say/VB goodbye/NN ./PCT 
+
+my/PRP$ dreams/NNS are/VBP made/VBN of/IN iron/NN and/CC steel/NN 
+with/IN a/DT big/JJ bouquet/NN 
+of/IN roses/NNS hanging/VBG down/RP 
+from/IN the/DT heavens/NNS to/TO the/DT ground/NN ./PCT 
+
+the/DT crashing/VBG waves/NNS roll/NN over/IN me/PRP 
+as/IN i/PRP stand/VBP upon/IN the/DT sand/NN 
+wait/VB for/IN you/PRP to/TO come/VB 
+and/CC grab/VB hold/NN of/IN my/PRP$ hand/NN ./PCT 
+
+oh/UH ,/PCT baby/NN ,/PCT baby/NN ,/PCT baby/NN blue/NN 
+you/PRP 'll/MD change/VB your/PRP$ last/JJ name/NN ,/PCT too/RB 
+you/PRP have/VBP turned/VBN your/PRP$ hair/NN to/TO brown/JJ 
+love/NNP to/TO see/VB it/PRP hangin/VBG '/PCT down/RP ./PCT 
+

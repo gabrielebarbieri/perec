@@ -1,0 +1,40 @@
+oh/UH god/NNP said/VBD to/TO abraham/NNP ,/PCT ``/PCT kill/VB me/PRP a/DT son/NN ''/PCT 
+abe/NNP says/VBZ ,/PCT ``/PCT man/NN ,/PCT you/PRP must/MD be/VB puttin/VBG '/PCT me/PRP on/IN ''/PCT 
+god/NNP say/NNP ,/PCT ``/PCT no./NN ''/PCT abe/NNP say/NNP ,/PCT ``/PCT what/WP ?/PCT ''/PCT 
+god/NNP say/NNP ,/PCT ``/PCT you/PRP can/MD do/VB what/WP you/PRP want/VBP abe/NNP ,/PCT but/CC 
+the/DT next/JJ time/NN you/PRP see/VBP me/PRP comin/VB '/PCT you/PRP better/JJR run/NN ''/PCT 
+well/RB abe/NNP says/VBZ ,/PCT ``/PCT where/WRB do/VBP you/PRP want/VB this/DT killin/NN '/PCT done/VBN ?/PCT ''/PCT 
+god/NNP says/VBZ ,/PCT ``/PCT out/IN on/IN highway/NN 61/CD ./PCT ''/PCT 
+
+well/RB georgia/NNP sam/NNP he/PRP had/VBD a/DT bloody/JJ nose/NN 
+welfare/NNP department/NNP they/PRP would/MD not/RB give/VB him/PRP no/DT clothes/NNS 
+he/PRP asked/VBD poor/JJ howard/NNP where/WRB can/MD i/PRP go/VB 
+howard/NNP said/VBD there/EX is/VBZ only/RB one/CD place/NN i/PRP know/VBP 
+sam/NNP said/VBD tell/VB me/PRP quick/JJ man/NN i/PRP got/VBD to/TO run/VB 
+0l/NN '/PCT howard/NNP just/RB pointed/VBD with/IN his/PRP$ gun/NN 
+and/CC said/VBD that/DT way/NN down/RP on/IN highway/NNP 61/CD ./PCT 
+
+well/RB mack/NNP the/DT finger/NNP said/VBD to/TO louie/VB the/DT king/NNP 
+i/PRP got/VBD forty/JJ red/JJ white/JJ and/CC blue/JJ shoe/NN strings/NNS 
+and/CC a/DT thousand/CD telephones/NNS that/WDT do/VBP not/RB ring/VB 
+do/VBP you/PRP know/VB where/WRB i/PRP can/MD get/VB rid/VB of/IN these/DT things/NNS 
+and/CC louie/NNP the/DT king/NNP said/VBD let/VB me/PRP think/VB for/IN a/DT minute/NN son/NN 
+and/CC he/PRP said/VBD yes/UH i/PRP think/VBP it/PRP can/MD be/VB easily/RB done/VBN 
+just/RB take/VB everything/NN down/IN to/TO highway/NNP 61/CD ./PCT 
+
+now/RB the/DT fifth/JJ daughter/NN on/IN the/DT twelfth/NN night/NN 
+told/VBD the/DT first/JJ father/NN that/WDT things/NNS were/VBD not/RB right/JJ 
+my/PRP$ complexion/NN she/PRP said/VBD is/VBZ much/RB too/RB white/JJ 
+he/PRP said/VBD come/VBN here/RB and/CC step/VB into/IN the/DT light/NN he/PRP says/VBZ hmm/NN you/PRP are/VBP right/JJ 
+let/VB me/PRP tell/VB the/DT second/JJ mother/NN this/DT has/VBZ been/VBN done/VBN 
+but/CC the/DT second/JJ mother/NN was/VBD with/IN the/DT seventh/JJ son/NN 
+and/CC they/PRP were/VBD both/DT out/RP on/IN highway/NNP 61/CD ./PCT 
+
+now/RB the/DT rovin/NN '/PCT gambler/NN he/PRP was/VBD very/RB bored/JJ 
+he/PRP was/VBD tryin/VBG '/PCT to/TO create/VB a/DT next/JJ world/NN war/NN 
+he/PRP found/VBD a/DT promoter/NN who/WP nearly/RB fell/VBD off/RP the/DT floor/NN 
+he/PRP said/VBD i/PRP never/RB engaged/VBD in/IN this/DT kind/NN of/IN thing/NN before/IN 
+but/CC yes/UH i/PRP think/VBP it/PRP can/MD be/VB very/RB easily/RB done/VBN 
+we/PRP 'll/MD just/RB put/VB some/DT bleachers/NNS out/RP in/IN the/DT sun/NN 
+and/CC have/VBP it/PRP on/IN highway/NN 61/CD ./PCT 
+

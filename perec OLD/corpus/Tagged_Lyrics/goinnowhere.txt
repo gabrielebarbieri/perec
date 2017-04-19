@@ -1,0 +1,49 @@
+clouds/NNS so/RB swift/JJ 
+rain/NN wo/MD not/RB lift/VB 
+gate/NNP wo/MD not/RB close/VB 
+railings/NNS froze/VBD 
+get/VB your/PRP$ mind/NN off/IN wintertime/NN 
+you/PRP ai/VBP not/RB goin/VB '/PCT nowhere/RB 
+whoo-ee/NN !/PCT ride/NN me/PRP high/JJ 
+tomorrow/NN 's/POS the/DT day/NN 
+my/PRP$ bride/NN 's/POS gonna/NNS come/VBP 
+oh/UH ,/PCT oh/UH ,/PCT are/VBP we/PRP gonna/VBP fly/NN 
+down/IN in/IN the/DT easy/JJ chair/NN !/PCT 
+
+i/PRP do/VBP not/RB care/VB 
+how/WRB many/JJ letters/NNS they/PRP sent/VBD 
+morning/NN came/VBD and/CC morning/NN went/VBD 
+pick/VB up/RP your/PRP$ money/NN 
+and/CC pack/VB up/RP your/PRP$ tent/NN 
+you/PRP ai/VBP not/RB goin/VB '/PCT nowhere/RB 
+whoo-ee/NN !/PCT ride/NN me/PRP high/JJ 
+tomorrow/NN 's/POS the/DT day/NN 
+my/PRP$ bride/NN 's/POS gonna/NNS come/VBP 
+oh/UH ,/PCT oh/UH ,/PCT are/VBP we/PRP gonna/VBP fly/NN 
+down/IN in/IN the/DT easy/JJ chair/NN !/PCT 
+
+buy/VB me/PRP a/DT flute/NN 
+and/CC a/DT gun/NN that/WDT shoots/VBZ 
+tailgates/NNS and/CC substitutes/NNS 
+strap/NNP yourself/PRP 
+to/TO the/DT tree/NN with/IN roots/NNS 
+you/PRP ai/VBP not/RB goin/VB '/PCT nowhere/RB 
+whoo-ee/NN !/PCT ride/NN me/PRP high/JJ 
+tomorrow/NN 's/POS the/DT day/NN 
+my/PRP$ bride/NN 's/POS gonna/NNS come/VBP 
+oh/UH ,/PCT oh/UH ,/PCT are/VBP we/PRP gonna/VBP fly/NN 
+down/IN in/IN the/DT easy/JJ chair/NN !/PCT 
+
+
+genghis/NNP khan/NNP 
+he/PRP could/MD not/RB keep/VB 
+all/PDT his/PRP$ kings/NNS 
+supplied/VBN with/IN sleep/NN 
+we/PRP 'll/MD climb/VB that/IN hill/NN no/DT matter/NN how/WRB steep/JJ 
+when/WRB we/PRP get/VBP up/RB to/TO it/PRP 
+whoo-ee/NN !/PCT ride/NN me/PRP high/JJ 
+tomorrow/NN 's/POS the/DT day/NN 
+my/PRP$ bride/NN 's/POS gonna/NNS come/VBP 
+oh/UH ,/PCT oh/UH ,/PCT are/VBP we/PRP gonna/VBP fly/NN 
+down/IN in/IN the/DT easy/JJ chair/NN !/PCT 
+

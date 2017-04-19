@@ -1,0 +1,34 @@
+you/PRP speak/VBP to/TO me/PRP 
+in/IN sign/NN language/NN 
+as/IN i/PRP am/VBP eating/VBG a/DT sandwich/NN 
+in/IN a/DT small/JJ cafe/NN 
+at/IN a/DT quarter/NN to/TO three/CD 
+but/CC i/PRP ca/MD not/RB respond/VB 
+to/TO your/PRP$ sign/NN language/NN ./PCT 
+you/PRP are/VBP taking/VBG advantage/NN ,/PCT 
+bringing/VBG me/PRP down/RP ./PCT 
+ca/MD not/RB you/PRP make/VBP any/DT sound/NN ?/PCT 
+
+'twas/NNS there/RB by/IN the/DT bakery/NN 
+surrounded/VBN by/IN fakery/NN 
+tell/VB her/PRP$ my/PRP$ story/NN 
+still/RB i/PRP am/VBP still/RB there/RB ./PCT 
+does/NNP she/PRP know/VBP i/PRP still/RB care/VB ?/PCT 
+
+link/NNP wray/NNP was/VBD playin/VBG '/PCT 
+on/IN a/DT jukebox/NN i/PRP was/VBD payin/NN '/PCT 
+for/IN the/DT words/NNS i/PRP was/VBD sayin/VBG '/PCT 
+so/RB misunderstood/VBN 
+he/PRP did/VBD not/RB do/VB me/PRP no/DT good/JJ ./PCT 
+
+you/PRP speak/VBP to/TO me/PRP 
+in/IN sign/NN language/NN 
+as/IN i/PRP am/VBP eating/VBG a/DT sandwich/NN 
+in/IN a/DT small/JJ cafe/NN 
+at/IN a/DT quarter/NN to/TO three/CD 
+but/CC i/PRP ca/MD not/RB respond/VB 
+to/TO your/PRP$ sign/NN language/NN ./PCT 
+you/PRP are/VBP taking/VBG advantage/NN ,/PCT 
+bringing/VBG me/PRP down/RP ./PCT 
+ca/MD not/RB you/PRP make/VBP any/DT sound/NN ?/PCT 
+

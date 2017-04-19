@@ -1,0 +1,30 @@
+may/NNP god/NNP bless/VB and/CC keep/VB you/PRP always/RB ,/PCT 
+may/NNP your/PRP$ wishes/NNS all/DT come/VBP true/JJ ,/PCT 
+may/NNP you/PRP always/RB do/VBP for/IN others/NNS 
+and/CC let/VB others/NNS do/VB for/IN you/PRP ./PCT 
+may/NNP you/PRP build/VBP a/DT ladder/NN to/TO the/DT stars/NNS 
+and/CC climb/NN on/IN every/DT rung/VBN ,/PCT 
+may/NNP you/PRP stay/VBP forever/RB young/JJ ,/PCT 
+forever/JJR young/JJ ,/PCT forever/RB young/JJ ,/PCT 
+may/NNP you/PRP stay/VBP forever/RB young/JJ ./PCT 
+
+may/NNP you/PRP grow/VBP up/RP to/TO be/VB righteous/JJ ,/PCT 
+may/NNP you/PRP grow/VBP up/RP to/TO be/VB true/JJ ,/PCT 
+may/NNP you/PRP always/RB know/VBP the/DT truth/NN 
+and/CC see/VB the/DT lights/NNS surrounding/VBG you/PRP ./PCT 
+may/NNP you/PRP always/RB be/VB courageous/JJ ,/PCT 
+stand/VB upright/NN and/CC be/VB strong/JJ ,/PCT 
+may/NNP you/PRP stay/VBP forever/RB young/JJ ,/PCT 
+forever/JJR young/JJ ,/PCT forever/RB young/JJ ,/PCT 
+may/NNP you/PRP stay/VBP forever/RB young/JJ ./PCT 
+
+may/NNP your/PRP$ hands/NNS always/RB be/VB busy/JJ ,/PCT 
+may/NNP your/PRP$ feet/NNS always/RB be/VB swift/JJ ,/PCT 
+may/NNP you/PRP have/VBP a/DT strong/JJ foundation/NN 
+when/WRB the/DT winds/NNS of/IN changes/NNS shift/NN ./PCT 
+may/NNP your/PRP$ heart/NN always/RB be/VB joyful/JJ ,/PCT 
+may/NNP your/PRP$ song/NN always/RB be/VB sung/VBN ,/PCT 
+may/NNP you/PRP stay/VBP forever/RB young/JJ ,/PCT 
+forever/JJR young/JJ ,/PCT forever/RB young/JJ ,/PCT 
+may/NNP you/PRP stay/VBP forever/RB young/JJ ./PCT 
+

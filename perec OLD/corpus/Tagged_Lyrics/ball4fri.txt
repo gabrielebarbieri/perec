@@ -1,0 +1,24 @@
+sad/JJ i/PRP am/VBP sittin/VBG '/PCT on/IN the/DT railroad/NN track/NN ,/PCT 
+watchin/NNP '/POS that/WDT old/JJ smokestack/NN ./PCT 
+train/NN is/VBZ a-leavin/VBG '/PCT bit/NN it/PRP wo/MD not/RB be/VB back/RB ./PCT 
+
+years/NNS ago/IN we/PRP hung/VBD around/RB ,/PCT 
+watchin/NNP '/POS trains/NNS roll/VBP through/IN the/DT town/NN ./PCT 
+now/RB that/IN train/NN is/VBZ a-graveyard/JJ bound/VBN ./PCT 
+
+where/WRB we/PRP go/VBP up/RP in/IN that/DT north/JJ country/NN ,/PCT 
+lakes/NNP and/CC streams/NNS and/CC mines/NNS so/RB free/JJ ,/PCT 
+i/PRP had/VBD no/RB better/JJR friend/NN than/IN he/PRP ./PCT 
+
+something/NN happened/VBD to/TO him/PRP that/DT day/NN ,/PCT 
+i/PRP thought/VBD i/PRP heard/VBD a/DT stranger/NN say/VBP ,/PCT 
+i/PRP hung/VBD my/PRP$ head/NN and/CC stole/VBD away/RB ./PCT 
+
+a/DT diesel/JJ truck/NN was/VBD rollin/VBG '/PCT slow/JJ ,/PCT 
+pullin/NNP '/POS down/RP a/DT heavy/JJ load/NN ./PCT 
+it/PRP left/VBD him/PRP on/IN a/DT utah/NNP road/NN ./PCT 
+
+they/PRP carried/VBD him/PRP back/RB to/TO his/PRP$ home/NN town/NN ,/PCT 
+his/PRP$ mother/NN cried/VBD ,/PCT his/PRP$ sister/NN moaned/VBD ,/PCT 
+listin/NNP '/POS to/TO them/PRP church/NN bells/NNS tone/NN ./PCT 
+

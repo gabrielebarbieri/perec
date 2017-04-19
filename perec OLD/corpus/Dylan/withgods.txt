@@ -1,0 +1,81 @@
+{"tags": [{"word": "oh", "POS": "UH"}, {"word": "my", "POS": "PRP$"}, {"word": "name", "POS": "NN"}, {"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "nothin", "POS": "NN"}, {"word": "'", "POS": "PCT"}], "sentence": "oh my name it is nothin '"}
+{"tags": [{"word": "my", "POS": "PRP$"}, {"word": "age", "POS": "NN"}, {"word": "it", "POS": "PRP"}, {"word": "means", "POS": "VBZ"}, {"word": "less", "POS": "JJR"}], "sentence": "my age it means less"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "country", "POS": "NN"}, {"word": "i", "POS": "PRP"}, {"word": "come", "POS": "VBP"}, {"word": "from", "POS": "IN"}], "sentence": "the country i come from"}
+{"tags": [{"word": "is", "POS": "VBZ"}, {"word": "called", "POS": "VBN"}, {"word": "the", "POS": "DT"}, {"word": "midwest", "POS": "NN"}], "sentence": "is called the midwest"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "'s", "POS": "POS"}, {"word": "taught", "POS": "VBN"}, {"word": "and", "POS": "CC"}, {"word": "brought", "POS": "VBN"}, {"word": "up", "POS": "RP"}, {"word": "there", "POS": "EX"}], "sentence": "i 's taught and brought up there"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "laws", "POS": "NNS"}, {"word": "to", "POS": "TO"}, {"word": "abide", "POS": "VB"}], "sentence": "the laws to abide"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "that", "POS": "DT"}, {"word": "land", "POS": "NN"}, {"word": "that", "POS": "IN"}, {"word": "i", "POS": "PRP"}, {"word": "live", "POS": "VBP"}, {"word": "in", "POS": "IN"}], "sentence": "and that land that i live in"}
+{"tags": [{"word": "has", "POS": "VBZ"}, {"word": "god", "POS": "NNP"}, {"word": "on", "POS": "IN"}, {"word": "its", "POS": "PRP$"}, {"word": "side", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "has god on its side ."}
+
+{"tags": [{"word": "oh", "POS": "UH"}, {"word": "the", "POS": "DT"}, {"word": "history", "POS": "NN"}, {"word": "books", "POS": "NNS"}, {"word": "tell", "POS": "VBP"}, {"word": "it", "POS": "PRP"}], "sentence": "oh the history books tell it"}
+{"tags": [{"word": "they", "POS": "PRP"}, {"word": "tell", "POS": "VBP"}, {"word": "it", "POS": "PRP"}, {"word": "so", "POS": "RB"}, {"word": "well", "POS": "RB"}], "sentence": "they tell it so well"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "cavalries", "POS": "NNS"}, {"word": "charged", "POS": "VBD"}], "sentence": "the cavalries charged"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "indians", "POS": "NNPS"}, {"word": "fell", "POS": "VBD"}], "sentence": "the indians fell"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "cavalries", "POS": "NNS"}, {"word": "charged", "POS": "VBD"}], "sentence": "the cavalries charged"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "indians", "POS": "NNPS"}, {"word": "died", "POS": "VBD"}], "sentence": "the indians died"}
+{"tags": [{"word": "oh", "POS": "UH"}, {"word": "the", "POS": "DT"}, {"word": "country", "POS": "NN"}, {"word": "was", "POS": "VBD"}, {"word": "young", "POS": "JJ"}], "sentence": "oh the country was young"}
+{"tags": [{"word": "with", "POS": "IN"}, {"word": "god", "POS": "NNP"}, {"word": "on", "POS": "IN"}, {"word": "its", "POS": "PRP$"}, {"word": "side", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "with god on its side ."}
+
+{"tags": [{"word": "oh", "POS": "UH"}, {"word": "the", "POS": "DT"}, {"word": "spanish-american", "POS": "JJ"}], "sentence": "oh the spanish-american"}
+{"tags": [{"word": "war", "POS": "NNP"}, {"word": "had", "POS": "VBD"}, {"word": "its", "POS": "PRP$"}, {"word": "day", "POS": "NN"}], "sentence": "war had its day"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "civil", "POS": "NNP"}, {"word": "war", "POS": "NNP"}, {"word": "too", "POS": "RB"}], "sentence": "and the civil war too"}
+{"tags": [{"word": "was", "POS": "VBD"}, {"word": "soon", "POS": "RB"}, {"word": "laid", "POS": "VBN"}, {"word": "away", "POS": "RB"}], "sentence": "was soon laid away"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "names", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "heroes", "POS": "NNS"}], "sentence": "and the names of the heroes"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "'s", "POS": "POS"}, {"word": "made", "POS": "VBN"}, {"word": "to", "POS": "TO"}, {"word": "memorize", "POS": "VB"}], "sentence": "i 's made to memorize"}
+{"tags": [{"word": "with", "POS": "IN"}, {"word": "guns", "POS": "NNS"}, {"word": "in", "POS": "IN"}, {"word": "their", "POS": "PRP$"}, {"word": "hands", "POS": "NNS"}], "sentence": "with guns in their hands"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "god", "POS": "NNP"}, {"word": "on", "POS": "IN"}, {"word": "their", "POS": "PRP$"}, {"word": "side", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "and god on their side ."}
+
+{"tags": [{"word": "oh", "POS": "UH"}, {"word": "the", "POS": "DT"}, {"word": "first", "POS": "NNP"}, {"word": "world", "POS": "NNP"}, {"word": "war", "POS": "NNP"}, {"word": ",", "POS": "PCT"}, {"word": "boys", "POS": "NNS"}], "sentence": "oh the first world war , boys"}
+{"tags": [{"word": "it", "POS": "PRP"}, {"word": "closed", "POS": "VBD"}, {"word": "out", "POS": "RP"}, {"word": "its", "POS": "PRP$"}, {"word": "fate", "POS": "NN"}], "sentence": "it closed out its fate"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "reason", "POS": "NN"}, {"word": "for", "POS": "IN"}, {"word": "fighting", "POS": "VBG"}], "sentence": "the reason for fighting"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "never", "POS": "RB"}, {"word": "got", "POS": "VBD"}, {"word": "straight", "POS": "JJ"}], "sentence": "i never got straight"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "learned", "POS": "VBD"}, {"word": "to", "POS": "TO"}, {"word": "accept", "POS": "VB"}, {"word": "it", "POS": "PRP"}], "sentence": "but i learned to accept it"}
+{"tags": [{"word": "accept", "POS": "VB"}, {"word": "it", "POS": "PRP"}, {"word": "with", "POS": "IN"}, {"word": "pride", "POS": "NN"}], "sentence": "accept it with pride"}
+{"tags": [{"word": "for", "POS": "IN"}, {"word": "you", "POS": "PRP"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "count", "POS": "VB"}, {"word": "the", "POS": "DT"}, {"word": "dead", "POS": "JJ"}], "sentence": "for you do not count the dead"}
+{"tags": [{"word": "when", "POS": "WRB"}, {"word": "god", "POS": "NNP"}, {"word": "'s", "POS": "POS"}, {"word": "on", "POS": "IN"}, {"word": "your", "POS": "PRP$"}, {"word": "side", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "when god 's on your side ."}
+
+{"tags": [{"word": "when", "POS": "WRB"}, {"word": "the", "POS": "DT"}, {"word": "second", "POS": "NNP"}, {"word": "world", "POS": "NNP"}, {"word": "war", "POS": "NNP"}], "sentence": "when the second world war"}
+{"tags": [{"word": "came", "POS": "NNP"}, {"word": "to", "POS": "TO"}, {"word": "an", "POS": "DT"}, {"word": "end", "POS": "NN"}], "sentence": "came to an end"}
+{"tags": [{"word": "we", "POS": "PRP"}, {"word": "forgave", "POS": "VBP"}, {"word": "the", "POS": "DT"}, {"word": "germans", "POS": "NNPS"}], "sentence": "we forgave the germans"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "we", "POS": "PRP"}, {"word": "were", "POS": "VBD"}, {"word": "friends", "POS": "NNS"}], "sentence": "and we were friends"}
+{"tags": [{"word": "though", "POS": "IN"}, {"word": "they", "POS": "PRP"}, {"word": "murdered", "POS": "VBD"}, {"word": "six", "POS": "CD"}, {"word": "million", "POS": "CD"}], "sentence": "though they murdered six million"}
+{"tags": [{"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "ovens", "POS": "NNS"}, {"word": "they", "POS": "PRP"}, {"word": "fried", "POS": "VBD"}], "sentence": "in the ovens they fried"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "germans", "POS": "NNPS"}, {"word": "now", "POS": "RB"}, {"word": "too", "POS": "RB"}], "sentence": "the germans now too"}
+{"tags": [{"word": "have", "POS": "NNP"}, {"word": "god", "POS": "NNP"}, {"word": "on", "POS": "IN"}, {"word": "their", "POS": "PRP$"}, {"word": "side", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "have god on their side ."}
+
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "have", "POS": "VBP"}, {"word": "learned", "POS": "VBN"}, {"word": "to", "POS": "TO"}, {"word": "hate", "POS": "VB"}, {"word": "russians", "POS": "NNPS"}], "sentence": "i have learned to hate russians"}
+{"tags": [{"word": "all", "POS": "DT"}, {"word": "through", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "whole", "POS": "JJ"}, {"word": "life", "POS": "NN"}], "sentence": "all through my whole life"}
+{"tags": [{"word": "if", "POS": "IN"}, {"word": "another", "POS": "DT"}, {"word": "war", "POS": "NN"}, {"word": "starts", "POS": "VBZ"}], "sentence": "if another war starts"}
+{"tags": [{"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "them", "POS": "PRP"}, {"word": "we", "POS": "PRP"}, {"word": "must", "POS": "MD"}, {"word": "fight", "POS": "VB"}], "sentence": "it is them we must fight"}
+{"tags": [{"word": "to", "POS": "TO"}, {"word": "hate", "POS": "VB"}, {"word": "them", "POS": "PRP"}, {"word": "and", "POS": "CC"}, {"word": "fear", "POS": "VBP"}, {"word": "them", "POS": "PRP"}], "sentence": "to hate them and fear them"}
+{"tags": [{"word": "to", "POS": "TO"}, {"word": "run", "POS": "VB"}, {"word": "and", "POS": "CC"}, {"word": "to", "POS": "TO"}, {"word": "hide", "POS": "VB"}], "sentence": "to run and to hide"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "accept", "POS": "VB"}, {"word": "it", "POS": "PRP"}, {"word": "all", "POS": "DT"}, {"word": "bravely", "POS": "RB"}], "sentence": "and accept it all bravely"}
+{"tags": [{"word": "with", "POS": "IN"}, {"word": "god", "POS": "NNP"}, {"word": "on", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "side", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "with god on my side ."}
+
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "now", "POS": "RB"}, {"word": "we", "POS": "PRP"}, {"word": "got", "POS": "VBD"}, {"word": "weapons", "POS": "NNS"}], "sentence": "but now we got weapons"}
+{"tags": [{"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "chemical", "POS": "NN"}, {"word": "dust", "POS": "NN"}], "sentence": "of the chemical dust"}
+{"tags": [{"word": "if", "POS": "IN"}, {"word": "fire", "POS": "NN"}, {"word": "them", "POS": "PRP"}, {"word": "we", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "forced", "POS": "VBN"}, {"word": "to", "POS": "TO"}], "sentence": "if fire them we are forced to"}
+{"tags": [{"word": "then", "POS": "RB"}, {"word": "fire", "POS": "VB"}, {"word": "them", "POS": "PRP"}, {"word": "we", "POS": "PRP"}, {"word": "must", "POS": "MD"}], "sentence": "then fire them we must"}
+{"tags": [{"word": "one", "POS": "CD"}, {"word": "push", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "button", "POS": "NN"}], "sentence": "one push of the button"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "a", "POS": "DT"}, {"word": "shot", "POS": "NN"}, {"word": "the", "POS": "DT"}, {"word": "world", "POS": "NN"}, {"word": "wide", "POS": "JJ"}], "sentence": "and a shot the world wide"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "you", "POS": "PRP"}, {"word": "never", "POS": "RB"}, {"word": "ask", "POS": "VBP"}, {"word": "questions", "POS": "NNS"}], "sentence": "and you never ask questions"}
+{"tags": [{"word": "when", "POS": "WRB"}, {"word": "god", "POS": "NNP"}, {"word": "'s", "POS": "POS"}, {"word": "on", "POS": "IN"}, {"word": "your", "POS": "PRP$"}, {"word": "side", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "when god 's on your side ."}
+
+{"tags": [{"word": "in", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "many", "POS": "JJ"}, {"word": "dark", "POS": "JJ"}, {"word": "hour", "POS": "NN"}], "sentence": "in a many dark hour"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "have", "POS": "VBP"}, {"word": "been", "POS": "VBN"}, {"word": "thinkin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": "about", "POS": "IN"}, {"word": "this", "POS": "DT"}], "sentence": "i have been thinkin ' about this"}
+{"tags": [{"word": "that", "POS": "DT"}, {"word": "jesus", "POS": "NNP"}, {"word": "christ", "POS": "NNP"}], "sentence": "that jesus christ"}
+{"tags": [{"word": "was", "POS": "VBD"}, {"word": "betrayed", "POS": "VBN"}, {"word": "by", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "kiss", "POS": "NN"}], "sentence": "was betrayed by a kiss"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "ca", "POS": "MD"}, {"word": "not", "POS": "RB"}, {"word": "think", "POS": "VB"}, {"word": "for", "POS": "IN"}, {"word": "you", "POS": "PRP"}], "sentence": "but i ca not think for you"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "'ll", "POS": "MD"}, {"word": "have", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "decide", "POS": "VB"}], "sentence": "you 'll have to decide"}
+{"tags": [{"word": "whether", "POS": "IN"}, {"word": "judas", "POS": "NNP"}, {"word": "iscariot", "POS": "NNP"}], "sentence": "whether judas iscariot"}
+{"tags": [{"word": "had", "POS": "VBD"}, {"word": "god", "POS": "NNP"}, {"word": "on", "POS": "IN"}, {"word": "his", "POS": "PRP$"}, {"word": "side", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "had god on his side ."}
+
+{"tags": [{"word": "so", "POS": "RB"}, {"word": "now", "POS": "RB"}, {"word": "as", "POS": "IN"}, {"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "leavin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}], "sentence": "so now as i am leavin '"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "weary", "POS": "JJ"}, {"word": "as", "POS": "IN"}, {"word": "hell", "POS": "NNP"}], "sentence": "i am weary as hell"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "confusion", "POS": "NN"}, {"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "feelin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}], "sentence": "the confusion i am feelin '"}
+{"tags": [{"word": "ai", "POS": "NNP"}, {"word": "not", "POS": "RB"}, {"word": "no", "POS": "DT"}, {"word": "tongue", "POS": "NN"}, {"word": "can", "POS": "MD"}, {"word": "tell", "POS": "VB"}], "sentence": "ai not no tongue can tell"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "words", "POS": "NNS"}, {"word": "fill", "POS": "VBP"}, {"word": "my", "POS": "PRP$"}, {"word": "head", "POS": "NN"}], "sentence": "the words fill my head"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "fall", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "floor", "POS": "NN"}], "sentence": "and fall to the floor"}
+{"tags": [{"word": "if", "POS": "IN"}, {"word": "god", "POS": "NNP"}, {"word": "'s", "POS": "POS"}, {"word": "on", "POS": "IN"}, {"word": "our", "POS": "PRP$"}, {"word": "side", "POS": "NN"}], "sentence": "if god 's on our side"}
+{"tags": [{"word": "he", "POS": "PRP"}, {"word": "'ll", "POS": "MD"}, {"word": "stop", "POS": "VB"}, {"word": "the", "POS": "DT"}, {"word": "next", "POS": "JJ"}, {"word": "war", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "he 'll stop the next war ."}
+

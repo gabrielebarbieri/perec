@@ -1,0 +1,53 @@
+well/RB ,/PCT i/PRP have/VBP already/RB had/VBN two/CD beers/NNS 
+i/PRP am/VBP ready/JJ for/IN the/DT broom/NN 
+please/UH ,/PCT missus/NNP henry/NNP ,/PCT wo/MD not/RB you/PRP 
+take/VB me/PRP to/TO my/PRP$ room/NN ?/PCT 
+i/PRP am/VBP a/DT good/JJ ol'/NN boy/NN 
+but/CC i/PRP have/VBP been/VBN sniffin/VBG '/PCT too/RB many/JJ eggs/NNS 
+talkin/NNP '/POS to/TO too/RB many/JJ people/NNS 
+drinkin/VBG '/PCT too/RB many/JJ kegs/NNS 
+please/UH ,/PCT missus/NNP henry/NNP ,/PCT missus/NNP henry/NNP ,/PCT please/VB !/PCT 
+please/UH ,/PCT missus/NNP henry/NNP ,/PCT missus/NNP henry/NNP ,/PCT please/VB !/PCT 
+i/PRP am/VBP down/RP on/IN my/PRP$ knees/NNS 
+an/DT '/PCT i/PRP ai/VBP not/RB got/VBD a/DT dime/NN 
+
+well/RB ,/PCT i/PRP am/VBP groanin/VBG '/PCT in/IN a/DT hallway/NN 
+pretty/NNP soon/RB i/PRP 'll/MD be/VB mad/JJ 
+please/UH ,/PCT missus/NNP henry/NNP ,/PCT wo/MD not/RB you/PRP 
+take/VB me/PRP to/TO your/PRP$ dad/NN ?/PCT 
+i/PRP can/MD drink/VB like/IN a/DT fish/NN 
+i/PRP can/MD crawl/VB like/IN a/DT snake/NN 
+i/PRP can/MD bite/VB like/IN a/DT turkey/NN 
+i/PRP can/MD slam/VB like/IN a/DT drake/NN 
+please/UH ,/PCT missus/NNP henry/NNP ,/PCT missus/NNP henry/NNP ,/PCT please/VB !/PCT 
+please/UH ,/PCT missus/NNP henry/NNP ,/PCT missus/NNP henry/NNP ,/PCT please/VB !/PCT 
+i/PRP am/VBP down/RP on/IN my/PRP$ knees/NNS 
+an/DT '/PCT i/PRP ai/VBP not/RB got/VBD a/DT dime/NN 
+
+now/RB ,/PCT do/VBP not/RB crowd/VB me/PRP ,/PCT lady/NN 
+or/CC i/PRP 'll/MD fill/VB up/RP your/PRP$ shoe/NN 
+i/PRP am/VBP a/DT sweet/JJ bourbon/NN daddy/NN 
+an/DT '/PCT tonight/NN i/PRP am/VBP blue/JJ 
+i/PRP am/VBP a/DT thousand/CD years/NNS old/JJ 
+and/CC i/PRP am/VBP a/DT generous/JJ bomb/NN 
+i/PRP am/VBP t-boned/JJ and/CC punctured/JJ 
+but/CC i/PRP am/VBP known/VBN to/TO be/VB calm/JJ 
+please/UH ,/PCT missus/NNP henry/NNP ,/PCT missus/NNP henry/NNP ,/PCT please/VB !/PCT 
+please/UH ,/PCT missus/NNP henry/NNP ,/PCT missus/NNP henry/NNP ,/PCT please/VB !/PCT 
+i/PRP am/VBP down/RP on/IN my/PRP$ knees/NNS 
+an/DT '/PCT i/PRP ai/VBP not/RB got/VBD a/DT dime/NN 
+
+
+now/RB ,/PCT i/PRP am/VBP startin/VBG '/PCT to/TO drain/VB 
+my/PRP$ stool/NN 's/POS gonna/NN squeak/NN 
+if/IN i/PRP walk/VBP too/RB much/JJ farther/RB 
+my/PRP$ crane/NN 's/POS gonna/NN leak/NN 
+look/VB ,/PCT missus/NNP henry/NNP 
+there/EX is/VBZ only/RB so/RB much/JJ i/PRP can/MD do/VB 
+why/WRB do/VBP not/RB you/PRP look/VB my/PRP$ way/NN 
+an/DT '/PCT pump/VBP me/PRP a/DT few/JJ ?/PCT 
+please/UH ,/PCT missus/NNP henry/NNP ,/PCT missus/NNP henry/NNP ,/PCT please/VB !/PCT 
+please/UH ,/PCT missus/NNP henry/NNP ,/PCT missus/NNP henry/NNP ,/PCT please/VB !/PCT 
+i/PRP am/VBP down/RP on/IN my/PRP$ knees/NNS 
+an/DT '/PCT i/PRP ai/VBP not/RB got/VBD a/DT dime/NN 
+

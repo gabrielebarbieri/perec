@@ -1,0 +1,72 @@
+{"tags": [{"word": "come", "POS": "VBN"}, {"word": "you", "POS": "PRP"}, {"word": "masters", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "war", "POS": "NN"}], "sentence": "come you masters of war"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "that", "POS": "IN"}, {"word": "build", "POS": "VB"}, {"word": "all", "POS": "PDT"}, {"word": "the", "POS": "DT"}, {"word": "guns", "POS": "NNS"}], "sentence": "you that build all the guns"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "that", "POS": "IN"}, {"word": "build", "POS": "VBP"}, {"word": "the", "POS": "DT"}, {"word": "death", "POS": "NN"}, {"word": "planes", "POS": "NNS"}], "sentence": "you that build the death planes"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "that", "POS": "IN"}, {"word": "build", "POS": "VBP"}, {"word": "the", "POS": "DT"}, {"word": "big", "POS": "JJ"}, {"word": "bombs", "POS": "NNS"}], "sentence": "you that build the big bombs"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "that", "POS": "IN"}, {"word": "hide", "POS": "VB"}, {"word": "behind", "POS": "IN"}, {"word": "walls", "POS": "NNS"}], "sentence": "you that hide behind walls"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "that", "POS": "IN"}, {"word": "hide", "POS": "VB"}, {"word": "behind", "POS": "IN"}, {"word": "desks", "POS": "NNS"}], "sentence": "you that hide behind desks"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "just", "POS": "RB"}, {"word": "want", "POS": "VBP"}, {"word": "you", "POS": "PRP"}, {"word": "to", "POS": "TO"}, {"word": "know", "POS": "VB"}], "sentence": "i just want you to know"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "can", "POS": "MD"}, {"word": "see", "POS": "VB"}, {"word": "through", "POS": "IN"}, {"word": "your", "POS": "PRP$"}, {"word": "masks", "POS": "NNS"}], "sentence": "i can see through your masks"}
+
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "that", "POS": "IN"}, {"word": "never", "POS": "RB"}, {"word": "done", "POS": "VBN"}, {"word": "nothin", "POS": "NN"}, {"word": "'", "POS": "PCT"}], "sentence": "you that never done nothin '"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "build", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "destroy", "POS": "VB"}], "sentence": "but build to destroy"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "play", "POS": "VBP"}, {"word": "with", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "world", "POS": "NN"}], "sentence": "you play with my world"}
+{"tags": [{"word": "like", "POS": "IN"}, {"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "your", "POS": "PRP$"}, {"word": "little", "POS": "JJ"}, {"word": "toy", "POS": "NN"}], "sentence": "like it is your little toy"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "put", "POS": "VBD"}, {"word": "a", "POS": "DT"}, {"word": "gun", "POS": "NN"}, {"word": "in", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "hand", "POS": "NN"}], "sentence": "you put a gun in my hand"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "you", "POS": "PRP"}, {"word": "hide", "POS": "VBP"}, {"word": "from", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "eyes", "POS": "NNS"}], "sentence": "and you hide from my eyes"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "you", "POS": "PRP"}, {"word": "turn", "POS": "VBP"}, {"word": "and", "POS": "CC"}, {"word": "run", "POS": "VBP"}, {"word": "farther", "POS": "RB"}], "sentence": "and you turn and run farther"}
+{"tags": [{"word": "when", "POS": "WRB"}, {"word": "the", "POS": "DT"}, {"word": "fast", "POS": "JJ"}, {"word": "bullets", "POS": "NNS"}, {"word": "fly", "POS": "VBP"}], "sentence": "when the fast bullets fly"}
+
+{"tags": [{"word": "like", "POS": "IN"}, {"word": "judas", "POS": "NNP"}, {"word": "of", "POS": "IN"}, {"word": "old", "POS": "JJ"}], "sentence": "like judas of old"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "lie", "POS": "VBP"}, {"word": "and", "POS": "CC"}, {"word": "deceive", "POS": "VBP"}], "sentence": "you lie and deceive"}
+{"tags": [{"word": "a", "POS": "DT"}, {"word": "world", "POS": "NN"}, {"word": "war", "POS": "NN"}, {"word": "can", "POS": "MD"}, {"word": "be", "POS": "VB"}, {"word": "won", "POS": "VBN"}], "sentence": "a world war can be won"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "want", "POS": "VBP"}, {"word": "me", "POS": "PRP"}, {"word": "to", "POS": "TO"}, {"word": "believe", "POS": "VB"}], "sentence": "you want me to believe"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "see", "POS": "VBP"}, {"word": "through", "POS": "IN"}, {"word": "your", "POS": "PRP$"}, {"word": "eyes", "POS": "NNS"}], "sentence": "but i see through your eyes"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "see", "POS": "VBP"}, {"word": "through", "POS": "IN"}, {"word": "your", "POS": "PRP$"}, {"word": "brain", "POS": "NN"}], "sentence": "and i see through your brain"}
+{"tags": [{"word": "like", "POS": "IN"}, {"word": "i", "POS": "PRP"}, {"word": "see", "POS": "VBP"}, {"word": "through", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "water", "POS": "NN"}], "sentence": "like i see through the water"}
+{"tags": [{"word": "that", "POS": "DT"}, {"word": "runs", "POS": "VBZ"}, {"word": "down", "POS": "RP"}, {"word": "my", "POS": "PRP$"}, {"word": "drain", "POS": "NN"}], "sentence": "that runs down my drain"}
+
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "fasten", "POS": "VBP"}, {"word": "the", "POS": "DT"}, {"word": "triggers", "POS": "VBZ"}], "sentence": "you fasten the triggers"}
+{"tags": [{"word": "for", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "others", "POS": "NNS"}, {"word": "to", "POS": "TO"}, {"word": "fire", "POS": "NN"}], "sentence": "for the others to fire"}
+{"tags": [{"word": "then", "POS": "RB"}, {"word": "you", "POS": "PRP"}, {"word": "set", "POS": "VBD"}, {"word": "back", "POS": "RB"}, {"word": "and", "POS": "CC"}, {"word": "watch", "POS": "VB"}], "sentence": "then you set back and watch"}
+{"tags": [{"word": "when", "POS": "WRB"}, {"word": "the", "POS": "DT"}, {"word": "death", "POS": "NN"}, {"word": "count", "POS": "NN"}, {"word": "gets", "POS": "VBZ"}, {"word": "higher", "POS": "JJR"}], "sentence": "when the death count gets higher"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "hide", "POS": "VBP"}, {"word": "in", "POS": "IN"}, {"word": "your", "POS": "PRP$"}, {"word": "mansion", "POS": "NN"}], "sentence": "you hide in your mansion"}
+{"tags": [{"word": "as", "POS": "IN"}, {"word": "young", "POS": "JJ"}, {"word": "people", "POS": "NNS"}, {"word": "'s", "POS": "POS"}, {"word": "blood", "POS": "NN"}], "sentence": "as young people 's blood"}
+{"tags": [{"word": "flows", "POS": "NNS"}, {"word": "out", "POS": "IN"}, {"word": "of", "POS": "IN"}, {"word": "their", "POS": "PRP$"}, {"word": "bodies", "POS": "NNS"}], "sentence": "flows out of their bodies"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "is", "POS": "VBZ"}, {"word": "buried", "POS": "VBN"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "mud", "POS": "NN"}], "sentence": "and is buried in the mud"}
+
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "have", "POS": "VBP"}, {"word": "thrown", "POS": "VBN"}, {"word": "the", "POS": "DT"}, {"word": "worst", "POS": "JJS"}, {"word": "fear", "POS": "NN"}], "sentence": "you have thrown the worst fear"}
+{"tags": [{"word": "that", "POS": "DT"}, {"word": "can", "POS": "MD"}, {"word": "ever", "POS": "RB"}, {"word": "be", "POS": "VB"}, {"word": "hurled", "POS": "VBN"}], "sentence": "that can ever be hurled"}
+{"tags": [{"word": "fear", "POS": "NN"}, {"word": "to", "POS": "TO"}, {"word": "bring", "POS": "VB"}, {"word": "children", "POS": "NNS"}], "sentence": "fear to bring children"}
+{"tags": [{"word": "into", "POS": "NNP"}, {"word": "the", "POS": "DT"}, {"word": "world", "POS": "NN"}], "sentence": "into the world"}
+{"tags": [{"word": "for", "POS": "IN"}, {"word": "threatening", "POS": "VBG"}, {"word": "my", "POS": "PRP$"}, {"word": "baby", "POS": "NN"}], "sentence": "for threatening my baby"}
+{"tags": [{"word": "unborn", "POS": "JJ"}, {"word": "and", "POS": "CC"}, {"word": "unnamed", "POS": "JJ"}], "sentence": "unborn and unnamed"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "ai", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "worth", "POS": "JJ"}, {"word": "the", "POS": "DT"}, {"word": "blood", "POS": "NN"}], "sentence": "you ai not worth the blood"}
+{"tags": [{"word": "that", "POS": "DT"}, {"word": "runs", "POS": "VBZ"}, {"word": "in", "POS": "IN"}, {"word": "your", "POS": "PRP$"}, {"word": "veins", "POS": "NNS"}], "sentence": "that runs in your veins"}
+
+{"tags": [{"word": "how", "POS": "WRB"}, {"word": "much", "POS": "RB"}, {"word": "do", "POS": "VBP"}, {"word": "i", "POS": "PRP"}, {"word": "know", "POS": "VBP"}], "sentence": "how much do i know"}
+{"tags": [{"word": "to", "POS": "TO"}, {"word": "talk", "POS": "VB"}, {"word": "out", "POS": "IN"}, {"word": "of", "POS": "IN"}, {"word": "turn", "POS": "NN"}], "sentence": "to talk out of turn"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "might", "POS": "MD"}, {"word": "say", "POS": "VB"}, {"word": "that", "POS": "IN"}, {"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "young", "POS": "JJ"}], "sentence": "you might say that i am young"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "might", "POS": "MD"}, {"word": "say", "POS": "VB"}, {"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "unlearned", "POS": "JJ"}], "sentence": "you might say i am unlearned"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "there", "POS": "EX"}, {"word": "is", "POS": "VBZ"}, {"word": "one", "POS": "CD"}, {"word": "thing", "POS": "NN"}, {"word": "i", "POS": "PRP"}, {"word": "know", "POS": "VBP"}], "sentence": "but there is one thing i know"}
+{"tags": [{"word": "though", "POS": "IN"}, {"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "younger", "POS": "JJR"}, {"word": "than", "POS": "IN"}, {"word": "you", "POS": "PRP"}], "sentence": "though i am younger than you"}
+{"tags": [{"word": "even", "POS": "RB"}, {"word": "jesus", "POS": "NNP"}, {"word": "would", "POS": "MD"}, {"word": "never", "POS": "RB"}], "sentence": "even jesus would never"}
+{"tags": [{"word": "forgive", "POS": "VB"}, {"word": "what", "POS": "WP"}, {"word": "you", "POS": "PRP"}, {"word": "do", "POS": "VBP"}], "sentence": "forgive what you do"}
+
+{"tags": [{"word": "let", "POS": "VB"}, {"word": "me", "POS": "PRP"}, {"word": "ask", "POS": "VB"}, {"word": "you", "POS": "PRP"}, {"word": "one", "POS": "CD"}, {"word": "question", "POS": "NN"}], "sentence": "let me ask you one question"}
+{"tags": [{"word": "is", "POS": "VBZ"}, {"word": "your", "POS": "PRP$"}, {"word": "money", "POS": "NN"}, {"word": "that", "POS": "IN"}, {"word": "good", "POS": "JJ"}], "sentence": "is your money that good"}
+{"tags": [{"word": "will", "POS": "MD"}, {"word": "it", "POS": "PRP"}, {"word": "buy", "POS": "VB"}, {"word": "you", "POS": "PRP"}, {"word": "forgiveness", "POS": "NN"}], "sentence": "will it buy you forgiveness"}
+{"tags": [{"word": "do", "POS": "VBP"}, {"word": "you", "POS": "PRP"}, {"word": "think", "POS": "VB"}, {"word": "that", "POS": "IN"}, {"word": "it", "POS": "PRP"}, {"word": "could", "POS": "MD"}], "sentence": "do you think that it could"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "think", "POS": "VBP"}, {"word": "you", "POS": "PRP"}, {"word": "will", "POS": "MD"}, {"word": "find", "POS": "VB"}], "sentence": "i think you will find"}
+{"tags": [{"word": "when", "POS": "WRB"}, {"word": "your", "POS": "PRP$"}, {"word": "death", "POS": "NN"}, {"word": "takes", "POS": "VBZ"}, {"word": "its", "POS": "PRP$"}, {"word": "toll", "POS": "NN"}], "sentence": "when your death takes its toll"}
+{"tags": [{"word": "all", "POS": "PDT"}, {"word": "the", "POS": "DT"}, {"word": "money", "POS": "NN"}, {"word": "you", "POS": "PRP"}, {"word": "made", "POS": "VBD"}], "sentence": "all the money you made"}
+{"tags": [{"word": "will", "POS": "MD"}, {"word": "never", "POS": "RB"}, {"word": "buy", "POS": "VB"}, {"word": "back", "POS": "RB"}, {"word": "your", "POS": "PRP$"}, {"word": "soul", "POS": "NN"}], "sentence": "will never buy back your soul"}
+
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "hope", "POS": "VBP"}, {"word": "that", "POS": "IN"}, {"word": "you", "POS": "PRP"}, {"word": "die", "POS": "VBP"}], "sentence": "and i hope that you die"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "your", "POS": "PRP$"}, {"word": "death", "POS": "NN"}, {"word": "'ll", "POS": "MD"}, {"word": "come", "POS": "VB"}, {"word": "soon", "POS": "RB"}], "sentence": "and your death 'll come soon"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "will", "POS": "MD"}, {"word": "follow", "POS": "VB"}, {"word": "your", "POS": "PRP$"}, {"word": "casket", "POS": "NN"}], "sentence": "i will follow your casket"}
+{"tags": [{"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "pale", "POS": "JJ"}, {"word": "afternoon", "POS": "NN"}], "sentence": "in the pale afternoon"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "'ll", "POS": "MD"}, {"word": "watch", "POS": "VB"}, {"word": "while", "POS": "IN"}, {"word": "you", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "lowered", "POS": "VBN"}], "sentence": "and i 'll watch while you are lowered"}
+{"tags": [{"word": "down", "POS": "IN"}, {"word": "to", "POS": "TO"}, {"word": "your", "POS": "PRP$"}, {"word": "deathbed", "POS": "JJ"}], "sentence": "down to your deathbed"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "'ll", "POS": "MD"}, {"word": "stand", "POS": "VB"}, {"word": "o'er", "POS": "VB"}, {"word": "your", "POS": "PRP$"}, {"word": "grave", "POS": "NN"}], "sentence": "and i 'll stand o'er your grave"}
+{"tags": [{"word": "'til", "POS": "NN"}, {"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "sure", "POS": "JJ"}, {"word": "that", "POS": "IN"}, {"word": "you", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "dead", "POS": "JJ"}], "sentence": "'til i am sure that you are dead"}
+

@@ -1,0 +1,42 @@
+well/RB ,/PCT i/PRP see/VBP you/PRP got/VBD your/PRP$ brand/NN new/JJ leopard-skin/JJ pill-box/NN hat/NN 
+yes/UH ,/PCT i/PRP see/VBP you/PRP got/VBD your/PRP$ brand/NN new/JJ leopard-skin/JJ pill-box/NN hat/NN 
+well/RB ,/PCT you/PRP must/MD tell/VB me/PRP ,/PCT baby/NN 
+how/WRB your/PRP$ head/NN feels/VBZ under/IN somethin'/NN like/IN that/DT 
+under/IN your/PRP$ brand/NN new/JJ leopard-skin/JJ pill-box/NN hat/NN 
+
+well/RB ,/PCT you/PRP look/VBP so/RB pretty/RB in/IN it/PRP 
+honey/NNP ,/PCT can/MD i/PRP jump/VB on/IN it/PRP sometime/RB ?/PCT 
+yes/UH ,/PCT i/PRP just/RB wanna/VBP see/VB 
+if/IN it/PRP is/VBZ really/RB that/IN expensive/JJ kind/NN 
+you/PRP know/VBP it/PRP balances/VBZ on/IN your/PRP$ head/NN 
+just/RB like/IN a/DT mattress/NN balances/NNS 
+on/IN a/DT bottle/NN of/IN wine/NN 
+your/PRP$ brand/NN new/JJ leopard-skin/JJ pill-box/NN hat/NN 
+
+well/RB ,/PCT if/IN you/PRP wanna/VBP see/VB the/DT sun/NN rise/NN 
+honey/NNP ,/PCT i/PRP know/VBP where/WRB 
+we/PRP 'll/MD go/VB out/RB and/CC see/VB it/PRP sometime/RB 
+we/PRP 'll/MD both/DT just/RB sit/VB there/RB and/CC stare/VB 
+me/PRP with/IN my/PRP$ belt/NN 
+wrapped/VBD around/IN my/PRP$ head/NN 
+and/CC you/PRP just/RB sittin/VBG '/PCT there/EX 
+in/IN your/PRP$ brand/NN new/JJ leopard-skin/JJ pill-box/NN hat/NN 
+
+well/RB ,/PCT i/PRP asked/VBD the/DT doctor/NN if/IN i/PRP could/MD see/VB you/PRP 
+it/PRP is/VBZ bad/JJ for/IN your/PRP$ health/NN ,/PCT he/PRP said/VBD 
+yes/UH ,/PCT i/PRP disobeyed/VBD his/PRP$ orders/NNS 
+i/PRP came/VBD to/TO see/VB you/PRP 
+but/CC i/PRP found/VBD him/PRP there/EX instead/RB 
+you/PRP know/VBP ,/PCT i/PRP do/VBP not/RB mind/VB him/PRP cheatin/VBG '/PCT on/IN me/PRP 
+but/CC i/PRP sure/RB wish/VBP he/PRP 'd/MD take/VB that/DT off/RP his/PRP$ head/NN 
+your/PRP$ brand/NN new/JJ leopard-skin/JJ pill-box/NN hat/NN 
+
+well/RB ,/PCT i/PRP see/VBP you/PRP got/VBD a/DT new/JJ boyfriend/NN 
+you/PRP know/VBP ,/PCT i/PRP never/RB seen/VBD him/PRP before/IN 
+well/RB ,/PCT i/PRP saw/VBD him/PRP 
+makin/NNP '/POS love/NN to/TO you/PRP 
+you/PRP forgot/VBD to/TO close/VB the/DT garage/NN door/NN 
+you/PRP might/MD think/VB he/PRP loves/VBZ you/PRP for/IN your/PRP$ money/NN 
+but/CC i/PRP know/VBP what/WP he/PRP really/RB loves/VBZ you/PRP for/IN 
+it/PRP is/VBZ your/PRP$ brand/NN new/JJ leopard-skin/JJ pill-box/NN hat/NN 
+

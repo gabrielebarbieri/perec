@@ -1,0 +1,45 @@
+i/PRP ai/VBP not/RB gonna/VB work/NN on/IN maggie/NNP 's/POS farm/NN no/RB more/RBR ./PCT 
+no/DT ,/PCT i/PRP ai/VBP not/RB gonna/VB work/NN on/IN maggie/NNP 's/POS farm/NN no/RB more/RBR ./PCT 
+well/RB ,/PCT i/PRP wake/VBP in/IN the/DT morning/NN ,/PCT 
+fold/VB my/PRP$ hands/NNS and/CC pray/NN for/IN rain/NN ./PCT 
+i/PRP got/VBD a/DT head/NN full/JJ of/IN ideas/NNS 
+that/DT are/VBP drivin/VBG '/PCT me/PRP insane/JJ ./PCT 
+it/PRP is/VBZ a/DT shame/NN the/DT way/NN she/PRP makes/VBZ me/PRP scrub/NN the/DT floor/NN ./PCT 
+i/PRP ai/VBP not/RB gonna/VB work/NN on/IN maggie/NNP 's/POS farm/NN no/RB more/RBR ./PCT 
+
+i/PRP ai/VBP not/RB gonna/VB work/NN for/IN maggie/NNP 's/POS brother/NN no/RB more/RBR ./PCT 
+no/DT ,/PCT i/PRP ai/VBP not/RB gonna/VB work/NN for/IN maggie/NNP 's/POS brother/NN no/RB more/RBR ./PCT 
+well/RB ,/PCT he/PRP hands/VBZ you/PRP a/DT nickel/NN ,/PCT 
+he/PRP hands/VBZ you/PRP a/DT dime/NN ,/PCT 
+he/PRP asks/VBZ you/PRP with/IN a/DT grin/NN 
+if/IN you/PRP are/VBP havin/VBG '/PCT a/DT good/JJ time/NN ,/PCT 
+then/RB he/PRP fines/NNS you/PRP every/DT time/NN you/PRP slam/VBP the/DT door/NN ./PCT 
+i/PRP ai/VBP not/RB gonna/VB work/NN for/IN maggie/NNP 's/POS brother/NN no/RB more/RBR ./PCT 
+
+i/PRP ai/VBP not/RB gonna/VB work/NN for/IN maggie/NNP 's/POS pa/NN no/RB more/RBR ./PCT 
+no/DT ,/PCT i/PRP ai/VBP not/RB gonna/VB work/NN for/IN maggie/NNP 's/POS pa/NN no/RB more/RBR ./PCT 
+well/RB ,/PCT he/PRP puts/VBZ his/PRP$ cigar/NN 
+out/IN in/IN your/PRP$ face/NN just/RB for/IN kicks/VBZ ./PCT 
+his/PRP$ bedroom/NN window/NN 
+it/PRP is/VBZ made/VBN out/IN of/IN bricks/NNS ./PCT 
+the/DT national/NNP guard/NNP stands/VBZ around/IN his/PRP$ door/NN ./PCT 
+ah/UH ,/PCT i/PRP ai/VBP not/RB gonna/VB work/NN for/IN maggie/NNP 's/POS pa/NN no/RB more/RBR ./PCT 
+
+i/PRP ai/VBP not/RB gonna/VB work/NN for/IN maggie/NNP 's/POS ma/NN no/RB more/RBR ./PCT 
+no/DT ,/PCT i/PRP ai/VBP not/RB gonna/VB work/NN for/IN maggie/NNP 's/POS ma/NN no/RB more/RBR ./PCT 
+well/RB ,/PCT she/PRP talks/VBZ to/TO all/PDT the/DT servants/NNS 
+about/IN man/NN and/CC god/NNP and/CC law/NN ./PCT 
+everybody/NN says/VBZ 
+she/PRP is/VBZ the/DT brains/NNS behind/IN pa./NN 
+she/PRP is/VBZ sixty-eight/JJ ,/PCT but/CC she/PRP says/VBZ she/PRP is/VBZ twenty-four/JJ ./PCT 
+i/PRP ai/VBP not/RB gonna/VB work/NN for/IN maggie/NNP 's/POS ma/NN no/RB more/RBR ./PCT 
+
+i/PRP ai/VBP not/RB gonna/VB work/NN on/IN maggie/NNP 's/POS farm/NN no/RB more/RBR ./PCT 
+no/DT ,/PCT i/PRP ai/VBP not/RB gonna/VB work/NN on/IN maggie/NNP 's/POS farm/NN no/RB more/RBR ./PCT 
+well/RB ,/PCT i/PRP try/VBP my/PRP$ best/JJS 
+to/TO be/VB just/RB like/IN i/PRP am/VBP ,/PCT 
+but/CC everybody/NN wants/VBZ you/PRP 
+to/TO be/VB just/RB like/IN them/PRP ./PCT 
+they/PRP sing/VBP while/IN you/PRP slave/NN and/CC i/PRP just/RB get/VBP bored/VBN ./PCT 
+i/PRP ai/VBP not/RB gonna/VB work/NN on/IN maggie/NNP 's/POS farm/NN no/RB more/RBR ./PCT 
+

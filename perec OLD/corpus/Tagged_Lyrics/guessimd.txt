@@ -1,0 +1,48 @@
+well/RB ,/PCT i/PRP ai/VBP not/RB got/VB my/PRP$ childhood/NN 
+or/CC friends/NNS i/PRP once/RB did/VBD know/VB ./PCT 
+no/DT ,/PCT i/PRP ai/VBP not/RB got/VB my/PRP$ childhood/NN 
+or/CC friends/NNS i/PRP once/RB did/VBD know/VB ./PCT 
+but/CC i/PRP still/RB got/VBD my/PRP$ voice/NN left/VBD ,/PCT 
+i/PRP can/MD take/VB it/PRP anywhere/RB i/PRP go/VBP ./PCT 
+hey/NNP ,/PCT hey/NN ,/PCT so/IN i/PRP guess/VBP i/PRP am/VBP doin/VBG '/PCT fine/NN ./PCT 
+
+and/CC i/PRP have/VBP never/RB had/VBN much/JJ money/NN 
+but/CC i/PRP am/VBP still/RB around/IN somehow/RB ./PCT 
+no/DT ,/PCT i/PRP have/VBP never/RB had/VBN much/JJ money/NN 
+but/CC i/PRP am/VBP still/RB around/IN somehow/RB ./PCT 
+many/JJ times/NNS i/PRP have/VBP bended/VBN 
+but/CC i/PRP ai/VBP not/RB never/RB yet/RB bowed/VBN ./PCT 
+hey/NNP ,/PCT hey/NN ,/PCT so/IN i/PRP guess/VBP i/PRP am/VBP doin/VBG '/PCT fine/NN ./PCT 
+
+trouble/NN ,/PCT oh/UH trouble/NN ,/PCT 
+i/PRP have/VBP trouble/NN on/IN my/PRP$ mind/NN 
+trouble/NN ,/PCT oh/UH trouble/NN ,/PCT 
+trouble/NN on/IN my/PRP$ mind/NN ./PCT 
+but/CC the/DT trouble/NN in/IN the/DT world/NN ,/PCT lord/NNP ,/PCT 
+is/VBZ much/RB more/RBR bigger/JJR than/IN mine/NN ./PCT 
+hey/NNP ,/PCT hey/NN ,/PCT so/IN i/PRP guess/VBP i/PRP am/VBP doin/VBG '/PCT fine/NN ./PCT 
+
+and/CC i/PRP never/RB had/VBD no/DT armies/NNS 
+to/TO jump/VB at/IN my/PRP$ command/NN ./PCT 
+no/DT ,/PCT i/PRP ai/VBP not/RB got/VBD no/DT armies/NNS 
+to/TO jump/VB at/IN my/PRP$ command/NN ./PCT 
+but/CC i/PRP do/VBP not/RB need/VB no/DT armies/NNS ,/PCT 
+i/PRP got/VBD me/PRP one/CD good/JJ friend/NN ./PCT 
+hey/NNP ,/PCT hey/NN ,/PCT so/IN i/PRP guess/VBP i/PRP am/VBP doin/VBG '/PCT fine/NN ./PCT 
+
+i/PRP been/VBN kicked/VBN and/CC whipped/VBN and/CC trampled/VBN on/IN ,/PCT 
+i/PRP been/VBN shot/VBN at/IN just/RB like/IN you/PRP ./PCT 
+i/PRP been/VBN kicked/VBN and/CC whipped/VBN and/CC trampled/VBN on/IN ,/PCT 
+i/PRP been/VBN shot/VBN at/IN just/RB like/IN you/PRP ./PCT 
+but/CC as/RB long/JJ as/IN the/DT world/NN keeps/VBZ a-turnin/NN '/PCT ,/PCT 
+i/PRP just/RB keep/VBP a-turnin/VBG '/PCT too/RB ./PCT 
+hey/NNP ,/PCT hey/NN ,/PCT so/IN i/PRP guess/VBP i/PRP am/VBP doin/VBG '/PCT fine/NN ./PCT 
+
+well/RB ,/PCT my/PRP$ road/NN might/MD be/VB rocky/JJ ,/PCT 
+the/DT stones/NNS might/MD cut/VB my/PRP$ face/NN ./PCT 
+my/PRP$ road/NN it/PRP might/MD be/VB rocky/JJ ,/PCT 
+the/DT stones/NNS might/MD cut/VB my/PRP$ face/NN ./PCT 
+but/CC as/IN some/DT folks/NNS ai/VBP not/RB got/VBD no/DT road/NN at/IN all/DT ,/PCT 
+they/PRP gotta/VBP stand/NN in/IN the/DT same/JJ old/JJ place/NN ./PCT 
+hey/NNP ,/PCT hey/NN ,/PCT so/IN i/PRP guess/VBP i/PRP am/VBP doin/VBG '/PCT fine/NN ./PCT 
+

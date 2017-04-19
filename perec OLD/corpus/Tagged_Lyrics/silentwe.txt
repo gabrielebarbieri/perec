@@ -1,0 +1,37 @@
+silent/JJ weekend/NN ,/PCT 
+my/PRP$ baby/NN she/PRP gave/VBD it/PRP to/TO me/PRP 
+silent/JJ weekend/NN ,/PCT 
+my/PRP$ baby/NN she/PRP gave/VBD it/PRP to/TO me/PRP ./PCT 
+she/PRP is/VBZ actin/NN '/PCT tough/JJ and/CC hardy/JJ 
+she/PRP says/VBZ it/PRP ai/VBP not/RB my/PRP$ party/NN 
+and/CC she/PRP is/VBZ leavin/VBG '/PCT me/PRP in/IN misery/NN ./PCT 
+
+silent/JJ weekend/NN ,/PCT 
+my/PRP$ baby/NN she/PRP took/VBD me/PRP by/IN surprise/NN ./PCT 
+silent/JJ weekend/NN ,/PCT 
+my/PRP$ baby/NN she/PRP took/VBD me/PRP by/IN surprise/NN ./PCT 
+she/PRP is/VBZ rockin/VBG '/PCT and/CC a-reelin/VBG '/PCT 
+head/NNP up/RB to/TO ceiling/NN 
+an/DT '/PCT swinging/VBG with/IN some/DT other/JJ guys/NNS ./PCT 
+
+silent/JJ weekend/NN ,/PCT 
+oh/UH lord/NNP ,/PCT i/PRP wish/VBP monday/NNP would/MD come/VB ./PCT 
+silent/JJ weekend/NN ,/PCT 
+oh/UH lord/NNP ,/PCT i/PRP sure/JJ wish/NN monday/NNP would/MD come/VB ./PCT 
+she/PRP is/VBZ uppity/NN ,/PCT she/PRP is/VBZ rollin/VBG '/PCT ,/PCT 
+she/PRP is/VBZ in/IN the/DT groove/NN ,/PCT she/PRP is/VBZ strolling/VBG 
+over/IN to/TO the/DT jukebox/NN playin/NN '/PCT deaf/JJ and/CC dumb/JJ ./PCT 
+
+well/RB ,/PCT i/PRP done/VBD a/DT whole/JJ lotta/NN thinkin/VBG '/PCT `/PCT bout/NN a/DT whole/JJ lot/NN of/IN cheatin/NN '/PCT ,/PCT 
+and/CC i/PRP ,/PCT maybe/RB i/PRP did/VBD some/DT just/RB to/TO please/VB ./PCT 
+but/CC i/PRP just/RB walloped/VBD a/DT lotta/JJ pizza/NN after/IN makin/VBG '/PCT our/PRP$ peace/NN ,/PCT 
+puts/VBZ ya/PRP down/RP on/IN bended/JJ knees/NNS ./PCT 
+
+silent/JJ weekend/NN ,/PCT 
+man/NN alive/JJ ,/PCT i/PRP am/VBP burnin/VBG '/PCT up/RP on/IN my/PRP$ brain/NN ./PCT 
+silent/JJ weekend/NN ,/PCT 
+man/NN alive/JJ ,/PCT i/PRP am/VBP burnin/VBG '/PCT up/RP on/IN my/PRP$ brain/NN ./PCT 
+she/PRP knows/VBZ when/WRB i/PRP am/VBP just/RB teasin/VBG '/PCT 
+but/CC it/PRP is/VBZ not/RB likely/JJ in/IN the/DT season/NN 
+to/TO open/VB up/RP a/DT passenger/NN train/NN ./PCT 
+

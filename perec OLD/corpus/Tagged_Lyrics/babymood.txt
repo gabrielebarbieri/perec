@@ -1,0 +1,36 @@
+sometimes/RB i/PRP am/VBP in/IN the/DT mood/NN ,/PCT i/PRP wanna/VBP leave/VB my/PRP$ lonesome/JJ home/NN 
+and/CC sometimes/RB i/PRP am/VBP in/IN the/DT mood/NN ,/PCT i/PRP wanna/VBP hear/VB my/PRP$ milk/NN cow/NN moan/VB 
+and/CC sometimes/RB i/PRP am/VBP in/IN the/DT mood/NN ,/PCT i/PRP wanna/VBP hit/VBD the/DT highway/NN road/NN 
+but/CC then/RB again/RB ,/PCT but/CC then/RB again/RB ,/PCT i/PRP said/VBD oh/UH ,/PCT i/PRP said/VBD oh/UH ,/PCT i/PRP said/VBD 
+oh/UH babe/NN ,/PCT i/PRP am/VBP in/IN the/DT mood/NN for/IN you/PRP ./PCT 
+
+sometimes/RB i/PRP am/VBP in/IN the/DT mood/NN ,/PCT lord/NNP ,/PCT i/PRP had/VBD my/PRP$ overflowin/NN '/PCT fill/NN 
+sometimes/RB i/PRP am/VBP in/IN the/DT mood/NN ,/PCT i/PRP am/VBP gonna/NNS make/VBP out/RP my/PRP$ final/JJ will/NN 
+sometimes/RB i/PRP am/VBP in/IN the/DT mood/NN ,/PCT i/PRP am/VBP gonna/JJ head/NN for/IN the/DT walkin/NN '/PCT hill/NN 
+but/CC then/RB again/RB ,/PCT but/CC then/RB again/RB ,/PCT i/PRP said/VBD oh/UH ,/PCT i/PRP said/VBD oh/UH ,/PCT i/PRP said/VBD 
+oh/UH babe/NN ,/PCT i/PRP am/VBP in/IN the/DT mood/NN for/IN you/PRP ./PCT 
+
+sometimes/RB i/PRP am/VBP in/IN the/DT mood/NN ,/PCT i/PRP wanna/VBP lay/VB right/RB down/RB and/CC die/VB 
+sometimes/RB i/PRP am/VBP in/IN the/DT mood/NN ,/PCT i/PRP wanna/VBP climb/NN up/RB to/TO the/DT sky/NN 
+sometimes/RB i/PRP am/VBP in/IN the/DT mood/NN ,/PCT i/PRP am/VBP gonna/JJ laugh/NN until/IN i/PRP cry/VBP 
+but/CC then/RB again/RB ,/PCT i/PRP said/VBD again/RB ,/PCT i/PRP said/VBD again/RB ,/PCT i/PRP said/VBD 
+oh/UH babe/NN ,/PCT i/PRP am/VBP in/IN the/DT mood/NN for/IN you/PRP ./PCT 
+
+sometimes/RB i/PRP am/VBP in/IN the/DT mood/NN ,/PCT i/PRP am/VBP gonna/JJ sleep/NN in/IN my/PRP$ pony/NN 's/POS stall/VB 
+sometimes/RB i/PRP am/VBP in/IN the/DT mood/NN ,/PCT i/PRP ai/VBP not/RB gonna/NNS do/VBP nothin/NN '/PCT at/IN all/DT 
+sometimes/RB i/PRP am/VBP in/IN the/DT mood/NN ,/PCT i/PRP wanna/VBP fly/VB like/IN a/DT cannon/NN ball/NN 
+but/CC then/RB again/RB ,/PCT but/CC then/RB again/RB ,/PCT i/PRP said/VBD oh/UH ,/PCT i/PRP said/VBD oh/UH ,/PCT i/PRP said/VBD 
+oh/UH babe/NN ,/PCT i/PRP am/VBP in/IN the/DT mood/NN for/IN you/PRP ./PCT 
+
+sometimes/RB i/PRP am/VBP in/IN the/DT mood/NN ,/PCT i/PRP wanna/VBP back/RB up/RB against/IN the/DT wall/NN 
+sometimes/RB i/PRP am/VBP in/IN the/DT mood/NN ,/PCT i/PRP wanna/VBP run/VB till/IN i/PRP have/VBP to/TO crawl/VB 
+sometimes/RB i/PRP am/VBP in/IN the/DT mood/NN ,/PCT i/PRP ai/VBP not/RB gonna/NNS do/VBP nothin/NN '/PCT at/IN all/DT 
+but/CC then/RB again/RB ,/PCT but/CC then/RB again/RB ,/PCT i/PRP said/VBD oh/UH ,/PCT i/PRP said/VBD oh/UH ,/PCT i/PRP said/VBD 
+oh/UH babe/NN ,/PCT i/PRP am/VBP in/IN the/DT mood/NN for/IN you/PRP ./PCT 
+
+sometimes/RB i/PRP am/VBP in/IN the/DT mood/NN ,/PCT i/PRP wanna/VBP change/VB my/PRP$ house/NN around/IN 
+sometimes/RB i/PRP am/VBP in/IN the/DT mood/NN ,/PCT i/PRP am/VBP gonna/NNS make/VB a/DT change/NN in/IN this/DT here/RB town/NN 
+sometimes/RB i/PRP am/VBP in/IN the/DT mood/NN ,/PCT i/PRP am/VBP gonna/JJ change/NN the/DT world/NN around/IN 
+but/CC then/RB again/RB ,/PCT but/CC then/RB again/RB ,/PCT i/PRP said/VBD oh/UH ,/PCT i/PRP said/VBD oh/UH ,/PCT i/PRP said/VBD 
+oh/UH babe/NN ,/PCT i/PRP am/VBP in/IN the/DT mood/NN for/IN you/PRP ./PCT 
+

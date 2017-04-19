@@ -1,0 +1,34 @@
+if/IN not/RB for/IN you/PRP ,/PCT 
+babe/NNP ,/PCT i/PRP could/MD not/RB find/VB the/DT door/NN ,/PCT 
+could/MD not/RB even/RB see/VB the/DT floor/NN ,/PCT 
+i/PRP 'd/MD be/VB sad/JJ and/CC blue/JJ ,/PCT 
+if/IN not/RB for/IN you/PRP ./PCT 
+
+if/IN not/RB for/IN you/PRP ,/PCT 
+babe/NNP ,/PCT i/PRP 'd/MD lay/VB awake/RB all/DT night/NN ,/PCT 
+wait/VB for/IN the/DT mornin/NN '/PCT light/NN 
+to/TO shine/VB in/IN through/IN ,/PCT 
+but/CC it/PRP would/MD not/RB be/VB new/JJ ,/PCT 
+if/IN not/RB for/IN you/PRP ./PCT 
+
+if/IN not/RB for/IN you/PRP 
+my/PRP$ sky/NN would/MD fall/VB ,/PCT 
+rain/NN would/MD gather/VB too/RB ./PCT 
+without/IN your/PRP$ love/NN i/PRP 'd/MD be/VB nowhere/RB at/IN all/DT ,/PCT 
+i/PRP 'd/MD be/VB lost/VBN if/IN not/RB for/IN you/PRP ,/PCT 
+and/CC you/PRP know/VBP it/PRP is/VBZ true/JJ ./PCT 
+
+if/IN not/RB for/IN you/PRP 
+my/PRP$ sky/NN would/MD fall/VB ,/PCT 
+rain/NN would/MD gather/VB too/RB ./PCT 
+without/IN your/PRP$ love/NN i/PRP 'd/MD be/VB nowhere/RB at/IN all/DT ,/PCT 
+oh/UH !/PCT what/WP would/MD i/PRP do/VB 
+if/IN not/RB for/IN you/PRP ./PCT 
+
+if/IN not/RB for/IN you/PRP ,/PCT 
+winter/NNP would/MD have/VB no/DT spring/NN ,/PCT 
+could/MD not/RB hear/VB the/DT robin/NN sing/VB ,/PCT 
+i/PRP just/RB would/MD not/RB have/VB a/DT clue/NN ,/PCT 
+anyway/RB it/PRP would/MD not/RB ring/VB true/JJ ,/PCT 
+if/IN not/RB for/IN you/PRP ./PCT 
+

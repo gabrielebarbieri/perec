@@ -1,0 +1,48 @@
+lazy/JJ stadium/NN night/NN 
+catfish/NN on/IN the/DT mound/NN ./PCT 
+``/PCT strike/NN three/CD ,/PCT ''/PCT the/DT umpire/NN said/VBD ,/PCT 
+batter/NN have/VBP to/TO go/VB back/RB and/CC sit/VB down/RP ./PCT 
+
+catfish/NN ,/PCT million-dollar-man/NN ,/PCT 
+nobody/NN can/MD throw/VB the/DT ball/NN like/IN catfish/NN can/MD ./PCT 
+
+used/VBN to/TO work/VB on/IN mr./NNP finley/NNP 's/POS farm/NN 
+but/CC the/DT old/JJ man/NN would/MD not/RB pay/VB 
+so/IN he/PRP packed/VBD his/PRP$ glove/NN and/CC took/VBD his/PRP$ arm/NN 
+an/DT '/PCT one/CD day/NN he/PRP just/RB ran/VBD away/RB ./PCT 
+
+catfish/NN ,/PCT million-dollar-man/NN ,/PCT 
+nobody/NN can/MD throw/VB the/DT ball/NN like/IN catfish/NN can/MD ./PCT 
+
+come/VBN up/IN where/WRB the/DT yankees/NNPS are/VBP ,/PCT 
+dress/NNP up/RB in/IN a/DT pinstripe/NN suit/NN ,/PCT 
+smoke/VB a/DT custom-made/JJ cigar/NN ,/PCT 
+wear/VB an/DT alligator/NN boot/NN ./PCT 
+
+catfish/NN ,/PCT million-dollar-man/NN ,/PCT 
+nobody/NN can/MD throw/VB the/DT ball/NN like/IN catfish/NN can/MD ./PCT 
+
+carolina/NNP born/VBN and/CC bred/VBN ,/PCT 
+love/NNP to/TO hunt/NN the/DT little/JJ quail/NN ./PCT 
+got/VBD a/DT hundred-acre/JJ spread/NN ,/PCT 
+got/VBD some/DT huntin/NN '/PCT dogs/NNS for/IN sale/NN ./PCT 
+
+catfish/NN ,/PCT million-dollar-man/NN ,/PCT 
+nobody/NN can/MD throw/VB the/DT ball/NN like/IN catfish/NN can/MD ./PCT 
+
+reggie/NNP jackson/NNP at/IN the/DT plate/NN 
+seein/NNP '/POS nothin/NN '/PCT but/CC the/DT curve/NN ,/PCT 
+swing/NN too/RB early/JJ or/CC too/RB late/JJ 
+got/NNP to/TO eat/VB what/WP catfish/NN serve/VBP ./PCT 
+
+catfish/NN ,/PCT million-dollar-man/NN ,/PCT 
+nobody/NN can/MD throw/VB the/DT ball/NN like/IN catfish/NN can/MD ./PCT 
+
+even/RB billy/NNP martin/NNP grins/NNS 
+when/WRB the/DT fish/NN is/VBZ in/IN the/DT game/NN ./PCT 
+every/DT season/NN twenty/CD wins/NNS 
+gonna/NNP make/VBP the/DT hall/NNP of/IN fame/NNP ./PCT 
+
+catfish/NN ,/PCT million-dollar-man/NN ,/PCT 
+nobody/NN can/MD throw/VB the/DT ball/NN like/IN catfish/NN can/MD ./PCT 
+

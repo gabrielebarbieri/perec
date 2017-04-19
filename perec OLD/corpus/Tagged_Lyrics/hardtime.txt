@@ -1,0 +1,32 @@
+let/VB us/PRP pause/VB in/IN life/NN 's/POS pleasures/NNS and/CC count/VB its/PRP$ many/JJ tears/NNS 
+while/IN we/PRP all/DT sup/NN sorrow/NN with/IN the/DT poor/JJ ./PCT 
+there/EX is/VBZ a/DT song/NN that/WDT will/MD linger/VB forever/RB in/IN our/PRP$ ears/NNS ,/PCT 
+oh/UH ,/PCT hard/JJ times/NNS ,/PCT come/VB again/RB no/RB more/RBR ./PCT 
+`/PCT tis/VBZ the/DT song/NN ,/PCT the/DT sigh/NN of/IN the/DT weary/JJ ./PCT 
+hard/JJ times/NNS ,/PCT hard/JJ times/NNS ,/PCT come/VB again/RB no/RB more/RBR ./PCT 
+many/JJ days/NNS you/PRP have/VBP lingered/VBN all/DT around/IN my/PRP$ cabin/NN door/NN ./PCT 
+oh/UH ,/PCT hard/JJ times/NNS ,/PCT come/VB again/RB no/RB more/RBR ./PCT 
+
+while/IN we/PRP seek/VBP mirth/NN and/CC beauty/NN and/CC music/NN light/NN and/CC gay/JJ ./PCT 
+there/EX are/VBP frail/JJ forms/NNS fainting/VBG at/IN the/DT door/NN ./PCT 
+though/IN their/PRP$ voices/NNS are/VBP silent/JJ ,/PCT their/PRP$ pleading/VBG looks/NNS will/MD say/VB ,/PCT 
+oh/UH ,/PCT hard/JJ times/NNS ,/PCT come/VB again/RB no/RB more/RBR ./PCT 
+`/PCT tis/VBZ the/DT song/NN ,/PCT the/DT sigh/NN of/IN the/DT weary/JJ ./PCT 
+hard/JJ times/NNS ,/PCT hard/JJ times/NNS ,/PCT come/VB again/RB no/RB more/RBR ./PCT 
+many/JJ days/NNS you/PRP have/VBP lingered/VBN all/DT around/IN my/PRP$ cabin/NN door/NN ./PCT 
+oh/UH ,/PCT hard/JJ times/NNS ,/PCT come/VB again/RB no/RB more/RBR ./PCT 
+
+there/EX is/VBZ a/DT pale/JJ drooping/VBG maiden/NN who/WP foils/VBZ her/PRP$ life/NN away/RB 
+with/IN a/DT worn/JJ out/IN heart/NN ,/PCT whose/WP$ better/JJR days/NNS are/VBP o'er/JJ ./PCT 
+though/IN her/PRP$ voice/NN it/PRP would/MD be/VB merry/JJ ,/PCT `/PCT tis/FW sighing/VBG all/PDT the/DT day/NN ,/PCT 
+oh/UH ,/PCT hard/JJ times/NNS ,/PCT come/VB again/RB no/RB more/RBR ./PCT 
+`/PCT tis/VBZ the/DT song/NN ,/PCT the/DT sigh/NN of/IN the/DT weary/JJ ./PCT 
+hard/JJ times/NNS ,/PCT hard/JJ times/NNS ,/PCT come/VB again/RB no/RB more/RBR ./PCT 
+many/JJ days/NNS you/PRP have/VBP lingered/VBN all/DT around/IN my/PRP$ cabin/NN door/NN ./PCT 
+oh/UH ,/PCT hard/JJ times/NNS ,/PCT come/VB again/RB no/RB more/RBR ./PCT 
+
+`/PCT tis/VBZ the/DT song/NN ,/PCT the/DT sigh/NN of/IN the/DT weary/JJ ./PCT 
+hard/JJ times/NNS ,/PCT hard/JJ times/NNS ,/PCT come/VB again/RB no/RB more/RBR ./PCT 
+many/JJ days/NNS you/PRP have/VBP lingered/VBN all/DT around/IN my/PRP$ cabin/NN door/NN ./PCT 
+oh/UH ,/PCT hard/JJ times/NNS ,/PCT come/VB again/RB no/RB more/RBR ./PCT 
+

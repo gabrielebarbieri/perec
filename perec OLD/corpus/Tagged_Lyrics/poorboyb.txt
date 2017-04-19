@@ -1,0 +1,45 @@
+mm/NNP ,/PCT tell/VBP mama/NN ,/PCT 
+where/WRB 'd/MD ya/PRP sleep/VB last/JJ night/NN ?/PCT 
+cai/FW not/RB ya/PRP hear/VB me/PRP cryin/VB '/PCT ?/PCT 
+hm/NNP ,/PCT hm/NN ,/PCT hm/NN ./PCT 
+
+hey/NNP ,/PCT tell/VBP me/PRP baby/NN ,/PCT 
+what/WP is/VBZ the/DT matter/NN here/RB ?/PCT 
+cai/FW not/RB ya/PRP hear/VB me/PRP cryin/VB '/PCT ?/PCT 
+hm/NNP ,/PCT hm/NN ,/PCT hm/NN ./PCT 
+
+hey/NNP ,/PCT stop/VB you/PRP ol'/VB train/NN ,/PCT 
+let/VB a/DT poor/JJ boy/NN ride/NN ./PCT 
+cai/FW not/RB ya/PRP hear/VB me/PRP cryin/VB '/PCT ?/PCT 
+hm/NNP ,/PCT hm/NN ,/PCT hm/NN ./PCT 
+
+hey/NNP ,/PCT mister/NNP bartender/NNP ,/PCT 
+i/PRP swear/VBP i/PRP am/VBP not/RB too/RB young/JJ ./PCT 
+cai/FW not/RB ya/PRP hear/VB me/PRP cryin/VB '/PCT ?/PCT 
+hm/NNP ,/PCT hm/NN ,/PCT hm/NN ./PCT 
+
+blow/VB your/PRP$ whistle/VBP ,/PCT policeman/NN ,/PCT 
+my/PRP$ poor/JJ feet/NNS are/VBP trained/VBN to/TO run/VB ./PCT 
+cai/FW not/RB ya/PRP hear/VB me/PRP cryin/VB '/PCT ?/PCT 
+hm/NNP ,/PCT hm/NN ,/PCT hm/NN ./PCT 
+
+long-distance/JJ operator/NN ,/PCT 
+i/PRP hear/VBP this/DT poor/JJ call/NN is/VBZ on/IN the/DT house/NN ./PCT 
+cai/FW not/RB ya/PRP hear/VB me/PRP cryin/VB '/PCT ?/PCT 
+hm/NNP ,/PCT hm/NN ,/PCT hm/NN ./PCT 
+
+ashes/NNS and/CC diamonds/NNS ,/PCT 
+the/DT diff/NN `/PCT rence/NN i/PRP cai/VBP not/RB see/VB ./PCT 
+cai/FW not/RB ya/PRP hear/VB me/PRP cryin/VB '/PCT ?/PCT 
+hm/NNP ,/PCT hm/NN ,/PCT hm/NN ./PCT 
+
+mister/NNP judge/NNP and/CC jury/NNP ,/PCT 
+cai/FW not/RB you/PRP see/VBP the/DT shape/NN i/PRP am/VBP in/IN ?/PCT 
+do/VBP not/RB ya/PRP hear/VB me/PRP cryin/VB '/PCT ?/PCT 
+hm/NNP ,/PCT hm/NN ,/PCT hm/NN ./PCT 
+
+mississippi/NNP river/NNP ,/PCT 
+you/PRP a-runnin/VBG '/PCT too/RB fast/RB for/IN me/PRP ./PCT 
+cai/FW not/RB ya/PRP hear/VB me/PRP cryin/VB '/PCT ?/PCT 
+hm/NNP ,/PCT hm/NN ,/PCT hm/NN ./PCT 
+

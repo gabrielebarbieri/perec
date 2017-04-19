@@ -1,0 +1,34 @@
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "speak", "POS": "VBP"}, {"word": "to", "POS": "TO"}, {"word": "me", "POS": "PRP"}], "sentence": "you speak to me"}
+{"tags": [{"word": "in", "POS": "IN"}, {"word": "sign", "POS": "NN"}, {"word": "language", "POS": "NN"}], "sentence": "in sign language"}
+{"tags": [{"word": "as", "POS": "IN"}, {"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "eating", "POS": "VBG"}, {"word": "a", "POS": "DT"}, {"word": "sandwich", "POS": "NN"}], "sentence": "as i am eating a sandwich"}
+{"tags": [{"word": "in", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "small", "POS": "JJ"}, {"word": "cafe", "POS": "NN"}], "sentence": "in a small cafe"}
+{"tags": [{"word": "at", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "quarter", "POS": "NN"}, {"word": "to", "POS": "TO"}, {"word": "three", "POS": "CD"}], "sentence": "at a quarter to three"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "ca", "POS": "MD"}, {"word": "not", "POS": "RB"}, {"word": "respond", "POS": "VB"}], "sentence": "but i ca not respond"}
+{"tags": [{"word": "to", "POS": "TO"}, {"word": "your", "POS": "PRP$"}, {"word": "sign", "POS": "NN"}, {"word": "language", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "to your sign language ."}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "taking", "POS": "VBG"}, {"word": "advantage", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "you are taking advantage ,"}
+{"tags": [{"word": "bringing", "POS": "VBG"}, {"word": "me", "POS": "PRP"}, {"word": "down", "POS": "RP"}, {"word": ".", "POS": "PCT"}], "sentence": "bringing me down ."}
+{"tags": [{"word": "ca", "POS": "MD"}, {"word": "not", "POS": "RB"}, {"word": "you", "POS": "PRP"}, {"word": "make", "POS": "VBP"}, {"word": "any", "POS": "DT"}, {"word": "sound", "POS": "NN"}, {"word": "?", "POS": "PCT"}], "sentence": "ca not you make any sound ?"}
+
+{"tags": [{"word": "'twas", "POS": "NNS"}, {"word": "there", "POS": "RB"}, {"word": "by", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "bakery", "POS": "NN"}], "sentence": "'twas there by the bakery"}
+{"tags": [{"word": "surrounded", "POS": "VBN"}, {"word": "by", "POS": "IN"}, {"word": "fakery", "POS": "NN"}], "sentence": "surrounded by fakery"}
+{"tags": [{"word": "tell", "POS": "VB"}, {"word": "her", "POS": "PRP$"}, {"word": "my", "POS": "PRP$"}, {"word": "story", "POS": "NN"}], "sentence": "tell her my story"}
+{"tags": [{"word": "still", "POS": "RB"}, {"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "still", "POS": "RB"}, {"word": "there", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "still i am still there ."}
+{"tags": [{"word": "does", "POS": "NNP"}, {"word": "she", "POS": "PRP"}, {"word": "know", "POS": "VBP"}, {"word": "i", "POS": "PRP"}, {"word": "still", "POS": "RB"}, {"word": "care", "POS": "VB"}, {"word": "?", "POS": "PCT"}], "sentence": "does she know i still care ?"}
+
+{"tags": [{"word": "link", "POS": "NNP"}, {"word": "wray", "POS": "NNP"}, {"word": "was", "POS": "VBD"}, {"word": "playin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}], "sentence": "link wray was playin '"}
+{"tags": [{"word": "on", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "jukebox", "POS": "NN"}, {"word": "i", "POS": "PRP"}, {"word": "was", "POS": "VBD"}, {"word": "payin", "POS": "NN"}, {"word": "'", "POS": "PCT"}], "sentence": "on a jukebox i was payin '"}
+{"tags": [{"word": "for", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "words", "POS": "NNS"}, {"word": "i", "POS": "PRP"}, {"word": "was", "POS": "VBD"}, {"word": "sayin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}], "sentence": "for the words i was sayin '"}
+{"tags": [{"word": "so", "POS": "RB"}, {"word": "misunderstood", "POS": "VBN"}], "sentence": "so misunderstood"}
+{"tags": [{"word": "he", "POS": "PRP"}, {"word": "did", "POS": "VBD"}, {"word": "not", "POS": "RB"}, {"word": "do", "POS": "VB"}, {"word": "me", "POS": "PRP"}, {"word": "no", "POS": "DT"}, {"word": "good", "POS": "JJ"}, {"word": ".", "POS": "PCT"}], "sentence": "he did not do me no good ."}
+
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "speak", "POS": "VBP"}, {"word": "to", "POS": "TO"}, {"word": "me", "POS": "PRP"}], "sentence": "you speak to me"}
+{"tags": [{"word": "in", "POS": "IN"}, {"word": "sign", "POS": "NN"}, {"word": "language", "POS": "NN"}], "sentence": "in sign language"}
+{"tags": [{"word": "as", "POS": "IN"}, {"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "eating", "POS": "VBG"}, {"word": "a", "POS": "DT"}, {"word": "sandwich", "POS": "NN"}], "sentence": "as i am eating a sandwich"}
+{"tags": [{"word": "in", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "small", "POS": "JJ"}, {"word": "cafe", "POS": "NN"}], "sentence": "in a small cafe"}
+{"tags": [{"word": "at", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "quarter", "POS": "NN"}, {"word": "to", "POS": "TO"}, {"word": "three", "POS": "CD"}], "sentence": "at a quarter to three"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "ca", "POS": "MD"}, {"word": "not", "POS": "RB"}, {"word": "respond", "POS": "VB"}], "sentence": "but i ca not respond"}
+{"tags": [{"word": "to", "POS": "TO"}, {"word": "your", "POS": "PRP$"}, {"word": "sign", "POS": "NN"}, {"word": "language", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "to your sign language ."}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "taking", "POS": "VBG"}, {"word": "advantage", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "you are taking advantage ,"}
+{"tags": [{"word": "bringing", "POS": "VBG"}, {"word": "me", "POS": "PRP"}, {"word": "down", "POS": "RP"}, {"word": ".", "POS": "PCT"}], "sentence": "bringing me down ."}
+{"tags": [{"word": "ca", "POS": "MD"}, {"word": "not", "POS": "RB"}, {"word": "you", "POS": "PRP"}, {"word": "make", "POS": "VBP"}, {"word": "any", "POS": "DT"}, {"word": "sound", "POS": "NN"}, {"word": "?", "POS": "PCT"}], "sentence": "ca not you make any sound ?"}
+

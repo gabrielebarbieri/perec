@@ -1,0 +1,18 @@
+takes/VBZ rocks/NNS and/CC gravel/NN ,/PCT baby/NN ,/PCT make/VB a/DT solid/JJ road/NN ,/PCT 
+make/VB a/DT solid/JJ road/NN ./PCT 
+takes/VBZ rocks/NNS and/CC gravel/NN ,/PCT baby/NN ,/PCT make/VB a/DT solid/JJ road/NN ,/PCT 
+make/VB a/DT solid/JJ road/NN ./PCT 
+
+takes/VBZ a/DT good/JJ woman/NN mama/NN ,/PCT 
+to/TO satisfy/VB my/PRP$ weary/JJ soul/NN ./PCT 
+
+have/NNP you/PRP ever/RB been/VBN down/RB on/IN that/DT mobil/NNP and/CC k./NNP c./NNP line/NN ,/PCT 
+have/NNP you/PRP ever/RB been/VBN down/RB on/IN that/DT mobil/NNP and/CC k./NNP c./NNP line/NN ?/PCT 
+
+well/RB i/PRP just/RB wanna/VBP ask/VB you/PRP ,/PCT 
+if/IN you/PRP seen/VBN that/IN gal/NN of/IN mine/NN ,/PCT 
+do/VBP not/RB the/DT clouds/NNS look/VBP lonesome/JJ shining/VBG across/IN the/DT sea/NN ,/PCT 
+do/VBP not/RB the/DT clouds/NNS look/VBP lonesome/JJ shining/VBG across/IN the/DT sea/NN ,/PCT 
+do/VBP not/RB my/PRP$ gal/JJ look/NN good/JJ ,/PCT 
+when/WRB she/PRP is/VBZ comin/NN '/PCT after/IN me/PRP ?/PCT 
+

@@ -1,0 +1,42 @@
+tough/JJ mama/NNP 
+meat/NN shakin/NN '/PCT on/IN your/PRP$ bones/NNS 
+i/PRP am/VBP gonna/NNS go/VB down/RB to/TO the/DT river/NN and/CC get/VB some/DT stones/NNS ./PCT 
+sister/NN 's/POS on/IN the/DT highway/NN with/IN that/DT steel-drivin/NN '/PCT crew/NN ,/PCT 
+papa/NN 's/POS in/IN the/DT big/JJ house/NN ,/PCT his/PRP$ workin/NN '/PCT days/NNS are/VBP through/IN ./PCT 
+tough/JJ mama/NNP 
+can/MD i/PRP blow/VB a/DT little/JJ smoke/NN on/IN you/PRP ?/PCT 
+
+dark/JJ beauty/NN 
+wo/NNP not/RB you/PRP move/VBP it/PRP on/IN over/IN and/CC make/VB some/DT room/NN ?/PCT 
+it/PRP is/VBZ my/PRP$ duty/NN to/TO bring/VB you/PRP down/IN to/TO the/DT field/NN where/WRB the/DT flowers/NNS bloom/VBP ./PCT 
+ashes/NNS in/IN the/DT furnace/NN ,/PCT dust/NN on/IN the/DT rise/NN ,/PCT 
+you/PRP came/VBD through/IN it/PRP all/PDT the/DT way/NN ,/PCT flyin/NN '/PCT through/IN the/DT skies/NNS ./PCT 
+dark/JJ beauty/NN 
+with/IN that/DT long/JJ night/NN 's/POS journey/NN in/IN your/PRP$ eyes/NNS ./PCT 
+
+sweet/NNP goddess/NNP 
+born/VBN of/IN a/DT blinding/VBG light/NN and/CC a/DT changing/VBG wind/NN ,/PCT 
+now/RB ,/PCT do/VBP not/RB be/VB modest/JJ ,/PCT you/PRP know/VBP who/WP you/PRP are/VBP and/CC where/WRB you/PRP have/VBP been/VBN ./PCT 
+jack/NNP the/DT cowboy/NNP went/VBD up/RB north/RB 
+he/PRP is/VBZ buried/VBN in/IN your/PRP$ past/NN ./PCT 
+the/DT lone/NNP wolf/NNP went/VBD out/RP drinking/NN 
+that/DT was/VBD over/IN pretty/RB fast/RB ./PCT 
+sweet/NNP goddess/NNP 
+your/PRP$ perfect/JJ stranger/NN 's/POS comin/NN '/PCT in/IN at/IN last/JJ ./PCT 
+
+silver/NN angel/NNP 
+with/IN the/DT badge/NN of/IN the/DT lonesome/JJ road/NN sewed/VBD in/IN your/PRP$ sleeve/NN ,/PCT 
+i/PRP 'd/MD be/VB grateful/JJ if/IN this/DT golden/JJ ring/NN you/PRP would/MD receive/VB ./PCT 
+today/NN on/IN the/DT countryside/NN it/PRP was/VBD a-hotter/JJ than/IN a/DT crotch/NN ,/PCT 
+i/PRP stood/VBD alone/RB upon/IN the/DT ridge/NN and/CC all/DT i/PRP did/VBD was/VBD watch/NN ./PCT 
+sweet/NNP goddess/NNP 
+it/PRP must/MD be/VB time/NN to/TO carve/VB another/DT notch/NN ./PCT 
+
+i/PRP am/VBP crestfallen/JJ 
+the/DT world/NN of/IN illusion/NN is/VBZ at/IN my/PRP$ door/NN ,/PCT 
+i/PRP ai/VBP not/RB a-haulin/VBG '/PCT any/DT of/IN my/PRP$ lambs/NNS to/TO the/DT marketplace/NN anymore/RB ./PCT 
+the/DT prison/NN walls/NNS are/VBP crumblin/VBG '/PCT ,/PCT there/EX is/VBZ no/DT end/NN in/IN sight/NN ,/PCT 
+i/PRP have/VBP gained/VBN some/DT recognition/NN but/CC i/PRP lost/VBD my/PRP$ appetite/NN ./PCT 
+dark/JJ beauty/NN 
+meet/VB me/PRP at/IN the/DT border/NN late/JJ tonight/NN ./PCT 
+

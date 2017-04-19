@@ -1,0 +1,35 @@
+well/RB ,/PCT early/RB in/IN the/DT mornin/NN '/PCT 
+'til/NNP late/RB at/IN night/NN ,/PCT 
+i/PRP got/VBD a/DT poison/NN headache/NN ,/PCT 
+but/CC i/PRP feel/VBP all/RB right/RB ./PCT 
+i/PRP am/VBP pledging/VBG my/PRP$ time/NN to/TO you/PRP ,/PCT 
+hopin/NNP '/POS you/PRP 'll/MD come/VB through/RB ,/PCT too/RB ./PCT 
+
+well/RB ,/PCT the/DT hobo/NN jumped/VBD up/RP ,/PCT 
+he/PRP came/VBD down/RP natur/NN `/PCT lly/RB ./PCT 
+after/IN he/PRP stole/VBD my/PRP$ baby/NN ,/PCT 
+then/RB he/PRP wanted/VBD to/TO steal/VB me/PRP ./PCT 
+but/CC i/PRP am/VBP pledging/VBG my/PRP$ time/NN to/TO you/PRP ,/PCT 
+hopin/NNP '/POS you/PRP 'll/MD come/VB through/RB ,/PCT too/RB ./PCT 
+
+wo/NNP not/RB you/PRP come/VBP with/IN me/PRP ,/PCT baby/NN ?/PCT 
+i/PRP 'll/MD take/VB you/PRP where/WRB you/PRP wanna/VBP go/VB ./PCT 
+and/CC if/IN it/PRP do/VBP not/RB work/VB out/RP ,/PCT 
+you/PRP 'll/MD be/VB the/DT first/JJ to/TO know/VB ./PCT 
+i/PRP am/VBP pledging/VBG my/PRP$ time/NN to/TO you/PRP ,/PCT 
+hopin/NNP '/POS you/PRP 'll/MD come/VB through/RB ,/PCT too/RB ./PCT 
+
+well/RB ,/PCT the/DT room/NN is/VBZ so/RB stuffy/JJ ,/PCT 
+i/PRP can/MD hardly/RB breathe/VB ./PCT 
+ev/NNP `/PCT rybody/NN 's/POS gone/VBN but/CC me/PRP and/CC you/PRP 
+and/CC i/PRP ca/MD not/RB be/VB the/DT last/JJ to/TO leave/VB ./PCT 
+i/PRP am/VBP pledging/VBG my/PRP$ time/NN to/TO you/PRP ,/PCT 
+hopin/NNP '/POS you/PRP 'll/MD come/VB through/RB ,/PCT too/RB ./PCT 
+
+well/RB ,/PCT they/PRP sent/VBD for/IN the/DT ambulance/NN 
+and/CC one/CD was/VBD sent/VBN ./PCT 
+somebody/NN got/VBD lucky/JJ 
+but/CC it/PRP was/VBD an/DT accident/NN ./PCT 
+now/RB i/PRP am/VBP pledging/VBG my/PRP$ time/NN to/TO you/PRP ,/PCT 
+hopin/NNP '/POS you/PRP 'll/MD come/VB through/RB ,/PCT too/RB ./PCT 
+

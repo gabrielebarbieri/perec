@@ -1,0 +1,49 @@
+come/VBN you/PRP ladies/NNS and/CC you/PRP gentlemen/NNS ,/PCT a-listen/JJ to/TO my/PRP$ song/NN ./PCT 
+sing/VBG it/PRP to/TO you/PRP right/RB ,/PCT but/CC you/PRP might/MD think/VB it/PRP is/VBZ wrong/JJ ./PCT 
+just/RB a/DT little/JJ glimpse/NN of/IN a/DT story/NN i/PRP 'll/MD tell/VB 
+``/PCT bout/NNP an/DT east/NNP coast/NNP city/NN that/IN you/PRP all/DT know/VBP well/RB ./PCT 
+it/PRP is/VBZ hard/JJ times/NNS in/IN the/DT city/NN ,/PCT 
+livin/NNP '/POS down/RP in/IN new/NNP york/NNP town/NN ./PCT 
+
+old/NNP new/NNP york/NNP city/NNP is/VBZ a/DT friendly/JJ old/JJ town/NN ,/PCT 
+from/IN washington/NNP heights/NNP to/TO harlem/NNP on/IN down/RB ./PCT 
+there/EX is/VBZ a-mighty/JJ many/JJ people/NNS all/DT millin/NN '/PCT all/DT around/RB ,/PCT 
+they/PRP 'll/MD kick/VB you/PRP when/WRB you/PRP are/VBP up/RB and/CC knock/VB you/PRP when/WRB you/PRP are/VBP down/RB ./PCT 
+it/PRP is/VBZ hard/JJ times/NNS in/IN the/DT city/NN ,/PCT 
+livin/NNP '/POS down/RP in/IN new/NNP york/NNP town/NN ./PCT 
+
+it/PRP is/VBZ a/DT mighty/RB long/JJ ways/NNS from/IN the/DT golden/NNP gate/NNP 
+to/TO rockefeller/NNP plaza/NNP n/NN '/PCT the/DT empire/NNP state/NNP ./PCT 
+mister/NNP rockefeller/NNP sets/VBZ up/RP as/RB high/JJ as/IN a/DT bird/NN ,/PCT 
+old/NNP mister/NNP empire/NNP never/RB says/VBZ a/DT word/NN ./PCT 
+it/PRP is/VBZ hard/JJ times/NNS from/IN the/DT country/NN ,/PCT 
+livin/NNP '/POS down/RP in/IN new/NNP york/NNP town/NN ./PCT 
+
+well/RB ,/PCT it/PRP is/VBZ up/RB in/IN the/DT mornin/NN '/PCT tryin/NN '/PCT to/TO fins/VB a/DT job/NN of/IN work/NN ./PCT 
+stand/VB in/IN one/CD place/NN till/IN your/PRP$ feet/NNS begin/VBP to/TO hurt/VB ./PCT 
+if/IN you/PRP go/VBP a/DT lot/NN o/NN '/PCT money/NN you/PRP can/MD make/VB yourself/PRP merry/VB ,/PCT 
+if/IN you/PRP only/RB got/VBD a/DT nickel/NN ,/PCT it/PRP is/VBZ the/DT staten/NNP island/NNP ferry/NNP ./PCT 
+and/CC it/PRP is/VBZ hard/JJ times/NNS in/IN the/DT city/NN ,/PCT 
+livin/NNP '/POS down/RP in/IN new/NNP york/NNP town/NN ./PCT 
+
+mister/NNP hudson/NNP come/VBP a-sailin/JJ '/PCT down/IN the/DT stream/NN 
+and/CC old/JJ mister/NNP minuet/NNP paid/VBD for/IN his/PRP$ dream/NN ./PCT 
+bought/NNP your/PRP$ city/NN on/IN a/DT one-way/JJ track/NN ,/PCT 
+'/PCT f/NN i/PRP had/VBD my/PRP$ way/NN i/PRP 'd/MD sell/VB it/PRP right/RB back/RB ./PCT 
+and/CC it/PRP is/VBZ hard/JJ times/NNS in/IN the/DT city/NN ,/PCT 
+livin/NNP '/POS down/RP in/IN new/NNP york/NNP town/NN ./PCT 
+
+i/PRP 'll/MD take/VB all/PDT the/DT smog/NN in/IN cal-i-for-ne-ay/NN ,/PCT 
+in/NNP '/POS every/DT bit/NN of/IN dust/NN in/IN the/DT oklahoma/NNP plains/NNS ,/PCT
+in/NNP '/POS the/DT dirt/NN in/IN the/DT caves/NNS of/IN the/DT rocky/NNP mountain/NNP mines/NNS ./PCT
+it/PRP is/VBZ all/RB much/JJ cleaner/JJR than/IN the/DT new/NNP york/NNP kind/NN ./PCT 
+and/CC it/PRP is/VBZ hard/JJ times/NNS in/IN the/DT city/NN ,/PCT 
+livin/NNP '/POS down/RP in/IN new/NNP york/NNP town/NN ./PCT 
+
+so/IN all/DT you/PRP newsy/VBP people/NNS ,/PCT spread/VBD the/DT news/NN around/IN ,/PCT 
+you/PRP c/NN 'n/NN listen/VBP to/TO m/VB '/PCT story/NN ,/PCT listen/VBP to/TO m/VB '/PCT song/NN ./PCT 
+you/PRP c/NN 'n/JJ step/NN on/IN my/PRP$ name/NN ,/PCT you/PRP c/NN 'n/NN try/VBP 'n'/CC get/VBP me/PRP beat/VB ,/PCT 
+when/WRB i/PRP leave/VBP new/NNP york/NNP ,/PCT i/PRP 'll/MD be/VB standin/VBG '/PCT on/IN my/PRP$ feet/NNS ./PCT 
+and/CC it/PRP is/VBZ hard/JJ times/NNS in/IN the/DT city/NN ,/PCT 
+livin/NNP '/POS down/RP in/IN new/NNP york/NNP town/NN ./PCT 
+

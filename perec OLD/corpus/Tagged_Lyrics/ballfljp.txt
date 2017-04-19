@@ -1,0 +1,102 @@
+well/RB ,/PCT frankie/NNP lee/NNP and/CC judas/NNP priest/NNP ,/PCT 
+they/PRP were/VBD the/DT best/JJS of/IN friends/NNS ./PCT 
+so/RB when/WRB frankie/NNP lee/NNP needed/VBD money/NN one/CD day/NN ,/PCT 
+judas/NNP quickly/RB pulled/VBD out/RP a/DT roll/NN of/IN tens/NNS 
+and/CC placed/VBD them/PRP on/IN a/DT footstool/NN 
+just/RB above/IN the/DT plotted/VBN plain/NN ,/PCT 
+sayin/NNP '/POS ,/PCT ``/PCT take/VB your/PRP$ pick/NN ,/PCT frankie/NNP boy/NNP ,/PCT 
+my/PRP$ loss/NN will/MD be/VB your/PRP$ gain/NN ./PCT ''/PCT 
+
+well/RB ,/PCT frankie/NNP lee/NNP ,/PCT he/PRP sat/VBD right/RB down/RB 
+and/CC put/VB his/PRP$ fingers/NNS to/TO his/PRP$ chin/NN ,/PCT 
+but/CC with/IN the/DT cold/JJ eyes/NNS of/IN judas/NNP on/IN him/PRP ,/PCT 
+his/PRP$ head/NN began/VBD to/TO spin/VB ./PCT 
+``/PCT would/MD ya/PRP please/VB not/RB stare/VB at/IN me/PRP like/IN that/DT ,/PCT ''/PCT he/PRP said/VBD ,/PCT 
+``/PCT it/PRP is/VBZ just/RB my/PRP$ foolish/JJ pride/NN ,/PCT 
+but/CC sometimes/RB a/DT man/NN must/MD be/VB alone/RB 
+and/CC this/DT is/VBZ no/DT place/NN to/TO hide/VB ./PCT ''/PCT 
+
+well/RB ,/PCT judas/NNP ,/PCT he/PRP just/RB winked/VBD and/CC said/VBD ,/PCT 
+``/PCT all/DT right/RB ,/PCT i/PRP 'll/MD leave/VB you/PRP here/RB ,/PCT 
+but/CC you/PRP 'd/MD better/RBR hurry/VB up/RP and/CC choose/VB 
+which/WDT of/IN those/DT bills/NNS you/PRP want/VBP ,/PCT 
+before/IN they/PRP all/DT disappear/VBP ./PCT ''/PCT 
+``/PCT i/PRP am/VBP gonna/JJ start/NN my/PRP$ pickin/NN '/PCT right/RB now/RB ,/PCT 
+just/RB tell/VB me/PRP where/WRB you/PRP 'll/MD be/VB ./PCT ''/PCT 
+
+judas/NNP pointed/VBD down/RP the/DT road/NN 
+and/CC said/VBD ,/PCT ``/PCT eternity/NN !/PCT ''/PCT 
+``/PCT eternity/NN ?/PCT ''/PCT said/VBD frankie/NNP lee/NNP ,/PCT 
+with/IN a/DT voice/NN as/IN cold/JJ as/IN ice/NN ./PCT 
+``/PCT that/DT is/VBZ right/RB ,/PCT ''/PCT said/VBD judas/NNP priest/NNP ,/PCT ``/PCT eternity/NN ,/PCT 
+though/IN you/PRP might/MD call/VB it/PRP `/PCT paradise/NNP ./PCT '/PCT ''/PCT 
+
+``/PCT i/PRP do/VBP not/RB call/VB it/PRP anything/NN ,/PCT ''/PCT 
+said/NNP frankie/NNP lee/NNP with/IN a/DT smile/NN ./PCT 
+``/PCT all/DT right/RB ,/PCT ''/PCT said/VBD judas/NNP priest/NNP ,/PCT 
+``/PCT i/PRP 'll/MD see/VB you/PRP after/IN a/DT while/NN ./PCT ''/PCT 
+
+well/RB ,/PCT frankie/NNP lee/NNP ,/PCT he/PRP sat/VBD back/RB down/RB ,/PCT 
+feelin/NNP '/POS low/JJ and/CC mean/JJ ,/PCT 
+when/WRB just/RB then/RB a/DT passing/VBG stranger/NN 
+burst/NN upon/IN the/DT scene/NN ,/PCT 
+saying/VBG ,/PCT ``/PCT are/VBP you/PRP frankie/NNP lee/NNP ,/PCT the/DT gambler/NN ,/PCT 
+whose/JJ father/NN is/VBZ deceased/VBN ?/PCT 
+well/RB ,/PCT if/IN you/PRP are/VBP ,/PCT 
+there/EX is/VBZ a/DT fellow/JJ callin/NN '/PCT you/PRP down/IN the/DT road/NN 
+and/CC they/PRP say/VBP his/PRP$ name/NN is/VBZ priest/NNP ./PCT ''/PCT 
+
+``/PCT oh/UH ,/PCT yes/UH ,/PCT he/PRP is/VBZ my/PRP$ friend/NN ,/PCT ''/PCT 
+said/NNP frankie/NNP lee/NNP in/IN fright/NN ,/PCT 
+``/PCT i/PRP do/VBP recall/VB him/PRP very/RB well/RB ,/PCT 
+in/IN fact/NN ,/PCT he/PRP just/RB left/VBD my/PRP$ sight/NN ./PCT ''/PCT 
+``/PCT yes/UH ,/PCT that/DT is/VBZ the/DT one/CD ,/PCT ''/PCT said/VBD the/DT stranger/NN ,/PCT 
+as/IN quiet/JJ as/IN a/DT mouse/NN ,/PCT 
+``/PCT well/UH ,/PCT my/PRP$ message/NN is/VBZ ,/PCT he/PRP is/VBZ down/IN the/DT road/NN ,/PCT 
+stranded/VBN in/IN a/DT house/NN ./PCT ''/PCT 
+
+well/RB ,/PCT frankie/NNP lee/NNP ,/PCT he/PRP panicked/VBD ,/PCT 
+he/PRP dropped/VBD ev/NN `/PCT rything/NN and/CC ran/VBD 
+until/IN he/PRP came/VBD up/RP to/TO the/DT spot/NN 
+where/WRB judas/NNP priest/NNP did/VBD stand/VB ./PCT 
+``/PCT what/WP kind/NN of/IN house/NN is/VBZ this/DT ,/PCT ''/PCT he/PRP said/VBD ,/PCT 
+``/PCT where/WRB i/PRP have/VBP come/VBN to/TO roam/VB ?/PCT ''/PCT 
+``/PCT it/PRP is/VBZ not/RB a/DT house/NN ,/PCT ''/PCT said/VBD judas/NNP priest/NNP ,/PCT 
+``/PCT it/PRP is/VBZ not/RB a/DT house/NN .../PCT it/PRP is/VBZ a/DT home/NN ./PCT ''/PCT 
+
+well/RB ,/PCT frankie/NNP lee/NNP ,/PCT he/PRP trembled/VBD ,/PCT 
+he/PRP soon/RB lost/VBD all/DT control/NN 
+over/IN ev/NN `/PCT rything/NN which/WDT he/PRP had/VBD made/VBN 
+while/IN the/DT mission/NN bells/NNS did/VBD toll/NN ./PCT 
+he/PRP just/RB stood/VBD there/EX staring/VBG 
+at/IN that/DT big/JJ house/NN as/IN bright/JJ as/IN any/DT sun/NN ,/PCT 
+with/IN four/CD and/CC twenty/CD windows/NNS 
+and/CC a/DT woman/NN 's/POS face/NN in/IN ev/NN `/PCT ry/NN one/CD ./PCT 
+
+well/RB ,/PCT up/IN the/DT stairs/NNS ran/VBD frankie/NNP lee/NNP 
+with/IN a/DT soulful/JJ ,/PCT bounding/VBG leap/NN ,/PCT 
+and/CC ,/PCT foaming/VBG at/IN the/DT mouth/NN ,/PCT 
+he/PRP began/VBD to/TO make/VB his/PRP$ midnight/NN creep/NN ./PCT 
+for/IN sixteen/JJ nights/NNS and/CC days/NNS he/PRP raved/VBD ,/PCT 
+but/CC on/IN the/DT seventeenth/NN he/PRP burst/VBP 
+into/NNP the/DT arms/NNS of/IN judas/NNP priest/NNP ,/PCT 
+which/WDT is/VBZ where/WRB he/PRP died/VBD of/IN thirst/NN ./PCT 
+
+no/DT one/NN tried/VBD to/TO say/VB a/DT thing/NN 
+when/WRB they/PRP took/VBD him/PRP out/RP in/IN jest/NN ,/PCT 
+except/IN ,/PCT of/IN course/NN ,/PCT the/DT little/JJ neighbor/NN boy/NN 
+who/WP carried/VBD him/PRP to/TO rest/VB ./PCT 
+and/CC he/PRP just/RB walked/VBD along/RB ,/PCT alone/RB ,/PCT 
+with/IN his/PRP$ guilt/NN so/RB well/RB concealed/VBN ,/PCT 
+and/CC muttered/JJ underneath/IN his/PRP$ breath/NN ,/PCT 
+``/PCT nothing/NN is/VBZ revealed/VBN ./PCT ''/PCT 
+
+well/RB ,/PCT the/DT moral/JJ of/IN the/DT story/NN ,/PCT 
+the/DT moral/JJ of/IN this/DT song/NN ,/PCT 
+is/VBZ simply/RB that/IN one/CD should/MD never/RB be/VB 
+where/WRB one/CD does/VBZ not/RB belong/VB ./PCT 
+so/RB when/WRB you/PRP see/VBP your/PRP$ neighbor/NN carryin/NN '/PCT somethin'/NN ,/PCT 
+help/VB him/PRP with/IN his/PRP$ load/NN ,/PCT 
+and/CC do/VBP not/RB go/VB mistaking/VBG paradise/NNP 
+for/IN that/DT home/NN across/IN the/DT road/NN ./PCT 
+

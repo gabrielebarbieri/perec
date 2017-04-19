@@ -1,0 +1,30 @@
+oxford/NNP town/NNP ,/PCT oxford/NNP town/NNP 
+ev/NNP `/PCT rybody/NN 's/POS got/VBD their/PRP$ heads/NNS bowed/VBD down/RP 
+the/DT sun/NN do/VBP not/RB shine/VB above/IN the/DT ground/NN 
+ai/NNP not/RB a-goin/VBG '/PCT down/RP to/TO oxford/NNP town/NNP 
+
+he/PRP went/VBD down/RB to/TO oxford/NNP town/NNP 
+guns/NNS and/CC clubs/NNS followed/VBD him/PRP down/RP 
+all/DT because/IN his/PRP$ face/NN was/VBD brown/JJ 
+better/RBR get/VB away/RB from/IN oxford/NNP town/NNP 
+
+oxford/NNP town/NNP around/IN the/DT bend/VB 
+he/PRP come/VBP in/IN to/TO the/DT door/NN ,/PCT he/PRP could/MD not/RB get/VB in/IN 
+all/DT because/IN of/IN the/DT color/NN of/IN his/PRP$ skin/NN 
+what/WP do/VBP you/PRP think/VB about/IN that/DT ,/PCT my/PRP$ frien/NN '/PCT ?/PCT 
+
+me/PRP and/CC my/PRP$ gal/NN ,/PCT my/PRP$ gal/NN 's/POS son/NN 
+we/PRP got/VBD met/VBN with/IN a/DT tear/VB gas/NN bomb/NN 
+i/PRP do/VBP not/RB even/RB know/VB why/WRB we/PRP come/VBP 
+goin/NNP '/POS back/JJ where/WRB we/PRP come/VBP from/IN 
+
+oxford/NNP town/NNP in/IN the/DT afternoon/NN 
+ev/NNP `/PCT rybody/JJ singin/NN '/PCT a/DT sorrowful/JJ tune/NN 
+two/CD men/NNS died/VBD `/PCT neath/IN the/DT mississippi/NNP moon/NN 
+somebody/NN better/RB investigate/VB soon/RB 
+
+oxford/NNP town/NNP ,/PCT oxford/NNP town/NNP 
+ev/NNP `/PCT rybody/NN 's/POS got/VBD their/PRP$ heads/NNS bowed/VBD down/RP 
+the/DT sun/NN do/VBP not/RB shine/VB above/IN the/DT ground/NN 
+ai/NNP not/RB a-goin/VBG '/PCT down/RP to/TO oxford/NNP town/NNP 
+

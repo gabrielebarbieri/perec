@@ -1,0 +1,60 @@
+{"tags": [{"word": "come", "POS": "VBN"}, {"word": "gather", "POS": "VBP"}, {"word": "`", "POS": "PCT"}, {"word": "round", "POS": "JJ"}, {"word": "people", "POS": "NNS"}], "sentence": "come gather ` round people"}
+{"tags": [{"word": "wherever", "POS": "NNP"}, {"word": "you", "POS": "PRP"}, {"word": "roam", "POS": "VBP"}], "sentence": "wherever you roam"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "admit", "POS": "VBP"}, {"word": "that", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "waters", "POS": "NNS"}], "sentence": "and admit that the waters"}
+{"tags": [{"word": "around", "POS": "IN"}, {"word": "you", "POS": "PRP"}, {"word": "have", "POS": "VBP"}, {"word": "grown", "POS": "VBN"}], "sentence": "around you have grown"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "accept", "POS": "VB"}, {"word": "it", "POS": "PRP"}, {"word": "that", "POS": "IN"}, {"word": "soon", "POS": "RB"}], "sentence": "and accept it that soon"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "'ll", "POS": "MD"}, {"word": "be", "POS": "VB"}, {"word": "drenched", "POS": "VBN"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "bone", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "you 'll be drenched to the bone ."}
+{"tags": [{"word": "if", "POS": "IN"}, {"word": "your", "POS": "PRP$"}, {"word": "time", "POS": "NN"}, {"word": "to", "POS": "TO"}, {"word": "you", "POS": "PRP"}], "sentence": "if your time to you"}
+{"tags": [{"word": "is", "POS": "VBZ"}, {"word": "worth", "POS": "JJ"}, {"word": "savin", "POS": "NN"}, {"word": "'", "POS": "PCT"}], "sentence": "is worth savin '"}
+{"tags": [{"word": "then", "POS": "RB"}, {"word": "you", "POS": "PRP"}, {"word": "better", "POS": "RBR"}, {"word": "start", "POS": "VB"}, {"word": "swimmin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}], "sentence": "then you better start swimmin '"}
+{"tags": [{"word": "or", "POS": "CC"}, {"word": "you", "POS": "PRP"}, {"word": "'ll", "POS": "MD"}, {"word": "sink", "POS": "VB"}, {"word": "like", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "stone", "POS": "NN"}], "sentence": "or you 'll sink like a stone"}
+{"tags": [{"word": "for", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "times", "POS": "NNS"}, {"word": "they", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "a-changin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": ".", "POS": "PCT"}], "sentence": "for the times they are a-changin ' ."}
+
+{"tags": [{"word": "come", "POS": "VBN"}, {"word": "writers", "POS": "NNS"}, {"word": "and", "POS": "CC"}, {"word": "critics", "POS": "NNS"}], "sentence": "come writers and critics"}
+{"tags": [{"word": "who", "POS": "WP"}, {"word": "prophesize", "POS": "VBP"}, {"word": "with", "POS": "IN"}, {"word": "your", "POS": "PRP$"}, {"word": "pen", "POS": "NN"}], "sentence": "who prophesize with your pen"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "keep", "POS": "VB"}, {"word": "your", "POS": "PRP$"}, {"word": "eyes", "POS": "NNS"}, {"word": "wide", "POS": "JJ"}], "sentence": "and keep your eyes wide"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "chance", "POS": "NN"}, {"word": "wo", "POS": "MD"}, {"word": "not", "POS": "RB"}, {"word": "come", "POS": "VB"}, {"word": "again", "POS": "RB"}], "sentence": "the chance wo not come again"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "speak", "POS": "VB"}, {"word": "too", "POS": "RB"}, {"word": "soon", "POS": "RB"}], "sentence": "and do not speak too soon"}
+{"tags": [{"word": "for", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "wheel", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "still", "POS": "RB"}, {"word": "in", "POS": "IN"}, {"word": "spin", "POS": "NN"}], "sentence": "for the wheel 's still in spin"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "there", "POS": "EX"}, {"word": "is", "POS": "VBZ"}, {"word": "no", "POS": "DT"}, {"word": "tellin", "POS": "NN"}, {"word": "'", "POS": "PCT"}, {"word": "who", "POS": "WP"}], "sentence": "and there is no tellin ' who"}
+{"tags": [{"word": "that", "POS": "IN"}, {"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "namin", "POS": "NN"}, {"word": "'", "POS": "PCT"}, {"word": ".", "POS": "PCT"}], "sentence": "that it is namin ' ."}
+{"tags": [{"word": "for", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "loser", "POS": "NN"}, {"word": "now", "POS": "RB"}], "sentence": "for the loser now"}
+{"tags": [{"word": "will", "POS": "MD"}, {"word": "be", "POS": "VB"}, {"word": "later", "POS": "RB"}, {"word": "to", "POS": "TO"}, {"word": "win", "POS": "VB"}], "sentence": "will be later to win"}
+{"tags": [{"word": "for", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "times", "POS": "NNS"}, {"word": "they", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "a-changin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": ".", "POS": "PCT"}], "sentence": "for the times they are a-changin ' ."}
+
+{"tags": [{"word": "come", "POS": "VBN"}, {"word": "senators", "POS": "NNS"}, {"word": ",", "POS": "PCT"}, {"word": "congressmen", "POS": "NNS"}], "sentence": "come senators , congressmen"}
+{"tags": [{"word": "please", "POS": "VB"}, {"word": "heed", "POS": "VB"}, {"word": "the", "POS": "DT"}, {"word": "call", "POS": "NN"}], "sentence": "please heed the call"}
+{"tags": [{"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "stand", "POS": "VB"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "doorway", "POS": "NN"}], "sentence": "do not stand in the doorway"}
+{"tags": [{"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "block", "POS": "VB"}, {"word": "up", "POS": "RP"}, {"word": "the", "POS": "DT"}, {"word": "hall", "POS": "NN"}], "sentence": "do not block up the hall"}
+{"tags": [{"word": "for", "POS": "IN"}, {"word": "he", "POS": "PRP"}, {"word": "that", "POS": "IN"}, {"word": "gets", "POS": "VBZ"}, {"word": "hurt", "POS": "NN"}], "sentence": "for he that gets hurt"}
+{"tags": [{"word": "will", "POS": "MD"}, {"word": "be", "POS": "VB"}, {"word": "he", "POS": "PRP"}, {"word": "who", "POS": "WP"}, {"word": "has", "POS": "VBZ"}, {"word": "stalled", "POS": "VBN"}], "sentence": "will be he who has stalled"}
+{"tags": [{"word": "there", "POS": "EX"}, {"word": "is", "POS": "VBZ"}, {"word": "a", "POS": "DT"}, {"word": "battle", "POS": "NN"}, {"word": "outside", "POS": "IN"}], "sentence": "there is a battle outside"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "ragin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": ".", "POS": "PCT"}], "sentence": "and it is ragin ' ."}
+{"tags": [{"word": "it", "POS": "PRP"}, {"word": "'ll", "POS": "MD"}, {"word": "soon", "POS": "RB"}, {"word": "shake", "POS": "VB"}, {"word": "your", "POS": "PRP$"}, {"word": "windows", "POS": "NNS"}], "sentence": "it 'll soon shake your windows"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "rattle", "POS": "VB"}, {"word": "your", "POS": "PRP$"}, {"word": "walls", "POS": "NNS"}], "sentence": "and rattle your walls"}
+{"tags": [{"word": "for", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "times", "POS": "NNS"}, {"word": "they", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "a-changin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": ".", "POS": "PCT"}], "sentence": "for the times they are a-changin ' ."}
+
+{"tags": [{"word": "come", "POS": "VBN"}, {"word": "mothers", "POS": "NNS"}, {"word": "and", "POS": "CC"}, {"word": "fathers", "POS": "NNS"}], "sentence": "come mothers and fathers"}
+{"tags": [{"word": "throughout", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "land", "POS": "NN"}], "sentence": "throughout the land"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "criticize", "POS": "VB"}], "sentence": "and do not criticize"}
+{"tags": [{"word": "what", "POS": "WP"}, {"word": "you", "POS": "PRP"}, {"word": "ca", "POS": "MD"}, {"word": "not", "POS": "RB"}, {"word": "understand", "POS": "VB"}], "sentence": "what you ca not understand"}
+{"tags": [{"word": "your", "POS": "PRP$"}, {"word": "sons", "POS": "NNS"}, {"word": "and", "POS": "CC"}, {"word": "your", "POS": "PRP$"}, {"word": "daughters", "POS": "NNS"}], "sentence": "your sons and your daughters"}
+{"tags": [{"word": "are", "POS": "VBP"}, {"word": "beyond", "POS": "IN"}, {"word": "your", "POS": "PRP$"}, {"word": "command", "POS": "NN"}], "sentence": "are beyond your command"}
+{"tags": [{"word": "your", "POS": "PRP$"}, {"word": "old", "POS": "JJ"}, {"word": "road", "POS": "NN"}, {"word": "is", "POS": "VBZ"}], "sentence": "your old road is"}
+{"tags": [{"word": "rapidly", "POS": "RB"}, {"word": "agin", "POS": "NN"}, {"word": "'", "POS": "PCT"}, {"word": ".", "POS": "PCT"}], "sentence": "rapidly agin ' ."}
+{"tags": [{"word": "please", "POS": "VB"}, {"word": "get", "POS": "VB"}, {"word": "out", "POS": "IN"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "new", "POS": "JJ"}, {"word": "one", "POS": "CD"}], "sentence": "please get out of the new one"}
+{"tags": [{"word": "if", "POS": "IN"}, {"word": "you", "POS": "PRP"}, {"word": "ca", "POS": "MD"}, {"word": "not", "POS": "RB"}, {"word": "lend", "POS": "VB"}, {"word": "your", "POS": "PRP$"}, {"word": "hand", "POS": "NN"}], "sentence": "if you ca not lend your hand"}
+{"tags": [{"word": "for", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "times", "POS": "NNS"}, {"word": "they", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "a-changin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": ".", "POS": "PCT"}], "sentence": "for the times they are a-changin ' ."}
+
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "line", "POS": "NN"}, {"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "drawn", "POS": "VBN"}], "sentence": "the line it is drawn"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "curse", "POS": "NN"}, {"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "cast", "POS": "VBN"}], "sentence": "the curse it is cast"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "slow", "POS": "JJ"}, {"word": "one", "POS": "CD"}, {"word": "now", "POS": "RB"}], "sentence": "the slow one now"}
+{"tags": [{"word": "will", "POS": "MD"}, {"word": "later", "POS": "RB"}, {"word": "be", "POS": "VB"}, {"word": "fast", "POS": "RB"}], "sentence": "will later be fast"}
+{"tags": [{"word": "as", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "present", "POS": "JJ"}, {"word": "now", "POS": "RB"}], "sentence": "as the present now"}
+{"tags": [{"word": "will", "POS": "MD"}, {"word": "later", "POS": "RB"}, {"word": "be", "POS": "VB"}, {"word": "past", "POS": "JJ"}], "sentence": "will later be past"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "order", "POS": "NN"}, {"word": "is", "POS": "VBZ"}], "sentence": "the order is"}
+{"tags": [{"word": "rapidly", "POS": "RB"}, {"word": "fadin", "POS": "NN"}, {"word": "'", "POS": "PCT"}, {"word": ".", "POS": "PCT"}], "sentence": "rapidly fadin ' ."}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "first", "POS": "JJ"}, {"word": "one", "POS": "CD"}, {"word": "now", "POS": "RB"}], "sentence": "and the first one now"}
+{"tags": [{"word": "will", "POS": "MD"}, {"word": "later", "POS": "RB"}, {"word": "be", "POS": "VB"}, {"word": "last", "POS": "JJ"}], "sentence": "will later be last"}
+{"tags": [{"word": "for", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "times", "POS": "NNS"}, {"word": "they", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "a-changin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": ".", "POS": "PCT"}], "sentence": "for the times they are a-changin ' ."}
+

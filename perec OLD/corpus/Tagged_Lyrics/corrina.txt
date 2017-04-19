@@ -1,0 +1,21 @@
+corrina/NNP ,/PCT corrina/NNP ,/PCT 
+gal/NNP ,/PCT where/WRB you/PRP been/VBN so/RB long/RB ?/PCT 
+corrina/NNP ,/PCT corrina/NNP ,/PCT 
+gal/NNP ,/PCT where/WRB you/PRP been/VBN so/RB long/RB ?/PCT 
+i/PRP been/VBN worr/JJ `/PCT in/IN '/PCT `/PCT bout/NN you/PRP ,/PCT baby/NN ,/PCT 
+baby/NNP ,/PCT please/VB come/VBN home/NN ./PCT 
+
+i/PRP got/VBD a/DT bird/NN that/WDT whistles/NNS ,/PCT 
+i/PRP got/VBD a/DT bird/NN that/WDT sings/VBZ ./PCT 
+i/PRP got/VBD a/DT bird/NN that/WDT whistles/NNS ,/PCT 
+i/PRP got/VBD a/DT bird/NN that/WDT sings/VBZ ./PCT 
+but/CC i/PRP ain/VBP '/PCT a-got/JJ corrina/NNP ,/PCT 
+life/NNP do/VBP not/RB mean/VB a/DT thing/NN ./PCT 
+
+corrina/NNP ,/PCT corrina/NNP ,/PCT 
+gal/NNP ,/PCT you/PRP are/VBP on/IN my/PRP$ mind/NN ./PCT 
+corrina/NNP ,/PCT corrina/NNP ,/PCT 
+gal/NNP ,/PCT you/PRP are/VBP on/IN my/PRP$ mind/NN ./PCT 
+i/PRP am/VBP a-thinkin/VBG '/PCT `/PCT bout/NN you/PRP ,/PCT baby/NN ,/PCT 
+i/PRP just/RB ca/MD not/RB keep/VB from/IN crying/VBG ./PCT 
+

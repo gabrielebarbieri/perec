@@ -1,0 +1,80 @@
+fat/NNP man/NN lookin/NN '/PCT in/IN a/DT blade/NN of/IN steel/NN 
+thin/JJ man/NN lookin/VBG '/PCT at/IN his/PRP$ last/JJ meal/NN 
+hollow/JJ man/NN lookin/VBG '/PCT in/IN a/DT cottonfield/NN 
+for/IN dignity/NN 
+
+wise/NNP man/NN lookin/NN '/PCT in/IN a/DT blade/NN of/IN grass/NN 
+young/NNP man/NN lookin/NN '/PCT in/IN the/DT shadows/NNS that/WDT pass/VBP 
+poor/NNP man/NN lookin/NN '/PCT through/IN painted/VBN glass/NN 
+for/IN dignity/NN 
+
+somebody/NN got/VBD murdered/VBN on/IN new/NNP year/NNP 's/POS eve/NNP 
+somebody/NN said/VBD dignity/NN was/VBD the/DT first/JJ to/TO leave/VB 
+i/PRP went/VBD into/IN the/DT city/NN ,/PCT went/VBD into/IN the/DT town/NN 
+went/VBD into/IN the/DT land/NN of/IN the/DT midnight/NN sun/NN 
+
+searchin/VBG '/PCT high/JJ ,/PCT searchin/VBG '/PCT low/JJ 
+searchin/VBG '/PCT everywhere/RB i/PRP know/VBP 
+askin/NNP '/POS the/DT cops/NNS wherever/WRB i/PRP go/VBP 
+have/VBP you/PRP seen/VBN dignity/NN ?/PCT 
+
+blind/NNP man/NN breakin/VBG '/PCT out/IN of/IN a/DT trance/NN 
+puts/VBZ both/DT his/PRP$ hands/NNS in/IN the/DT pockets/NNS of/IN chance/NN 
+hopin/NNP '/POS to/TO find/VB one/CD circumstance/NN 
+of/IN dignity/NN 
+
+i/PRP went/VBD to/TO the/DT wedding/NN of/IN mary-lou/NN 
+she/PRP said/VBD ``/PCT i/PRP do/VBP not/RB want/VB nobody/NN see/VB me/PRP talkin/VB '/PCT to/TO you/PRP ''/PCT 
+said/NNP she/PRP could/MD get/VB killed/VBN if/IN she/PRP told/VBD me/PRP what/WP she/PRP knew/VBD 
+about/IN dignity/NN 
+
+i/PRP went/VBD down/RB where/WRB the/DT vultures/NNS feed/NN 
+i/PRP would/MD have/VB gone/VBN deeper/JJR ,/PCT but/CC there/EX was/VBD not/RB any/DT need/NN 
+heard/VBN the/DT tongues/NNS of/IN angels/NNS and/CC the/DT tongues/NNS of/IN men/NNS 
+was/VBD not/RB any/DT difference/NN to/TO me/PRP 
+
+chilly/RB wind/NN sharp/JJ as/IN a/DT razor/NN blade/NN 
+house/NNP on/IN fire/NN ,/PCT debts/NNS unpaid/JJ 
+gonna/NNP stand/NN at/IN the/DT window/NN ,/PCT gonna/NN ask/VB the/DT maid/NN 
+have/VBP you/PRP seen/VBN dignity/NN ?/PCT 
+
+drinkin/VBG '/PCT man/NN listens/VBZ to/TO the/DT voice/NN he/PRP hears/VBZ 
+in/IN a/DT crowded/JJ room/NN full/JJ of/IN covered/VBN up/RP mirrors/VBZ 
+lookin/NNP '/POS into/IN the/DT lost/VBN forgotten/VBN years/NNS 
+for/IN dignity/NN 
+
+met/NNP prince/NNP phillip/NNP at/IN the/DT home/NN of/IN the/DT blues/NNS 
+said/NNP he/PRP 'd/MD give/VB me/PRP information/NN if/IN his/PRP$ name/NN was/VBD not/RB used/VBN 
+he/PRP wanted/VBD money/NN up/IN front/NN ,/PCT said/VBD he/PRP was/VBD abused/JJ 
+by/IN dignity/NN 
+
+footprints/NNS runnin/VBG '/PCT cross/VBP the/DT silver/NN sand/NN 
+steps/VBZ goin/NN '/PCT down/RB into/IN tattoo/JJ land/NN 
+i/PRP met/VBD the/DT sons/NNS of/IN darkness/NN and/CC the/DT sons/NNS of/IN light/NN 
+in/IN the/DT bordertowns/NNS of/IN despair/NN 
+
+got/NNP no/DT place/NN to/TO fade/VB ,/PCT got/VBD no/DT coat/NN 
+i/PRP am/VBP on/IN the/DT rollin/NN '/PCT river/NN in/IN a/DT jerkin/NN '/PCT boat/NN 
+tryin/NNP '/POS to/TO read/VB a/DT note/NN somebody/NN wrote/VBD 
+about/IN dignity/NN 
+
+sick/JJ man/NN lookin/VBG '/PCT for/IN the/DT doctor/NN 's/POS cure/NN 
+lookin/NNP '/POS at/IN his/PRP$ hands/NNS for/IN the/DT lines/NNS that/WDT were/VBD 
+and/CC into/IN every/DT masterpiece/NN of/IN literature/NN 
+for/IN dignity/NN 
+
+englishman/NNP stranded/VBD in/IN the/DT blackheart/NN wind/NN 
+combin/NNP '/POS his/PRP$ hair/NN back/RB ,/PCT his/PRP$ future/JJ looks/NNS thin/JJ 
+bites/VBZ the/DT bullet/NN and/CC he/PRP looks/VBZ within/IN 
+for/IN dignity/NN 
+
+someone/NN showed/VBD me/PRP a/DT picture/NN and/CC i/PRP just/RB laughed/VBD 
+dignity/NN never/RB been/VBN photographed/VBN 
+i/PRP went/VBD into/IN the/DT red/JJ ,/PCT went/VBD into/IN the/DT black/JJ 
+into/NNP the/DT valley/NN of/IN dry/JJ bone/NN dreams/NNS 
+
+so/RB many/JJ roads/NNS ,/PCT so/RB much/RB at/IN stake/NN 
+so/RB many/JJ dead/JJ ends/NNS ,/PCT i/PRP am/VBP at/IN the/DT edge/NN of/IN the/DT lake/NN 
+sometimes/RB i/PRP wonder/VBP what/WP it/PRP is/VBZ gonna/NNS take/VB 
+to/TO find/VB dignity/NN 
+

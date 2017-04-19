@@ -1,0 +1,30 @@
+{"tags": [{"word": "twilight", "POS": "NNP"}, {"word": "on", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "frozen", "POS": "JJ"}, {"word": "lake", "POS": "NN"}], "sentence": "twilight on the frozen lake"}
+{"tags": [{"word": "north", "POS": "NNP"}, {"word": "wind", "POS": "NN"}, {"word": "about", "POS": "IN"}, {"word": "to", "POS": "TO"}, {"word": "break", "POS": "VB"}], "sentence": "north wind about to break"}
+{"tags": [{"word": "on", "POS": "IN"}, {"word": "footprints", "POS": "NNS"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "snow", "POS": "NN"}], "sentence": "on footprints in the snow"}
+{"tags": [{"word": "silence", "POS": "NN"}, {"word": "down", "POS": "RB"}, {"word": "below", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "silence down below ."}
+
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "beautiful", "POS": "JJ"}, {"word": "beyond", "POS": "IN"}, {"word": "words", "POS": "NNS"}], "sentence": "you are beautiful beyond words"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "beautiful", "POS": "JJ"}, {"word": "to", "POS": "TO"}, {"word": "me", "POS": "PRP"}], "sentence": "you are beautiful to me"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "can", "POS": "MD"}, {"word": "make", "POS": "VB"}, {"word": "me", "POS": "PRP"}, {"word": "cry", "POS": "VB"}], "sentence": "you can make me cry"}
+{"tags": [{"word": "never", "POS": "RB"}, {"word": "say", "POS": "VB"}, {"word": "goodbye", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "never say goodbye ."}
+
+{"tags": [{"word": "time", "POS": "NNP"}, {"word": "is", "POS": "VBZ"}, {"word": "all", "POS": "DT"}, {"word": "i", "POS": "PRP"}, {"word": "have", "POS": "VBP"}, {"word": "to", "POS": "TO"}, {"word": "give", "POS": "VB"}], "sentence": "time is all i have to give"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "can", "POS": "MD"}, {"word": "have", "POS": "VB"}, {"word": "it", "POS": "PRP"}, {"word": "if", "POS": "IN"}, {"word": "you", "POS": "PRP"}, {"word": "choose", "POS": "VBP"}], "sentence": "you can have it if you choose"}
+{"tags": [{"word": "with", "POS": "IN"}, {"word": "me", "POS": "PRP"}, {"word": "you", "POS": "PRP"}, {"word": "can", "POS": "MD"}, {"word": "live", "POS": "VB"}], "sentence": "with me you can live"}
+{"tags": [{"word": "never", "POS": "RB"}, {"word": "say", "POS": "VB"}, {"word": "goodbye", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "never say goodbye ."}
+
+{"tags": [{"word": "my", "POS": "PRP$"}, {"word": "dreams", "POS": "NNS"}, {"word": "are", "POS": "VBP"}, {"word": "made", "POS": "VBN"}, {"word": "of", "POS": "IN"}, {"word": "iron", "POS": "NN"}, {"word": "and", "POS": "CC"}, {"word": "steel", "POS": "NN"}], "sentence": "my dreams are made of iron and steel"}
+{"tags": [{"word": "with", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "big", "POS": "JJ"}, {"word": "bouquet", "POS": "NN"}], "sentence": "with a big bouquet"}
+{"tags": [{"word": "of", "POS": "IN"}, {"word": "roses", "POS": "NNS"}, {"word": "hanging", "POS": "VBG"}, {"word": "down", "POS": "RP"}], "sentence": "of roses hanging down"}
+{"tags": [{"word": "from", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "heavens", "POS": "NNS"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "ground", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "from the heavens to the ground ."}
+
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "crashing", "POS": "VBG"}, {"word": "waves", "POS": "NNS"}, {"word": "roll", "POS": "NN"}, {"word": "over", "POS": "IN"}, {"word": "me", "POS": "PRP"}], "sentence": "the crashing waves roll over me"}
+{"tags": [{"word": "as", "POS": "IN"}, {"word": "i", "POS": "PRP"}, {"word": "stand", "POS": "VBP"}, {"word": "upon", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "sand", "POS": "NN"}], "sentence": "as i stand upon the sand"}
+{"tags": [{"word": "wait", "POS": "VB"}, {"word": "for", "POS": "IN"}, {"word": "you", "POS": "PRP"}, {"word": "to", "POS": "TO"}, {"word": "come", "POS": "VB"}], "sentence": "wait for you to come"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "grab", "POS": "VB"}, {"word": "hold", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "hand", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "and grab hold of my hand ."}
+
+{"tags": [{"word": "oh", "POS": "UH"}, {"word": ",", "POS": "PCT"}, {"word": "baby", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "baby", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "baby", "POS": "NN"}, {"word": "blue", "POS": "NN"}], "sentence": "oh , baby , baby , baby blue"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "'ll", "POS": "MD"}, {"word": "change", "POS": "VB"}, {"word": "your", "POS": "PRP$"}, {"word": "last", "POS": "JJ"}, {"word": "name", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "too", "POS": "RB"}], "sentence": "you 'll change your last name , too"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "have", "POS": "VBP"}, {"word": "turned", "POS": "VBN"}, {"word": "your", "POS": "PRP$"}, {"word": "hair", "POS": "NN"}, {"word": "to", "POS": "TO"}, {"word": "brown", "POS": "JJ"}], "sentence": "you have turned your hair to brown"}
+{"tags": [{"word": "love", "POS": "NNP"}, {"word": "to", "POS": "TO"}, {"word": "see", "POS": "VB"}, {"word": "it", "POS": "PRP"}, {"word": "hangin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": "down", "POS": "RP"}, {"word": ".", "POS": "PCT"}], "sentence": "love to see it hangin ' down ."}
+

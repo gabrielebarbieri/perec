@@ -1,0 +1,60 @@
+frankie/NNP was/VBD a/DT good/JJ girl/NN ./PCT 
+everybody/NN knows/VBZ ./PCT 
+paid/VBN one/CD hundred/CD dollars/NNS 
+for/IN albert/NNP 's/POS new/JJ suit/NN of/IN clothes/NNS ./PCT 
+he/PRP was/VBD her/PRP$ man/NN but/CC he/PRP done/VBD her/PRP$ wrong/JJ ./PCT 
+
+albert/NNP said/VBD ,/PCT ``/PCT i/PRP am/VBP leaving/VBG you/PRP ./PCT 
+wo/NNP not/RB be/VB gone/VBN for/IN long/RB ./PCT 
+do/VBP not/RB wait/VB up/RP for/IN me/PRP ./PCT 
+a-worry/NN about/IN me/PRP when/WRB i/PRP am/VBP gone/VBN ./PCT ''/PCT 
+he/PRP was/VBD her/PRP$ man/NN but/CC he/PRP done/VBD her/PRP$ wrong/JJ ./PCT 
+
+frankie/NNP went/VBD down/RB to/TO the/DT corner/NN saloon/NN ./PCT 
+get/VB a/DT bucket/NN of/IN beer/NN ./PCT 
+said/NNP to/TO the/DT bartender/NN ./PCT 
+``/PCT has/VBZ my/PRP$ lovin/NN '/PCT man/NN been/VBN here/RB ?/PCT ''/PCT 
+he/PRP was/VBD her/PRP$ man/NN but/CC he/PRP done/VBD her/PRP$ wrong/JJ ./PCT 
+
+``/PCT well/UH ,/PCT i/PRP ai/VBP not/RB gonna/VB tell/VB you/PRP no/DT stories/NNS ./PCT 
+i/PRP ai/VBP not/RB gonna/VB tell/VB you/PRP no/DT lies/NNS ./PCT 
+i/PRP saw/VBD albert/NNP an/DT hour/NN ago/IN 
+with/IN a/DT gal/NN named/VBN alice/NNP bly/NNP ./PCT ''/PCT 
+he/PRP was/VBD her/PRP$ man/NN but/CC he/PRP done/VBD her/PRP$ wrong/JJ ./PCT 
+
+frankie/NNP went/VBD down/RB to/TO 12th/JJ street/NNP ,/PCT 
+lookin/NNP '/POS up/RP through/IN the/DT window/NN high/JJ ./PCT 
+she/PRP saw/VBD her/PRP$ albert/NNP there/RB ,/PCT 
+lovin/NNP '/POS up/RP alice/NNP bly/NNP ./PCT 
+he/PRP was/VBD her/PRP$ man/NN but/CC he/PRP done/VBD her/PRP$ wrong/JJ ./PCT 
+
+frankie/NNP pulled/VBD out/RP a/DT pistol/NN ,/PCT 
+pulled/VBN out/RP a/DT forty-four/NN ./PCT 
+gun/NNP went/VBD off/RP a/DT rootie-toot-toot/NN 
+and/CC albert/NNP fell/VBD on/IN the/DT floor/NN ./PCT 
+he/PRP was/VBD her/PRP$ man/NN but/CC he/PRP done/VBD her/PRP$ wrong/JJ ./PCT 
+
+frankie/NNP got/VBD down/RP upon/IN her/PRP$ knees/NNS ,/PCT 
+took/NNP albert/NNP into/IN her/PRP$ lap/NN ./PCT 
+started/VBN to/TO hug/NN and/CC kiss/VB him/PRP ,/PCT 
+but/CC there/EX was/VBD no/DT bringin/NN '/PCT him/PRP back/RB ./PCT 
+he/PRP was/VBD her/PRP$ man/NN but/CC he/PRP done/VBD her/PRP$ wrong/JJ ./PCT 
+
+``/PCT gimme/NNP a/DT thousand/CD policemen/NNS ,/PCT 
+throw/VB me/PRP into/IN a/DT cell/NN ./PCT 
+i/PRP shot/VBD my/PRP$ albert/NNP dead/NN ,/PCT 
+and/CC now/RB i/PRP am/VBP goin/VBG '/PCT to/TO hell/NN ./PCT 
+he/PRP was/VBD my/PRP$ man/NN but/CC he/PRP done/VBD me/PRP wrong/JJ ./PCT ''/PCT 
+
+judge/NNP said/VBD to/TO the/DT jury/NN ,/PCT 
+``/PCT plain/NNP as/IN a/DT thing/NN can/MD be/VB ,/PCT 
+a/DT woman/NN shot/VBD her/PRP$ lover/NN down/RB ,/PCT 
+murder/NN in/IN the/DT second/JJ degree/NN ./PCT ''/PCT 
+he/PRP was/VBD her/PRP$ man/NN but/CC he/PRP done/VBD her/PRP$ wrong/JJ ./PCT 
+
+frankie/NNP went/VBD to/TO the/DT scaffold/NN ,/PCT 
+calm/JJ as/IN a/DT girl/NN could/MD be/VB ,/PCT 
+turned/VBN her/PRP$ eyes/NNS up/IN towards/IN the/DT heavens/NNS ,/PCT 
+said/NNP ,/PCT ``/PCT nearer/IN ,/PCT my/PRP$ god/NNP ,/PCT to/TO thee/NNP ./PCT ''/PCT 
+he/PRP was/VBD her/PRP$ man/NN but/CC he/PRP done/VBD her/PRP$ wrong/JJ ./PCT 
+

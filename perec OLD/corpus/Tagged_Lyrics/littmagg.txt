@@ -1,0 +1,35 @@
+oh/UH ,/PCT where/WRB is/VBZ little/JJ maggie/NNP ?/PCT 
+over/IN yonder/NN she/PRP stands/VBZ ./PCT 
+rifle/NNP on/IN her/PRP$ shoulder/NN ,/PCT 
+six-shooter/NN in/IN her/PRP$ hand/NN ./PCT 
+
+how/WRB can/MD i/PRP ever/RB stand/VBP it/PRP ,/PCT 
+just/RB to/TO see/VB them/PRP two/CD blue/JJ eyes/NNS ,/PCT 
+shinin/VBG '/PCT like/IN some/DT diamonds/NNS ,/PCT 
+like/IN some/DT diamonds/NNS in/IN the/DT sky/NN ./PCT 
+
+rather/RB be/VB in/IN some/DT lonely/JJ hollow/JJ 
+where/WRB the/DT sun/NN do/VBP not/RB ever/RB shine/VB ,/PCT 
+than/IN to/TO see/VB you/PRP be/VB another/DT man/NN 's/POS darling/NN ,/PCT 
+and/CC to/TO know/VB that/IN you/PRP 'll/MD never/RB be/VB mine/JJ ./PCT 
+
+well/RB ,/PCT it/PRP is/VBZ march/NN me/PRP away/RB to/TO the/DT station/NN 
+with/IN my/PRP$ suitcase/NN in/IN my/PRP$ hand/NN ./PCT 
+yes/UH ,/PCT march/VB me/PRP away/RB to/TO the/DT station/NN ,/PCT 
+i/PRP am/VBP off/RP to/TO some/DT far-distant/JJ land/NN ./PCT 
+
+sometimes/RB i/PRP have/VBP a/DT nickel/NN ,/PCT 
+and/CC sometimes/RB i/PRP have/VBP a/DT dime/NN ./PCT 
+sometimes/RB i/PRP have/VBP ten/VBN dollars/NNS ,/PCT 
+just/RB to/TO pay/VB for/IN little/JJ maggie/NNP 's/POS wine/NN ./PCT 
+
+pretty/NNP flowers/NNS are/VBP made/VBN for/IN blooming/VBG ,/PCT 
+pretty/NNP stars/NNS are/VBP made/VBN to/TO shine/VB ./PCT 
+pretty/NNP girls/NNS are/VBP made/VBN for/IN boy/NN 's/POS love/NN ,/PCT 
+little/NNP maggie/NNP was/VBD made/VBN for/IN mine/NN ./PCT 
+
+well/RB ,/PCT yonder/NN stands/VBZ little/JJ maggie/NNP 
+with/IN a/DT dram/NN glass/NN in/IN her/PRP$ hand/NN ,/PCT 
+she/PRP is/VBZ a/DT drinkin/NN '/PCT down/RP her/PRP$ troubles/NNS 
+over/IN courtin/NN '/PCT some/DT other/JJ man/NN ./PCT 
+

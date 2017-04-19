@@ -1,0 +1,24 @@
+alberta/NNP let/VB your/PRP$ hair/NN hang/VB low/JJ 
+alberta/NNP let/VB your/PRP$ hair/NN hang/VB low/JJ 
+i/PRP 'll/MD give/VB you/PRP more/RBR gold/JJ 
+than/IN your/PRP$ apron/NN can/MD hold/VB 
+if/IN you/PRP 'd/MD only/RB let/VB your/PRP$ hair/NN hand/NN low/JJ 
+
+alberta/NNP what/WP is/VBZ on/IN your/PRP$ mind/NN 
+alberta/NNP what/WP is/VBZ on/IN your/PRP$ mind/NN 
+you/PRP keep/VBP me/PRP worried/VBN and/CC bothered/VBN 
+all/DT of/IN the/DT time/NN 
+alberta/NNP what/WP is/VBZ on/IN your/PRP$ mind/NN 
+
+alberta/NNP do/VBP not/RB you/PRP treat/VB me/PRP unkind/VB 
+alberta/NNP do/VBP not/RB you/PRP treat/VB me/PRP unkind/VB 
+oh/UH my/PRP$ heart/NN is/VBZ so/RB sad/JJ 
+cause/VB i/PRP want/VBP you/PRP so/RB bad/JJ 
+alberta/NNP do/VBP not/RB you/PRP treat/VB me/PRP unkind/VB 
+
+alberta/NNP let/VB your/PRP$ hair/NN hang/VB low/JJ 
+alberta/NNP let/VB your/PRP$ hair/NN hang/VB low/JJ 
+i/PRP 'll/MD give/VB you/PRP more/RBR gold/JJ 
+than/IN your/PRP$ apron/NN can/MD hold/VB 
+if/IN you/PRP 'll/MD only/RB let/VB your/PRP$ hair/NN hand/NN low/JJ 
+

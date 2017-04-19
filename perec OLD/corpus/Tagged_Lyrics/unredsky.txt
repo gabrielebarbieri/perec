@@ -1,0 +1,26 @@
+there/EX was/VBD a/DT little/JJ boy/NN and/CC there/EX was/VBD a/DT little/JJ girl/NN 
+and/CC they/PRP lived/VBD in/IN an/DT alley/NN under/IN the/DT red/JJ sky/NN ./PCT 
+there/EX was/VBD a/DT little/JJ boy/NN and/CC there/EX was/VBD a/DT little/JJ girl/NN 
+and/CC they/PRP lived/VBD in/IN an/DT alley/NN under/IN the/DT red/JJ sky/NN ./PCT 
+
+there/EX was/VBD an/DT old/JJ man/NN and/CC he/PRP lived/VBD in/IN the/DT moon/NN ,/PCT 
+one/CD summer/NN 's/POS day/NN he/PRP came/VBD passing/VBG by/IN ./PCT 
+there/EX was/VBD an/DT old/JJ man/NN and/CC he/PRP lived/VBD in/IN the/DT moon/NN ,/PCT 
+and/CC one/CD day/NN he/PRP came/VBD passing/VBG by/IN ./PCT 
+
+someday/RB little/JJ girl/NN ,/PCT everything/NN for/IN you/PRP is/VBZ gonna/NN be/VB new/JJ 
+someday/RB little/JJ girl/NN you/PRP 'll/MD have/VB a/DT diamond/NN as/IN big/JJ as/IN your/PRP$ shoe/NN 
+
+let/VB the/DT wind/NN blow/NN low/JJ ,/PCT let/VB the/DT wind/NN blow/NN high/JJ ./PCT 
+one/CD day/NN the/DT little/JJ boy/NN and/CC the/DT little/JJ girl/NN were/VBD both/DT baked/JJ in/IN a/DT pie/NN ./PCT 
+let/VB the/DT wind/NN blow/NN low/JJ ,/PCT let/VB the/DT wind/NN blow/NN high/JJ ./PCT 
+one/CD day/NN the/DT little/JJ boy/NN and/CC the/DT little/JJ girl/NN were/VBD both/DT baked/JJ in/IN a/DT pie/NN ./PCT 
+
+this/DT is/VBZ the/DT key/NN to/TO the/DT kingdom/NN and/CC this/DT is/VBZ the/DT town/NN 
+this/DT is/VBZ the/DT blind/JJ horse/NN that/WDT leads/VBZ you/PRP around/IN 
+
+let/VB the/DT bird/NN sing/VB ,/PCT let/VB the/DT bird/NN fly/NN ,/PCT 
+one/CD day/NN the/DT man/NN in/IN the/DT moon/NN went/VBD home/NN and/CC the/DT river/NN went/VBD dry/JJ ./PCT 
+let/VB the/DT bird/NN sing/VB ,/PCT let/VB the/DT bird/NN fly/NN ,/PCT 
+the/DT man/NN in/IN the/DT moon/NN went/VBD home/NN and/CC the/DT river/NN went/VBD dry/JJ ./PCT 
+

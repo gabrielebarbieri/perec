@@ -1,0 +1,25 @@
+i/PRP 'll/MD sing/VB you/PRP a/DT song/NN ,/PCT ai/VBP not/RB very/RB long/RB ,/PCT 
+about/NNP an/DT old/JJ man/NN who/WP never/RB done/VBN wrong/JJ ./PCT
+how/WRB he/PRP died/VBD nobody/NN can/MD say/VB ,/PCT 
+they/PRP found/VBD him/PRP dead/JJ in/IN the/DT street/NN one/CD day/NN ./PCT 
+
+well/RB ,/PCT the/DT crowd/NN ,/PCT they/PRP gathered/VBD one/CD fine/NN morn/NN ,/PCT 
+at/IN the/DT man/NN whose/WP$ clothes/NNS 'n'/CC shoes/NNS were/VBD torn/VBN ./PCT 
+there/EX on/IN the/DT sidewalk/NN he/PRP did/VBD lay/VB ,/PCT 
+they/PRP stopped/VBD 'n'/CC stared/VBD 'n'/CC walked/VBD their/PRP$ way/NN ./PCT 
+
+well/RB ,/PCT the/DT p/NN `/PCT liceman/NN come/VB and/CC he/PRP looked/VBD around/RB ,/PCT 
+``/PCT get/VB up/RP ,/PCT old/JJ man/NN ,/PCT or/CC i/PRP am/VBP a-takin/VBG '/PCT you/PRP down/RB ./PCT ''/PCT 
+he/PRP jabbed/VBD him/PRP once/RB with/IN his/PRP$ billy/JJ club/NN 
+and/CC the/DT old/JJ man/NN then/RB rolled/VBD off/RP the/DT curb/NN ./PCT 
+
+well/RB ,/PCT he/PRP jabbed/VBD him/PRP again/RB and/CC loudly/RB said/VBD ,/PCT 
+``/PCT call/VB the/DT wagon/NN ;/PCT this/DT man/NN is/VBZ dead/JJ ./PCT ''/PCT 
+the/DT wagon/NN come/VBN ,/PCT they/PRP loaded/VBD him/PRP in/IN ,/PCT 
+i/PRP never/RB saw/VBD the/DT man/NN again/RB ./PCT 
+
+i/PRP have/VBP sung/VBN you/PRP my/PRP$ song/NN ,/PCT it/PRP ai/VBP not/RB very/RB long/RB ,/PCT 
+�bout/NNP an/DT old/JJ man/NN who/WP never/RB done/VBN wrong/JJ ./PCT 
+how/WRB he/PRP died/VBD no/DT one/PRP can/MD say/VB ,/PCT 
+they/PRP found/VBD him/PRP dead/JJ in/IN the/DT street/NN one/CD day/NN ./PCT 
+

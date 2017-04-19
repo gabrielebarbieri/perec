@@ -1,0 +1,56 @@
+gonna/NNP change/VB my/PRP$ way/NN of/IN thinking/NN ,/PCT 
+make/NNP myself/PRP a/DT different/JJ set/NN of/IN rules/NNS ./PCT 
+gonna/NNP change/VB my/PRP$ way/NN of/IN thinking/NN ,/PCT 
+make/NNP myself/PRP a/DT different/JJ set/NN of/IN rules/NNS ./PCT 
+gonna/NNP put/VBD my/PRP$ good/JJ foot/NN forward/RB ,/PCT 
+and/CC stop/VB being/VBG influenced/VBN by/IN fools/NNS ./PCT 
+
+so/RB much/JJ oppression/NN ,/PCT 
+ca/MD not/RB keep/VB track/NN of/IN it/PRP no/RB more/RBR ./PCT 
+so/RB much/JJ oppression/NN ,/PCT 
+ca/MD not/RB keep/VB track/NN of/IN it/PRP no/RB more/RBR ./PCT 
+sons/NNPS becoming/VBG husbands/NNS to/TO their/PRP$ mothers/NNS ,/PCT 
+and/CC old/JJ men/NNS turning/VBG young/JJ daughters/NNS into/IN whores/NNS ./PCT 
+
+stripes/NNP on/IN your/PRP$ shoulders/NNS ,/PCT 
+stripes/NNP on/IN your/PRP$ back/NN and/CC on/IN your/PRP$ hands/NNS ./PCT 
+stripes/NNP on/IN your/PRP$ shoulders/NNS ,/PCT 
+stripes/NNP on/IN your/PRP$ back/NN and/CC on/IN your/PRP$ hands/NNS ./PCT 
+swords/NNS piercing/VBG your/PRP$ side/NN ,/PCT 
+blood/NNP and/CC water/NN flowing/VBG through/IN the/DT land/NN ./PCT 
+
+well/RB do/VBP not/RB know/VB which/WDT one/NN is/VBZ worse/JJR ,/PCT 
+doing/VBG your/PRP$ own/JJ thing/NN or/CC just/RB being/VBG cool/JJ ./PCT 
+well/RB do/VBP not/RB know/VB which/WDT one/NN is/VBZ worse/JJR ,/PCT 
+doing/VBG your/PRP$ own/JJ thing/NN or/CC just/RB being/VBG cool/JJ ./PCT 
+you/PRP remember/VBP only/RB about/IN the/DT brass/NN ring/NN ,/PCT 
+you/PRP forget/VBP all/DT about/IN the/DT golden/JJ rule/NN ./PCT 
+
+you/PRP can/MD mislead/VB a/DT man/NN ,/PCT 
+you/PRP can/MD take/VB ahold/NN of/IN his/PRP$ heart/NN with/IN your/PRP$ eyes/NNS ./PCT 
+you/PRP can/MD mislead/VB a/DT man/NN ,/PCT 
+you/PRP can/MD take/VB ahold/NN of/IN his/PRP$ heart/NN with/IN your/PRP$ eyes/NNS ./PCT 
+but/CC there/EX is/VBZ only/RB one/CD authority/NN ,/PCT 
+and/CC that/DT is/VBZ the/DT authority/NN on/IN high/JJ ./PCT 
+
+i/PRP got/VBD a/DT god-fearing/JJ woman/NN ,/PCT 
+one/CD i/PRP can/MD easily/RB afford/VB ./PCT 
+i/PRP got/VBD a/DT god-fearing/JJ woman/NN ,/PCT 
+one/CD i/PRP can/MD easily/RB afford/VB ./PCT 
+she/PRP can/MD do/VB the/DT georgia/NNP crawl/NN ,/PCT 
+she/PRP can/MD walk/VB in/IN the/DT spirit/NN of/IN the/DT lord/NNP ./PCT 
+
+jesus/NNP said/VBD ,/PCT ``/PCT be/VB ready/JJ ,/PCT 
+for/IN you/PRP know/VBP not/RB the/DT hour/NN in/IN which/WDT i/PRP come/VBP ./PCT ''/PCT 
+jesus/NNP said/VBD ,/PCT ``/PCT be/VB ready/JJ ,/PCT 
+for/IN you/PRP know/VBP not/RB the/DT hour/NN in/IN which/WDT i/PRP come/VBP ./PCT ''/PCT 
+he/PRP said/VBD ,/PCT ``/PCT he/PRP who/WP is/VBZ not/RB for/IN me/PRP is/VBZ against/IN me/PRP ,/PCT ''/PCT 
+just/RB so/IN you/PRP know/VBP where/WRB he/PRP is/VBZ coming/VBG from/IN ./PCT 
+
+there/EX is/VBZ a/DT kingdom/NN called/VBN heaven/NNP ,/PCT 
+a/DT place/NN where/WRB there/EX is/VBZ no/DT pain/NN of/IN birth/NN ./PCT 
+there/EX is/VBZ a/DT kingdom/NN called/VBN heaven/NNP ,/PCT 
+a/DT place/NN where/WRB there/EX is/VBZ no/DT pain/NN of/IN birth/NN ./PCT 
+well/RB the/DT lord/NNP created/VBD it/PRP ,/PCT mister/NN ,/PCT 
+about/IN the/DT same/JJ time/NN he/PRP made/VBD the/DT earth/NN ./PCT 
+

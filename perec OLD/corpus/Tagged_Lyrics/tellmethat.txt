@@ -1,0 +1,23 @@
+i/PRP have/VBP heard/VBN rumors/NNS all/DT over/IN town/NN ,/PCT 
+they/PRP say/VBP that/IN you/PRP are/VBP planning/VBG to/TO put/VB me/PRP down/RP ./PCT 
+all/DT i/PRP would/MD like/VB you/PRP to/TO do/VB ,/PCT 
+is/VBZ tell/VB me/PRP that/IN it/PRP is/VBZ not/RB true/JJ ./PCT 
+
+they/PRP say/VBP that/IN you/PRP have/VBP been/VBN seen/VBN with/IN some/DT other/JJ man/NN ,/PCT 
+that/IN he/PRP is/VBZ tall/JJ ,/PCT dark/JJ and/CC handsome/JJ ,/PCT and/CC you/PRP are/VBP holding/VBG his/PRP$ hand/NN ./PCT 
+darlin/NNP '/POS ,/PCT i/PRP am/VBP a-countin/VBG '/PCT on/IN you/PRP ,/PCT 
+tell/VB me/PRP that/IN it/PRP is/VBZ not/RB true/JJ ./PCT 
+
+to/TO know/VB that/IN some/DT other/JJ man/NN is/VBZ holdin/VBG '/PCT you/PRP tight/RB ,/PCT 
+it/PRP hurts/VBZ me/PRP all/DT over/RP ,/PCT it/PRP does/VBZ not/RB seem/VB right/RB ./PCT 
+
+all/DT of/IN those/DT awful/JJ things/NNS that/IN i/PRP have/VBP heard/VBN ,/PCT 
+i/PRP do/VBP not/RB want/VB to/TO believe/VB them/PRP ,/PCT all/DT i/PRP want/VBP is/VBZ your/PRP$ word/NN ./PCT 
+so/RB darlin/VBG '/PCT ,/PCT you/PRP better/JJR come/VBN through/IN ,/PCT 
+tell/VB me/PRP that/IN it/PRP is/VBZ not/RB true/JJ ./PCT 
+
+all/DT of/IN those/DT awful/JJ things/NNS that/IN i/PRP have/VBP heard/VBN ,/PCT 
+i/PRP do/VBP not/RB want/VB to/TO believe/VB them/PRP ,/PCT all/DT i/PRP want/VBP is/VBZ your/PRP$ word/NN ./PCT 
+so/RB darlin/VBG '/PCT ,/PCT i/PRP am/VBP countin/VBG '/PCT on/IN you/PRP ,/PCT 
+tell/VB me/PRP that/IN it/PRP is/VBZ not/RB true/JJ ./PCT 
+

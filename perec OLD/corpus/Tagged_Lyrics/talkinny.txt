@@ -1,0 +1,55 @@
+ramblin/NNP '/POS outa/NN the/DT wild/JJ west/NNP ,/PCT 
+leavin/NNP '/POS the/DT towns/NNS i/PRP love/VBP the/DT best/JJS ./PCT 
+thought/NNP i/PRP 'd/MD seen/VBN some/DT ups/NNS and/CC down/RB ,/PCT 
+til/NNP i/PRP come/VBP into/IN new/NNP york/NNP town/NN ./PCT 
+people/NNS goin/VBG '/PCT down/RP to/TO the/DT ground/NN ,/PCT 
+buildings/NNS goin/VBG '/PCT up/RP to/TO the/DT sky/NN ./PCT 
+
+wintertime/NNP in/IN new/NNP york/NNP town/NN ,/PCT 
+the/DT wind/NN blowin/VBG '/PCT snow/NN around/IN ./PCT 
+walk/VB around/RP with/IN nowhere/RB to/TO go/VB ,/PCT 
+somebody/NN could/MD freeze/VB right/JJ to/TO the/DT bone/NN ./PCT 
+i/PRP froze/VBD right/RB to/TO the/DT bone/NN ./PCT 
+new/NNP york/NNP times/NNP said/VBD it/PRP was/VBD the/DT coldest/JJS winter/NN in/IN seventeen/CD years/NNS ;/PCT 
+i/PRP did/VBD not/RB feel/VB so/RB cold/JJ then/RB ./PCT 
+
+i/PRP swung/VBD on/IN to/TO my/PRP$ old/JJ guitar/NN ,/PCT 
+grabbed/VBN hold/NN of/IN a/DT subway/NN car/NN ,/PCT 
+and/CC after/IN a/DT rocking/VBG ,/PCT reeling/VBG ,/PCT rolling/VBG ride/NN ,/PCT 
+i/PRP landed/VBD up/RP on/IN the/DT downtown/NN side/NN ;/PCT 
+greenwich/NNP village/NNP ./PCT 
+
+i/PRP walked/VBD down/RB there/RB and/CC ended/VBD up/RP 
+in/IN one/CD of/IN them/PRP coffee-houses/NNS on/IN the/DT block/NN ./PCT 
+got/NNP on/IN the/DT stage/NN to/TO sing/VB and/CC play/VB ,/PCT 
+man/NN there/RB said/VBD ,/PCT ``/PCT come/VBD back/RP some/DT other/JJ day/NN ,/PCT 
+you/PRP sound/VBP like/IN a/DT hillbilly/RB ;/PCT 
+we/PRP want/VBP folk/NN singers/NNS here/RB ./PCT ''/PCT 
+
+well/RB ,/PCT i/PRP got/VBD a/DT harmonica/NN job/NN ,/PCT begun/VBN to/TO play/VB ,/PCT 
+blowin/NNP '/POS my/PRP$ lungs/NNS out/RP for/IN a/DT dollar/NN a/DT day/NN ./PCT 
+i/PRP blowed/VBD inside/IN out/RB and/CC upside/RB down/RB ./PCT 
+the/DT man/NN there/RB said/VBD he/PRP loved/VBD m/NN '/PCT sound/NN ,/PCT 
+he/PRP was/VBD ravin/VBG '/PCT about/IN how/WRB he/PRP loved/VBD m/NN '/PCT sound/NN ;/PCT 
+dollar/NNP a/DT day/NN 's/POS worth/NN ./PCT 
+
+and/CC after/IN weeks/NNS and/CC weeks/NNS of/IN hangin/NN '/PCT around/RB ,/PCT 
+i/PRP finally/RB got/VBD a/DT job/NN in/IN new/NNP york/NNP town/NN ,/PCT 
+in/IN a/DT bigger/JJR place/NN ,/PCT bigger/JJR money/NN too/RB ,/PCT 
+even/RB joined/VBD the/DT union/NN and/CC paid/VBD m/NN '/PCT dues/NNS ./PCT 
+
+now/RB ,/PCT a/DT very/RB great/JJ man/NN once/RB said/VBD 
+that/DT some/DT people/NNS rob/VBP you/PRP with/IN a/DT fountain/NN pen/NN ./PCT 
+it/PRP did/VBD not/RB take/VB too/RB long/JJ to/TO find/VB out/RP 
+just/RB what/WP he/PRP was/VBD talkin/VBG '/PCT about/RB ./PCT 
+a/DT lot/NN of/IN people/NNS do/VBP not/RB have/VB much/JJ food/NN on/IN their/PRP$ table/NN ,/PCT 
+but/CC they/PRP got/VBD a/DT lot/NN of/IN forks/NNS '/POS n/NNP '/POS knives/NNS ,/PCT
+and/CC they/PRP gotta/VBP cut/VBN somethin'/NN ./PCT 
+
+so/RB one/CD mornin/NN '/PCT when/WRB the/DT sun/NN was/VBD warm/JJ ,/PCT 
+i/PRP rambled/VBD out/IN of/IN new/NNP york/NNP town/NN ./PCT 
+pulled/VBN my/PRP$ cap/NN down/RB over/IN my/PRP$ eyes/NNS 
+and/CC headed/VBN out/RP for/IN the/DT western/JJ skies/NNS ./PCT 
+so/RB long/RB ,/PCT new/NNP york/NNP ./PCT 
+howdy/NNP ,/PCT east/NNP orange/NNP ./PCT 
+

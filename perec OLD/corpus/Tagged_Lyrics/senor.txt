@@ -1,0 +1,35 @@
+senor/NNP ,/PCT senor/NN ,/PCT do/VBP you/PRP know/VB where/WRB we/PRP are/VBP headin/VBG '/PCT ?/PCT 
+lincoln/NNP county/NNP road/NNP or/CC armageddon/NNP ?/PCT 
+seems/VBZ like/IN i/PRP been/VBN down/RB this/DT way/NN before/IN ./PCT 
+is/VBZ there/EX any/DT truth/NN in/IN that/DT ,/PCT senor/NN ?/PCT 
+
+senor/NNP ,/PCT senor/NN ,/PCT do/VBP you/PRP know/VB where/WRB she/PRP is/VBZ hidin/VBG '/PCT ?/PCT 
+how/WRB long/RB are/VBP we/PRP gonna/VBP be/VB ridin/VBG '/PCT ?/PCT 
+how/WRB long/JJ must/MD i/PRP keep/VB my/PRP$ eyes/NNS glued/VBN to/TO the/DT door/NN ?/PCT 
+will/MD there/RB be/VB any/DT comfort/NN there/RB ,/PCT senor/NN ?/PCT 
+
+there/EX is/VBZ a/DT wicked/JJ wind/NN still/RB blowin/VBG '/PCT on/IN that/DT upper/JJ deck/NN ,/PCT 
+there/EX is/VBZ an/DT iron/NN cross/NN still/RB hanging/VBG down/RB from/IN around/IN her/PRP$ neck/NN ./PCT 
+there/EX is/VBZ a/DT marchin/NN '/PCT band/NN still/RB playin/VBG '/PCT in/IN that/DT vacant/JJ lot/NN 
+where/WRB she/PRP held/VBD me/PRP in/IN her/PRP$ arms/NNS one/CD time/NN and/CC said/VBD ,/PCT ``/PCT forget/VB me/PRP not/RB ./PCT ''/PCT 
+
+senor/NNP ,/PCT senor/NN ,/PCT i/PRP can/MD see/VB that/IN painted/VBN wagon/NN ,/PCT 
+i/PRP can/MD smell/VB the/DT tail/NN of/IN the/DT dragon/NN ./PCT 
+ca/MD not/RB stand/VB the/DT suspense/NN anymore/RB ./PCT 
+can/MD you/PRP tell/VB me/PRP who/WP to/TO contact/VB here/RB ,/PCT senor/NN ?/PCT 
+
+well/RB ,/PCT the/DT last/JJ thing/NN i/PRP remember/VBP before/IN i/PRP stripped/VBD and/CC kneeled/VBD 
+was/VBD that/IN trainload/NN of/IN fools/NNS bogged/VBD down/RP in/IN a/DT magnetic/JJ field/NN ./PCT 
+a/DT gypsy/NN with/IN a/DT broken/JJ flag/NN and/CC a/DT flashing/VBG ring/NN 
+said/NNP ,/PCT ``/PCT son/NNP ,/PCT this/DT ai/VBP not/RB a/DT dream/NN no/RB more/RBR ,/PCT it/PRP is/VBZ the/DT real/JJ thing/NN ./PCT ''/PCT 
+
+senor/NNP ,/PCT senor/NN ,/PCT you/PRP know/VBP their/PRP$ hearts/NNS is/VBZ as/RB hard/JJ as/IN leather/NN ./PCT 
+well/RB ,/PCT give/VB me/PRP a/DT minute/NN ,/PCT let/VB me/PRP get/VB it/PRP together/RB ./PCT 
+i/PRP just/RB gotta/VBP pick/NN myself/PRP up/RP off/IN the/DT floor/NN ./PCT 
+i/PRP am/VBP ready/JJ when/WRB you/PRP are/VBP ,/PCT senor/VBP ./PCT 
+
+senor/NNP ,/PCT senor/NN ,/PCT let/VB 's/POS disconnect/VB these/DT cables/NNS ,/PCT 
+overturn/VB these/DT tables/NNS ./PCT 
+this/DT place/NN do/VBP not/RB make/VB sense/NN to/TO me/PRP no/DT more/RBR ./PCT 
+can/MD you/PRP tell/VB me/PRP what/WP we/PRP are/VBP waiting/VBG for/IN ,/PCT senor/NN ?/PCT 
+

@@ -1,0 +1,42 @@
+old/NNP man/NN sailin/NN '/PCT in/IN a/DT dinghy/JJ boat/NN 
+down/IN there/EX 
+old/NNP man/NN down/RB is/VBZ baitin/VBG '/PCT a/DT hook/NN 
+on/IN there/EX 
+gonna/NNP pull/VB man/NN down/RB on/IN a/DT suckling/JJ hook/NN 
+gonna/NNP pull/VB man/NN into/IN the/DT suckling/JJ brook/NN 
+oh/UH yeah/NN !/PCT 
+
+now/RB ,/PCT he/PRP is/VBZ underneath/IN that/DT apple/NN suckling/VBG tree/NN 
+oh/UH yeah/NN !/PCT 
+under/IN that/DT apple/NN suckling/VBG tree/NN 
+oh/UH yeah/NN !/PCT 
+that/DT is/VBZ underneath/IN that/DT tree/NN 
+there/EX is/VBZ gonna/NN be/VB just/RB you/PRP and/CC me/PRP 
+underneath/IN that/DT apple/NN suckling/VBG tree/NN 
+oh/UH yeah/NN !/PCT 
+
+i/PRP push/VBP him/PRP back/RB and/CC i/PRP stand/VBP in/IN line/NN 
+oh/UH yeah/NN !/PCT 
+then/RB i/PRP hush/VBP my/PRP$ sadie/NNP and/CC stand/VB in/IN line/NN 
+oh/UH yeah/NN !/PCT 
+then/RB i/PRP hush/VBP my/PRP$ sadie/NNP and/CC stand/VB in/IN line/NN 
+i/PRP get/VBP on/IN board/NN in/IN two-eyed/JJ time/NN 
+oh/UH yeah/NN !/PCT 
+
+under/IN that/DT apple/NN suckling/VBG tree/NN 
+oh/UH yeah/NN !/PCT 
+under/IN that/DT apple/NN suckling/VBG tree/NN 
+oh/UH yeah/NN !/PCT 
+underneath/IN that/DT tree/NN 
+there/EX is/VBZ just/RB gonna/NN be/VB you/PRP and/CC me/PRP 
+underneath/IN that/DT apple/NN suckling/VBG tree/NN 
+oh/UH yeah/NN !/PCT 
+
+now/RB ,/PCT who/WP is/VBZ on/IN the/DT table/NN ./PCT who/WP is/VBZ to/TO tell/VB me/PRP ?/PCT 
+oh/UH yeah/NN !/PCT 
+who/WP is/VBZ on/IN the/DT table/NN ,/PCT who/WP is/VBZ to/TO tell/VB me/PRP ?/PCT 
+oh/UH yeah/NN !/PCT 
+who/WP should/MD i/PRP tell/VB ,/PCT oh/UH ,/PCT who/WP should/MD i/PRP tell/VB ?/PCT 
+the/DT forty-nine/NN of/IN you/PRP like/IN bats/NNS out/IN of/IN hell/NN 
+oh/UH underneath/IN that/DT old/JJ apple/NN suckling/VBG tree/NN 
+

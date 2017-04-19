@@ -1,0 +1,33 @@
+well/RB ,/PCT the/DT lone/NNP ranger/NNP and/CC tonto/NNP 
+they/PRP are/VBP ridin/VBG '/PCT down/IN the/DT line/NN 
+fixin/NNP '/POS ev/NN `/PCT rybody/NN 's/POS troubles/NNS 
+ev/NNP `/PCT rybody/NN 's/POS `/PCT cept/JJ mine/NN 
+somebody/NN musta/NN tol/NN '/PCT 'em/PRP 
+that/DT i/PRP was/VBD doin/VBG '/PCT fine/NN 
+
+oh/UH you/PRP five/CD and/CC ten/VB cent/NN women/NNS 
+with/IN nothin/NN '/PCT in/IN your/PRP$ heads/NNS 
+i/PRP got/VBD a/DT real/JJ gal/NN i/PRP am/VBP lovin/VBG '/PCT 
+and/CC lord/NNP i/PRP 'll/MD love/VB her/PRP$ till/IN i/PRP am/VBP dead/JJ 
+go/VB away/RB from/IN my/PRP$ door/NN and/CC my/PRP$ window/NN too/RB 
+right/RB now/RB 
+
+lord/NNP ,/PCT i/PRP ai/VBP not/RB goin/VB '/PCT down/RP to/TO no/DT race/NN track/NN 
+see/VB no/DT sports/NNS car/NN run/NN 
+i/PRP do/VBP not/RB have/VB no/DT sports/NNS car/NN 
+and/CC i/PRP do/VBP not/RB even/RB care/VB to/TO have/VB one/CD 
+i/PRP can/MD walk/VB anytime/RB around/IN the/DT block/NN 
+
+well/RB ,/PCT the/DT wind/NN keeps/VBZ a-blowin/JJ '/PCT me/PRP 
+up/IN and/CC down/IN the/DT street/NN 
+with/IN my/PRP$ hat/NN in/IN my/PRP$ hand/NN 
+and/CC my/PRP$ boots/NNS on/IN my/PRP$ feet/NNS 
+watch/NNP out/IN so/RB you/PRP do/VBP not/RB step/VB on/IN me/PRP 
+
+well/RB ,/PCT lookit/NN here/RB buddy/NN 
+you/PRP want/VBP to/TO be/VB like/IN me/PRP 
+pull/VB out/RP your/PRP$ six-shooter/NN 
+and/CC rob/NN every/DT bank/NN you/PRP can/MD see/VB 
+tell/VB the/DT judge/NN i/PRP said/VBD it/PRP was/VBD all/RB right/JJ 
+yes/UH !/PCT 
+

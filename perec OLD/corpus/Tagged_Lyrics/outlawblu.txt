@@ -1,0 +1,35 @@
+ai/NNP not/RB it/PRP hard/JJ to/TO stumble/VB 
+and/CC land/NN in/IN some/DT funny/JJ lagoon/NN ?/PCT 
+ai/NNP not/RB it/PRP hard/JJ to/TO stumble/VB 
+and/CC land/NN in/IN some/DT muddy/JJ lagoon/NN ?/PCT 
+especially/RB when/WRB it/PRP is/VBZ nine/CD below/IN zero/CD 
+and/CC three/CD o'clock/RB in/IN the/DT afternoon/NN ./PCT 
+
+ai/NNP not/RB gonna/NNS hang/VBP no/DT picture/NN ,/PCT 
+ai/NNP not/RB gonna/NNS hang/VBP no/DT picture/NN frame/NN ./PCT 
+ai/NNP not/RB gonna/NNS hang/VBP no/DT picture/NN ,/PCT 
+ai/NNP not/RB gonna/NNS hang/VBP no/DT picture/NN frame/NN ./PCT 
+well/RB ,/PCT i/PRP might/MD look/VB like/IN robert/NNP ford/NNP 
+but/CC i/PRP feel/VBP just/RB like/IN a/DT jesse/NNP james/NNP ./PCT 
+
+well/RB ,/PCT i/PRP wish/VBP i/PRP was/VBD on/IN some/DT 
+australian/JJ mountain/NN range/NN ./PCT 
+oh/UH ,/PCT i/PRP wish/VBP i/PRP was/VBD on/IN some/DT 
+australian/JJ mountain/NN range/NN ./PCT 
+i/PRP got/VBD no/DT reason/NN to/TO be/VB there/RB ,/PCT but/CC i/PRP 
+imagine/VB it/PRP would/MD be/VB some/DT kind/NN of/IN change/NN ./PCT 
+
+i/PRP got/VBD my/PRP$ dark/JJ sunglasses/NNS ,/PCT 
+i/PRP got/VBD for/IN good/JJ luck/NN my/PRP$ black/JJ tooth/NN ./PCT 
+i/PRP got/VBD my/PRP$ dark/JJ sunglasses/NNS ,/PCT 
+i/PRP am/VBP carryin/VBG '/PCT for/IN good/JJ luck/NN my/PRP$ black/JJ tooth/NN ./PCT 
+do/VBP not/RB ask/VB me/PRP nothin/NN '/PCT about/IN nothin/NN '/PCT ,/PCT 
+i/PRP just/RB might/MD tell/VB you/PRP the/DT truth/NN ./PCT 
+
+i/PRP got/VBD a/DT woman/NN in/IN jackson/NNP ,/PCT 
+i/PRP ai/VBP not/RB gonna/NNS say/VBP her/PRP$ name/NN ./PCT 
+i/PRP got/VBD a/DT woman/NN in/IN jackson/NNP ,/PCT 
+i/PRP ai/VBP not/RB gonna/NNS say/VBP her/PRP$ name/NN ./PCT 
+she/PRP is/VBZ a/DT brown-skin/JJ woman/NN ,/PCT 
+but/CC i/PRP love/NNP her/PRP$ just/RB the/DT same/JJ ./PCT 
+

@@ -1,0 +1,30 @@
+ev/NNP `/PCT rybody/NN 's/POS building/VBG the/DT big/JJ ships/NNS and/CC the/DT boats/NNS ,/PCT 
+some/DT are/VBP building/VBG monuments/NNS ,/PCT 
+others/NNS ,/PCT jotting/VBG down/RP notes/NNS ,/PCT 
+ev/NNP `/PCT rybody/NN is/VBZ in/IN despair/NN ,/PCT 
+ev/NNP `/PCT ry/JJ girl/NN and/CC boy/NN 
+but/CC when/WRB quinn/NNP the/DT eskimo/NNP gets/VBZ here/RB ,/PCT 
+ev/NNP `/PCT rybody/NN 's/POS gonna/NN jump/NN for/IN joy/NN ./PCT 
+come/VBN all/DT without/IN ,/PCT come/VB all/DT within/IN ,/PCT 
+you/PRP 'll/MD not/RB see/VB nothing/NN like/IN the/DT mighty/JJ quinn/NNP ./PCT 
+
+i/PRP like/VBP to/TO do/VB just/RB like/IN the/DT rest/NN ,/PCT i/PRP like/VBP my/PRP$ sugar/NN sweet/JJ ,/PCT 
+but/CC guarding/VBG fumes/VBZ and/CC making/VBG haste/NN ,/PCT 
+it/PRP ai/VBP not/RB my/PRP$ cup/NN of/IN meat/NN ./PCT 
+ev/NNP `/PCT rybody/NN 's/POS `/PCT neath/IN the/DT trees/NNS ,/PCT 
+feeding/NNP pigeons/NNS on/IN a/DT limb/NN 
+but/CC when/WRB quinn/NNP the/DT eskimo/NNP gets/VBZ here/RB ,/PCT 
+all/PDT the/DT pigeons/NNS gonna/VBP run/VBN to/TO him/PRP ./PCT 
+come/VBN all/DT without/IN ,/PCT come/VB all/DT within/IN ,/PCT 
+you/PRP 'll/MD not/RB see/VB nothing/NN like/IN the/DT mighty/JJ quinn/NNP ./PCT 
+
+a/DT cat/NN 's/POS meow/NN and/CC a/DT cow/NN 's/POS moo/NN ,/PCT i/PRP can/MD recite/VB 'em/PRP all/DT ,/PCT 
+just/RB tell/VB me/PRP where/WRB it/PRP hurts/VBZ yuh/NN ,/PCT honey/NN ,/PCT 
+and/CC i/PRP 'll/MD tell/VB you/PRP who/WP to/TO call/VB ./PCT 
+nobody/NN can/MD get/VB no/DT sleep/NN ,/PCT 
+there/EX is/VBZ someone/NN on/IN ev/NN `/PCT ryone/NN 's/POS toes/NNS 
+but/CC when/WRB quinn/NNP the/DT eskimo/NNP gets/VBZ here/RB ,/PCT 
+ev/NNP `/PCT rybody/NN 's/POS gonna/NN wanna/NN doze/NN ./PCT 
+come/VBN all/DT without/IN ,/PCT come/VB all/DT within/IN ,/PCT 
+you/PRP 'll/MD not/RB see/VB nothing/NN like/IN the/DT mighty/JJ quinn/NNP ./PCT 
+

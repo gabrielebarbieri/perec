@@ -1,0 +1,37 @@
+i/PRP have/VBP just/RB reached/VBN a/DT place/NN 
+where/WRB the/DT willow/NN do/VBP not/RB bend/VB ./PCT 
+there/EX is/VBZ not/RB much/RB more/JJR to/TO be/VB said/VBN 
+it/PRP is/VBZ the/DT top/NN of/IN the/DT end/NN ./PCT 
+i/PRP am/VBP going/VBG ,/PCT 
+i/PRP am/VBP going/VBG ,/PCT 
+i/PRP am/VBP gone/VBN ./PCT 
+
+i/PRP am/VBP closin/VBG '/PCT the/DT book/NN 
+on/IN the/DT pages/NNS and/CC the/DT text/NN 
+and/CC i/PRP do/VBP not/RB really/RB care/VB 
+what/WP happens/VBZ next/JJ ./PCT 
+i/PRP am/VBP just/RB going/VBG ,/PCT 
+i/PRP am/VBP going/VBG ,/PCT 
+i/PRP am/VBP gone/VBN ./PCT 
+
+i/PRP been/VBN hangin/VBG '/PCT on/IN threads/NNS ,/PCT 
+i/PRP been/VBN playin/VBG '/PCT it/PRP straight/RB ,/PCT 
+now/RB ,/PCT i/PRP have/VBP just/RB got/VBN to/TO cut/VB loose/JJ 
+before/IN it/PRP gets/VBZ late/RB ./PCT 
+so/IN i/PRP am/VBP going/VBG ,/PCT 
+i/PRP am/VBP going/VBG ,/PCT 
+i/PRP am/VBP gone/VBN ./PCT 
+
+grandma/NNP said/VBD ,/PCT ``/PCT boy/NNP ,/PCT go/VB and/CC follow/VB your/PRP$ heart/NN 
+and/CC you/PRP 'll/MD be/VB fine/JJ at/IN the/DT end/NN of/IN the/DT line/NN ./PCT 
+all/DT that/DT is/VBZ gold/NN is/VBZ not/RB meant/VBN to/TO shine/VB ./PCT 
+do/VBP not/RB you/PRP and/CC your/PRP$ one/CD true/JJ love/NN ever/RB part/NN ./PCT ''/PCT 
+
+i/PRP been/VBN walkin/VBG '/PCT the/DT road/NN ,/PCT 
+i/PRP been/VBN livin/VBG '/PCT on/IN the/DT edge/NN ,/PCT 
+now/RB ,/PCT i/PRP have/VBP just/RB got/VBN to/TO go/VB 
+before/IN i/PRP get/VBP to/TO the/DT ledge/NN ./PCT 
+so/IN i/PRP am/VBP going/VBG ,/PCT 
+i/PRP am/VBP just/RB going/VBG ,/PCT 
+i/PRP am/VBP gone/VBN ./PCT 
+

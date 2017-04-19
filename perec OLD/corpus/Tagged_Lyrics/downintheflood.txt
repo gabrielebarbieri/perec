@@ -1,0 +1,36 @@
+crash/NNP on/IN the/DT levee/NN ,/PCT mama/NN ,/PCT 
+water/NNP 's/POS gonna/NN overflow/NN ,/PCT 
+swamp/VB 's/POS gonna/NNS rise/VBP ,/PCT 
+no/DT boat/NN 's/POS gonna/NN row/NN ./PCT 
+now/RB ,/PCT you/PRP can/MD train/VB on/IN down/RB 
+to/TO williams/NNP point/NNP ,/PCT 
+you/PRP can/MD bust/NN your/PRP$ feet/NNS ,/PCT 
+you/PRP can/MD rock/VB this/DT joint/NN ./PCT 
+but/CC oh/UH mama/FW ,/PCT ai/VBP not/RB you/PRP gonna/VBP miss/VB your/PRP$ best/JJS friend/NN now/RB ?/PCT 
+you/PRP are/VBP gonna/NNS have/VBP to/TO find/VB yourself/PRP 
+another/DT best/JJS friend/NN ,/PCT somehow/RB ./PCT 
+
+now/RB ,/PCT do/VBP not/RB you/PRP try/VBP an/DT '/PCT move/VB me/PRP ,/PCT 
+you/PRP are/VBP just/RB gonna/NNS lose/VBP ./PCT 
+there/EX is/VBZ a/DT crash/NN on/IN the/DT levee/NN 
+and/CC ,/PCT mama/NN ,/PCT you/PRP have/VBP been/VBN refused/VBN ./PCT 
+well/RB ,/PCT it/PRP is/VBZ sugar/NN for/IN sugar/NN 
+and/CC salt/NN for/IN salt/NN ,/PCT 
+if/IN you/PRP go/VBP down/RB in/IN the/DT flood/NN ,/PCT 
+it/PRP is/VBZ gonna/NN be/VB your/PRP$ own/JJ fault/NN ./PCT 
+oh/UH mama/FW ,/PCT ai/VBP not/RB you/PRP gonna/VBP miss/VB your/PRP$ best/JJS friend/NN now/RB ?/PCT 
+you/PRP are/VBP gonna/NNS have/VBP to/TO find/VB yourself/PRP 
+another/DT best/JJS friend/NN ,/PCT somehow/RB ./PCT 
+
+well/RB ,/PCT that/DT high/JJ tide/NN 's/POS risin/NN '/PCT ,/PCT 
+mama/NNP ,/PCT do/VBP not/RB you/PRP let/VB me/PRP down/RP ./PCT 
+pack/NN up/IN your/PRP$ suitcase/NN ,/PCT 
+mama/NNP ,/PCT do/VBP not/RB you/PRP make/VBP a/DT sound/NN ./PCT 
+now/RB ,/PCT it/PRP is/VBZ king/NN for/IN king/NN ,/PCT 
+queen/NNP for/IN queen/NN ,/PCT 
+it/PRP is/VBZ gonna/NN be/VB the/DT meanest/JJS flood/NN 
+that/DT anybody/NN 's/POS seen/VBN ./PCT 
+oh/UH mama/FW ,/PCT ai/VBP not/RB you/PRP gonna/VBP miss/VB your/PRP$ best/JJS friend/NN now/RB ?/PCT 
+yes/UH ,/PCT you/PRP are/VBP gonna/NNS have/VBP to/TO find/VB yourself/PRP 
+another/DT best/JJS friend/NN ,/PCT somehow/RB ./PCT 
+

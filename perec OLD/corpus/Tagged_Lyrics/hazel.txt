@@ -1,0 +1,20 @@
+hazel/NNP ,/PCT dirty-blonde/JJ hair/NN 
+i/PRP would/MD not/RB be/VB ashamed/JJ to/TO be/VB seen/VBN with/IN you/PRP anywhere/RB ./PCT 
+you/PRP got/VBD something/NN i/PRP want/VBP plenty/NN of/IN 
+ooh/NNP ,/PCT a/DT little/JJ touch/NN of/IN your/PRP$ love/NN ./PCT 
+
+hazel/NNP ,/PCT stardust/NN in/IN your/PRP$ eye/NN 
+you/PRP are/VBP goin/VBG '/PCT somewhere/RB and/CC so/RB am/VBP i./NN 
+i/PRP 'd/MD give/VB you/PRP the/DT sky/NN high/JJ above/IN 
+ooh/NNP ,/PCT for/IN a/DT little/JJ touch/NN of/IN your/PRP$ love/NN ./PCT 
+
+oh/UH no/DT ,/PCT i/PRP do/VBP not/RB need/VB any/DT reminder/NN 
+to/TO know/VB how/WRB much/JJ i/PRP really/RB care/VBP 
+but/CC it/PRP is/VBZ just/RB making/VBG me/PRP blinder/VB and/CC blinder/VB 
+because/IN i/PRP am/VBP up/RP on/IN a/DT hill/NN and/CC still/RB you/PRP are/VBP not/RB there/RB ./PCT 
+
+hazel/NNP ,/PCT you/PRP called/VBD and/CC i/PRP came/VBD ,/PCT 
+now/RB do/VBP not/RB make/VB me/PRP play/VB this/DT waiting/VBG game/NN ./PCT 
+you/PRP have/VBP got/VBD something/NN i/PRP want/VBP plenty/NN of/IN 
+ooh/NNP ,/PCT a/DT little/JJ touch/NN of/IN your/PRP$ love/NN ./PCT 
+

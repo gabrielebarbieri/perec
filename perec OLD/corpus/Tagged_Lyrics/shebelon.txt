@@ -1,0 +1,35 @@
+she/PRP is/VBZ got/VBD everything/NN she/PRP needs/VBZ ,/PCT 
+she/PRP is/VBZ an/DT artist/NN ,/PCT she/PRP do/VBP not/RB look/VB back/RB ./PCT 
+she/PRP is/VBZ got/VBD everything/NN she/PRP needs/VBZ ,/PCT 
+she/PRP is/VBZ an/DT artist/NN ,/PCT she/PRP do/VBP not/RB look/VB back/RB ./PCT 
+she/PRP can/MD take/VB the/DT dark/JJ out/IN of/IN the/DT nighttime/NN 
+and/CC paint/VB the/DT daytime/JJ black/JJ ./PCT 
+
+you/PRP will/MD start/VB out/RP standing/NN 
+proud/JJ to/TO steal/VB her/PRP$ anything/NN she/PRP sees/VBZ ./PCT 
+you/PRP will/MD start/VB out/RP standing/NN 
+proud/JJ to/TO steal/VB her/PRP$ anything/NN she/PRP sees/VBZ ./PCT 
+but/CC you/PRP will/MD wind/VB up/RP peeking/VBG through/IN her/PRP$ keyhole/NN 
+down/IN upon/IN your/PRP$ knees/NNS ./PCT 
+
+she/PRP never/RB stumbles/VBZ ,/PCT 
+she/PRP is/VBZ got/VBN no/DT place/NN to/TO fall/VB ./PCT 
+she/PRP never/RB stumbles/VBZ ,/PCT 
+she/PRP is/VBZ got/VBN no/DT place/NN to/TO fall/VB ./PCT 
+she/PRP is/VBZ nobody/NN 's/POS child/NN ,/PCT 
+the/DT law/NN ca/MD not/RB touch/VB her/PRP$ at/IN all/DT ./PCT 
+
+she/PRP wears/VBZ an/DT egyptian/JJ ring/NN 
+that/DT sparkles/VBZ before/IN she/PRP speaks/VBZ ./PCT 
+she/PRP wears/VBZ an/DT egyptian/JJ ring/NN 
+that/DT sparkles/VBZ before/IN she/PRP speaks/VBZ ./PCT 
+she/PRP is/VBZ a/DT hypnotist/NN collector/NN ,/PCT 
+you/PRP are/VBP a/DT walking/VBG antique/NN ./PCT 
+
+bow/VB down/RP to/TO her/PRP$ on/IN sunday/NNP ,/PCT 
+salute/VB her/PRP$ when/WRB her/PRP$ birthday/NN comes/VBZ ./PCT 
+bow/VB down/RP to/TO her/PRP$ on/IN sunday/NNP ,/PCT 
+salute/VB her/PRP$ when/WRB her/PRP$ birthday/NN comes/VBZ ./PCT 
+for/IN halloween/NNP give/VB her/PRP a/DT trumpet/NN 
+and/CC for/IN christmas/NNP ,/PCT buy/VB her/PRP a/DT drum/VBP ./PCT 
+

@@ -1,0 +1,63 @@
+{"tags": [{"word": "well", "POS": "RB"}, {"word": "you", "POS": "PRP"}, {"word": "can", "POS": "MD"}, {"word": "tell", "POS": "VB"}, {"word": "ev", "POS": "FW"}, {"word": "`", "POS": "PCT"}, {"word": "rybody", "POS": "NN"}], "sentence": "well you can tell ev ` rybody"}
+{"tags": [{"word": "down", "POS": "IN"}, {"word": "in", "POS": "IN"}, {"word": "ol'", "POS": "NNP"}, {"word": "frisco", "POS": "NNP"}], "sentence": "down in ol' frisco"}
+{"tags": [{"word": "tell", "POS": "VB"}, {"word": "'em", "POS": "PRP"}], "sentence": "tell 'em"}
+{"tags": [{"word": "tiny", "POS": "NNP"}, {"word": "montgomery", "POS": "NNP"}, {"word": "says", "POS": "VBZ"}, {"word": "hello", "POS": "UH"}], "sentence": "tiny montgomery says hello"}
+
+{"tags": [{"word": "now", "POS": "RB"}, {"word": "ev", "POS": "VB"}, {"word": "`", "POS": "PCT"}, {"word": "ry", "POS": "JJ"}, {"word": "boy", "POS": "NN"}, {"word": "and", "POS": "CC"}, {"word": "girl", "POS": "NN"}, {"word": "'s", "POS": "POS"}], "sentence": "now ev ` ry boy and girl 's"}
+{"tags": [{"word": "gonna", "POS": "NNP"}, {"word": "get", "POS": "VB"}, {"word": "their", "POS": "PRP$"}, {"word": "bang", "POS": "NN"}], "sentence": "gonna get their bang"}
+{"tags": [{"word": "'cause", "POS": "NNP"}, {"word": "tiny", "POS": "NNP"}, {"word": "montgomery", "POS": "NNP"}, {"word": "'s", "POS": "POS"}], "sentence": "'cause tiny montgomery 's"}
+{"tags": [{"word": "gonna", "POS": "NNP"}, {"word": "shake", "POS": "NN"}, {"word": "that", "POS": "WDT"}, {"word": "thing", "POS": "NN"}], "sentence": "gonna shake that thing"}
+{"tags": [{"word": "tell", "POS": "VB"}, {"word": "ev", "POS": "FW"}, {"word": "`", "POS": "PCT"}, {"word": "rybody", "POS": "NN"}], "sentence": "tell ev ` rybody"}
+{"tags": [{"word": "down", "POS": "IN"}, {"word": "in", "POS": "IN"}, {"word": "ol'", "POS": "NNP"}, {"word": "frisco", "POS": "NNP"}], "sentence": "down in ol' frisco"}
+{"tags": [{"word": "that", "POS": "DT"}, {"word": "tiny", "POS": "NNP"}, {"word": "montgomery", "POS": "NNP"}, {"word": "'s", "POS": "POS"}, {"word": "comin", "POS": "NN"}, {"word": "'", "POS": "PCT"}], "sentence": "that tiny montgomery 's comin '"}
+{"tags": [{"word": "down", "POS": "IN"}, {"word": "to", "POS": "TO"}, {"word": "say", "POS": "VB"}, {"word": "hello", "POS": "UH"}], "sentence": "down to say hello"}
+
+{"tags": [{"word": "skinny", "POS": "NNP"}, {"word": "moo", "POS": "NNP"}, {"word": "and", "POS": "CC"}], "sentence": "skinny moo and"}
+{"tags": [{"word": "half-track", "POS": "JJ"}, {"word": "frank", "POS": "NNP"}], "sentence": "half-track frank"}
+{"tags": [{"word": "they", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "gonna", "POS": "NNS"}, {"word": "both", "POS": "DT"}, {"word": "be", "POS": "VB"}, {"word": "gettin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}], "sentence": "they are gonna both be gettin '"}
+{"tags": [{"word": "outa", "POS": "NNP"}, {"word": "the", "POS": "DT"}, {"word": "tank", "POS": "NN"}], "sentence": "outa the tank"}
+{"tags": [{"word": "one", "POS": "CD"}, {"word": "bird", "POS": "NN"}, {"word": "book", "POS": "NN"}], "sentence": "one bird book"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "a", "POS": "DT"}, {"word": "buzzard", "POS": "NN"}, {"word": "and", "POS": "CC"}, {"word": "a", "POS": "DT"}, {"word": "crow", "POS": "NN"}], "sentence": "and a buzzard and a crow"}
+{"tags": [{"word": "tell", "POS": "VB"}, {"word": "'em", "POS": "PRP"}, {"word": "all", "POS": "DT"}], "sentence": "tell 'em all"}
+{"tags": [{"word": "that", "POS": "DT"}, {"word": "tiny", "POS": "NNP"}, {"word": "'s", "POS": "POS"}, {"word": "gonna", "POS": "NNS"}, {"word": "say", "POS": "VBP"}, {"word": "hello", "POS": "UH"}], "sentence": "that tiny 's gonna say hello"}
+
+{"tags": [{"word": "scratch", "POS": "NN"}, {"word": "your", "POS": "PRP$"}, {"word": "dad", "POS": "NN"}], "sentence": "scratch your dad"}
+{"tags": [{"word": "do", "POS": "VBP"}, {"word": "that", "POS": "IN"}, {"word": "bird", "POS": "NN"}], "sentence": "do that bird"}
+{"tags": [{"word": "suck", "POS": "NNP"}, {"word": "that", "POS": "IN"}, {"word": "pig", "POS": "NN"}], "sentence": "suck that pig"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "bring", "POS": "VB"}, {"word": "it", "POS": "PRP"}, {"word": "on", "POS": "IN"}, {"word": "home", "POS": "NN"}], "sentence": "and bring it on home"}
+{"tags": [{"word": "pick", "POS": "VB"}, {"word": "that", "POS": "DT"}, {"word": "drip", "POS": "NN"}], "sentence": "pick that drip"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "bake", "POS": "VB"}, {"word": "that", "POS": "DT"}, {"word": "dough", "POS": "NN"}], "sentence": "and bake that dough"}
+{"tags": [{"word": "tell", "POS": "VB"}, {"word": "'em", "POS": "PRP"}, {"word": "all", "POS": "DT"}], "sentence": "tell 'em all"}
+{"tags": [{"word": "that", "POS": "DT"}, {"word": "tiny", "POS": "NNP"}, {"word": "says", "POS": "VBZ"}, {"word": "hello", "POS": "UH"}], "sentence": "that tiny says hello"}
+
+{"tags": [{"word": "now", "POS": "RB"}, {"word": "he", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "king", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "drunks", "POS": "NNS"}], "sentence": "now he is king of the drunks"}
+{"tags": [{"word": "an", "POS": "DT"}, {"word": "'", "POS": "PCT"}, {"word": "he", "POS": "PRP"}, {"word": "squeezes", "POS": "VBZ"}, {"word": ",", "POS": "PCT"}, {"word": "too", "POS": "RB"}], "sentence": "an ' he squeezes , too"}
+{"tags": [{"word": "watch", "POS": "NNP"}, {"word": "out", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "lester", "POS": "NNP"}], "sentence": "watch out , lester"}
+{"tags": [{"word": "take", "POS": "VB"}, {"word": "it", "POS": "PRP"}, {"word": ",", "POS": "PCT"}, {"word": "lou", "POS": "NNP"}], "sentence": "take it , lou"}
+{"tags": [{"word": "join", "POS": "VB"}, {"word": "the", "POS": "DT"}, {"word": "monks", "POS": "NNS"}], "sentence": "join the monks"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "c.i.o.", "POS": "NNP"}], "sentence": "the c.i.o."}
+{"tags": [{"word": "tell", "POS": "VB"}, {"word": "'em", "POS": "PRP"}, {"word": "all", "POS": "DT"}], "sentence": "tell 'em all"}
+{"tags": [{"word": "that", "POS": "DT"}, {"word": "tiny", "POS": "NNP"}, {"word": "montgomery", "POS": "NNP"}, {"word": "says", "POS": "VBZ"}, {"word": "hello", "POS": "UH"}], "sentence": "that tiny montgomery says hello"}
+
+{"tags": [{"word": "now", "POS": "RB"}, {"word": "grease", "POS": "NN"}, {"word": "that", "POS": "WDT"}, {"word": "pig", "POS": "NN"}], "sentence": "now grease that pig"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "sing", "POS": "VB"}, {"word": "praise", "POS": "NN"}], "sentence": "and sing praise"}
+{"tags": [{"word": "go", "POS": "VB"}, {"word": "on", "POS": "IN"}, {"word": "out", "POS": "IN"}], "sentence": "go on out"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "gas", "POS": "NN"}, {"word": "that", "POS": "WDT"}, {"word": "dog", "POS": "NN"}], "sentence": "and gas that dog"}
+{"tags": [{"word": "trick", "POS": "NN"}, {"word": "on", "POS": "IN"}, {"word": "in", "POS": "IN"}], "sentence": "trick on in"}
+{"tags": [{"word": "honk", "POS": "NNP"}, {"word": "that", "POS": "IN"}, {"word": "stink", "POS": "VBP"}], "sentence": "honk that stink"}
+{"tags": [{"word": "take", "POS": "VB"}, {"word": "it", "POS": "PRP"}, {"word": "on", "POS": "IN"}, {"word": "down", "POS": "RB"}], "sentence": "take it on down"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "watch", "POS": "VB"}, {"word": "it", "POS": "PRP"}, {"word": "grow", "POS": "VB"}], "sentence": "and watch it grow"}
+{"tags": [{"word": "play", "POS": "NNP"}, {"word": "it", "POS": "PRP"}, {"word": "low", "POS": "JJ"}], "sentence": "play it low"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "pick", "POS": "VB"}, {"word": "it", "POS": "PRP"}, {"word": "up", "POS": "RP"}], "sentence": "and pick it up"}
+{"tags": [{"word": "take", "POS": "VB"}, {"word": "it", "POS": "PRP"}, {"word": "on", "POS": "IN"}, {"word": "in", "POS": "IN"}], "sentence": "take it on in"}
+{"tags": [{"word": "in", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "plucking", "POS": "VBG"}, {"word": "cup", "POS": "NN"}], "sentence": "in a plucking cup"}
+{"tags": [{"word": "three-legged", "POS": "JJ"}, {"word": "man", "POS": "NN"}], "sentence": "three-legged man"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "a", "POS": "DT"}, {"word": "hot-lipped", "POS": "JJ"}, {"word": "hoe", "POS": "NN"}], "sentence": "and a hot-lipped hoe"}
+{"tags": [{"word": "tell", "POS": "VB"}, {"word": "'em", "POS": "PRP"}, {"word": "all", "POS": "DT"}], "sentence": "tell 'em all"}
+{"tags": [{"word": "montgomery", "POS": "NNP"}, {"word": "says", "POS": "VBZ"}, {"word": "hello", "POS": "UH"}], "sentence": "montgomery says hello"}
+
+{"tags": [{"word": "well", "POS": "RB"}, {"word": "you", "POS": "PRP"}, {"word": "can", "POS": "MD"}, {"word": "tell", "POS": "VB"}, {"word": "ev", "POS": "FW"}, {"word": "`", "POS": "PCT"}, {"word": "rybody", "POS": "NN"}], "sentence": "well you can tell ev ` rybody"}
+{"tags": [{"word": "down", "POS": "IN"}, {"word": "in", "POS": "IN"}, {"word": "ol'", "POS": "NNP"}, {"word": "frisco", "POS": "NNP"}], "sentence": "down in ol' frisco"}
+{"tags": [{"word": "tell", "POS": "VB"}, {"word": "'em", "POS": "PRP"}, {"word": "all", "POS": "DT"}], "sentence": "tell 'em all"}
+{"tags": [{"word": "montgomery", "POS": "NNP"}, {"word": "says", "POS": "VBZ"}, {"word": "hello", "POS": "UH"}], "sentence": "montgomery says hello"}
+

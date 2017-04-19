@@ -1,0 +1,57 @@
+hey/NNP !/PCT mr./NNP tambourine/NNP man/NNP ,/PCT play/VB a/DT song/NN for/IN me/PRP ,/PCT 
+i/PRP am/VBP not/RB sleepy/JJ and/CC there/EX is/VBZ no/DT place/NN i/PRP am/VBP going/VBG to/TO ./PCT 
+hey/NNP !/PCT mr./NNP tambourine/NNP man/NNP ,/PCT play/VB a/DT song/NN for/IN me/PRP ,/PCT 
+in/IN the/DT jingle/NN jangle/NN morning/NN i/PRP 'll/MD come/VB followin/NN '/PCT you/PRP ./PCT 
+
+though/IN i/PRP know/VBP that/IN evenin/NN 's/POS empire/NN has/VBZ returned/VBN into/IN sand/NN ,/PCT 
+vanished/VBN from/IN my/PRP$ hand/NN ,/PCT 
+left/VBN me/PRP blindly/RB here/RB to/TO stand/VB but/CC still/RB not/RB sleeping/VBG ./PCT 
+my/PRP$ weariness/NN amazes/VBZ me/PRP ,/PCT i/PRP am/VBP branded/VBN on/IN my/PRP$ feet/NNS ,/PCT 
+i/PRP have/VBP no/DT one/NN to/TO meet/VB 
+and/CC the/DT ancient/JJ empty/JJ street/NN 's/POS too/RB dead/JJ for/IN dreaming/VBG ./PCT 
+
+hey/NNP !/PCT mr./NNP tambourine/NNP man/NNP ,/PCT play/VB a/DT song/NN for/IN me/PRP ,/PCT 
+i/PRP am/VBP not/RB sleepy/JJ and/CC there/EX is/VBZ no/DT place/NN i/PRP am/VBP going/VBG to/TO ./PCT 
+hey/NNP !/PCT mr./NNP tambourine/NNP man/NNP ,/PCT play/VB a/DT song/NN for/IN me/PRP ,/PCT 
+in/IN the/DT jingle/NN jangle/NN morning/NN i/PRP 'll/MD come/VB followin/NN '/PCT you/PRP ./PCT 
+
+take/VB me/PRP on/IN a/DT trip/NN upon/IN your/PRP$ magic/JJ swirlin/NN '/PCT ship/NN ,/PCT 
+my/PRP$ senses/NNS have/VBP been/VBN stripped/VBN ,/PCT my/PRP$ hands/NNS ca/MD not/RB feel/VB to/TO grip/NN ,/PCT 
+my/PRP$ toes/NNS too/RB numb/JJ to/TO step/VB ,/PCT wait/VB only/RB for/IN my/PRP$ boot/NN heels/NNS 
+to/TO be/VB wanderin/VBG '/PCT ./PCT 
+i/PRP am/VBP ready/JJ to/TO go/VB anywhere/RB ,/PCT i/PRP am/VBP ready/JJ for/IN to/TO fade/VB 
+into/NNP my/PRP$ own/JJ parade/NN ,/PCT cast/VBD your/PRP$ dancing/NN spell/NN my/PRP$ way/NN ,/PCT 
+i/PRP promise/VBP to/TO go/VB under/IN it/PRP ./PCT 
+
+hey/NNP !/PCT mr./NNP tambourine/NNP man/NNP ,/PCT play/VB a/DT song/NN for/IN me/PRP ,/PCT 
+i/PRP am/VBP not/RB sleepy/JJ and/CC there/EX is/VBZ no/DT place/NN i/PRP am/VBP going/VBG to/TO ./PCT 
+hey/NNP !/PCT mr./NNP tambourine/NNP man/NNP ,/PCT play/VB a/DT song/NN for/IN me/PRP ,/PCT 
+in/IN the/DT jingle/NN jangle/NN morning/NN i/PRP 'll/MD come/VB followin/NN '/PCT you/PRP ./PCT 
+
+though/IN you/PRP might/MD hear/VB laughin/NN '/PCT ,/PCT spinnin/VBG '/PCT ,/PCT swingin/VBG '/PCT madly/RB across/IN the/DT sun/NN ,/PCT 
+it/PRP is/VBZ not/RB aimed/VBN at/IN anyone/NN ,/PCT it/PRP is/VBZ just/RB escapin/VBG '/PCT on/IN the/DT run/NN 
+and/CC but/CC for/IN the/DT sky/NN there/EX are/VBP no/DT fences/NNS facin/VBP '/PCT ./PCT 
+and/CC if/IN you/PRP hear/VBP vague/JJ traces/NNS of/IN skippin/NN '/PCT reels/NNS of/IN rhyme/NN 
+to/TO your/PRP$ tambourine/NN in/IN time/NN ,/PCT it/PRP is/VBZ just/RB a/DT ragged/JJ clown/NN behind/IN ,/PCT 
+i/PRP would/MD not/RB pay/VB it/PRP any/DT mind/NN ,/PCT it/PRP is/VBZ just/RB a/DT shadow/NN you/PRP `/PCT re/VB 
+seein/NNP '/POS that/IN he/PRP is/VBZ chasing/VBG ./PCT 
+
+hey/NNP !/PCT mr./NNP tambourine/NNP man/NNP ,/PCT play/VB a/DT song/NN for/IN me/PRP ,/PCT 
+i/PRP am/VBP not/RB sleepy/JJ and/CC there/EX is/VBZ no/DT place/NN i/PRP am/VBP going/VBG to/TO ./PCT 
+hey/NNP !/PCT mr./NNP tambourine/NNP man/NNP ,/PCT play/VB a/DT song/NN for/IN me/PRP ,/PCT 
+in/IN the/DT jingle/NN jangle/NN morning/NN i/PRP 'll/MD come/VB followin/NN '/PCT you/PRP ./PCT 
+
+then/RB take/VB me/PRP disappearin/VBG '/PCT through/IN the/DT smoke/NN rings/NNS of/IN my/PRP$ mind/NN ,/PCT 
+down/IN the/DT foggy/JJ ruins/NNS of/IN time/NN ,/PCT far/RB past/IN the/DT frozen/JJ leaves/NNS ,/PCT 
+the/DT haunted/VBN ,/PCT frightened/JJ trees/NNS ,/PCT out/IN to/TO the/DT windy/NN beach/NN ,/PCT 
+far/RB from/IN the/DT twisted/JJ reach/NN of/IN crazy/JJ sorrow/NN ./PCT 
+yes/UH ,/PCT to/TO dance/VB beneath/IN the/DT diamond/NN sky/NN with/IN one/CD hand/NN waving/VBG free/JJ ,/PCT 
+silhouetted/VBN by/IN the/DT sea/NN ,/PCT circled/VBN by/IN the/DT circus/NN sands/NNS ,/PCT 
+with/IN all/DT memory/NN and/CC fate/NN driven/VBN deep/JJ beneath/IN the/DT waves/NNS ,/PCT 
+let/VB me/PRP forget/VB about/IN today/NN until/IN tomorrow/NN ./PCT 
+
+hey/NNP !/PCT mr./NNP tambourine/NNP man/NNP ,/PCT play/VB a/DT song/NN for/IN me/PRP ,/PCT 
+i/PRP am/VBP not/RB sleepy/JJ and/CC there/EX is/VBZ no/DT place/NN i/PRP am/VBP going/VBG to/TO ./PCT 
+hey/NNP !/PCT mr./NNP tambourine/NNP man/NNP ,/PCT play/VB a/DT song/NN for/IN me/PRP ,/PCT 
+in/IN the/DT jingle/NN jangle/NN morning/NN i/PRP 'll/MD come/VB followin/NN '/PCT you/PRP ./PCT 
+

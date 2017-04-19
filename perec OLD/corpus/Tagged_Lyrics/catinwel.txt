@@ -1,0 +1,29 @@
+the/DT cat/NN 's/POS in/IN the/DT well/RB ,/PCT the/DT wolf/NN is/VBZ looking/VBG down/RP ./PCT 
+the/DT cat/NN 's/POS in/IN the/DT well/RB ,/PCT the/DT wolf/NN is/VBZ looking/VBG down/RP ./PCT 
+he/PRP got/VBD his/PRP$ big/JJ bushy/JJ tail/NN dragging/VBG all/DT over/IN the/DT ground/NN ./PCT 
+
+the/DT cat/NN 's/POS in/IN the/DT well/RB ,/PCT the/DT gentle/JJ lady/NN is/VBZ asleep/JJ ./PCT 
+cat/NN 's/POS in/IN the/DT well/RB ,/PCT the/DT gentle/JJ lady/NN is/VBZ asleep/JJ ./PCT 
+she/PRP ai/VBP not/RB hearing/VBG a/DT thing/NN ,/PCT the/DT silence/NN is/VBZ a-stickin/VBG '/PCT her/PRP$ deep/JJ ./PCT 
+
+the/DT cat/NN 's/POS in/IN the/DT well/NN and/CC grief/NN is/VBZ showing/VBG its/PRP$ face/NN 
+the/DT world/NN 's/POS being/VBG slaughtered/VBN and/CC it/PRP is/VBZ such/JJ a/DT bloody/JJ disgrace/NN ./PCT 
+
+the/DT cat/NN 's/POS in/IN the/DT well/RB ,/PCT the/DT horse/NN is/VBZ going/VBG bumpety/NN bump/NN ./PCT 
+the/DT cat/NN 's/POS in/IN the/DT well/RB ,/PCT and/CC the/DT horse/NN is/VBZ going/VBG bumpety/NN bump/NN ./PCT 
+back/RB alley/NN sally/NNP is/VBZ doing/VBG the/DT american/JJ jump/NN ./PCT 
+
+the/DT cat/NN 's/POS in/IN the/DT well/RB ,/PCT and/CC pappa/NN is/VBZ reading/VBG the/DT news/NN ./PCT 
+his/PRP$ hairs/NNS falling/VBG out/RP and/CC all/DT of/IN his/PRP$ daughters/NNS need/VBP shoes/NNS ./PCT
+
+the/DT cat/NN 's/POS in/IN the/DT well/NN and/CC the/DT barn/NN is/VBZ full/JJ of/IN bull/NN 
+the/DT cat/NN 's/POS in/IN the/DT well/NN and/CC the/DT barn/NN is/VBZ full/JJ of/IN bull/NN 
+the/DT night/NN is/VBZ so/RB long/JJ and/CC the/DT table/NN is/VBZ oh/UH ,/PCT so/RB full/JJ 
+
+the/DT cat/NN 's/POS in/IN the/DT well/NN and/CC the/DT servant/NN is/VBZ at/IN the/DT door/NN ./PCT 
+the/DT drinks/NNS are/VBP ready/JJ and/CC the/DT dogs/NNS are/VBP going/VBG to/TO war/NN ./PCT 
+
+the/DT cat/NN 's/POS in/IN the/DT well/RB ,/PCT the/DT leaves/NNS are/VBP starting/VBG to/TO fall/VB 
+the/DT cat/NN 's/POS in/IN the/DT well/RB ,/PCT leaves/NNS are/VBP starting/VBG to/TO fall/VB 
+goodnight/NNP ,/PCT my/PRP$ love/NN ,/PCT may/MD the/DT lord/NN have/VBP mercy/NN on/IN us/PRP all/DT ./PCT 
+

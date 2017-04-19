@@ -1,0 +1,57 @@
+a/DT bullet/NN from/IN the/DT back/NN of/IN a/DT bush/JJ took/VBD medgar/NNP evers/NNP '/POS blood/NN ./PCT 
+a/DT finger/NN fired/VBD the/DT trigger/NN to/TO his/PRP$ name/NN ./PCT 
+a/DT handle/VBP hid/VBN out/RP in/IN the/DT dark/NN 
+a/DT hand/NN set/VBD the/DT spark/VB 
+two/CD eyes/NNS took/VBD the/DT aim/NN 
+behind/IN a/DT man/NN 's/POS brain/NN 
+but/CC he/PRP ca/MD not/RB be/VB blamed/VBN 
+he/PRP is/VBZ only/RB a/DT pawn/NN in/IN their/PRP$ game/NN ./PCT 
+
+a/DT south/NNP politician/NN preaches/VBZ to/TO the/DT poor/JJ white/JJ man/NN ,/PCT 
+``/PCT you/PRP got/VBD more/JJR than/IN the/DT blacks/NNS ,/PCT do/VBP not/RB complain/VB ./PCT 
+you/PRP are/VBP better/JJR than/IN them/PRP ,/PCT you/PRP been/VBN born/VBN with/IN white/JJ skin/NN ,/PCT ''/PCT they/PRP explain/VBP ./PCT 
+and/CC the/DT negro/NNP 's/POS name/NN 
+is/VBZ used/VBN it/PRP is/VBZ plain/JJ 
+for/IN the/DT politician/NN 's/POS gain/NN 
+as/IN he/PRP rises/VBZ to/TO fame/NN 
+and/CC the/DT poor/JJ white/JJ remains/NNS 
+on/IN the/DT caboose/NN of/IN the/DT train/NN 
+but/CC it/PRP ai/VBP not/RB him/PRP to/TO blame/VB 
+he/PRP is/VBZ only/RB a/DT pawn/NN in/IN their/PRP$ game/NN ./PCT 
+
+the/DT deputy/NN sheriffs/NNS ,/PCT the/DT soldiers/NNS ,/PCT the/DT governors/NNS get/VBP paid/VBN ,/PCT 
+and/CC the/DT marshals/NNS and/CC cops/NNS get/VBP the/DT same/JJ ,/PCT 
+but/CC the/DT poor/JJ white/JJ man/NN 's/POS used/VBN in/IN the/DT hands/NNS of/IN them/PRP all/DT like/IN a/DT tool/NN ./PCT 
+he/PRP is/VBZ taught/VBN in/IN his/PRP$ school/NN 
+from/IN the/DT start/NN by/IN the/DT rule/NN 
+that/IN the/DT laws/NNS are/VBP with/IN him/PRP 
+to/TO protect/VB his/PRP$ white/JJ skin/NN 
+to/TO keep/VB up/RP his/PRP$ hate/NN 
+so/IN he/PRP never/RB thinks/VBZ straight/JJ 
+`/PCT bout/NN the/DT shape/NN that/IN he/PRP is/VBZ in/IN 
+but/CC it/PRP ai/VBP not/RB him/PRP to/TO blame/VB 
+he/PRP is/VBZ only/RB a/DT pawn/NN in/IN their/PRP$ game/NN ./PCT 
+
+from/IN the/DT poverty/NN shacks/NNS ,/PCT he/PRP looks/VBZ from/IN the/DT cracks/NNS to/TO the/DT tracks/NNS ,/PCT 
+and/CC the/DT hoof/JJ beats/NNS pound/NN in/IN his/PRP$ brain/NN ./PCT 
+and/CC he/PRP is/VBZ taught/VBN how/WRB to/TO walk/VB in/IN a/DT pack/NN 
+shoot/VB in/IN the/DT back/NN 
+with/IN his/PRP$ fist/NN in/IN a/DT clinch/NN 
+to/TO hang/VB and/CC to/TO lynch/VB 
+to/TO hide/VB `/PCT neath/IN the/DT hood/NN 
+to/TO kill/VB with/IN no/DT pain/NN 
+like/IN a/DT dog/NN on/IN a/DT chain/NN 
+he/PRP ai/VBP not/RB got/VBD no/DT name/NN 
+but/CC it/PRP ai/VBP not/RB him/PRP to/TO blame/VB 
+he/PRP is/VBZ only/RB a/DT pawn/NN in/IN their/PRP$ game/NN ./PCT 
+
+today/NN ,/PCT medgar/NNP evers/NNP was/VBD buried/VBN from/IN the/DT bullet/NN he/PRP caught/VBD ./PCT 
+they/PRP lowered/VBD him/PRP down/RP as/IN a/DT king/NN ./PCT 
+but/CC when/WRB the/DT shadowy/JJ sun/NN sets/NNS on/IN the/DT one/CD 
+that/DT fired/VBD the/DT gun/NN 
+he/PRP 'll/MD see/VB by/IN his/PRP$ grave/NN 
+on/IN the/DT stone/NN that/WDT remains/VBZ 
+carved/VBN next/JJ to/TO his/PRP$ name/NN 
+his/PRP$ epitaph/NN plain/NN :/PCT 
+only/RB a/DT pawn/NN in/IN their/PRP$ game/NN ./PCT 
+

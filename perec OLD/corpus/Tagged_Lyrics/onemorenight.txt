@@ -1,0 +1,28 @@
+one/CD more/JJR night/NN ,/PCT the/DT stars/NNS are/VBP in/IN sight/NN 
+but/CC tonight/NN i/PRP am/VBP as/IN lonesome/JJ as/IN can/MD be/VB ./PCT 
+oh/UH ,/PCT the/DT moon/NN is/VBZ shinin/VBG '/PCT bright/JJ ,/PCT 
+lighting/NNP ev/NNP `/PCT rything/NN in/IN sight/NN ,/PCT 
+but/CC tonight/RB no/DT light/NN will/MD shine/VB on/IN me/PRP ./PCT 
+
+oh/UH ,/PCT it/PRP is/VBZ shameful/JJ and/CC it/PRP is/VBZ sad/JJ ,/PCT 
+i/PRP lost/VBD the/DT only/JJ pal/NN i/PRP had/VBD ,/PCT 
+i/PRP just/RB could/MD not/RB be/VB what/WP she/PRP wanted/VBD me/PRP to/TO be/VB ./PCT 
+i/PRP will/MD turn/VB my/PRP$ head/NN up/RB high/JJ 
+to/TO that/DT dark/JJ and/CC rolling/JJ sky/NN ,/PCT 
+for/IN tonight/NN no/DT light/NN will/MD shine/VB on/IN me/PRP ./PCT 
+
+i/PRP was/VBD so/RB mistaken/JJ when/WRB i/PRP thought/VBD that/IN she/PRP 'd/MD be/VB true/JJ ,/PCT 
+i/PRP had/VBD no/DT idea/NN what/WP a/DT woman/NN in/IN love/NN would/MD do/VB !/PCT 
+
+one/CD more/JJR night/NN ,/PCT i/PRP will/MD wait/VB for/IN the/DT light/NN 
+while/IN the/DT wind/NN blows/NNS high/JJ above/IN the/DT tree/NN ./PCT 
+oh/UH ,/PCT i/PRP miss/VBP my/PRP$ darling/NN so/RB ,/PCT 
+i/PRP did/VBD not/RB mean/VB to/TO see/VB her/PRP$ go/NN ,/PCT 
+but/CC tonight/RB no/DT light/NN will/MD shine/VB on/IN me/PRP ./PCT 
+
+one/CD more/JJR night/NN ,/PCT the/DT moon/NN is/VBZ shinin/VBG '/PCT bright/JJ 
+and/CC the/DT wind/NN blows/NNS high/JJ above/IN the/DT tree/NN ./PCT 
+oh/UH ,/PCT i/PRP miss/VBP that/IN woman/NN so/RB ,/PCT 
+i/PRP did/VBD not/RB mean/VB to/TO see/VB her/PRP$ go/NN ,/PCT 
+but/CC tonight/RB no/DT light/NN will/MD shine/VB on/IN me/PRP ./PCT 
+

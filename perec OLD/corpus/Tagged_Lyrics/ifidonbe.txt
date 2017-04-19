@@ -1,0 +1,31 @@
+blue/NNP sky/NN upon/IN the/DT horizon/NN ,/PCT 
+private/JJ eye/NN on/IN my/PRP$ trail/NN ,/PCT 
+and/CC if/IN i/PRP do/VBP not/RB be/VB there/RB by/IN morning/NN 
+she/PRP 'll/MD know/VB that/IN i/PRP must/MD have/VB spent/VBN the/DT night/NN in/IN jail/NN ./PCT 
+
+i/PRP been/VBN runnin/VBG '/PCT from/IN memphis/NNP to/TO l.a./NNP ,/PCT 
+had/VBD an/DT appointment/NN set/NN sometime/RB for/IN today/NN 
+and/CC if/IN i/PRP do/VBP not/RB be/VB there/RB by/IN morning/NN 
+she/PRP 'll/MD know/VB that/IN i/PRP must/MD have/VB gone/VBN the/DT other/JJ way/NN ./PCT 
+
+finding/VBG my/PRP$ way/NN home/NN to/TO you/PRP ,/PCT girl/NN ,/PCT lonely/JJ and/CC blue/JJ ,/PCT mistreated/VBN too/RB ,/PCT 
+sometimes/RB i/PRP think/VBP about/IN you/PRP ,/PCT girl/NN ,/PCT is/VBZ it/PRP true/JJ that/IN you/PRP think/VBP of/IN me/PRP too/RB ?/PCT 
+
+i/PRP got/VBD a/DT woman/NN living/NN in/IN l.a./NNP ,/PCT 
+i/PRP got/VBD a/DT woman/NN waiting/VBG for/IN my/PRP$ pay/NN ,/PCT 
+and/CC if/IN i/PRP do/VBP not/RB be/VB there/RB by/IN morning/NN 
+pack/NN my/PRP$ clothes/NNS ,/PCT get/VB down/RP on/IN your/PRP$ knees/NNS and/CC pray/NN ./PCT 
+
+i/PRP left/VBD my/PRP$ woman/NN with/IN a/DT twenty-dollar/JJ bill/NN ,/PCT 
+left/VBN her/PRP$ waiting/NN ,/PCT hope/VBP she/PRP is/VBZ waiting/VBG for/IN me/PRP still/RB ./PCT 
+but/CC if/IN i/PRP do/VBP not/RB be/VB there/RB by/IN morning/NN 
+i/PRP guess/VBP that/IN i/PRP never/RB will/MD ./PCT 
+
+finding/VBG my/PRP$ way/NN home/NN to/TO you/PRP ,/PCT girl/NN ,/PCT lonely/JJ and/CC blue/JJ ,/PCT mistreated/VBN too/RB ,/PCT 
+sometimes/RB i/PRP think/VBP about/IN you/PRP ,/PCT girl/NN ,/PCT is/VBZ it/PRP true/JJ that/IN you/PRP think/VBP of/IN me/PRP too/RB ?/PCT 
+
+i/PRP left/VBD my/PRP$ woman/NN with/IN a/DT twenty-dollar/JJ bill/NN ,/PCT 
+left/VBN her/PRP$ waiting/NN ,/PCT hope/VBP she/PRP is/VBZ waiting/VBG for/IN me/PRP still/RB ./PCT 
+well/RB ,/PCT if/IN i/PRP do/VBP not/RB be/VB there/RB by/IN morning/NN 
+i/PRP guess/VBP that/IN i/PRP never/RB will/MD ./PCT 
+

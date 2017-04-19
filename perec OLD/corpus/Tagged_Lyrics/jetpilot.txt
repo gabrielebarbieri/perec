@@ -1,0 +1,8 @@
+well/RB ,/PCT she/PRP is/VBZ got/VBN jet/NNP pilot/NN eyes/NNS from/IN her/PRP$ hips/NNS on/IN down/RB ./PCT 
+all/PDT the/DT bombardiers/NNS are/VBP trying/VBG to/TO force/VB her/PRP out/IN of/IN town/NN ./PCT 
+she/PRP is/VBZ five/CD feet/NNS nine/CD and/CC she/PRP carries/VBZ a/DT monkey/NN wrench/NN ./PCT 
+she/PRP weighs/VBZ more/RBR by/IN the/DT foot/NN than/IN she/PRP does/VBZ by/IN the/DT inch/NN ./PCT 
+she/PRP got/VBD all/PDT the/DT downtown/NN boys/NNS ,/PCT all/DT at/IN her/PRP$ command/NN 
+but/CC you/PRP have/VBP got/VBN to/TO watch/VB her/PRP$ closely/RB cause/NNP she/PRP ai/VBP not/RB no/DT woman/NN
+she/PRP is/VBZ a/DT man/NN ./PCT 
+

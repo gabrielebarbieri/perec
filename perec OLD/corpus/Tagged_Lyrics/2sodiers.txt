@@ -1,0 +1,36 @@
+he/PRP was/VBD just/RB a/DT blue-eyed/JJ boston/NNP boy/NN ,/PCT 
+his/PRP$ voice/NN was/VBD low/JJ with/IN pain/NN ./PCT 
+``/PCT i/PRP 'll/MD do/VB your/PRP$ bidding/NN ,/PCT comrade/NN mine/NN ,/PCT 
+if/IN i/PRP ride/VBP back/RB again/RB ./PCT 
+but/CC if/IN you/PRP ride/VBP back/RB and/CC i/PRP am/VBP left/VBN ,/PCT 
+you/PRP 'll/MD do/VB as/RB much/JJ for/IN me/PRP ./PCT 
+mother/NNP ,/PCT you/PRP know/VBP ,/PCT must/MD hear/VB the/DT news/NN ,/PCT 
+so/RB write/VB to/TO her/PRP$ tenderly/JJ ./PCT 
+
+``/PCT she/PRP is/VBZ waiting/VBG at/IN home/NN like/IN a/DT patient/JJ saint/NN ,/PCT 
+her/PRP$ fond/JJ face/NN pale/VBP with/IN woe/NN ./PCT 
+her/PRP$ heart/NN will/MD be/VB broken/VBN when/WRB i/PRP am/VBP gone/VBN ,/PCT 
+i/PRP 'll/MD see/VB her/PRP$ soon/RB ,/PCT i/PRP know/VBP ./PCT ''/PCT 
+just/RB then/RB the/DT order/NN came/VBD to/TO charge/VB ,/PCT 
+for/IN an/DT instant/JJ hand/NN touched/VBD hand/NN ./PCT 
+they/PRP said/VBD ,/PCT ``/PCT aye/NNP ,/PCT ''/PCT and/CC away/RB they/PRP rode/VBD ,/PCT 
+that/DT brave/VBP and/CC devoted/JJ band/NN ./PCT 
+
+straight/NNP was/VBD the/DT track/NN to/TO the/DT top/NN of/IN the/DT hill/NN ,/PCT 
+the/DT rebels/NNS they/PRP shot/VBD and/CC shelled/VBD ,/PCT 
+plowed/VBN furrows/VBZ of/IN death/NN through/IN the/DT toiling/NN ranks/VBZ ,/PCT 
+and/CC guarded/VBD them/PRP as/IN they/PRP fell/VBD ./PCT 
+there/RB soon/RB came/VBD a/DT horrible/JJ dying/VBG yell/NN 
+from/IN heights/NNS that/IN they/PRP could/MD not/RB gain/VB ,/PCT 
+and/CC those/DT whom/WP doom/NN and/CC death/NN had/VBD spared/VBN 
+rode/VBD slowly/RB back/RB again/RB ./PCT 
+
+but/CC among/IN the/DT dead/JJ that/WDT were/VBD left/VBN on/IN the/DT hill/NN 
+was/VBD the/DT boy/NN with/IN the/DT curly/JJ hair/NN ./PCT 
+the/DT tall/JJ dark/JJ man/NN who/WP rode/VBD by/IN his/PRP$ side/NN 
+lay/NNP dead/JJ beside/IN him/PRP there/RB ./PCT 
+there/EX is/VBZ no/DT one/NN to/TO write/VB to/TO the/DT blue-eyed/JJ girl/NN 
+the/DT words/NNS that/WDT her/PRP$ lover/NN had/VBD said/VBN ./PCT 
+momma/NNP ,/PCT you/PRP know/VBP ,/PCT awaits/VBZ the/DT news/NN ,/PCT 
+and/CC she/PRP 'll/MD only/RB know/VB he/PRP is/VBZ dead/JJ ./PCT 
+

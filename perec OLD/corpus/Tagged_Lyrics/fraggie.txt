@@ -1,0 +1,95 @@
+frog/NNP went/VBD a-courtin/NN '/PCT and/CC he/PRP did/VBD ride/NN ,/PCT uh-huh/NN ,/PCT 
+frog/NNP went/VBD a-courtin/NN '/PCT and/CC he/PRP did/VBD ride/NN ,/PCT uh-huh/NN ,/PCT 
+frog/NNP went/VBD a-courtin/NN '/PCT and/CC he/PRP did/VBD ride/NN ,/PCT 
+with/IN a/DT sword/NN and/CC a/DT pistol/NN by/IN his/PRP$ side/NN ,/PCT uh-huh/NN ./PCT 
+
+well/RB he/PRP rode/VBD up/RP to/TO miss/NNP mousey/NNP 's/POS door/NN ,/PCT uh-huh/NN ,/PCT 
+well/RB he/PRP rode/VBD up/RP to/TO miss/NNP mousey/NNP 's/POS door/NN ,/PCT uh-huh/NN ,/PCT 
+well/RB he/PRP rode/VBD up/RP to/TO miss/NNP mousey/NNP 's/POS door/NN ./PCT 
+gave/VBD three/CD loud/JJ raps/NNS and/CC a/DT very/RB big/JJ roar/NN ,/PCT uh-huh/NN ./PCT 
+
+said/NNP ,/PCT ``/PCT miss/NNP mouse/NNP ,/PCT are/VBP you/PRP within/IN ?/PCT ''/PCT uh-huh/NN ,/PCT 
+said/NNP he/PRP ,/PCT ``/PCT miss/NNP mouse/NNP ,/PCT are/VBP you/PRP within/IN ?/PCT ''/PCT uh-huh/NN ,/PCT 
+said/NNP ,/PCT ``/PCT miss/NNP mouse/NNP ,/PCT are/VBP you/PRP within/IN ?/PCT ''/PCT 
+``/PCT yes/UH ,/PCT kind/JJ sir/NN ,/PCT i/PRP sit/VBP and/CC spin/VBP ,/PCT ''/PCT uh-huh/NN ./PCT 
+
+he/PRP took/VBD miss/NNP mousey/NNP on/IN his/PRP$ knee/NN ,/PCT uh-huh/NN ,/PCT 
+took/NNP miss/NNP mousey/NNP on/IN his/PRP$ knee/NN ,/PCT uh-huh/NN ,/PCT 
+took/NNP miss/NNP mousey/NNP on/IN his/PRP$ knee/NN ./PCT 
+said/NNP ,/PCT ``/PCT miss/NNP mousey/NNP ,/PCT will/MD you/PRP marry/VB me/PRP ?/PCT ''/PCT uh-huh/NN ./PCT 
+
+``/PCT without/IN my/PRP$ uncle/NN rat/NN 's/POS consent/NN ,/PCT uh-huh/NN 
+``/PCT without/IN my/PRP$ uncle/NN rat/NN 's/POS consent/NN ,/PCT uh-huh/NN 
+``/PCT without/IN my/PRP$ uncle/NN rat/NN 's/POS consent/NN ,/PCT 
+i/NNP would/MD not/RB marry/VB the/DT president/NN ,/PCT uh-huh/NN ./PCT �/NN
+
+uncle/NNP rat/NNP laughed/VBD and/CC he/PRP shook/VBD his/PRP$ fat/JJ sides/NNS ,/PCT uh-huh/NN ,/PCT 
+uncle/NNP rat/NNP laughed/VBD and/CC he/PRP shook/VBD his/PRP$ fat/JJ sides/NNS ,/PCT uh-huh/NN ,/PCT 
+uncle/NNP rat/NNP laughed/VBD and/CC he/PRP shook/VBD his/PRP$ fat/JJ sides/NNS ,/PCT ./PCT 
+to/TO think/VB his/PRP$ niece/NN would/MD be/VB a/DT bride/NN ,/PCT uh-huh/NN ./PCT 
+
+uncle/NNP rat/NNP went/VBD runnin/VBG '/PCT downtown/NN ,/PCT uh-huh/NN ,/PCT 
+uncle/NNP rat/NNP went/VBD runnin/VBG '/PCT downtown/NN ,/PCT uh-huh/NN ,/PCT 
+uncle/NNP rat/NNP went/VBD runnin/VBG '/PCT downtown/NN ,/PCT 
+to/TO buy/VB his/PRP$ niece/NN a/DT wedding/NN gown/NN ,/PCT uh-huh/NN 
+
+where/WRB shall/MD the/DT wedding/NN supper/NN be/VB ?/PCT uh-huh/NN ,/PCT 
+where/WRB shall/MD the/DT wedding/NN supper/NN be/VB ?/PCT uh-huh/NN ,/PCT 
+where/WRB shall/MD the/DT wedding/NN supper/NN be/VB ?/PCT 
+way/NN down/IN yonder/NN in/IN a/DT hollow/JJ tree/NN ,/PCT uh-huh/NN 
+
+what/WP should/MD the/DT wedding/NN supper/NN be/VB ?/PCT uh-huh/NN ,/PCT 
+what/WP should/MD the/DT wedding/NN supper/NN be/VB ?/PCT uh-huh/NN ,/PCT 
+what/WP should/MD the/DT wedding/NN supper/NN be/VB ?/PCT 
+fried/NNP mosquito/NN in/IN a/DT black-eye/JJ pea/NN ,/PCT uh-huh/NN ./PCT 
+
+well/RB ,/PCT first/RB to/TO come/VB in/RP was/VBD a/DT flyin/NN '/PCT moth/NN ,/PCT uh-huh/NN ,/PCT 
+first/NNP to/TO come/VB in/RP was/VBD a/DT flyin/NN '/PCT moth/NN ,/PCT uh-huh/NN ,/PCT 
+first/NNP to/TO come/VB in/RP was/VBD a/DT flyin/NN '/PCT moth/NN ./PCT 
+she/PRP laid/VBD out/RP the/DT table/NN cloth/NN ,/PCT uh-huh/NN ./PCT 
+
+next/JJ to/TO come/VB in/RP was/VBD a/DT juney/JJ bug/NN ,/PCT uh-huh/NN ,/PCT 
+next/JJ to/TO come/VB in/RP was/VBD a/DT juney/JJ bug/NN ,/PCT uh-huh/NN ,/PCT 
+next/JJ to/TO come/VB in/RP was/VBD a/DT juney/JJ bug/NN ./PCT 
+she/PRP brought/VBD the/DT water/NN jug/NN ,/PCT uh-huh/NN ./PCT 
+
+next/JJ to/TO come/VB in/RP was/VBD a/DT bumbley/NN bee/NN ,/PCT uh-huh/NN 
+next/JJ to/TO come/VB in/RP was/VBD a/DT bumbley/NN bee/NN ,/PCT uh-huh/NN 
+next/JJ to/TO come/VB in/RP was/VBD a/DT bumbley/NN bee/NN ./PCT 
+sat/JJ mosquito/NN on/IN his/PRP$ knee/NN ,/PCT uh-huh/NN ./PCT 
+
+next/JJ to/TO come/VB in/RP was/VBD a/DT broken/JJ black/JJ flea/NN ,/PCT uh-huh/NN ,/PCT 
+next/JJ to/TO come/VB in/RP was/VBD a/DT broken/JJ black/JJ flea/NN ,/PCT uh-huh/NN ,/PCT 
+next/JJ to/TO come/VB in/RP was/VBD a/DT broken/JJ black/JJ flea/NN ./PCT 
+danced/VBD a/DT jig/NN with/IN the/DT bumbley/NN bee/NN ,/PCT uh-huh/NN ./PCT 
+
+next/JJ to/TO come/VB in/RP was/VBD mrs./NNP cow/NNP ,/PCT uh-huh/NNP ,/PCT 
+next/JJ to/TO come/VB in/RP was/VBD mrs./NNP cow/NNP ,/PCT uh-huh/NNP ,/PCT 
+next/JJ to/TO come/VB in/RP was/VBD mrs./NNP cow/NNP ./PCT 
+she/PRP tried/VBD to/TO dance/VB but/CC she/PRP did/VBD not/RB know/VB how/WRB ,/PCT uh-huh/JJ ./PCT 
+
+next/JJ to/TO come/VB in/RP was/VBD a/DT little/JJ black/JJ tick/NN ,/PCT uh-huh/NN ,/PCT 
+next/JJ to/TO come/VB in/RP was/VBD a/DT little/JJ black/JJ tick/NN ,/PCT uh-huh/NN ,/PCT 
+next/JJ to/TO come/VB in/RP was/VBD a/DT little/JJ black/JJ tick/NN ./PCT 
+she/PRP ate/VBD so/RB much/JJ she/PRP made/VBD us/PRP sick/JJ ,/PCT uh-huh/JJ ./PCT 
+
+next/JJ to/TO come/VB in/RP was/VBD a/DT big/JJ black/JJ snake/NN ,/PCT uh-huh/NN ,/PCT 
+next/JJ to/TO come/VB in/RP was/VBD a/DT big/JJ black/JJ snake/NN ,/PCT uh-huh/NN ,/PCT 
+next/JJ to/TO come/VB in/RP was/VBD a/DT big/JJ black/JJ snake/NN ./PCT 
+ate/VBD up/RP all/DT of/IN the/DT wedding/NN cake/NN ,/PCT uh-huh/NN ./PCT 
+
+next/JJ to/TO come/VB was/VBD the/DT old/JJ gray/JJ cat/NN ,/PCT uh-huh/NN ,/PCT 
+next/JJ to/TO come/VB was/VBD the/DT old/JJ gray/JJ cat/NN ,/PCT uh-huh/NN ,/PCT 
+next/JJ to/TO come/VB was/VBD the/DT old/JJ gray/JJ cat/NN ./PCT 
+swallowed/VBN the/DT mouse/NN and/CC ate/VBD up/RP the/DT rat/NN ,/PCT uh-huh/NN ./PCT w/NN 
+
+mr./NNP frog/NNP went/VBD a-hoppin/VBG '/PCT up/RP over/IN the/DT brook/NN ,/PCT uh-huh/NN ,/PCT 
+mr./NNP frog/NNP went/VBD a-hoppin/VBG '/PCT up/RP over/IN the/DT brook/NN ,/PCT uh-huh/NN ,/PCT 
+mr./NNP frog/NNP went/VBD a-hoppin/VBG '/PCT up/RP over/IN the/DT brook/NN ./PCT 
+a/DT lily-white/JJ duck/NN come/VBN and/CC swallowed/VBN him/PRP up/RP ,/PCT uh-huh/JJ ./PCT 
+
+a/DT little/JJ piece/NN of/IN cornbread/NN layin/NN '/PCT on/IN a/DT shelf/NN ,/PCT uh-huh/NN ,/PCT 
+a/DT little/JJ piece/NN of/IN cornbread/NN layin/NN '/PCT on/IN a/DT shelf/NN ,/PCT uh-huh/NN ,/PCT 
+a/DT little/JJ piece/NN of/IN cornbread/NN layin/NN '/PCT on/IN a/DT shelf/NN ./PCT 
+if/IN you/PRP want/VBP anymore/RB ,/PCT you/PRP can/MD sing/VB it/PRP yourself/PRP ,/PCT uh-huh/JJ ./PCT 
+

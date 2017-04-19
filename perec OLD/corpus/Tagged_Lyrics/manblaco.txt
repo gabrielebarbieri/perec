@@ -1,0 +1,38 @@
+crickets/NNS are/VBP chirpin/VBG '/PCT ,/PCT the/DT water/NN is/VBZ high/JJ ,/PCT 
+there/EX is/VBZ a/DT soft/JJ cotton/NN dress/NN on/IN the/DT line/NN hangin/NN '/PCT dry/JJ ,/PCT 
+window/NN wide/JJ open/JJ ,/PCT african/JJ trees/NNS 
+bent/NNP over/IN backwards/RB from/IN a/DT hurricane/NN breeze/NN ./PCT 
+not/RB a/DT word/NN of/IN goodbye/NN ,/PCT not/RB even/RB a/DT note/NN ,/PCT 
+she/PRP gone/VBN with/IN the/DT man/NN 
+in/IN the/DT long/JJ black/JJ coat/NN ./PCT 
+
+somebody/NN seem/VBP him/PRP hanging/VBG around/IN 
+at/IN the/DT old/JJ dance/NN hall/NN on/IN the/DT outskirts/NNS of/IN town/NN ./PCT 
+he/PRP looked/VBD into/IN her/PRP$ eyes/NNS when/WRB she/PRP stopped/VBD him/PRP to/TO ask/VB 
+if/IN he/PRP wanted/VBD to/TO dance/VB ,/PCT he/PRP had/VBD a/DT face/NN like/IN a/DT mask/NN ./PCT 
+somebody/NN said/VBD from/IN the/DT bible/NNP he/PRP 'd/MD quote/VB 
+there/EX was/VBD dust/NN on/IN the/DT man/NN 
+in/IN the/DT long/JJ black/JJ coat/NN ./PCT 
+
+preacher/NNP was/VBD a/DT talkin/NN '/PCT ,/PCT there/EX is/VBZ a/DT sermon/NN he/PRP gave/VBD ,/PCT 
+he/PRP said/VBD every/DT man/NN 's/POS conscience/NN is/VBZ vile/JJ and/CC depraved/VBD ,/PCT 
+you/PRP can/MD not/RB depend/VB on/IN it/PRP to/TO be/VB your/PRP$ guide/NN 
+when/WRB it/PRP is/VBZ you/PRP who/WP must/MD keep/VB it/PRP satisfied/JJ ./PCT 
+it/PRP ai/VBP not/RB easy/JJ to/TO swallow/VB ,/PCT it/PRP sticks/VBZ in/IN the/DT throat/NN ,/PCT 
+she/PRP gave/VBD her/PRP$ heart/NN to/TO the/DT man/NN 
+in/IN the/DT long/JJ black/JJ coat/NN ./PCT 
+
+there/EX are/VBP no/DT mistakes/NNS in/IN life/NN some/DT people/NNS say/VBP 
+it/PRP is/VBZ true/JJ sometimes/RB you/PRP can/MD see/VB it/PRP that/DT way/NN ./PCT 
+but/CC people/NNS do/VBP not/RB live/VB or/CC die/VB ,/PCT people/NNS just/RB float/VBP ./PCT 
+she/PRP went/VBD with/IN the/DT man/NN 
+in/IN the/DT long/JJ black/JJ coat/NN ./PCT 
+
+there/EX is/VBZ smoke/NN on/IN the/DT water/NN ,/PCT it/PRP is/VBZ been/VBN there/RB since/IN june/NNP ,/PCT 
+tree/NN trunks/NNS uprooted/VBD ,/PCT `/PCT neath/IN the/DT high/JJ crescent/JJ moon/NN 
+feel/NNP the/DT pulse/NN and/CC vibration/NN and/CC the/DT rumbling/VBG force/NN 
+somebody/NN is/VBZ out/IN there/RB beating/VBG a/DT dead/JJ horse/NN ./PCT 
+she/PRP never/RB said/VBD nothing/NN ,/PCT there/EX was/VBD nothing/NN she/PRP wrote/VBD ,/PCT 
+she/PRP gone/VBN with/IN the/DT man/NN 
+in/IN the/DT long/JJ black/JJ coat/NN ./PCT 
+

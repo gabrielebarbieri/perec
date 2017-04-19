@@ -1,0 +1,45 @@
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "sang", "POS": "VBD"}, {"word": "the", "POS": "DT"}, {"word": "song", "POS": "NN"}, {"word": "slowly", "POS": "RB"}], "sentence": "i sang the song slowly"}
+{"tags": [{"word": "as", "POS": "IN"}, {"word": "she", "POS": "PRP"}, {"word": "stood", "POS": "VBD"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "shadows", "POS": "NNS"}], "sentence": "as she stood in the shadows"}
+{"tags": [{"word": "she", "POS": "PRP"}, {"word": "stepped", "POS": "VBD"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "light", "POS": "NN"}], "sentence": "she stepped to the light"}
+{"tags": [{"word": "as", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "silver", "POS": "NN"}, {"word": "strings", "POS": "NNS"}, {"word": "spun", "POS": "VBD"}], "sentence": "as my silver strings spun"}
+{"tags": [{"word": "she", "POS": "PRP"}, {"word": "called", "POS": "VBD"}, {"word": "with", "POS": "IN"}, {"word": "her", "POS": "PRP$"}, {"word": "eyes", "POS": "NNS"}], "sentence": "she called with her eyes"}
+{"tags": [{"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "tune", "POS": "NN"}, {"word": "i", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "a-playin", "POS": "JJ"}, {"word": "'", "POS": "PCT"}], "sentence": "to the tune i is a-playin '"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "song", "POS": "NN"}, {"word": "it", "POS": "PRP"}, {"word": "was", "POS": "VBD"}, {"word": "long", "POS": "JJ"}], "sentence": "but the song it was long"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "'d", "POS": "MD"}, {"word": "only", "POS": "RB"}, {"word": "begun", "POS": "VBN"}], "sentence": "and i 'd only begun"}
+
+{"tags": [{"word": "through", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "bullet", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "light", "POS": "NN"}], "sentence": "through a bullet of light"}
+{"tags": [{"word": "her", "POS": "PRP$"}, {"word": "face", "POS": "NN"}, {"word": "was", "POS": "VBD"}, {"word": "reflectin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}], "sentence": "her face was reflectin '"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "fast", "POS": "JJ"}, {"word": "fading", "POS": "JJ"}, {"word": "words", "POS": "NNS"}], "sentence": "the fast fading words"}
+{"tags": [{"word": "that", "POS": "DT"}, {"word": "rolled", "POS": "VBD"}, {"word": "from", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "tongue", "POS": "NN"}], "sentence": "that rolled from my tongue"}
+{"tags": [{"word": "with", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "long-distance", "POS": "JJ"}, {"word": "look", "POS": "NN"}], "sentence": "with a long-distance look"}
+{"tags": [{"word": "her", "POS": "PRP$"}, {"word": "eyes", "POS": "NNS"}, {"word": "was", "POS": "VBD"}, {"word": "on", "POS": "IN"}, {"word": "fire", "POS": "NN"}], "sentence": "her eyes was on fire"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "song", "POS": "NN"}, {"word": "it", "POS": "PRP"}, {"word": "was", "POS": "VBD"}, {"word": "long", "POS": "JJ"}], "sentence": "but the song it was long"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "there", "POS": "EX"}, {"word": "was", "POS": "VBD"}, {"word": "more", "POS": "JJR"}, {"word": "to", "POS": "TO"}, {"word": "be", "POS": "VB"}, {"word": "sung", "POS": "VBN"}, {"word": ".", "POS": "PCT"}], "sentence": "and there was more to be sung ."}
+
+{"tags": [{"word": "my", "POS": "PRP$"}, {"word": "eyes", "POS": "NNS"}, {"word": "danced", "POS": "VBD"}, {"word": "a", "POS": "DT"}, {"word": "circle", "POS": "NN"}], "sentence": "my eyes danced a circle"}
+{"tags": [{"word": "across", "POS": "IN"}, {"word": "her", "POS": "PRP$"}, {"word": "clear", "POS": "JJ"}, {"word": "outline", "POS": "NN"}], "sentence": "across her clear outline"}
+{"tags": [{"word": "with", "POS": "IN"}, {"word": "her", "POS": "PRP$"}, {"word": "head", "POS": "NN"}, {"word": "tilted", "POS": "JJ"}, {"word": "sideways", "POS": "RB"}], "sentence": "with her head tilted sideways"}
+{"tags": [{"word": "she", "POS": "PRP"}, {"word": "called", "POS": "VBD"}, {"word": "me", "POS": "PRP"}, {"word": "again", "POS": "RB"}], "sentence": "she called me again"}
+{"tags": [{"word": "as", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "tune", "POS": "NN"}, {"word": "drifted", "POS": "VBD"}, {"word": "out", "POS": "RP"}], "sentence": "as the tune drifted out"}
+{"tags": [{"word": "she", "POS": "PRP"}, {"word": "breathed", "POS": "VBD"}, {"word": "hard", "POS": "RB"}, {"word": "through", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "echo", "POS": "VBP"}], "sentence": "she breathed hard through the echo"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "song", "POS": "NN"}, {"word": "it", "POS": "PRP"}, {"word": "was", "POS": "VBD"}, {"word": "long", "POS": "JJ"}], "sentence": "but the song it was long"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "it", "POS": "PRP"}, {"word": "was", "POS": "VBD"}, {"word": "far", "POS": "RB"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "end", "POS": "NN"}], "sentence": "and it was far to the end"}
+
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "glanced", "POS": "VBD"}, {"word": "at", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "guitar", "POS": "NN"}], "sentence": "i glanced at my guitar"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "played", "POS": "VBD"}, {"word": "it", "POS": "PRP"}, {"word": "pretendin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}], "sentence": "and played it pretendin '"}
+{"tags": [{"word": "that", "POS": "DT"}, {"word": "of", "POS": "IN"}, {"word": "all", "POS": "PDT"}, {"word": "the", "POS": "DT"}, {"word": "eyes", "POS": "NNS"}, {"word": "out", "POS": "IN"}, {"word": "there", "POS": "RB"}], "sentence": "that of all the eyes out there"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "could", "POS": "MD"}, {"word": "see", "POS": "VB"}, {"word": "none", "POS": "NN"}], "sentence": "i could see none"}
+{"tags": [{"word": "as", "POS": "IN"}, {"word": "her", "POS": "PRP$"}, {"word": "thoughts", "POS": "NNS"}, {"word": "pounded", "POS": "VBD"}, {"word": "hard", "POS": "JJ"}], "sentence": "as her thoughts pounded hard"}
+{"tags": [{"word": "like", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "pierce", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "an", "POS": "DT"}, {"word": "arrow", "POS": "NN"}], "sentence": "like the pierce of an arrow"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "song", "POS": "NN"}, {"word": "it", "POS": "PRP"}, {"word": "was", "POS": "VBD"}, {"word": "long", "POS": "JJ"}], "sentence": "but the song it was long"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "it", "POS": "PRP"}, {"word": "had", "POS": "VBD"}, {"word": "to", "POS": "TO"}, {"word": "get", "POS": "VB"}, {"word": "done", "POS": "VBN"}], "sentence": "and it had to get done"}
+
+{"tags": [{"word": "as", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "tune", "POS": "NN"}, {"word": "finally", "POS": "RB"}, {"word": "folded", "POS": "VBD"}], "sentence": "as the tune finally folded"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "laid", "POS": "VBD"}, {"word": "down", "POS": "RP"}, {"word": "the", "POS": "DT"}, {"word": "guitar", "POS": "NN"}], "sentence": "i laid down the guitar"}
+{"tags": [{"word": "then", "POS": "RB"}, {"word": "looked", "POS": "VBD"}, {"word": "for", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "girl", "POS": "NN"}], "sentence": "then looked for the girl"}
+{"tags": [{"word": "who", "POS": "WP"}, {"word": "'d", "POS": "MD"}, {"word": "stayed", "POS": "VBN"}, {"word": "for", "POS": "IN"}, {"word": "so", "POS": "RB"}, {"word": "long", "POS": "JJ"}], "sentence": "who 'd stayed for so long"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "her", "POS": "PRP$"}, {"word": "shadow", "POS": "NN"}, {"word": "was", "POS": "VBD"}, {"word": "missin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}], "sentence": "but her shadow was missin '"}
+{"tags": [{"word": "for", "POS": "IN"}, {"word": "all", "POS": "DT"}, {"word": "of", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "searchin", "POS": "NN"}, {"word": "'", "POS": "PCT"}], "sentence": "for all of my searchin '"}
+{"tags": [{"word": "so", "POS": "IN"}, {"word": "i", "POS": "PRP"}, {"word": "picked", "POS": "VBD"}, {"word": "up", "POS": "RP"}, {"word": "my", "POS": "PRP$"}, {"word": "guitar", "POS": "NN"}], "sentence": "so i picked up my guitar"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "began", "POS": "VBD"}, {"word": "the", "POS": "DT"}, {"word": "next", "POS": "JJ"}, {"word": "song", "POS": "NN"}], "sentence": "and began the next song"}
+

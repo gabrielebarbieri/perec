@@ -1,0 +1,24 @@
+lord/NNP ,/PCT i/PRP am/VBP broke/VBD ,/PCT i/PRP am/VBP hungry/JJ ,/PCT ragged/JJ and/CC dirty/JJ too/RB ,/PCT 
+broke/NNP and/CC hungry/JJ ,/PCT ragged/JJ and/CC dirty/JJ too/RB ./PCT 
+if/IN i/PRP clean/VBP up/RP ,/PCT sweet/JJ momma/NN ,/PCT can/MD i/PRP stay/VB all/DT night/NN with/IN you/PRP ?/PCT 
+
+lord/NNP ,/PCT i/PRP went/VBD to/TO my/PRP$ window/NN ,/PCT babe/NN ,/PCT i/PRP could/MD not/RB see/VB through/IN my/PRP$ blinds/NNS ,/PCT 
+went/VBD to/TO my/PRP$ window/NN ,/PCT babe/NN ,/PCT i/PRP could/MD not/RB see/VB through/IN my/PRP$ blinds/NNS ./PCT 
+heard/NNP my/PRP$ best/JJS friend/NN a-comin/NN '/PCT and/CC i/PRP thought/VBD i/PRP heard/VBD my/PRP$ baby/NN cry/NN ./PCT 
+
+lord/NNP ,/PCT if/IN i/PRP ca/MD not/RB come/VB in/IN here/RB ,/PCT baby/NN ,/PCT then/RB just/RB let/VB me/PRP sit/VB down/RP in/IN your/PRP$ door/NN ,/PCT 
+if/IN i/PRP ca/MD not/RB come/VB in/IN here/RB ,/PCT baby/NN ,/PCT then/RB just/RB let/VB me/PRP sit/VB down/RP in/IN your/PRP$ door/NN ./PCT 
+and/CC i/PRP would/MD leave/VB so/RB soon/RB that/IN your/PRP$ man/NN wo/MD not/RB never/RB know/VB ./PCT 
+
+how/WRB can/MD i/PRP live/VBP here/RB ,/PCT baby/NN ,/PCT lord/NNP ,/PCT and/CC feel/VB at/IN ease/NN ?/PCT 
+how/WRB can/MD i/PRP live/VBP here/RB ,/PCT baby/NN ,/PCT lord/NNP ,/PCT and/CC feel/VB at/IN ease/NN ?/PCT 
+well/RB ,/PCT that/IN woman/NN i/PRP got/VBD ,/PCT man/NN ,/PCT she/PRP does/VBZ just/RB what/WP she/PRP feels/VBZ ./PCT 
+
+lord/NNP ,/PCT you/PRP should/MD not/RB mistreat/VB me/PRP ,/PCT baby/NN ,/PCT because/IN i/PRP am/VBP young/JJ and/CC wild/JJ ,/PCT 
+should/MD not/RB mistreat/VB me/PRP ,/PCT baby/NN ,/PCT because/IN i/PRP am/VBP young/JJ and/CC wild/JJ ./PCT 
+you/PRP must/MD always/RB remember/VB ,/PCT baby/NN ,/PCT you/PRP was/VBD once/RB a/DT child/NN ./PCT 
+
+'cause/NN i/PRP am/VBP leaving/VBG in/IN the/DT morning/NN ,/PCT if/IN i/PRP have/VBP to/TO ride/VB the/DT blinds/NNS ,/PCT 
+leaving/VBG in/IN the/DT morning/NN ,/PCT if/IN i/PRP have/VBP to/TO ride/VB the/DT blinds/NNS ./PCT 
+well/RB ,/PCT i/PRP been/VBN mistreated/VBN and/CC i/PRP swear/VBP i/PRP do/VBP not/RB mind/VB dyin/NN '/PCT ./PCT 
+

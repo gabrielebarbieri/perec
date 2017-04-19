@@ -1,0 +1,36 @@
+ten/CD thousand/CD men/NNS on/IN a/DT hill/NN ,/PCT 
+ten/CD thousand/CD men/NNS on/IN a/DT hill/NN ,/PCT 
+some/DT of/IN am/VBP goin/NN '/PCT down/RB ,/PCT some/DT of/IN am/VBP gonna/NNS get/VB killed/VBN ./PCT 
+
+ten/CD thousand/CD men/NNS dressed/VBN in/IN oxford/NN blue/NN ,/PCT 
+ten/CD thousand/CD men/NNS dressed/VBN in/IN oxford/NN blue/NN ,/PCT 
+drummin/VBG '/PCT in/IN the/DT morning/NN ,/PCT in/IN the/DT evening/NN they/PRP 'll/MD be/VB coming/VBG for/IN you/PRP ./PCT 
+
+ten/CD thousand/CD men/NNS on/IN the/DT move/NN ,/PCT 
+ten/CD thousand/CD men/NNS on/IN the/DT move/NN ,/PCT 
+none/NN of/IN them/PRP doing/VBG nothin/NN '/PCT that/WDT your/PRP$ mama/NN would/MD not/RB disapprove/VB ./PCT 
+
+ten/CD thousand/CD men/NNS digging/NN for/IN silver/NN and/CC gold/NN ,/PCT 
+ten/CD thousand/CD men/NNS digging/NN for/IN silver/NN and/CC gold/NN ,/PCT 
+all/DT clean/JJ shaven/NN ,/PCT all/DT coming/VBG in/IN from/IN the/DT cold/NN ./PCT 
+
+hey/NNP !/PCT who/WP could/MD your/PRP$ lover/NN be/VB ?/PCT 
+hey/NNP !/PCT who/WP could/MD your/PRP$ lover/NN be/VB ?/PCT 
+let/VB me/PRP eat/VB off/RP his/PRP$ head/NN so/IN you/PRP can/MD really/RB see/VB !/PCT 
+
+ten/CD thousand/CD women/NNS all/DT dressed/VBN in/IN white/JJ ,/PCT 
+ten/CD thousand/CD women/NNS all/DT dressed/VBN in/IN white/JJ ,/PCT 
+standin/VBG '/PCT at/IN my/PRP$ window/NN wishing/VBG me/PRP goodnight/NN ./PCT 
+
+ten/CD thousand/CD men/NNS looking/VBG so/RB lean/JJ and/CC frail/JJ ,/PCT 
+ten/CD thousand/CD men/NNS looking/VBG so/RB lean/JJ and/CC frail/JJ ,/PCT 
+each/DT one/CD of/IN 'em/PRP got/VBD seven/CD wives/NNS ,/PCT each/DT one/CD of/IN 'em/PRP just/RB out/IN of/IN jail/NN ./PCT 
+
+ten/CD thousand/CD women/NNS all/DT sweepin/NN '/PCT my/PRP$ room/NN ,/PCT 
+ten/CD thousand/CD women/NNS all/DT sweepin/NN '/PCT my/PRP$ room/NN ,/PCT 
+spilling/VBG my/PRP$ buttermilk/NN ,/PCT sweeping/VBG it/PRP up/RP will/MD a/DT broom/NN ./PCT 
+
+ooh/NNP ,/PCT baby/NN ,/PCT thank/VB you/PRP for/IN my/PRP$ tea/NN !/PCT 
+baby/NNP ,/PCT thank/VBP you/PRP for/IN my/PRP$ tea/NN !/PCT 
+it/PRP is/VBZ so/RB sweet/JJ of/IN you/PRP to/TO be/VB so/RB nice/JJ to/TO me/PRP ./PCT 
+

@@ -1,0 +1,128 @@
+bad/JJ news/NN ,/PCT bad/JJ news/NN ,/PCT 
+come/VBN to/TO me/PRP where/WRB i/PRP sleep/VBP ,/PCT 
+turn/NN ,/PCT turn/NN ,/PCT turn/VB again/RB ./PCT 
+sayin/NNP '/POS one/CD of/IN your/PRP$ friends/NNS 
+is/VBZ in/IN trouble/NN deep/RB ,/PCT 
+turn/NN ,/PCT turn/VB to/TO the/DT rain/NN 
+and/CC the/DT wind/NN ./PCT 
+
+tell/VB me/PRP the/DT trouble/NN ,/PCT 
+tell/VB once/RB to/TO my/PRP$ ear/NN ,/PCT 
+turn/NN ,/PCT turn/NN ,/PCT turn/VB again/RB ./PCT 
+joliet/NNP prison/NN 
+and/CC ninety-nine/JJ years/NNS ,/PCT 
+turn/NN ,/PCT turn/VB to/TO the/DT rain/NN 
+and/CC the/DT wind/NN ./PCT 
+
+oh/UH what/WP is/VBZ the/DT charge/NN 
+of/IN how/WRB this/DT came/VBD to/TO be/VB ,/PCT 
+turn/NN ,/PCT turn/NN ,/PCT turn/VB again/RB ./PCT 
+manslaughter/NNP 
+in/IN the/DT highest/JJS of/IN degree/NN ,/PCT 
+turn/NN ,/PCT turn/VB to/TO the/DT rain/NN 
+and/CC the/DT wind/NN ./PCT 
+
+i/PRP sat/VBD down/RB and/CC wrote/VBD 
+the/DT best/JJS words/NNS i/PRP could/MD write/VB ,/PCT 
+turn/NN ,/PCT turn/NN ,/PCT turn/VB again/RB ./PCT 
+explaining/VBG to/TO the/DT judge/NN 
+i/PRP 'd/MD be/VB there/RB on/IN wednesday/NNP night/NN ,/PCT 
+turn/NN ,/PCT turn/VB to/TO the/DT rain/NN 
+and/CC the/DT wind/NN ./PCT 
+
+without/IN a/DT reply/NN ,/PCT 
+i/PRP left/VBD by/IN the/DT moon/NN ,/PCT 
+turn/NN ,/PCT turn/NN ,/PCT turn/VB again/RB ./PCT 
+and/CC was/VBD in/IN his/PRP$ chambers/NNS 
+by/IN the/DT next/JJ afternoon/NN ,/PCT 
+turn/NN ,/PCT turn/VB to/TO the/DT rain/NN 
+and/CC the/DT wind/NN ./PCT 
+
+could/MD ya/PRP tell/VB me/PRP the/DT facts/NNS ?/PCT 
+i/PRP said/VBD without/IN fear/NN ,/PCT 
+turn/NN ,/PCT turn/NN ,/PCT turn/VB again/RB ./PCT 
+that/IN a/DT friend/NN of/IN mine/NN 
+would/MD get/VB ninety-nine/JJ years/NNS ,/PCT 
+turn/NN ,/PCT turn/VB to/TO the/DT rain/NN 
+and/CC the/DT wind/NN ./PCT 
+
+a/DT crash/NN on/IN the/DT highway/NN 
+flew/VBD the/DT car/NN to/TO a/DT field/NN ,/PCT 
+turn/NN ,/PCT turn/NN ,/PCT turn/VB again/RB ./PCT 
+there/EX was/VBD four/CD persons/NNS killed/VBD 
+and/CC he/PRP was/VBD at/IN the/DT wheel/NN ,/PCT 
+turn/NN ,/PCT turn/VB to/TO the/DT rain/NN 
+and/CC the/DT wind/NN ./PCT 
+
+but/CC i/PRP knew/VBD him/PRP as/RB good/JJ 
+as/IN i/PRP am/VBP knowin/VBG '/PCT myself/PRP ,/PCT 
+turn/NN ,/PCT turn/NN ,/PCT turn/VB again/RB ./PCT 
+and/CC he/PRP would/MD not/RB harm/VB a/DT life/NN 
+that/DT belonged/VBD to/TO someone/NN else/RB ,/PCT 
+turn/NN ,/PCT turn/VB to/TO the/DT rain/NN 
+and/CC the/DT wind/NN ./PCT 
+
+the/DT judge/NN spoke/VBD 
+out/IN of/IN the/DT side/NN of/IN his/PRP$ mouth/NN ,/PCT 
+turn/NN ,/PCT turn/NN ,/PCT turn/VB again/RB ./PCT 
+sayin/NNP '/POS ,/PCT ``/PCT the/DT witness/NN who/WP saw/VBD ,/PCT 
+he/PRP left/VBD little/JJ doubt/NN ,/PCT ''/PCT 
+turn/NN ,/PCT turn/VB to/TO the/DT rain/NN 
+and/CC the/DT wind/NN ./PCT 
+
+that/DT may/MD be/VB true/JJ ,/PCT 
+he/PRP is/VBZ got/VBD a/DT sentence/NN to/TO serve/VB ,/PCT 
+turn/NN ,/PCT turn/NN ,/PCT turn/VB again/RB ./PCT 
+but/CC ninety-nine/JJ years/NNS ,/PCT 
+he/PRP just/RB do/VBP not/RB deserve/VB ,/PCT 
+turn/NN ,/PCT turn/VB to/TO the/DT rain/NN 
+and/CC the/DT wind/NN ./PCT 
+
+too/RB late/RB ,/PCT too/RB late/RB ,/PCT 
+for/IN his/PRP$ case/NN it/PRP is/VBZ sealed/VBN ,/PCT 
+turn/NN ,/PCT turn/NN ,/PCT turn/VB again/RB ./PCT 
+his/PRP$ sentence/NN is/VBZ passed/VBN 
+and/CC it/PRP can/MD not/RB be/VB repealed/VBN ,/PCT 
+turn/NN ,/PCT turn/VB to/TO the/DT rain/NN 
+and/CC the/DT wind/NN ./PCT 
+
+but/CC he/PRP ai/VBP not/RB no/DT criminal/JJ 
+and/CC his/PRP$ crime/NN it/PRP is/VBZ none/NN ,/PCT 
+turn/NN ,/PCT turn/NN ,/PCT turn/VB again/RB ./PCT 
+what/WP happened/VBD to/TO him/PRP 
+could/MD happen/VB to/TO anyone/NN ,/PCT 
+turn/NN ,/PCT turn/VB to/TO the/DT rain/NN 
+and/CC the/DT wind/NN ./PCT 
+
+and/CC at/IN that/IN the/DT judge/NN jerked/VBD forward/RB 
+and/CC his/PRP$ face/NN it/PRP did/VBD freeze/NN ,/PCT 
+turn/NN ,/PCT turn/NN ,/PCT turn/VB again/RB ./PCT 
+sayin/NNP '/POS ,/PCT ``/PCT could/MD you/PRP kindly/RB leave/VBP 
+my/PRP$ office/NN now/RB ,/PCT please/VB ,/PCT ''/PCT 
+turn/NN ,/PCT turn/VB to/TO the/DT rain/NN 
+and/CC the/DT wind/NN ./PCT 
+
+well/UH his/PRP$ eyes/NNS looked/VBD funny/JJ 
+and/CC i/PRP stood/VBD up/RP so/RB slow/JJ ,/PCT 
+turn/NN ,/PCT turn/NN ,/PCT turn/VB again/RB ./PCT 
+with/IN no/DT other/JJ choice/NN 
+except/IN for/IN to/TO go/VB ,/PCT 
+turn/NN ,/PCT turn/VB to/TO the/DT rain/NN 
+and/CC the/DT wind/NN ./PCT 
+
+i/PRP walked/VBD down/RP the/DT hallway/NN 
+and/CC i/PRP heard/VBD his/PRP$ door/NN slam/NN ,/PCT 
+turn/NN ,/PCT turn/NN ,/PCT turn/VB again/RB ./PCT 
+i/PRP walked/VBD down/RP the/DT courthouse/NN stairs/NNS 
+and/CC i/PRP did/VBD not/RB understand/VB ,/PCT 
+turn/NN ,/PCT turn/VB to/TO the/DT rain/NN 
+and/CC the/DT wind/NN ./PCT 
+
+and/CC i/PRP played/VBD my/PRP$ guitar/NN 
+through/IN the/DT night/NN to/TO the/DT day/NN ,/PCT 
+turn/NN ,/PCT turn/NN ,/PCT turn/VB again/RB ./PCT 
+and/CC the/DT only/JJ tune/NN 
+my/PRP$ guitar/NN could/MD play/VB 
+was/VBD ,/PCT ``/PCT oh/UH the/DT cruel/NNP rain/NN 
+and/CC the/DT wind/NNP ./PCT ''/PCT 
+

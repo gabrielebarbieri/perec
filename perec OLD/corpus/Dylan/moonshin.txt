@@ -1,0 +1,30 @@
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "have", "POS": "VBP"}, {"word": "been", "POS": "VBN"}, {"word": "a", "POS": "DT"}, {"word": "moonshiner", "POS": "NN"}], "sentence": "i have been a moonshiner"}
+{"tags": [{"word": "for", "POS": "IN"}, {"word": "seventeen", "POS": "JJ"}, {"word": "long", "POS": "JJ"}, {"word": "years", "POS": "NNS"}], "sentence": "for seventeen long years"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "have", "POS": "VBP"}, {"word": "spent", "POS": "VBN"}, {"word": "all", "POS": "DT"}, {"word": "my", "POS": "PRP$"}, {"word": "money", "POS": "NN"}], "sentence": "i have spent all my money"}
+{"tags": [{"word": "on", "POS": "IN"}, {"word": "whiskey", "POS": "NN"}, {"word": "and", "POS": "CC"}, {"word": "beer", "POS": "NN"}], "sentence": "on whiskey and beer"}
+
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "'ll", "POS": "MD"}, {"word": "go", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "some", "POS": "DT"}, {"word": "hollow", "POS": "JJ"}], "sentence": "i 'll go to some hollow"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "set", "POS": "VBN"}, {"word": "up", "POS": "RP"}, {"word": "my", "POS": "PRP$"}, {"word": "still", "POS": "RB"}], "sentence": "and set up my still"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "if", "POS": "IN"}, {"word": "whiskey", "POS": "NN"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "kill", "POS": "VB"}], "sentence": "and if whiskey do not kill"}
+{"tags": [{"word": "then", "POS": "RB"}, {"word": "i", "POS": "PRP"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "know", "POS": "VB"}, {"word": "what", "POS": "WP"}, {"word": "will", "POS": "MD"}], "sentence": "then i do not know what will"}
+
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "'ll", "POS": "MD"}, {"word": "go", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "some", "POS": "DT"}, {"word": "bar", "POS": "NN"}, {"word": "room", "POS": "NN"}], "sentence": "i 'll go to some bar room"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "drink", "POS": "NN"}, {"word": "with", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "friends", "POS": "NNS"}], "sentence": "and drink with my friends"}
+{"tags": [{"word": "where", "POS": "WRB"}, {"word": "the", "POS": "DT"}, {"word": "women", "POS": "NNS"}, {"word": "ca", "POS": "MD"}, {"word": "not", "POS": "RB"}, {"word": "follow", "POS": "VB"}], "sentence": "where the women ca not follow"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "see", "POS": "VB"}, {"word": "what", "POS": "WP"}, {"word": "i", "POS": "PRP"}, {"word": "spend", "POS": "VBP"}], "sentence": "and see what i spend"}
+
+{"tags": [{"word": "god", "POS": "NNP"}, {"word": "bless", "POS": "VB"}, {"word": "them", "POS": "PRP"}, {"word": "pretty", "POS": "RB"}, {"word": "women", "POS": "NNS"}], "sentence": "god bless them pretty women"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "wish", "POS": "VBP"}, {"word": "they", "POS": "PRP"}, {"word": "were", "POS": "VBD"}, {"word": "mine", "POS": "JJ"}], "sentence": "i wish they were mine"}
+{"tags": [{"word": "their", "POS": "PRP$"}, {"word": "breath", "POS": "NN"}, {"word": "is", "POS": "VBZ"}, {"word": "as", "POS": "IN"}, {"word": "sweet", "POS": "JJ"}, {"word": "as", "POS": "IN"}], "sentence": "their breath is as sweet as"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "dew", "POS": "NN"}, {"word": "on", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "vine", "POS": "NN"}], "sentence": "the dew on the vine"}
+
+{"tags": [{"word": "let", "POS": "VB"}, {"word": "me", "POS": "PRP"}, {"word": "eat", "POS": "VB"}, {"word": "when", "POS": "WRB"}, {"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "hungry", "POS": "JJ"}], "sentence": "let me eat when i am hungry"}
+{"tags": [{"word": "let", "POS": "VB"}, {"word": "me", "POS": "PRP"}, {"word": "drink", "POS": "VB"}, {"word": "when", "POS": "WRB"}, {"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "dry", "POS": "JJ"}], "sentence": "let me drink when i am dry"}
+{"tags": [{"word": "dollars", "POS": "NNS"}, {"word": "when", "POS": "WRB"}, {"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "hard", "POS": "JJ"}, {"word": "up", "POS": "IN"}], "sentence": "dollars when i am hard up"}
+{"tags": [{"word": "religion", "POS": "NNP"}, {"word": "when", "POS": "WRB"}, {"word": "i", "POS": "PRP"}, {"word": "die", "POS": "VBP"}], "sentence": "religion when i die"}
+
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "whole", "POS": "JJ"}, {"word": "world", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "a", "POS": "DT"}, {"word": "bottle", "POS": "NN"}], "sentence": "the whole world 's a bottle"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "life", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "but", "POS": "CC"}, {"word": "a", "POS": "DT"}, {"word": "dram", "POS": "NN"}], "sentence": "and life 's but a dram"}
+{"tags": [{"word": "when", "POS": "WRB"}, {"word": "a", "POS": "DT"}, {"word": "bottle", "POS": "NN"}, {"word": "gets", "POS": "VBZ"}, {"word": "empty", "POS": "JJ"}], "sentence": "when a bottle gets empty"}
+{"tags": [{"word": "it", "POS": "PRP"}, {"word": "sure", "POS": "JJ"}, {"word": "ai", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "worth", "POS": "JJ"}, {"word": "a", "POS": "DT"}, {"word": "damm", "POS": "NN"}], "sentence": "it sure ai not worth a damm"}
+

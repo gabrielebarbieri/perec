@@ -1,0 +1,21 @@
+father/NNP of/IN night/NN ,/PCT father/NNP of/IN day/NN ,/PCT 
+father/NNP ,/PCT who/WP taketh/VBP the/DT darkness/NN away/RB ,/PCT 
+father/NNP ,/PCT who/WP teacheth/VBP the/DT bird/NN to/TO fly/VB ,/PCT 
+builder/NN of/IN rainbows/NNS up/RB in/IN the/DT sky/NN ,/PCT 
+father/NNP of/IN loneliness/NN and/CC pain/NN ,/PCT 
+father/NNP of/IN love/NN and/CC father/NNP of/IN rain/NN ./PCT 
+
+father/NNP of/IN day/NN ,/PCT father/NNP of/IN night/NN ,/PCT 
+father/NNP of/IN black/JJ ,/PCT father/NNP of/IN white/JJ ,/PCT 
+father/NNP ,/PCT who/WP build/VBP the/DT mountain/NN so/RB high/JJ ,/PCT 
+who/WP shapeth/VBP the/DT cloud/NN up/RP in/IN the/DT sky/NN ,/PCT 
+father/NNP of/IN time/NN ,/PCT father/NNP of/IN dreams/NNS ,/PCT 
+father/NNP ,/PCT who/WP turneth/VBP the/DT rivers/NNS and/CC streams/NNS ./PCT 
+
+father/NNP of/IN grain/NN ,/PCT father/NNP of/IN wheat/NN ,/PCT 
+father/NNP of/IN cold/JJ and/CC father/NNP of/IN heat/NN ,/PCT 
+father/NNP of/IN air/NN and/CC father/NNP of/IN trees/NNS ,/PCT 
+who/WP dwells/VBZ in/IN our/PRP$ hearts/NNS and/CC our/PRP$ memories/NNS ,/PCT 
+father/NNP of/IN minutes/NNS ,/PCT father/NNP of/IN days/NNS ,/PCT 
+father/NNP of/IN whom/WP we/PRP most/RBS solemnly/RB praise/NN ./PCT 
+

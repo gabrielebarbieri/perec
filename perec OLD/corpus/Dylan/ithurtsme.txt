@@ -1,0 +1,29 @@
+{"tags": [{"word": "so", "POS": "RB"}, {"word": "run", "POS": "VBN"}, {"word": "here", "POS": "RB"}, {"word": "baby", "POS": "NN"}], "sentence": "so run here baby"}
+{"tags": [{"word": "put", "POS": "VB"}, {"word": "your", "POS": "PRP$"}, {"word": "little", "POS": "JJ"}, {"word": "hands", "POS": "NNS"}, {"word": "in", "POS": "IN"}, {"word": "mine", "POS": "NN"}], "sentence": "put your little hands in mine"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "have", "POS": "VBP"}, {"word": "got", "POS": "VBD"}, {"word": "something", "POS": "NN"}, {"word": "to", "POS": "TO"}, {"word": "tell", "POS": "VB"}, {"word": "you", "POS": "PRP"}], "sentence": "i have got something to tell you"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "know", "POS": "VBP"}, {"word": "you", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "gonna", "POS": "NNS"}, {"word": "change", "POS": "VB"}, {"word": "your", "POS": "PRP$"}, {"word": "mind", "POS": "NN"}], "sentence": "i know you are gonna change your mind"}
+
+{"tags": [{"word": "when", "POS": "WRB"}, {"word": "things", "POS": "NNS"}, {"word": "go", "POS": "VBP"}, {"word": "wrong", "POS": "JJ"}], "sentence": "when things go wrong"}
+{"tags": [{"word": "so", "POS": "RB"}, {"word": "wrong", "POS": "JJ"}, {"word": "with", "POS": "IN"}, {"word": "you", "POS": "PRP"}], "sentence": "so wrong with you"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "hurts", "POS": "VBZ"}, {"word": "me", "POS": "PRP"}, {"word": "too", "POS": "RB"}], "sentence": "i hurts me too"}
+
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "want", "POS": "VBP"}, {"word": "you", "POS": "PRP"}, {"word": "baby", "POS": "NN"}], "sentence": "i want you baby"}
+{"tags": [{"word": "just", "POS": "RB"}, {"word": "to", "POS": "TO"}, {"word": "understand", "POS": "VB"}], "sentence": "just to understand"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "want", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "be", "POS": "VB"}, {"word": "your", "POS": "PRP$"}, {"word": "boss", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "babe", "POS": "NN"}], "sentence": "i do not want to be your boss , babe"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "just", "POS": "RB"}, {"word": "want", "POS": "VBP"}, {"word": "to", "POS": "TO"}, {"word": "be", "POS": "VB"}, {"word": "your", "POS": "PRP$"}, {"word": "man", "POS": "NN"}], "sentence": "i just want to be your man"}
+
+{"tags": [{"word": "now", "POS": "RB"}, {"word": "when", "POS": "WRB"}, {"word": "you", "POS": "PRP"}, {"word": "go", "POS": "VBP"}, {"word": "home", "POS": "NN"}], "sentence": "now when you go home"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "have", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "get", "POS": "VB"}, {"word": "along", "POS": "IN"}], "sentence": "you do not have to get along"}
+{"tags": [{"word": "come", "POS": "VBN"}, {"word": "back", "POS": "RB"}, {"word": "to", "POS": "TO"}, {"word": "me", "POS": "PRP"}, {"word": "baby", "POS": "NN"}], "sentence": "come back to me baby"}
+{"tags": [{"word": "well", "POS": "RB"}, {"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "where", "POS": "WRB"}, {"word": "you", "POS": "PRP"}, {"word": "belong", "POS": "VBP"}], "sentence": "well it is where you belong"}
+
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "love", "POS": "VBP"}, {"word": "you", "POS": "PRP"}, {"word": "baby", "POS": "NN"}], "sentence": "i love you baby"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "you", "POS": "PRP"}, {"word": "know", "POS": "VBP"}, {"word": "that", "POS": "IN"}, {"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "true", "POS": "JJ"}], "sentence": "and you know that it is true"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "wo", "POS": "MD"}, {"word": "not", "POS": "RB"}, {"word": "mistreat", "POS": "VB"}, {"word": "you", "POS": "PRP"}, {"word": "baby", "POS": "NN"}], "sentence": "i wo not mistreat you baby"}
+{"tags": [{"word": "nothin", "POS": "NN"}, {"word": "'", "POS": "PCT"}, {"word": "in", "POS": "IN"}, {"word": "this", "POS": "DT"}, {"word": "world", "POS": "NN"}, {"word": "is", "POS": "VBZ"}, {"word": "like", "POS": "IN"}, {"word": "you", "POS": "PRP"}], "sentence": "nothin ' in this world is like you"}
+
+{"tags": [{"word": "so", "POS": "RB"}, {"word": "run", "POS": "VBN"}, {"word": "here", "POS": "RB"}, {"word": "baby", "POS": "NN"}], "sentence": "so run here baby"}
+{"tags": [{"word": "put", "POS": "VB"}, {"word": "your", "POS": "PRP$"}, {"word": "little", "POS": "JJ"}, {"word": "hands", "POS": "NNS"}, {"word": "in", "POS": "IN"}, {"word": "mine", "POS": "NN"}], "sentence": "put your little hands in mine"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "have", "POS": "VBP"}, {"word": "got", "POS": "VBD"}, {"word": "something", "POS": "NN"}, {"word": "to", "POS": "TO"}, {"word": "tell", "POS": "VB"}, {"word": "you", "POS": "PRP"}], "sentence": "i have got something to tell you"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "know", "POS": "VBP"}, {"word": "you", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "gonna", "POS": "NNS"}, {"word": "change", "POS": "VB"}, {"word": "your", "POS": "PRP$"}, {"word": "mind", "POS": "NN"}], "sentence": "i know you are gonna change your mind"}
+

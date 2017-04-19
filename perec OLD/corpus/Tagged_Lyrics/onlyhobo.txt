@@ -1,0 +1,30 @@
+as/IN i/PRP was/VBD out/IN walking/VBG on/IN a/DT corner/NN one/CD day/NN ,/PCT 
+i/PRP spied/VBD an/DT old/JJ hobo/NN ,/PCT in/IN a/DT doorway/NN he/PRP lay/VBD ./PCT 
+his/PRP$ face/NN was/VBD all/DT grounded/VBN in/IN the/DT cold/JJ sidewalk/NN floor/NN 
+and/CC i/PRP guess/VBP he/PRP 'd/MD been/VBN there/RB for/IN the/DT whole/JJ night/NN or/CC more/JJR ./PCT 
+
+only/RB a/DT hobo/NN ,/PCT but/CC one/CD more/JJR is/VBZ gone/VBN 
+leavin/NNP '/POS nobody/NN to/TO sing/VB his/PRP$ sad/JJ song/NN 
+leavin/NNP '/POS nobody/NN to/TO carry/VB him/PRP home/NN 
+only/RB a/DT hobo/NN ,/PCT but/CC one/CD more/JJR is/VBZ gone/VBN 
+
+a/DT blanket/NN of/IN newspaper/NN covered/VBD his/PRP$ head/NN ,/PCT 
+as/IN the/DT curb/NN was/VBD his/PRP$ pillow/NN ,/PCT the/DT street/NN was/VBD his/PRP$ bed/NN ./PCT 
+one/CD look/NN at/IN his/PRP$ face/NN showed/VBD the/DT hard/JJ road/NN he/PRP 'd/VBD come/VBN 
+and/CC a/DT fistful/JJ of/IN coins/NNS showed/VBD the/DT money/NN he/PRP bummed/VBD ./PCT 
+
+only/RB a/DT hobo/NN ,/PCT but/CC one/CD more/JJR is/VBZ gone/VBN 
+leavin/NNP '/POS nobody/NN to/TO sing/VB his/PRP$ sad/JJ song/NN 
+leavin/NNP '/POS nobody/NN to/TO carry/VB him/PRP home/NN 
+only/RB a/DT hobo/NN ,/PCT but/CC one/CD more/JJR is/VBZ gone/VBN 
+
+does/VBZ it/PRP take/VB much/JJ of/IN a/DT man/NN to/TO see/VB his/PRP$ whole/JJ life/NN go/VB down/RB ,/PCT 
+to/TO look/VB up/RP on/IN the/DT world/NN from/IN a/DT hole/NN in/IN the/DT ground/NN ,/PCT 
+to/TO wait/VB for/IN your/PRP$ future/NN like/IN a/DT horse/NN that/WDT is/VBZ gone/VBN lame/JJ ,/PCT 
+to/TO lie/VB in/IN the/DT gutter/NN and/CC die/VB with/IN no/DT name/NN ?/PCT 
+
+only/RB a/DT hobo/NN ,/PCT but/CC one/CD more/JJR is/VBZ gone/VBN 
+leavin/NNP '/POS nobody/NN to/TO sing/VB his/PRP$ sad/JJ song/NN 
+leavin/NNP '/POS nobody/NN to/TO carry/VB him/PRP home/NN 
+only/RB a/DT hobo/NN ,/PCT but/CC one/CD more/JJR is/VBZ gone/VBN 
+

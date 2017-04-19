@@ -1,0 +1,60 @@
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "got", "POS": "VBD"}, {"word": "a", "POS": "DT"}, {"word": "lotta", "POS": "JJ"}, {"word": "nerve", "POS": "NN"}], "sentence": "you got a lotta nerve"}
+{"tags": [{"word": "to", "POS": "TO"}, {"word": "say", "POS": "VB"}, {"word": "you", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "my", "POS": "PRP$"}, {"word": "friend", "POS": "NN"}], "sentence": "to say you are my friend"}
+{"tags": [{"word": "when", "POS": "WRB"}, {"word": "i", "POS": "PRP"}, {"word": "was", "POS": "VBD"}, {"word": "down", "POS": "RB"}], "sentence": "when i was down"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "just", "POS": "RB"}, {"word": "stood", "POS": "VBD"}, {"word": "there", "POS": "EX"}, {"word": "grinning", "POS": "VBG"}], "sentence": "you just stood there grinning"}
+
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "got", "POS": "VBD"}, {"word": "a", "POS": "DT"}, {"word": "lotta", "POS": "JJ"}, {"word": "nerve", "POS": "NN"}], "sentence": "you got a lotta nerve"}
+{"tags": [{"word": "to", "POS": "TO"}, {"word": "say", "POS": "VB"}, {"word": "you", "POS": "PRP"}, {"word": "gota", "POS": "VB"}, {"word": "helping", "POS": "VBG"}, {"word": "hand", "POS": "NN"}, {"word": "to", "POS": "TO"}, {"word": "lend", "POS": "VB"}], "sentence": "to say you gota helping hand to lend"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "just", "POS": "RB"}, {"word": "want", "POS": "VBP"}, {"word": "to", "POS": "TO"}, {"word": "be", "POS": "VB"}, {"word": "on", "POS": "IN"}], "sentence": "you just want to be on"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "side", "POS": "NN"}, {"word": "that", "POS": "WDT"}, {"word": "is", "POS": "VBZ"}, {"word": "winning", "POS": "VBG"}], "sentence": "the side that is winning"}
+
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "say", "POS": "VBP"}, {"word": "i", "POS": "PRP"}, {"word": "let", "POS": "VB"}, {"word": "you", "POS": "PRP"}, {"word": "down", "POS": "RP"}], "sentence": "you say i let you down"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "know", "POS": "VBP"}, {"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "not", "POS": "RB"}, {"word": "like", "POS": "IN"}, {"word": "that", "POS": "DT"}], "sentence": "you know it is not like that"}
+{"tags": [{"word": "if", "POS": "IN"}, {"word": "you", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "so", "POS": "RB"}, {"word": "hurt", "POS": "JJ"}], "sentence": "if you are so hurt"}
+{"tags": [{"word": "why", "POS": "WRB"}, {"word": "then", "POS": "RB"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "you", "POS": "PRP"}, {"word": "show", "POS": "VBP"}, {"word": "it", "POS": "PRP"}], "sentence": "why then do not you show it"}
+
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "say", "POS": "VBP"}, {"word": "you", "POS": "PRP"}, {"word": "lost", "POS": "VBN"}, {"word": "your", "POS": "PRP$"}, {"word": "faith", "POS": "NN"}], "sentence": "you say you lost your faith"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "that", "POS": "DT"}, {"word": "is", "POS": "VBZ"}, {"word": "not", "POS": "RB"}, {"word": "where", "POS": "WRB"}, {"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "at", "POS": "IN"}], "sentence": "but that is not where it is at"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "had", "POS": "VBD"}, {"word": "no", "POS": "DT"}, {"word": "faith", "POS": "NN"}, {"word": "to", "POS": "TO"}, {"word": "lose", "POS": "VB"}], "sentence": "you had no faith to lose"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "you", "POS": "PRP"}, {"word": "know", "POS": "VBP"}, {"word": "it", "POS": "PRP"}], "sentence": "and you know it"}
+
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "know", "POS": "VBP"}, {"word": "the", "POS": "DT"}, {"word": "reason", "POS": "NN"}], "sentence": "i know the reason"}
+{"tags": [{"word": "that", "POS": "DT"}, {"word": "you", "POS": "PRP"}, {"word": "talk", "POS": "VBP"}, {"word": "behind", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "back", "POS": "NN"}], "sentence": "that you talk behind my back"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "used", "POS": "VBD"}, {"word": "to", "POS": "TO"}, {"word": "be", "POS": "VB"}, {"word": "among", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "crowd", "POS": "NN"}], "sentence": "i used to be among the crowd"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "in", "POS": "IN"}, {"word": "with", "POS": "IN"}], "sentence": "you are in with"}
+
+{"tags": [{"word": "do", "POS": "VBP"}, {"word": "you", "POS": "PRP"}, {"word": "take", "POS": "VB"}, {"word": "me", "POS": "PRP"}, {"word": "for", "POS": "IN"}, {"word": "such", "POS": "PDT"}, {"word": "a", "POS": "DT"}, {"word": "fool", "POS": "NN"}], "sentence": "do you take me for such a fool"}
+{"tags": [{"word": "to", "POS": "TO"}, {"word": "think", "POS": "VB"}, {"word": "i", "POS": "PRP"}, {"word": "'d", "POS": "MD"}, {"word": "make", "POS": "VB"}, {"word": "contact", "POS": "NN"}], "sentence": "to think i 'd make contact"}
+{"tags": [{"word": "with", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "one", "POS": "NN"}, {"word": "who", "POS": "WP"}, {"word": "tries", "POS": "VBZ"}, {"word": "to", "POS": "TO"}, {"word": "hide", "POS": "VB"}], "sentence": "with the one who tries to hide"}
+{"tags": [{"word": "what", "POS": "WP"}, {"word": "he", "POS": "PRP"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "know", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "begin", "POS": "VB"}, {"word": "with", "POS": "IN"}], "sentence": "what he do not know to begin with"}
+
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "see", "POS": "VBP"}, {"word": "me", "POS": "PRP"}, {"word": "on", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "street", "POS": "NN"}], "sentence": "you see me on the street"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "always", "POS": "RB"}, {"word": "act", "POS": "VBP"}, {"word": "surprised", "POS": "JJ"}], "sentence": "you always act surprised"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "say", "POS": "VBP"}, {"word": ",", "POS": "PCT"}, {"word": "``", "POS": "PCT"}, {"word": "how", "POS": "WRB"}, {"word": "are", "POS": "VBP"}, {"word": "you", "POS": "PRP"}, {"word": "?", "POS": "PCT"}, {"word": "''", "POS": "PCT"}, {"word": "``", "POS": "PCT"}, {"word": "good", "POS": "JJ"}, {"word": "luck", "POS": "NN"}, {"word": "''", "POS": "PCT"}], "sentence": "you say , `` how are you ? '' `` good luck ''"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "you", "POS": "PRP"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "mean", "POS": "VB"}, {"word": "it", "POS": "PRP"}], "sentence": "but you do not mean it"}
+
+{"tags": [{"word": "when", "POS": "WRB"}, {"word": "you", "POS": "PRP"}, {"word": "know", "POS": "VBP"}, {"word": "as", "POS": "RB"}, {"word": "well", "POS": "RB"}, {"word": "as", "POS": "IN"}, {"word": "me", "POS": "PRP"}], "sentence": "when you know as well as me"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "'d", "POS": "MD"}, {"word": "rather", "POS": "RB"}, {"word": "see", "POS": "VB"}, {"word": "me", "POS": "PRP"}, {"word": "paralyzed", "POS": "JJ"}], "sentence": "you 'd rather see me paralyzed"}
+{"tags": [{"word": "why", "POS": "WRB"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "you", "POS": "PRP"}, {"word": "just", "POS": "RB"}, {"word": "come", "POS": "VBP"}, {"word": "out", "POS": "RP"}, {"word": "once", "POS": "RB"}], "sentence": "why do not you just come out once"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "scream", "POS": "VB"}, {"word": "it", "POS": "PRP"}], "sentence": "and scream it"}
+
+{"tags": [{"word": "no", "POS": "DT"}, {"word": ",", "POS": "PCT"}, {"word": "i", "POS": "PRP"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "feel", "POS": "VB"}, {"word": "that", "POS": "DT"}, {"word": "good", "POS": "JJ"}], "sentence": "no , i do not feel that good"}
+{"tags": [{"word": "when", "POS": "WRB"}, {"word": "i", "POS": "PRP"}, {"word": "see", "POS": "VBP"}, {"word": "the", "POS": "DT"}, {"word": "heartbreaks", "POS": "NNS"}, {"word": "you", "POS": "PRP"}, {"word": "embrace", "POS": "VBP"}], "sentence": "when i see the heartbreaks you embrace"}
+{"tags": [{"word": "if", "POS": "IN"}, {"word": "i", "POS": "PRP"}, {"word": "was", "POS": "VBD"}, {"word": "a", "POS": "DT"}, {"word": "master", "POS": "NN"}, {"word": "thief", "POS": "NN"}], "sentence": "if i was a master thief"}
+{"tags": [{"word": "perhaps", "POS": "RB"}, {"word": "i", "POS": "PRP"}, {"word": "'d", "POS": "MD"}, {"word": "rob", "POS": "VB"}, {"word": "them", "POS": "PRP"}], "sentence": "perhaps i 'd rob them"}
+
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "now", "POS": "RB"}, {"word": "i", "POS": "PRP"}, {"word": "know", "POS": "VBP"}, {"word": "you", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "dissatisfied", "POS": "JJ"}], "sentence": "and now i know you are dissatisfied"}
+{"tags": [{"word": "with", "POS": "IN"}, {"word": "your", "POS": "PRP$"}, {"word": "position", "POS": "NN"}, {"word": "and", "POS": "CC"}, {"word": "your", "POS": "PRP$"}, {"word": "place", "POS": "NN"}], "sentence": "with your position and your place"}
+{"tags": [{"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "you", "POS": "PRP"}, {"word": "understand", "POS": "VBP"}], "sentence": "do not you understand"}
+{"tags": [{"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "not", "POS": "RB"}, {"word": "my", "POS": "PRP$"}, {"word": "problem", "POS": "NN"}], "sentence": "it is not my problem"}
+
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "wish", "POS": "VBP"}, {"word": "that", "POS": "IN"}, {"word": "for", "POS": "IN"}, {"word": "just", "POS": "RB"}, {"word": "one", "POS": "CD"}, {"word": "time", "POS": "NN"}], "sentence": "i wish that for just one time"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "could", "POS": "MD"}, {"word": "stand", "POS": "VB"}, {"word": "inside", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "shoes", "POS": "NNS"}], "sentence": "you could stand inside my shoes"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "just", "POS": "RB"}, {"word": "for", "POS": "IN"}, {"word": "that", "POS": "DT"}, {"word": "one", "POS": "CD"}, {"word": "moment", "POS": "NN"}], "sentence": "and just for that one moment"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "could", "POS": "MD"}, {"word": "be", "POS": "VB"}, {"word": "you", "POS": "PRP"}], "sentence": "i could be you"}
+
+{"tags": [{"word": "yes", "POS": "UH"}, {"word": ",", "POS": "PCT"}, {"word": "i", "POS": "PRP"}, {"word": "wish", "POS": "VBP"}, {"word": "that", "POS": "IN"}, {"word": "for", "POS": "IN"}, {"word": "just", "POS": "RB"}, {"word": "one", "POS": "CD"}, {"word": "time", "POS": "NN"}], "sentence": "yes , i wish that for just one time"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "could", "POS": "MD"}, {"word": "stand", "POS": "VB"}, {"word": "inside", "POS": "IN"}, {"word": "my", "POS": "PRP$"}, {"word": "shoes", "POS": "NNS"}], "sentence": "you could stand inside my shoes"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "'d", "POS": "MD"}, {"word": "know", "POS": "VB"}, {"word": "what", "POS": "WP"}, {"word": "a", "POS": "DT"}, {"word": "drag", "POS": "NN"}, {"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}], "sentence": "you 'd know what a drag it is"}
+{"tags": [{"word": "to", "POS": "TO"}, {"word": "see", "POS": "VB"}, {"word": "you", "POS": "PRP"}], "sentence": "to see you"}
+

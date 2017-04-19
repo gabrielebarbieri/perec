@@ -1,0 +1,37 @@
+oh/UH ,/PCT shenandoah/NNP ,/PCT i/PRP long/RB to/TO hear/VB you/PRP 
+look/VB away/RB ,/PCT you/PRP rollin/VBP '/PCT river/NN 
+oh/UH ,/PCT shenandoah/NNP ,/PCT i/PRP long/RB to/TO hear/VB you/PRP 
+look/VB away/RB ./PCT we/PRP are/VBP bound/VBN away/RB 
+across/IN the/DT wide/JJ missouri/NNP 
+
+now/RB the/DT missouri/NNP is/VBZ a/DT mighty/JJ river/NN 
+look/VB away/RB ,/PCT you/PRP rollin/VBP '/PCT river/NN ./PCT 
+indians/NNPS camp/NN along/IN her/PRP$ border/NN 
+look/VB away/RB ./PCT we/PRP are/VBP bound/VBN away/RB 
+across/IN the/DT wide/JJ missouri/NNP 
+
+well/RB a/DT white/JJ man/NN loved/VBD an/DT indian/JJ maiden/NN 
+look/VB away/RB ,/PCT you/PRP rollin/VBP '/PCT river/NN 
+with/IN notions/NNS his/PRP$ canoe/NN was/VBD laden/JJ 
+look/VB away/RB ,/PCT we/PRP are/VBP bound/VBN away/RB 
+across/IN the/DT wide/JJ missouri/NNP 
+
+oh/UH shenandoah/NNP ,/PCT i/PRP love/VBP your/PRP$ daughter/NN 
+look/VB away/RB ,/PCT you/PRP rollin/VBP '/PCT river/NN 
+it/PRP was/VBD for/IN her/PRP$ i/PRP 'd/MD cross/VB the/DT water/NN ./PCT 
+look/VB away/RB ,/PCT we/PRP are/VBP bound/VBN away/RB 
+across/IN the/DT wide/JJ missouri/NNP 
+
+for/IN seven/CD long/JJ years/NNS i/PRP courted/VBD sally/NNP 
+look/VB away/RB ,/PCT you/PRP rollin/VBP '/PCT river/NN 
+seven/CD more/JJR years/NNS i/PRP longed/VBD to/TO have/VB her/PRP$ 
+look/VB away/RB ,/PCT we/PRP are/VBP bound/VBN away/RB 
+across/IN the/DT wide/JJ missouri/NNP 
+
+well/RB ,/PCT it/PRP is/VBZ fare-thee-well/JJ ,/PCT my/PRP$ dear/RB ,/PCT 
+i/PRP am/VBP bound/VBN to/TO leave/VB you/PRP 
+look/VB away/RB you/PRP rollin/VBG '/PCT river/NN 
+shenandoah/NNP ,/PCT i/PRP will/MD not/RB deceive/VB you/PRP 
+look/VB away/RB ,/PCT we/PRP are/VBP bound/VBN away/RB 
+across/IN the/DT wide/JJ missouri/NNP 
+

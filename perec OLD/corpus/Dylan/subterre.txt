@@ -1,0 +1,75 @@
+{"tags": [{"word": "johnny", "POS": "NNP"}, {"word": "'s", "POS": "POS"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "basement", "POS": "NN"}], "sentence": "johnny 's in the basement"}
+{"tags": [{"word": "mixing", "POS": "VBG"}, {"word": "up", "POS": "RP"}, {"word": "the", "POS": "DT"}, {"word": "medicine", "POS": "NN"}], "sentence": "mixing up the medicine"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "on", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "pavement", "POS": "NN"}], "sentence": "i am on the pavement"}
+{"tags": [{"word": "thinking", "POS": "VBG"}, {"word": "about", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "government", "POS": "NN"}], "sentence": "thinking about the government"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "man", "POS": "NN"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "trench", "POS": "NN"}, {"word": "coat", "POS": "NN"}], "sentence": "the man in the trench coat"}
+{"tags": [{"word": "badge", "POS": "NNP"}, {"word": "out", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "laid", "POS": "VBD"}, {"word": "off", "POS": "RP"}], "sentence": "badge out , laid off"}
+{"tags": [{"word": "says", "POS": "VBZ"}, {"word": "he", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "got", "POS": "VBD"}, {"word": "a", "POS": "DT"}, {"word": "bad", "POS": "JJ"}, {"word": "cough", "POS": "NN"}], "sentence": "says he is got a bad cough"}
+{"tags": [{"word": "wants", "POS": "VBZ"}, {"word": "to", "POS": "TO"}, {"word": "get", "POS": "VB"}, {"word": "it", "POS": "PRP"}, {"word": "paid", "POS": "VBN"}, {"word": "off", "POS": "RP"}], "sentence": "wants to get it paid off"}
+{"tags": [{"word": "look", "POS": "VB"}, {"word": "out", "POS": "RP"}, {"word": "kid", "POS": "NN"}], "sentence": "look out kid"}
+{"tags": [{"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "somethin'", "POS": "NN"}, {"word": "you", "POS": "PRP"}, {"word": "did", "POS": "VBD"}], "sentence": "it is somethin' you did"}
+{"tags": [{"word": "god", "POS": "NNP"}, {"word": "knows", "POS": "VBZ"}, {"word": "when", "POS": "WRB"}], "sentence": "god knows when"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "you", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "doin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": "it", "POS": "PRP"}, {"word": "again", "POS": "RB"}], "sentence": "but you are doin ' it again"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "better", "POS": "RB"}, {"word": "duck", "POS": "VBP"}, {"word": "down", "POS": "RP"}, {"word": "the", "POS": "DT"}, {"word": "alley", "POS": "NN"}, {"word": "way", "POS": "NN"}], "sentence": "you better duck down the alley way"}
+{"tags": [{"word": "lookin", "POS": "NNP"}, {"word": "'", "POS": "POS"}, {"word": "for", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "new", "POS": "JJ"}, {"word": "friend", "POS": "NN"}], "sentence": "lookin ' for a new friend"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "man", "POS": "NN"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "coon-skin", "POS": "JJ"}, {"word": "cap", "POS": "NN"}], "sentence": "the man in the coon-skin cap"}
+{"tags": [{"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "big", "POS": "JJ"}, {"word": "pen", "POS": "NN"}], "sentence": "in the big pen"}
+{"tags": [{"word": "wants", "POS": "VBZ"}, {"word": "eleven", "POS": "JJ"}, {"word": "dollar", "POS": "NN"}, {"word": "bills", "POS": "NNS"}], "sentence": "wants eleven dollar bills"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "only", "POS": "RB"}, {"word": "got", "POS": "VBD"}, {"word": "ten", "POS": "NN"}], "sentence": "you only got ten"}
+
+{"tags": [{"word": "maggie", "POS": "NNP"}, {"word": "comes", "POS": "VBZ"}, {"word": "fleet", "POS": "NN"}, {"word": "foot", "POS": "NN"}], "sentence": "maggie comes fleet foot"}
+{"tags": [{"word": "face", "POS": "NNP"}, {"word": "full", "POS": "JJ"}, {"word": "of", "POS": "IN"}, {"word": "black", "POS": "JJ"}, {"word": "soot", "POS": "NN"}], "sentence": "face full of black soot"}
+{"tags": [{"word": "talkin", "POS": "NNP"}, {"word": "'", "POS": "POS"}, {"word": "that", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "heat", "POS": "NN"}, {"word": "put", "POS": "VBD"}], "sentence": "talkin ' that the heat put"}
+{"tags": [{"word": "plants", "POS": "NNS"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "bed", "POS": "NN"}, {"word": "but", "POS": "CC"}], "sentence": "plants in the bed but"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "phone", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "tapped", "POS": "VBN"}, {"word": "anyway", "POS": "RB"}], "sentence": "the phone 's tapped anyway"}
+{"tags": [{"word": "maggie", "POS": "NNP"}, {"word": "says", "POS": "VBZ"}, {"word": "that", "POS": "IN"}, {"word": "many", "POS": "JJ"}, {"word": "say", "POS": "VBP"}], "sentence": "maggie says that many say"}
+{"tags": [{"word": "they", "POS": "PRP"}, {"word": "must", "POS": "MD"}, {"word": "bust", "POS": "NN"}, {"word": "in", "POS": "IN"}, {"word": "early", "POS": "JJ"}, {"word": "may", "POS": "NNP"}], "sentence": "they must bust in early may"}
+{"tags": [{"word": "orders", "POS": "NNS"}, {"word": "from", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "d.", "POS": "NNP"}, {"word": "a.", "POS": "NN"}], "sentence": "orders from the d. a."}
+{"tags": [{"word": "look", "POS": "VB"}, {"word": "out", "POS": "RP"}, {"word": "kid", "POS": "NN"}], "sentence": "look out kid"}
+{"tags": [{"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "matter", "POS": "VB"}, {"word": "what", "POS": "WP"}, {"word": "you", "POS": "PRP"}, {"word": "did", "POS": "VBD"}], "sentence": "do not matter what you did"}
+{"tags": [{"word": "walk", "POS": "VB"}, {"word": "on", "POS": "IN"}, {"word": "your", "POS": "PRP$"}, {"word": "tip", "POS": "NN"}, {"word": "toes", "POS": "NNS"}], "sentence": "walk on your tip toes"}
+{"tags": [{"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "try", "POS": "VB"}, {"word": "``", "POS": "PCT"}, {"word": "no", "POS": "DT"}, {"word": "doz", "POS": "NN"}, {"word": "''", "POS": "PCT"}], "sentence": "do not try `` no doz ''"}
+{"tags": [{"word": "better", "POS": "RBR"}, {"word": "stay", "POS": "VB"}, {"word": "away", "POS": "RB"}, {"word": "from", "POS": "IN"}, {"word": "those", "POS": "DT"}], "sentence": "better stay away from those"}
+{"tags": [{"word": "that", "POS": "DT"}, {"word": "carry", "POS": "VBP"}, {"word": "around", "POS": "RP"}, {"word": "a", "POS": "DT"}, {"word": "fire", "POS": "NN"}, {"word": "hose", "POS": "NN"}], "sentence": "that carry around a fire hose"}
+{"tags": [{"word": "keep", "POS": "VB"}, {"word": "a", "POS": "DT"}, {"word": "clean", "POS": "JJ"}, {"word": "nose", "POS": "NN"}], "sentence": "keep a clean nose"}
+{"tags": [{"word": "watch", "POS": "NNP"}, {"word": "the", "POS": "DT"}, {"word": "plain", "POS": "JJ"}, {"word": "clothes", "POS": "NNS"}], "sentence": "watch the plain clothes"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "need", "POS": "VB"}, {"word": "a", "POS": "DT"}, {"word": "weather", "POS": "NN"}, {"word": "man", "POS": "NN"}], "sentence": "you do not need a weather man"}
+{"tags": [{"word": "to", "POS": "TO"}, {"word": "know", "POS": "VB"}, {"word": "which", "POS": "WDT"}, {"word": "way", "POS": "NN"}, {"word": "the", "POS": "DT"}, {"word": "wind", "POS": "NN"}, {"word": "blows", "POS": "NNS"}], "sentence": "to know which way the wind blows"}
+
+{"tags": [{"word": "get", "POS": "VB"}, {"word": "sick", "POS": "JJ"}, {"word": ",", "POS": "PCT"}, {"word": "get", "POS": "VB"}, {"word": "well", "POS": "RB"}], "sentence": "get sick , get well"}
+{"tags": [{"word": "hang", "POS": "NNP"}, {"word": "around", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "ink", "POS": "NN"}, {"word": "well", "POS": "RB"}], "sentence": "hang around a ink well"}
+{"tags": [{"word": "ring", "POS": "NN"}, {"word": "bell", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "hard", "POS": "JJ"}, {"word": "to", "POS": "TO"}, {"word": "tell", "POS": "VB"}], "sentence": "ring bell , hard to tell"}
+{"tags": [{"word": "if", "POS": "IN"}, {"word": "anything", "POS": "NN"}, {"word": "is", "POS": "VBZ"}, {"word": "goin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": "to", "POS": "TO"}, {"word": "sell", "POS": "VB"}], "sentence": "if anything is goin ' to sell"}
+{"tags": [{"word": "try", "POS": "VB"}, {"word": "hard", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "get", "POS": "VB"}, {"word": "barred", "POS": "VBN"}], "sentence": "try hard , get barred"}
+{"tags": [{"word": "get", "POS": "VB"}, {"word": "back", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "write", "POS": "VB"}, {"word": "braille", "POS": "NN"}], "sentence": "get back , write braille"}
+{"tags": [{"word": "get", "POS": "VB"}, {"word": "jailed", "POS": "VBN"}, {"word": ",", "POS": "PCT"}, {"word": "jump", "POS": "NN"}, {"word": "bail", "POS": "NN"}], "sentence": "get jailed , jump bail"}
+{"tags": [{"word": "join", "POS": "VB"}, {"word": "the", "POS": "DT"}, {"word": "army", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "if", "POS": "IN"}, {"word": "you", "POS": "PRP"}, {"word": "fail", "POS": "VBP"}], "sentence": "join the army , if you fail"}
+{"tags": [{"word": "look", "POS": "VB"}, {"word": "out", "POS": "RP"}, {"word": "kid", "POS": "NN"}], "sentence": "look out kid"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "are", "POS": "VBP"}, {"word": "gonna", "POS": "NNS"}, {"word": "get", "POS": "VB"}, {"word": "hit", "POS": "VBN"}], "sentence": "you are gonna get hit"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "users", "POS": "NNS"}, {"word": ",", "POS": "PCT"}, {"word": "cheaters", "POS": "NNS"}], "sentence": "but users , cheaters"}
+{"tags": [{"word": "six-time", "POS": "JJ"}, {"word": "losers", "POS": "NNS"}], "sentence": "six-time losers"}
+{"tags": [{"word": "hang", "POS": "NNP"}, {"word": "around", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "theaters", "POS": "NNS"}], "sentence": "hang around the theaters"}
+{"tags": [{"word": "girl", "POS": "NNP"}, {"word": "by", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "whirlpool", "POS": "NN"}], "sentence": "girl by the whirlpool"}
+{"tags": [{"word": "lookin", "POS": "NNP"}, {"word": "'", "POS": "POS"}, {"word": "for", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "new", "POS": "JJ"}, {"word": "fool", "POS": "NN"}], "sentence": "lookin ' for a new fool"}
+{"tags": [{"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "follow", "POS": "VB"}, {"word": "leaders", "POS": "NNS"}], "sentence": "do not follow leaders"}
+{"tags": [{"word": "watch", "POS": "NNP"}, {"word": "the", "POS": "DT"}, {"word": "parkin", "POS": "NN"}, {"word": "'", "POS": "PCT"}, {"word": "meters", "POS": "NNS"}], "sentence": "watch the parkin ' meters"}
+
+{"tags": [{"word": "ah", "POS": "UH"}, {"word": "get", "POS": "VB"}, {"word": "born", "POS": "VBN"}, {"word": ",", "POS": "PCT"}, {"word": "keep", "POS": "VB"}, {"word": "warm", "POS": "JJ"}], "sentence": "ah get born , keep warm"}
+{"tags": [{"word": "short", "POS": "JJ"}, {"word": "pants", "POS": "NNS"}, {"word": ",", "POS": "PCT"}, {"word": "romance", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "learn", "POS": "VBP"}, {"word": "to", "POS": "TO"}, {"word": "dance", "POS": "VB"}], "sentence": "short pants , romance , learn to dance"}
+{"tags": [{"word": "get", "POS": "VB"}, {"word": "dressed", "POS": "VBN"}, {"word": ",", "POS": "PCT"}, {"word": "get", "POS": "VB"}, {"word": "blessed", "POS": "VBN"}], "sentence": "get dressed , get blessed"}
+{"tags": [{"word": "try", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "be", "POS": "VB"}, {"word": "a", "POS": "DT"}, {"word": "success", "POS": "NN"}], "sentence": "try to be a success"}
+{"tags": [{"word": "please", "POS": "VB"}, {"word": "her", "POS": "PRP"}, {"word": ",", "POS": "PCT"}, {"word": "please", "POS": "VB"}, {"word": "him", "POS": "PRP"}, {"word": ",", "POS": "PCT"}, {"word": "buy", "POS": "VB"}, {"word": "gifts", "POS": "NNS"}], "sentence": "please her , please him , buy gifts"}
+{"tags": [{"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "steal", "POS": "VB"}, {"word": ",", "POS": "PCT"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "lift", "POS": "VB"}], "sentence": "do not steal , do not lift"}
+{"tags": [{"word": "twenty", "POS": "CD"}, {"word": "years", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "schoolin", "POS": "NN"}, {"word": "'", "POS": "PCT"}], "sentence": "twenty years of schoolin '"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "they", "POS": "PRP"}, {"word": "put", "POS": "VBP"}, {"word": "you", "POS": "PRP"}, {"word": "on", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "day", "POS": "NN"}, {"word": "shift", "POS": "NN"}], "sentence": "and they put you on the day shift"}
+{"tags": [{"word": "look", "POS": "VB"}, {"word": "out", "POS": "RP"}, {"word": "kid", "POS": "NN"}], "sentence": "look out kid"}
+{"tags": [{"word": "they", "POS": "PRP"}, {"word": "keep", "POS": "VBP"}, {"word": "it", "POS": "PRP"}, {"word": "all", "POS": "DT"}, {"word": "hid", "POS": "VBD"}], "sentence": "they keep it all hid"}
+{"tags": [{"word": "better", "POS": "RBR"}, {"word": "jump", "POS": "VB"}, {"word": "down", "POS": "RP"}, {"word": "a", "POS": "DT"}, {"word": "manhole", "POS": "NN"}], "sentence": "better jump down a manhole"}
+{"tags": [{"word": "light", "POS": "NNP"}, {"word": "yourself", "POS": "PRP"}, {"word": "a", "POS": "DT"}, {"word": "candle", "POS": "NN"}], "sentence": "light yourself a candle"}
+{"tags": [{"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "wear", "POS": "VB"}, {"word": "sandals", "POS": "NNS"}], "sentence": "do not wear sandals"}
+{"tags": [{"word": "try", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "avoid", "POS": "VB"}, {"word": "the", "POS": "DT"}, {"word": "scandals", "POS": "NNS"}], "sentence": "try to avoid the scandals"}
+{"tags": [{"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "wanna", "POS": "VB"}, {"word": "be", "POS": "VB"}, {"word": "a", "POS": "DT"}, {"word": "bum", "POS": "NN"}], "sentence": "do not wanna be a bum"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "better", "POS": "RB"}, {"word": "chew", "POS": "VBP"}, {"word": "gum", "POS": "NN"}], "sentence": "you better chew gum"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "pump", "POS": "NN"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "work", "POS": "VB"}], "sentence": "the pump do not work"}
+{"tags": [{"word": "'cause", "POS": "VB"}, {"word": "the", "POS": "DT"}, {"word": "vandals", "POS": "NNS"}, {"word": "took", "POS": "VBD"}, {"word": "the", "POS": "DT"}, {"word": "handles", "POS": "VBZ"}], "sentence": "'cause the vandals took the handles"}
+

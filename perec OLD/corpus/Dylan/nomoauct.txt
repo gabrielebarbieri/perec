@@ -1,0 +1,20 @@
+{"tags": [{"word": "no", "POS": "DT"}, {"word": "more", "POS": "RBR"}, {"word": "auction", "POS": "NN"}, {"word": "block", "POS": "NN"}, {"word": "for", "POS": "IN"}, {"word": "me", "POS": "PRP"}], "sentence": "no more auction block for me"}
+{"tags": [{"word": "no", "POS": "DT"}, {"word": "more", "POS": "RBR"}, {"word": ",", "POS": "PCT"}, {"word": "no", "POS": "DT"}, {"word": "more", "POS": "JJR"}], "sentence": "no more , no more"}
+{"tags": [{"word": "no", "POS": "DT"}, {"word": "more", "POS": "RBR"}, {"word": "auction", "POS": "NN"}, {"word": "block", "POS": "NN"}, {"word": "for", "POS": "IN"}, {"word": "me", "POS": "PRP"}], "sentence": "no more auction block for me"}
+{"tags": [{"word": "many", "POS": "JJ"}, {"word": "thousands", "POS": "NNS"}, {"word": "gone", "POS": "VBN"}], "sentence": "many thousands gone"}
+
+{"tags": [{"word": "no", "POS": "DT"}, {"word": "more", "POS": "RBR"}, {"word": "driver", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "lash", "POS": "VB"}, {"word": "for", "POS": "IN"}, {"word": "me", "POS": "PRP"}], "sentence": "no more driver 's lash for me"}
+{"tags": [{"word": "no", "POS": "DT"}, {"word": "more", "POS": "RBR"}, {"word": ",", "POS": "PCT"}, {"word": "no", "POS": "DT"}, {"word": "more", "POS": "JJR"}], "sentence": "no more , no more"}
+{"tags": [{"word": "no", "POS": "DT"}, {"word": "more", "POS": "RBR"}, {"word": "driver", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "lash", "POS": "VB"}, {"word": "for", "POS": "IN"}, {"word": "me", "POS": "PRP"}], "sentence": "no more driver 's lash for me"}
+{"tags": [{"word": "many", "POS": "JJ"}, {"word": "thousands", "POS": "NNS"}, {"word": "gone", "POS": "VBN"}], "sentence": "many thousands gone"}
+
+{"tags": [{"word": "no", "POS": "DT"}, {"word": "more", "POS": "RBR"}, {"word": "whip", "POS": "NN"}, {"word": "lash", "POS": "VBP"}, {"word": "for", "POS": "IN"}, {"word": "me", "POS": "PRP"}], "sentence": "no more whip lash for me"}
+{"tags": [{"word": "no", "POS": "DT"}, {"word": "more", "POS": "RBR"}, {"word": ",", "POS": "PCT"}, {"word": "no", "POS": "DT"}, {"word": "more", "POS": "JJR"}], "sentence": "no more , no more"}
+{"tags": [{"word": "no", "POS": "DT"}, {"word": "more", "POS": "RBR"}, {"word": "pint", "POS": "JJ"}, {"word": "of", "POS": "IN"}, {"word": "salt", "POS": "NN"}, {"word": "for", "POS": "IN"}, {"word": "me", "POS": "PRP"}], "sentence": "no more pint of salt for me"}
+{"tags": [{"word": "many", "POS": "JJ"}, {"word": "thousands", "POS": "NNS"}, {"word": "gone", "POS": "VBN"}], "sentence": "many thousands gone"}
+
+{"tags": [{"word": "no", "POS": "DT"}, {"word": "more", "POS": "RBR"}, {"word": "auction", "POS": "NN"}, {"word": "block", "POS": "NN"}, {"word": "for", "POS": "IN"}, {"word": "me", "POS": "PRP"}], "sentence": "no more auction block for me"}
+{"tags": [{"word": "no", "POS": "DT"}, {"word": "more", "POS": "RBR"}, {"word": ",", "POS": "PCT"}, {"word": "no", "POS": "DT"}, {"word": "more", "POS": "JJR"}], "sentence": "no more , no more"}
+{"tags": [{"word": "no", "POS": "DT"}, {"word": "more", "POS": "RBR"}, {"word": "auction", "POS": "NN"}, {"word": "block", "POS": "NN"}, {"word": "for", "POS": "IN"}, {"word": "me", "POS": "PRP"}], "sentence": "no more auction block for me"}
+{"tags": [{"word": "many", "POS": "JJ"}, {"word": "thousands", "POS": "NNS"}, {"word": "gone", "POS": "VBN"}], "sentence": "many thousands gone"}
+

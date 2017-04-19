@@ -1,0 +1,39 @@
+after/IN a/DT while/IN we/PRP took/VBD in/IN the/DT clothes/NNS ,/PCT 
+nobody/NN said/VBD very/RB much/RB ./PCT 
+just/RB some/DT old/JJ wild/JJ shirts/NNS and/CC a/DT couple/NN pairs/NNS of/IN pants/NNS 
+which/WDT nobody/NN really/RB wanted/VBD to/TO touch/VB ./PCT 
+mama/NNP come/VBN in/IN and/CC picked/VBD up/RP a/DT book/NN 
+an/DT '/PCT papa/NN asked/VBD her/PRP$ what/WP it/PRP was/VBD ./PCT 
+someone/NN else/RB asked/VBD ,/PCT ``/PCT what/WP do/VBP you/PRP care/VB ?/PCT ''/PCT 
+papa/NN said/VBD ,/PCT ``/PCT well/UH ,/PCT just/RB because/RB ./PCT ''/PCT 
+then/RB they/PRP started/VBD to/TO take/VB back/RP their/PRP$ clothes/NNS ,/PCT 
+hang/NNP 'em/PRP on/IN the/DT line/NN ./PCT 
+it/PRP was/VBD january/NNP the/DT thirtieth/NN 
+and/CC everybody/NN was/VBD feelin/VBG '/PCT fine/NN ./PCT 
+
+the/DT next/JJ day/NN everybody/NN got/VBD up/RP 
+seein/NNP '/POS if/IN the/DT clothes/NNS were/VBD dry/JJ ./PCT 
+the/DT dogs/NNS were/VBD barking/VBG ,/PCT a/DT neighbor/NN passed/VBD ,/PCT 
+mama/NNP ,/PCT of/IN course/NN ,/PCT she/PRP said/VBD ,/PCT ``/PCT hi/FW !/PCT ''/PCT 
+``/PCT have/VBP you/PRP heard/VBD the/DT news/NN ?/PCT ''/PCT he/PRP said/VBD ,/PCT with/IN a/DT grin/NN ,/PCT 
+``/PCT the/DT vice-president/NNP 's/POS gone/VBN mad/JJ !/PCT ''/PCT 
+``/PCT where/WRB ?/PCT ''/PCT ``/PCT downtown/NN ./PCT ''/PCT ``/PCT when/WRB ?/PCT ''/PCT ``/PCT last/JJ night/NN ./PCT ''/PCT 
+``/PCT hmm/NNP ,/PCT say/VBP ,/PCT that/DT is/VBZ too/RB bad/JJ !/PCT ''/PCT 
+``/PCT well/UH ,/PCT there/EX is/VBZ nothin/NN '/PCT we/PRP can/MD do/VB about/IN it/PRP ,/PCT ''/PCT said/VBD the/DT neighbor/NN ,/PCT 
+``/PCT it/PRP is/VBZ just/RB somethin'/NN we/PRP are/VBP gonna/NNS have/VBP to/TO forget/VB ./PCT ''/PCT 
+``/PCT yes/UH ,/PCT i/PRP guess/VBP so/RB ,/PCT ''/PCT said/VBD ma/NNP ,/PCT 
+then/RB she/PRP asked/VBD me/PRP if/IN the/DT clothes/NNS was/VBD still/RB wet/JJ ./PCT 
+
+i/PRP reached/VBD up/RP ,/PCT touched/VBD my/PRP$ shirt/NN ,/PCT 
+and/CC the/DT neighbor/NN said/VBD ,/PCT ``/PCT are/VBP those/DT clothes/NNS yours/NNS ?/PCT ''/PCT 
+i/PRP said/VBD ,/PCT ``/PCT some/DT of/IN 'em/PRP ,/PCT not/RB all/DT of/IN 'em/PRP ./PCT ''/PCT 
+he/PRP said/VBD ,/PCT ``/PCT ya/NNP always/RB help/VBP out/RP around/IN here/RB with/IN the/DT chores/NNS ?/PCT ''/PCT 
+i/PRP said/VBD ,/PCT ``/PCT sometime/RB ,/PCT not/RB all/PDT the/DT time/NN ./PCT ''/PCT 
+then/RB my/PRP$ neighbor/NN ,/PCT he/PRP blew/VBD his/PRP$ nose/NN 
+just/RB as/IN papa/NN yelled/VBN outside/IN ,/PCT 
+``/PCT mama/NNP wants/VBZ you/PRP t/VBP '/PCT come/VBN back/RB in/IN the/DT house/NN and/CC bring/VB them/PRP clothes/NNS ./PCT ''/PCT 
+well/RB ,/PCT i/PRP just/RB do/VBP what/WP i/PRP am/VBP told/VBN ,/PCT 
+so/RB ,/PCT i/PRP did/VBD it/PRP ,/PCT of/IN course/NN ./PCT 
+i/PRP went/VBD back/RB in/IN the/DT house/NN and/CC mama/NNP met/VBD me/PRP 
+and/CC then/RB i/PRP shut/VBD all/PDT the/DT doors/NNS ./PCT 
+

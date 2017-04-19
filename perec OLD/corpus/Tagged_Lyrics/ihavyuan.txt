@@ -1,0 +1,27 @@
+let/VB me/PRP in/IN here/RB ,/PCT i/PRP know/VBP i/PRP have/VBP been/VBN here/RB ,/PCT 
+let/VB me/PRP into/IN your/PRP$ heart/NN ./PCT 
+let/VB me/PRP know/VB you/PRP ,/PCT let/VB me/PRP show/VB you/PRP ,/PCT 
+let/VB me/PRP roll/VB it/PRP to/TO you/PRP ./PCT 
+all/DT i/PRP have/VBP is/VBZ yours/NNS ,/PCT 
+all/DT you/PRP see/VBP is/VBZ mine/JJ 
+and/CC i/PRP am/VBP glad/JJ to/TO have/VB you/PRP in/IN my/PRP$ arms/NNS ,/PCT 
+i/PRP 'd/MD have/VB you/PRP any/DT time/NN ./PCT 
+
+let/VB me/PRP say/VB it/PRP ,/PCT let/VB me/PRP play/VB it/PRP ,/PCT 
+let/VB me/PRP lay/VB it/PRP on/IN you/PRP ./PCT 
+let/VB me/PRP know/VB you/PRP ,/PCT let/VB me/PRP show/VB you/PRP ,/PCT 
+let/VB me/PRP grow/VB it/PRP on/IN you/PRP ./PCT 
+all/DT i/PRP have/VBP is/VBZ yours/NNS ,/PCT 
+all/DT you/PRP see/VBP is/VBZ mine/JJ 
+and/CC i/PRP am/VBP glad/JJ to/TO have/VB you/PRP in/IN my/PRP$ arms/NNS ,/PCT 
+i/PRP 'd/MD have/VB you/PRP any/DT time/NN ./PCT 
+
+let/VB me/PRP in/IN here/RB ,/PCT i/PRP know/VBP i/PRP have/VBP been/VBN here/RB ,/PCT 
+let/VB me/PRP into/IN your/PRP$ heart/NN ./PCT 
+let/VB me/PRP know/VB you/PRP ,/PCT let/VB me/PRP show/VB you/PRP ,/PCT 
+let/VB me/PRP roll/VB it/PRP to/TO you/PRP ./PCT 
+all/DT i/PRP have/VBP is/VBZ yours/NNS ,/PCT 
+all/DT you/PRP see/VBP is/VBZ mine/JJ 
+and/CC i/PRP am/VBP glad/JJ to/TO have/VB you/PRP in/IN my/PRP$ arms/NNS ,/PCT 
+i/PRP 'd/MD have/VB you/PRP any/DT time/NN ./PCT 
+

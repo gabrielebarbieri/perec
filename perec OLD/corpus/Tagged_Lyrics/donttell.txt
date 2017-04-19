@@ -1,0 +1,40 @@
+do/VBP not/RB ya/PRP tell/VB henry/NNP ,/PCT 
+apple/NNP 's/POS got/VBD your/PRP$ fly/NN ./PCT 
+
+i/PRP went/VBD down/RB to/TO the/DT river/NN on/IN a/DT saturday/NNP morn/NN ,/PCT 
+a-lookin/VBG '/PCT around/RB just/RB to/TO see/VB who/WP is/VBZ born/VBN ./PCT 
+i/PRP found/VBD a/DT little/JJ chicken/NN down/RB on/IN his/PRP$ knees/NNS ,/PCT 
+i/PRP went/VBD up/RB and/CC yelled/VBN to/TO him/PRP ,/PCT 
+``/PCT please/UH ,/PCT please/VB ,/PCT please/VB !/PCT ''/PCT 
+he/PRP said/VBD ,/PCT ``/PCT do/VBP not/RB ya/PRP tell/VB henry/NNP ,/PCT 
+do/VBP not/RB ya/PRP tell/VB henry/NNP ,/PCT 
+do/VBP not/RB ya/PRP tell/VB henry/NNP ,/PCT 
+apple/NNP 's/POS got/VBD your/PRP$ fly/NN ./PCT ''/PCT 
+
+i/PRP went/VBD down/RB to/TO the/DT corner/NN at/IN a-half/JJ past/JJ ten/NN ,/PCT 
+i/PRP 's/POS lookin/VBG '/PCT around/RB ,/PCT i/PRP would/MD not/RB say/VB when/WRB ./PCT 
+i/PRP looked/VBD down/RB low/JJ ,/PCT i/PRP looked/VBD above/RB ,/PCT 
+and/CC who/WP did/VBD i/PRP see/VBP but/CC the/DT one/CD i/PRP love/VBP ./PCT 
+she/PRP said/VBD ,/PCT ``/PCT do/VBP not/RB ya/PRP tell/VB henry/NNP ,/PCT 
+do/VBP not/RB ya/PRP tell/VB henry/NNP ,/PCT 
+do/VBP not/RB ya/PRP tell/VB henry/NNP ,/PCT 
+apple/NNP 's/POS got/VBD your/PRP$ fly/NN ./PCT ''/PCT 
+
+now/RB ,/PCT i/PRP went/VBD down/RB to/TO the/DT beanery/NN at/IN half/DT past/JJ twelve/CD ,/PCT 
+a-lookin/VBG '/PCT around/RB just/RB to/TO see/VB myself/PRP ./PCT 
+i/PRP spotted/VBD a/DT horse/NN and/CC a/DT donkey/NN ,/PCT too/RB ,/PCT 
+i/PRP looked/VBD for/IN a/DT cow/NN and/CC i/PRP saw/VBD me/PRP a/DT few/JJ ./PCT 
+they/PRP said/VBD ,/PCT ``/PCT do/VBP not/RB ya/PRP tell/VB henry/NNP ,/PCT 
+do/VBP not/RB ya/PRP tell/VB henry/NNP ,/PCT 
+do/VBP not/RB ya/PRP tell/VB henry/NNP ,/PCT 
+apple/NNP 's/POS got/VBD your/PRP$ fly/NN ./PCT ''/PCT 
+
+now/RB ,/PCT i/PRP went/VBD down/RB to/TO the/DT pumphouse/NN the/DT other/JJ night/NN ,/PCT 
+a-lookin/VBG '/PCT around/RB ,/PCT it/PRP was/VBD outa/JJ sight/NN ./PCT 
+i/PRP looked/VBD high/JJ and/CC low/JJ for/IN that/DT big/JJ ol'/JJ tree/NN ,/PCT 
+i/PRP did/VBD go/VB upstairs/NN but/CC i/PRP did/VBD not/RB see/VB nobody/NN but/CC me/PRP ./PCT 
+i/PRP said/VBD ,/PCT ``/PCT do/VBP not/RB ya/PRP tell/VB henry/NNP ,/PCT 
+do/VBP not/RB ya/PRP tell/VB henry/NNP ,/PCT 
+do/VBP not/RB ya/PRP tell/VB henry/NNP ,/PCT 
+apple/NNP 's/POS got/VBD your/PRP$ fly/NN ./PCT ''/PCT 
+

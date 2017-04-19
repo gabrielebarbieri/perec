@@ -1,0 +1,3 @@
+{"tags": [{"word": "all", "POS": "PDT"}, {"word": "the", "POS": "DT"}, {"word": "tired", "POS": "JJ"}, {"word": "horses", "POS": "NNS"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "sun", "POS": "NN"}], "sentence": "all the tired horses in the sun"}
+{"tags": [{"word": "how", "POS": "WRB"}, {"word": "am", "POS": "VBP"}, {"word": "i", "POS": "PRP"}, {"word": "supposed", "POS": "VBN"}, {"word": "to", "POS": "TO"}, {"word": "get", "POS": "VB"}, {"word": "any", "POS": "DT"}, {"word": "ridin", "POS": "NN"}, {"word": "'", "POS": "PCT"}, {"word": "done", "POS": "VBN"}, {"word": "?", "POS": "PCT"}, {"word": "hmm", "POS": "NNP"}, {"word": ".", "POS": "PCT"}], "sentence": "how am i supposed to get any ridin ' done ? hmm ."}
+

@@ -1,0 +1,51 @@
+william/NNP zantzinger/NNP killed/VBD poor/JJ hattie/NNP carroll/NNP 
+with/IN a/DT cane/NN that/IN he/PRP twirled/VBD around/IN his/PRP$ diamond/NN ring/NN finger/NN 
+at/IN a/DT baltimore/NNP hotel/NN society/NN gath/NN `/PCT rin/NN '/PCT ./PCT 
+and/CC the/DT cops/NNS were/VBD called/VBN in/IN and/CC his/PRP$ weapon/NN took/VBD from/IN him/PRP 
+as/IN they/PRP rode/VBD him/PRP in/IN custody/NN down/IN to/TO the/DT station/NN 
+and/CC booked/VBN william/NNP zantzinger/NNP for/IN first-degree/JJ murder/NN ./PCT 
+but/CC you/PRP who/WP philosophize/VBP disgrace/NN and/CC criticize/VB all/DT fears/NNS ,/PCT 
+take/VB the/DT rag/NN away/RB from/IN your/PRP$ face/NN ./PCT 
+now/RB ai/VBP not/RB the/DT time/NN for/IN your/PRP$ tears/NNS ./PCT 
+
+william/NNP zantzinger/NNP ,/PCT who/WP at/IN twenty-four/CD years/NNS 
+owns/VBZ a/DT tobacco/NN farm/NN of/IN six/CD hundred/CD acres/NNS 
+with/IN rich/JJ wealthy/JJ parents/NNS who/WP provide/VBP and/CC protect/VBP him/PRP 
+and/CC high/JJ office/NN relations/NNS in/IN the/DT politics/NNS of/IN maryland/NNP ,/PCT 
+reacted/VBN to/TO his/PRP$ deed/NN with/IN a/DT shrug/VB of/IN his/PRP$ shoulders/NNS 
+and/CC swear/VB words/NNS and/CC sneering/VBG ,/PCT and/CC his/PRP$ tongue/NN it/PRP was/VBD snarling/VBG ,/PCT 
+in/IN a/DT matter/NN of/IN minutes/NNS on/IN bail/NN was/VBD out/IN walking/VBG ./PCT 
+but/CC you/PRP who/WP philosophize/VBP disgrace/NN and/CC criticize/VB all/DT fears/NNS ,/PCT 
+take/VB the/DT rag/NN away/RB from/IN your/PRP$ face/NN ./PCT 
+now/RB ai/VBP not/RB the/DT time/NN for/IN your/PRP$ tears/NNS ./PCT 
+
+hattie/NNP carroll/NNP was/VBD a/DT maid/NN of/IN the/DT kitchen/NN ./PCT 
+she/PRP was/VBD fifty-one/JJ years/NNS old/JJ and/CC gave/VBD birth/NN to/TO ten/VB children/NNS 
+who/WP carried/VBD the/DT dishes/NNS and/CC took/VBD out/RP the/DT garbage/NN 
+and/CC never/RB sat/VBD once/RB at/IN the/DT head/NN of/IN the/DT table/NN 
+and/CC did/VBD not/RB even/RB talk/VB to/TO the/DT people/NNS at/IN the/DT table/NN 
+who/WP just/RB cleaned/VBD up/RP all/PDT the/DT food/NN from/IN the/DT table/NN 
+and/CC emptied/VBD the/DT ashtrays/NNS on/IN a/DT whole/JJ other/JJ level/NN ,/PCT 
+got/NNP killed/VBN by/IN a/DT blow/NN ,/PCT lay/VBD slain/VBN by/IN a/DT cane/NN 
+that/DT sailed/VBD through/IN the/DT air/NN and/CC came/VBD down/RP through/IN the/DT room/NN ,/PCT 
+doomed/VBN and/CC determined/VBN to/TO destroy/VB all/PDT the/DT gentle/JJ ./PCT 
+and/CC she/PRP never/RB done/VBN nothing/NN to/TO william/NNP zantzinger/NNP ./PCT 
+but/CC you/PRP who/WP philosophize/VBP disgrace/NN and/CC criticize/VB all/DT fears/NNS ,/PCT 
+take/VB the/DT rag/NN away/RB from/IN your/PRP$ face/NN ./PCT 
+now/RB ai/VBP not/RB the/DT time/NN for/IN your/PRP$ tears/NNS ./PCT 
+
+in/IN the/DT courtroom/NN of/IN honor/NN ,/PCT the/DT judge/NN pounded/VBD his/PRP$ gavel/NN 
+to/TO show/VB that/IN all/DT 's/POS equal/JJ and/CC that/IN the/DT courts/NNS are/VBP on/IN the/DT level/NN 
+and/CC that/IN the/DT strings/NNS in/IN the/DT books/NNS ai/VBP not/RB pulled/VBN and/CC persuaded/VBN 
+and/CC that/IN even/RB the/DT nobles/NNS get/VBP properly/RB handled/VBN 
+once/RB that/IN the/DT cops/NNS have/VBP chased/VBN after/IN and/CC caught/VBD 'em/PRP 
+and/CC that/IN the/DT ladder/NN of/IN law/NN has/VBZ no/DT top/JJ and/CC no/DT bottom/NN ,/PCT 
+stared/VBN at/IN the/DT person/NN who/WP killed/VBD for/IN no/DT reason/NN 
+who/WP just/RB happened/VBD to/TO be/VB feelin/VBG '/PCT that/DT way/NN without/IN warnin/NN '/PCT ./PCT 
+and/CC he/PRP spoke/VBD through/IN his/PRP$ cloak/NN ,/PCT most/JJS deep/JJ and/CC distinguished/JJ ,/PCT 
+and/CC handed/VBN out/RP strongly/RB ,/PCT for/IN penalty/NN and/CC repentance/NN ,/PCT 
+william/NNP zantzinger/NNP with/IN a/DT six-month/JJ sentence/NN ./PCT 
+oh/UH ,/PCT but/CC you/PRP who/WP philosophize/VBP disgrace/NN and/CC criticize/VB all/DT fears/NNS ,/PCT 
+bury/VB the/DT rag/NN deep/RB in/IN your/PRP$ face/NN 
+for/IN now/RB is/VBZ the/DT time/NN for/IN your/PRP$ tears/NNS ./PCT 
+

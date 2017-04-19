@@ -1,0 +1,39 @@
+{"tags": [{"word": "sittin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": "here", "POS": "RB"}, {"word": "thinkin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}], "sentence": "sittin ' here thinkin '"}
+{"tags": [{"word": "where", "POS": "WRB"}, {"word": "does", "POS": "VBZ"}, {"word": "the", "POS": "DT"}, {"word": "money", "POS": "NN"}, {"word": "go", "POS": "VB"}], "sentence": "where does the money go"}
+{"tags": [{"word": "sittin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": "here", "POS": "RB"}, {"word": "thinkin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}], "sentence": "sittin ' here thinkin '"}
+{"tags": [{"word": "where", "POS": "WRB"}, {"word": "does", "POS": "VBZ"}, {"word": "the", "POS": "DT"}, {"word": "money", "POS": "NN"}, {"word": "go", "POS": "VB"}], "sentence": "where does the money go"}
+{"tags": [{"word": "well", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "i", "POS": "PRP"}, {"word": "give", "POS": "VBP"}, {"word": "it", "POS": "PRP"}, {"word": "to", "POS": "TO"}, {"word": "my", "POS": "PRP$"}, {"word": "woman", "POS": "NN"}], "sentence": "well , i give it to my woman"}
+{"tags": [{"word": "she", "POS": "PRP"}, {"word": "ai", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "got", "POS": "VBD"}, {"word": "it", "POS": "PRP"}, {"word": "no", "POS": "RB"}, {"word": "more", "POS": "RBR"}], "sentence": "she ai not got it no more"}
+
+{"tags": [{"word": "went", "POS": "VBD"}, {"word": "out", "POS": "RP"}, {"word": "last", "POS": "JJ"}, {"word": "night", "POS": "NN"}], "sentence": "went out last night"}
+{"tags": [{"word": "bought", "POS": "NNP"}, {"word": "two", "POS": "CD"}, {"word": "eggs", "POS": "NNS"}, {"word": "and", "POS": "CC"}, {"word": "a", "POS": "DT"}, {"word": "slice", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "ham", "POS": "NN"}], "sentence": "bought two eggs and a slice of ham"}
+{"tags": [{"word": "went", "POS": "VBD"}, {"word": "out", "POS": "RP"}, {"word": "last", "POS": "JJ"}, {"word": "night", "POS": "NN"}], "sentence": "went out last night"}
+{"tags": [{"word": "bought", "POS": "NNP"}, {"word": "two", "POS": "CD"}, {"word": "eggs", "POS": "NNS"}, {"word": "and", "POS": "CC"}, {"word": "a", "POS": "DT"}, {"word": "slice", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "ham", "POS": "NN"}], "sentence": "bought two eggs and a slice of ham"}
+{"tags": [{"word": "bill", "POS": "NNP"}, {"word": "came", "POS": "VBD"}, {"word": "to", "POS": "TO"}, {"word": "three", "POS": "CD"}, {"word": "dollars", "POS": "NNS"}, {"word": "and", "POS": "CC"}, {"word": "ten", "POS": "CD"}, {"word": "cents", "POS": "NNS"}], "sentence": "bill came to three dollars and ten cents"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "did", "POS": "VBD"}, {"word": "not", "POS": "RB"}, {"word": "even", "POS": "RB"}, {"word": "get", "POS": "VB"}, {"word": "no", "POS": "DT"}, {"word": "jam", "POS": "NN"}], "sentence": "and i did not even get no jam"}
+
+{"tags": [{"word": "man", "POS": "NN"}, {"word": "came", "POS": "VBD"}, {"word": "around", "POS": "IN"}], "sentence": "man came around"}
+{"tags": [{"word": "askin", "POS": "NNP"}, {"word": "'", "POS": "POS"}, {"word": "for", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "rent", "POS": "NN"}], "sentence": "askin ' for the rent"}
+{"tags": [{"word": "man", "POS": "NN"}, {"word": "came", "POS": "VBD"}, {"word": "around", "POS": "IN"}], "sentence": "man came around"}
+{"tags": [{"word": "askin", "POS": "NNP"}, {"word": "'", "POS": "POS"}, {"word": "for", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "rent", "POS": "NN"}], "sentence": "askin ' for the rent"}
+{"tags": [{"word": "well", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "i", "POS": "PRP"}, {"word": "looked", "POS": "VBD"}, {"word": "into", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "drawer", "POS": "NN"}], "sentence": "well , i looked into the drawer"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "money", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "all", "POS": "DT"}, {"word": "been", "POS": "VBN"}, {"word": "spent", "POS": "VBN"}], "sentence": "but the money 's all been spent"}
+
+{"tags": [{"word": "well", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "well", "POS": "RB"}], "sentence": "well , well"}
+{"tags": [{"word": "ai", "POS": "NNP"}, {"word": "not", "POS": "RB"}, {"word": "got", "POS": "VBD"}, {"word": "no", "POS": "DT"}, {"word": "bank", "POS": "NN"}, {"word": "account", "POS": "NN"}], "sentence": "ai not got no bank account"}
+{"tags": [{"word": "went", "POS": "VBD"}, {"word": "down", "POS": "RP"}, {"word": "to", "POS": "TO"}, {"word": "start", "POS": "VB"}, {"word": "one", "POS": "CD"}], "sentence": "went down to start one"}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "did", "POS": "VBD"}, {"word": "not", "POS": "RB"}, {"word": "have", "POS": "VB"}, {"word": "the", "POS": "DT"}, {"word": "right", "POS": "JJ"}, {"word": "amount", "POS": "NN"}], "sentence": "but i did not have the right amount"}
+
+{"tags": [{"word": "everything", "POS": "NNP"}, {"word": "'s", "POS": "POS"}, {"word": "inflated", "POS": "JJ"}], "sentence": "everything 's inflated"}
+{"tags": [{"word": "like", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "tire", "POS": "NN"}, {"word": "on", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "car", "POS": "NN"}], "sentence": "like a tire on a car"}
+{"tags": [{"word": "everything", "POS": "NNP"}, {"word": "'s", "POS": "POS"}, {"word": "inflated", "POS": "JJ"}], "sentence": "everything 's inflated"}
+{"tags": [{"word": "like", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "tire", "POS": "NN"}, {"word": "on", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "car", "POS": "NN"}], "sentence": "like a tire on a car"}
+{"tags": [{"word": "well", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "the", "POS": "DT"}, {"word": "man", "POS": "NN"}, {"word": "came", "POS": "VBD"}, {"word": "and", "POS": "CC"}, {"word": "took", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "chevy", "POS": "NNP"}, {"word": "back", "POS": "NN"}], "sentence": "well , the man came and took my chevy back"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "glad", "POS": "JJ"}, {"word": "i", "POS": "PRP"}, {"word": "hid", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "old", "POS": "JJ"}, {"word": "guitar", "POS": "NN"}], "sentence": "i am glad i hid my old guitar"}
+
+{"tags": [{"word": "come", "POS": "VBN"}, {"word": "to", "POS": "TO"}, {"word": "me", "POS": "PRP"}, {"word": ",", "POS": "PCT"}, {"word": "mama", "POS": "NN"}], "sentence": "come to me , mama"}
+{"tags": [{"word": "ease", "POS": "VB"}, {"word": "my", "POS": "PRP$"}, {"word": "money", "POS": "NN"}, {"word": "crisis", "POS": "NN"}, {"word": "now", "POS": "RB"}], "sentence": "ease my money crisis now"}
+{"tags": [{"word": "come", "POS": "VBN"}, {"word": "to", "POS": "TO"}, {"word": "me", "POS": "PRP"}, {"word": ",", "POS": "PCT"}, {"word": "mama", "POS": "NN"}], "sentence": "come to me , mama"}
+{"tags": [{"word": "ease", "POS": "VB"}, {"word": "my", "POS": "PRP$"}, {"word": "money", "POS": "NN"}, {"word": "crisis", "POS": "NN"}, {"word": "now", "POS": "RB"}], "sentence": "ease my money crisis now"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "need", "POS": "VBP"}, {"word": "something", "POS": "NN"}, {"word": "to", "POS": "TO"}, {"word": "support", "POS": "VB"}, {"word": "me", "POS": "PRP"}, {"word": ".", "POS": "PCT"}], "sentence": "i need something to support me ."}
+

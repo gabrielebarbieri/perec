@@ -1,0 +1,20 @@
+time/NNP passes/VBZ slowly/RB up/RB here/RB in/IN the/DT mountains/NNS ,/PCT 
+we/PRP sit/VBP beside/RB bridges/NNS and/CC walk/VB beside/RB fountains/NNS ,/PCT 
+catch/VB the/DT wild/JJ fishes/NNS that/WDT float/VBP through/IN the/DT stream/NN ,/PCT 
+time/NNP passes/VBZ slowly/RB when/WRB you/PRP are/VBP lost/VBN in/IN a/DT dream/NN ./PCT 
+
+once/RB i/PRP had/VBD a/DT sweetheart/NN ,/PCT she/PRP was/VBD fine/JJ and/CC good-lookin/JJ '/PCT ,/PCT 
+we/PRP sat/VBD in/IN her/PRP$ kitchen/NN while/IN her/PRP$ mama/NN was/VBD cookin/VBG '/PCT ,/PCT 
+stared/VBN out/IN the/DT window/NN to/TO the/DT stars/NNS high/JJ above/IN ,/PCT 
+time/NNP passes/VBZ slowly/RB when/WRB you/PRP are/VBP searchin/VBG '/PCT for/IN love/NN ./PCT 
+
+ai/NNP not/RB no/DT reason/NN to/TO go/VB in/IN a/DT wagon/NN to/TO town/NN ,/PCT 
+ai/NNP not/RB no/DT reason/NN to/TO go/VB to/TO the/DT fair/JJ ./PCT 
+ai/NNP not/RB no/DT reason/NN to/TO go/VB up/RP ,/PCT ai/VBP not/RB no/DT reason/NN to/TO go/VB down/RB ,/PCT 
+ai/NNP not/RB no/DT reason/NN to/TO go/VB anywhere/RB ./PCT 
+
+time/NNP passes/VBZ slowly/RB up/RB here/RB in/IN the/DT daylight/NN ,/PCT 
+we/PRP stare/VBP straight/RB ahead/RB and/CC try/VB so/RB hard/JJ to/TO stay/VB right/RB ,/PCT 
+like/IN the/DT red/NN rose/VBD of/IN summer/NN that/IN blooms/NNS in/IN the/DT day/NN ,/PCT 
+time/NNP passes/VBZ slowly/RB and/CC fades/VBZ away/RB ./PCT 
+

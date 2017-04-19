@@ -1,0 +1,44 @@
+delia/NNP was/VBD a/DT gambling/NN girl/NN ,/PCT gambled/VBD all/DT around/RB ,/PCT 
+delia/NNP was/VBD a/DT gambling/NN girl/NN ,/PCT she/PRP laid/VBD her/PRP money/NN down/RB ./PCT 
+all/PDT the/DT friends/NNS i/PRP ever/RB had/VBD are/VBP gone/VBN ./PCT 
+
+delia/NNP 's/POS dear/RB ol'/JJ mother/NN took/VBD a/DT trip/NN out/RB west/NNP ./PCT 
+when/WRB she/PRP returned/VBD ,/PCT little/JJ delia/NNP gone/VBN to/TO rest/VB ./PCT 
+all/PDT the/DT friends/NNS i/PRP ever/RB had/VBD are/VBP gone/VBN ./PCT 
+
+delia/NNP 's/POS daddy/JJ weeped/JJ ,/PCT delia/NNP 's/POS momma/NN moaned/VBD ./PCT 
+would/MD not/RB have/VB been/VBN so/RB bad/JJ if/IN the/DT poor/JJ girl/NN died/VBD at/IN home/NN ./PCT 
+all/PDT the/DT friends/NNS i/PRP ever/RB had/VBD are/VBP gone/VBN ./PCT 
+
+curtis/NNP '/POS looking/VBG high/RB ,/PCT curtis/NNP '/POS looking/VBG low/JJ ./PCT 
+he/PRP shot/VBD poor/JJ delia/NNP down/RP with/IN a/DT cruel/JJ forty-four/NN ./PCT 
+all/PDT the/DT friends/NNS i/PRP ever/RB had/VBD are/VBP gone/VBN ./PCT 
+
+high/NNP up/RB on/IN the/DT housetops/NNS ,/PCT high/JJ as/IN i/PRP can/MD see/VB ,/PCT 
+looking/VBG for/IN them/PRP rounders/NNS ,/PCT looking/VBG out/RP for/IN me/PRP ./PCT 
+all/PDT the/DT friends/NNS i/PRP ever/RB had/VBD are/VBP gone/VBN ./PCT 
+
+men/NN in/IN atlanta/NNP ,/PCT tryin/NN '/PCT to/TO pass/VB for/IN white/JJ ,/PCT 
+delia/NNP 's/POS in/IN the/DT graveyard/NN ,/PCT boys/NNS ,/PCT six/CD feet/NNS out/IN of/IN sight/NN ./PCT 
+all/PDT the/DT friends/NNS i/PRP ever/RB had/VBD are/VBP gone/VBN ./PCT 
+
+judge/NNP says/VBZ to/TO curtis/NNP ,/PCT ``/PCT what/WP is/VBZ this/DT noise/NN about/IN ?/PCT ''/PCT 
+``/PCT all/DT about/IN them/PRP rounders/NNS ,/PCT judge/NNP ,/PCT tryin/NN '/PCT to/TO cut/VB me/PRP out/RP ./PCT ''/PCT 
+all/PDT the/DT friends/NNS i/PRP ever/RB had/VBD are/VBP gone/VBN ./PCT 
+
+curtis/NNP said/VBD to/TO the/DT judge/NN ,/PCT ``/PCT what/WP might/MD be/VB my/PRP$ fine/NN ?/PCT ''/PCT 
+judge/NNP says/VBZ ,/PCT ``/PCT poor/NNP boy/NN ,/PCT you/PRP got/VBD ninety-nine/JJ ./PCT ''/PCT 
+all/PDT the/DT friends/NNS i/PRP ever/RB had/VBD are/VBP gone/VBN ./PCT 
+
+curtis/NNP '/PCT in/IN the/DT jail/NN house/NN ,/PCT drinking/NN from/IN an/DT old/JJ tin/NN cup/NN ./PCT 
+delia/NNP 's/POS in/IN the/DT graveyard/NN ,/PCT she/PRP ai/VBP not/RB gettin/VBG '/PCT up/RP ./PCT 
+all/PDT the/DT friends/NNS i/PRP ever/RB had/VBD are/VBP gone/VBN ./PCT 
+
+delia/NNP ,/PCT oh/UH delia/NNP ,/PCT how/WRB can/MD it/PRP be/VB ?/PCT 
+you/PRP loved/VBD all/DT them/PRP rounders/NNS ,/PCT never/RB did/VBD love/VB me/PRP ./PCT 
+all/PDT the/DT friends/NNS i/PRP ever/RB had/VBD are/VBP gone/VBN ./PCT 
+
+delia/NNP ,/PCT oh/UH delia/NNP ,/PCT how/WRB can/MD it/PRP be/VB ?/PCT 
+you/PRP wanted/VBD all/DT them/PRP rounders/NNS ,/PCT never/RB had/VBD time/NN for/IN me/PRP ./PCT 
+all/PDT the/DT friends/NNS i/PRP ever/RB had/VBD are/VBP gone/VBN ./PCT 
+

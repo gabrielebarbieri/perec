@@ -1,0 +1,62 @@
+oh/UH ,/PCT where/WRB have/VBP you/PRP been/VBN ,/PCT my/PRP$ blue-eyed/JJ son/NN ?/PCT 
+oh/UH ,/PCT where/WRB have/VBP you/PRP been/VBN ,/PCT my/PRP$ darling/NN young/JJ one/CD ?/PCT 
+i/PRP have/VBP stumbled/VBN on/IN the/DT side/NN of/IN twelve/CD misty/JJ mountains/NNS ,/PCT 
+i/PRP have/VBP walked/VBN and/CC i/PRP have/VBP crawled/VBN on/IN six/CD crooked/JJ highways/NNS ,/PCT 
+i/PRP have/VBP stepped/VBN in/IN the/DT middle/NN of/IN seven/CD sad/JJ forests/NNS ,/PCT 
+i/PRP have/VBP been/VBN out/RP in/IN front/NN of/IN a/DT dozen/NN dead/JJ oceans/NNS ,/PCT 
+i/PRP have/VBP been/VBN ten/VBN thousand/CD miles/NNS in/IN the/DT mouth/NN of/IN a/DT graveyard/NN ,/PCT 
+and/CC it/PRP is/VBZ a/DT hard/RB ,/PCT and/CC it/PRP is/VBZ a/DT hard/RB ,/PCT it/PRP is/VBZ a/DT hard/RB ,/PCT and/CC it/PRP is/VBZ a/DT hard/RB ,/PCT 
+and/CC it/PRP is/VBZ a/DT hard/JJ rain/NN 's/POS a-gonna/JJ fall/NN ./PCT 
+
+oh/UH ,/PCT what/WP did/VBD you/PRP see/VBP ,/PCT my/PRP$ blue-eyed/JJ son/NN ?/PCT 
+oh/UH ,/PCT what/WP did/VBD you/PRP see/VBP ,/PCT my/PRP$ darling/NN young/JJ one/CD ?/PCT 
+i/PRP saw/VBD a/DT newborn/JJ baby/NN with/IN wild/JJ wolves/NNS all/DT around/IN it/PRP ,/PCT 
+i/PRP saw/VBD a/DT highway/NN of/IN diamonds/NNS with/IN nobody/NN on/IN it/PRP ,/PCT 
+i/PRP saw/VBD a/DT black/JJ branch/NN with/IN blood/NN that/IN kept/VBD drippin/NN '/PCT ,/PCT 
+i/PRP saw/VBD a/DT room/NN full/JJ of/IN men/NNS with/IN their/PRP$ hammers/NNS a-bleedin/VBG '/PCT ,/PCT 
+i/PRP saw/VBD a/DT white/JJ ladder/NN all/DT covered/VBN with/IN water/NN ,/PCT 
+i/PRP saw/VBD ten/CD thousand/CD talkers/NNS whose/WP$ tongues/NNS were/VBD all/DT broken/VBN ,/PCT 
+i/PRP saw/VBD guns/NNS and/CC sharp/JJ swords/NNS in/IN the/DT hands/NNS of/IN young/JJ children/NNS ,/PCT 
+and/CC it/PRP is/VBZ a/DT hard/RB ,/PCT and/CC it/PRP is/VBZ a/DT hard/RB ,/PCT it/PRP is/VBZ a/DT hard/RB ,/PCT it/PRP is/VBZ a/DT hard/RB ,/PCT 
+and/CC it/PRP is/VBZ a/DT hard/JJ rain/NN 's/POS a-gonna/JJ fall/NN ./PCT 
+
+and/CC what/WP did/VBD you/PRP hear/VBP ,/PCT my/PRP$ blue-eyed/JJ son/NN ?/PCT 
+and/CC what/WP did/VBD you/PRP hear/VBP ,/PCT my/PRP$ darling/NN young/JJ one/CD ?/PCT 
+i/PRP heard/VBD the/DT sound/NN of/IN a/DT thunder/NN ,/PCT it/PRP roared/VBD out/RP a/DT warnin/NN '/PCT ,/PCT 
+heard/VBN the/DT roar/NN of/IN a/DT wave/NN that/WDT could/MD drown/VB the/DT whole/JJ world/NN ,/PCT 
+heard/VBN one/CD hundred/CD drummers/NNS whose/WP$ hands/NNS were/VBD a-blazin/VBG '/PCT ,/PCT 
+heard/VBN ten/NN thousand/CD whisperin/NN '/PCT and/CC nobody/NN listenin/NN '/PCT ,/PCT 
+heard/VBN one/CD person/NN starve/NN ,/PCT i/PRP heard/VBD many/JJ people/NNS laughin/VBG '/PCT ,/PCT 
+heard/VBN the/DT song/NN of/IN a/DT poet/NN who/WP died/VBD in/IN the/DT gutter/NN ,/PCT 
+heard/VBN the/DT sound/NN of/IN a/DT clown/NN who/WP cried/VBD in/IN the/DT alley/NN ,/PCT 
+and/CC it/PRP is/VBZ a/DT hard/RB ,/PCT and/CC it/PRP is/VBZ a/DT hard/RB ,/PCT it/PRP is/VBZ a/DT hard/RB ,/PCT it/PRP is/VBZ a/DT hard/RB ,/PCT 
+and/CC it/PRP is/VBZ a/DT hard/JJ rain/NN 's/POS a-gonna/JJ fall/NN ./PCT 
+
+oh/UH ,/PCT who/WP did/VBD you/PRP meet/VBP ,/PCT my/PRP$ blue-eyed/JJ son/NN ?/PCT 
+who/WP did/VBD you/PRP meet/VBP ,/PCT my/PRP$ darling/NN young/JJ one/CD ?/PCT 
+i/PRP met/VBD a/DT young/JJ child/NN beside/IN a/DT dead/JJ pony/NN ,/PCT 
+i/PRP met/VBD a/DT white/JJ man/NN who/WP walked/VBD a/DT black/JJ dog/NN ,/PCT 
+i/PRP met/VBD a/DT young/JJ woman/NN whose/WP$ body/NN was/VBD burning/VBG ,/PCT 
+i/PRP met/VBD a/DT young/JJ girl/NN ,/PCT she/PRP gave/VBD me/PRP a/DT rainbow/NN ,/PCT 
+i/PRP met/VBD one/CD man/NN who/WP was/VBD wounded/VBN in/IN love/NN ,/PCT 
+i/PRP met/VBD another/DT man/NN who/WP was/VBD wounded/VBN with/IN hatred/NN ,/PCT 
+and/CC it/PRP is/VBZ a/DT hard/RB ,/PCT it/PRP is/VBZ a/DT hard/RB ,/PCT it/PRP is/VBZ a/DT hard/RB ,/PCT it/PRP is/VBZ a/DT hard/RB ,/PCT 
+it/PRP is/VBZ a/DT hard/JJ rain/NN 's/POS a-gonna/JJ fall/NN ./PCT 
+
+oh/UH ,/PCT what/WP 'll/MD you/PRP do/VB now/RB ,/PCT my/PRP$ blue-eyed/JJ son/NN ?/PCT 
+oh/UH ,/PCT what/WP 'll/MD you/PRP do/VB now/RB ,/PCT my/PRP$ darling/NN young/JJ one/CD ?/PCT 
+i/PRP am/VBP a-goin/VBG '/PCT back/RB out/IN `/PCT fore/NN the/DT rain/NN starts/VBZ a-fallin/NN '/PCT ,/PCT 
+i/PRP 'll/MD walk/VB to/TO the/DT depths/NNS of/IN the/DT deepest/JJS black/JJ forest/NN ,/PCT 
+where/WRB the/DT people/NNS are/VBP many/JJ and/CC their/PRP$ hands/NNS are/VBP all/DT empty/JJ ,/PCT 
+where/WRB the/DT pellets/NNS of/IN poison/NN are/VBP flooding/VBG their/PRP$ waters/NNS ,/PCT 
+where/WRB the/DT home/NN in/IN the/DT valley/NN meets/VBZ the/DT damp/JJ dirty/JJ prison/NN ,/PCT 
+where/WRB the/DT executioner/NN 's/POS face/NN is/VBZ always/RB well/RB hidden/VBN ,/PCT 
+where/WRB hunger/NN is/VBZ ugly/JJ ,/PCT where/WRB souls/NNS are/VBP forgotten/VBN ,/PCT 
+where/WRB black/JJ is/VBZ the/DT color/NN ,/PCT where/WRB none/NN is/VBZ the/DT number/NN ,/PCT 
+and/CC i/PRP 'll/MD tell/VB it/PRP and/CC think/VB it/PRP and/CC speak/VB it/PRP and/CC breathe/VB it/PRP ,/PCT 
+and/CC reflect/VBP it/PRP from/IN the/DT mountain/NN so/IN all/DT souls/NNS can/MD see/VB it/PRP ,/PCT 
+then/RB i/PRP 'll/MD stand/VB on/IN the/DT ocean/NN until/IN i/PRP start/VBP sinkin/VBG '/PCT ,/PCT 
+but/CC i/PRP 'll/MD know/VB my/PRP$ song/NN well/RB before/IN i/PRP start/VBP singin/VBG '/PCT ,/PCT 
+and/CC it/PRP is/VBZ a/DT hard/RB ,/PCT it/PRP is/VBZ a/DT hard/RB ,/PCT it/PRP is/VBZ a/DT hard/RB ,/PCT it/PRP is/VBZ a/DT hard/RB ,/PCT 
+it/PRP is/VBZ a/DT hard/JJ rain/NN 's/POS a-gonna/JJ fall/NN ./PCT 
+

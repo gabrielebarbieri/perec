@@ -1,0 +1,27 @@
+how/WRB many/JJ roads/NNS must/MD a/DT man/NN walk/VB down/RB 
+before/IN you/PRP call/VBP him/PRP a/DT man/NN ?/PCT 
+yes/UH ,/PCT 'n'/CC how/WRB many/JJ seas/NNS must/MD a/DT white/JJ dove/VBD sail/NN 
+before/IN she/PRP sleeps/VBZ in/IN the/DT sand/NN ?/PCT 
+yes/UH ,/PCT 'n'/CC how/WRB many/JJ times/NNS must/MD the/DT cannon/NN balls/NNS fly/VBP 
+before/IN they/PRP are/VBP forever/RB banned/VBN ?/PCT 
+the/DT answer/NN ,/PCT my/PRP$ friend/NN ,/PCT is/VBZ blowin/VBG '/PCT in/IN the/DT wind/NN ,/PCT 
+the/DT answer/NN is/VBZ blowin/VBG '/PCT in/IN the/DT wind/NN ./PCT 
+
+how/WRB many/JJ times/NNS must/MD a/DT man/NN look/VB up/RB 
+before/IN he/PRP can/MD see/VB the/DT sky/NN ?/PCT 
+yes/UH ,/PCT 'n'/CC how/WRB many/JJ ears/NNS must/MD one/CD man/NN have/VBP 
+before/IN he/PRP can/MD hear/VB people/NNS cry/VB ?/PCT 
+yes/UH ,/PCT 'n'/CC how/WRB many/JJ deaths/NNS will/MD it/PRP take/VB till/IN he/PRP knows/VBZ 
+that/DT too/RB many/JJ people/NNS have/VBP died/VBN ?/PCT 
+the/DT answer/NN ,/PCT my/PRP$ friend/NN ,/PCT is/VBZ blowin/VBG '/PCT in/IN the/DT wind/NN ,/PCT 
+the/DT answer/NN is/VBZ blowin/VBG '/PCT in/IN the/DT wind/NN ./PCT 
+
+how/WRB many/JJ years/NNS can/MD a/DT mountain/NN exist/VBP 
+before/IN it/PRP is/VBZ washed/VBN to/TO the/DT sea/NN ?/PCT 
+yes/UH ,/PCT 'n'/CC how/WRB many/JJ years/NNS can/MD some/DT people/NNS exist/VBP 
+before/IN they/PRP are/VBP allowed/VBN to/TO be/VB free/JJ ?/PCT 
+yes/UH ,/PCT 'n'/CC how/WRB many/JJ times/NNS can/MD a/DT man/NN turn/VB his/PRP$ head/NN ,/PCT 
+pretending/VBG he/PRP just/RB does/VBZ not/RB see/VB ?/PCT 
+the/DT answer/NN ,/PCT my/PRP$ friend/NN ,/PCT is/VBZ blowin/VBG '/PCT in/IN the/DT wind/NN ,/PCT 
+the/DT answer/NN is/VBZ blowin/VBG '/PCT in/IN the/DT wind/NN ./PCT 
+

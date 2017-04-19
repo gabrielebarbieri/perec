@@ -1,0 +1,39 @@
+now/RB ,/PCT there/EX is/VBZ a/DT certain/JJ thing/NN 
+that/DT i/PRP learned/VBD from/IN jim/NNP 
+that/IN he/PRP 'd/MD always/RB make/VB sure/JJ i/PRP 'd/MD understand/VB 
+and/CC that/DT is/VBZ that/IN there/EX is/VBZ a/DT certain/JJ way/NN 
+that/IN a/DT man/NN must/MD swim/VB 
+if/IN he/PRP expects/VBZ to/TO live/VB off/RP 
+of/IN the/DT fat/NN of/IN the/DT land/NN ./PCT 
+open/NNP the/DT door/NN ,/PCT homer/NNP ,/PCT 
+i/PRP have/VBP heard/VBN it/PRP said/VBD before/RB ./PCT 
+open/NNP the/DT door/NN ,/PCT homer/NNP ,/PCT 
+i/PRP have/VBP heard/VBN it/PRP said/VBD before/IN 
+but/CC i/PRP ai/VBP not/RB gonna/VB hear/VB it/PRP said/VBD no/RB more/RBR ./PCT 
+
+now/RB ,/PCT there/EX is/VBZ a/DT certain/JJ thing/NN 
+that/DT i/PRP learned/VBD from/IN my/PRP$ friend/NN ,/PCT mouse/NNP 
+a/DT fella/NN who/WP always/RB blushes/VBZ 
+and/CC that/DT is/VBZ that/IN ev/NN `/PCT ryone/NN 
+must/MD always/RB flush/VB out/RP his/PRP$ house/NN 
+if/IN he/PRP do/VBP not/RB expect/VB to/TO be/VB 
+goin/NNP '/POS `/PCT round/NN housing/NN flushes/NNS ./PCT 
+open/NNP the/DT door/NN ,/PCT homer/NNP ,/PCT 
+i/PRP have/VBP heard/VBN it/PRP said/VBD before/RB ./PCT 
+open/NNP the/DT door/NN ,/PCT homer/NNP ,/PCT 
+i/PRP have/VBP heard/VBN it/PRP said/VBD before/IN 
+but/CC i/PRP ai/VBP not/RB gonna/VB hear/VB it/PRP said/VBD no/RB more/RBR ./PCT 
+
+``/PCT take/VB care/NN of/IN all/DT your/PRP$ memories/NNS ''/PCT 
+said/NNP my/PRP$ friend/NN ,/PCT mick/NNP 
+``/PCT for/IN you/PRP can/MD not/RB relive/VB them/PRP 
+and/CC remember/VB when/WRB you/PRP are/VBP out/IN there/RB 
+tryin/NNP '/POS to/TO heal/VB the/DT sick/JJ 
+that/DT you/PRP must/MD always/RB 
+first/NNP forgive/VBP them/PRP ./PCT ''/PCT 
+open/NNP the/DT door/NN ,/PCT homer/NNP ,/PCT 
+i/PRP have/VBP heard/VBN it/PRP said/VBD before/RB ./PCT 
+open/NNP the/DT door/NN ,/PCT homer/NNP ,/PCT 
+i/PRP have/VBP heard/VBN it/PRP said/VBD before/IN 
+but/CC i/PRP ai/VBP not/RB gonna/VB hear/VB it/PRP said/VBD no/RB more/RBR ./PCT 
+

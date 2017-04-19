@@ -1,0 +1,23 @@
+peggy/NNP day/NNP stole/VBD my/PRP$ poor/JJ heart/NN away/RB ,/PCT 
+by/IN golly/RB ,/PCT what/WP more/RBR can/MD i/PRP say/VB ,/PCT 
+love/NNP to/TO spend/VB the/DT night/NN with/IN peggy/NNP day/NNP ./PCT 
+
+peggy/NNP night/NN makes/VBZ my/PRP$ future/JJ look/NN so/RB bright/JJ ,/PCT 
+man/NN ,/PCT that/IN girl/NN is/VBZ out/IN of/IN sight/NN ,/PCT 
+love/NNP to/TO spend/VB the/DT day/NN with/IN peggy/NNP night/NN ./PCT 
+
+well/RB ,/PCT you/PRP know/VBP that/IN even/RB before/IN i/PRP learned/VBD her/PRP$ name/NN ,/PCT 
+you/PRP know/VBP i/PRP loved/VBD her/PRP$ just/RB the/DT same/JJ ./PCT 
+an/DT '/PCT i/PRP tell/VBP 'em/PRP all/DT ,/PCT wherever/WRB i/PRP may/MD go/VB ,/PCT 
+just/RB so/IN they/PRP 'll/MD know/VB ,/PCT that/IN she/PRP is/VBZ my/PRP$ little/JJ lady/NN 
+and/CC i/PRP love/VBP her/PRP$ so/RB ./PCT 
+
+peggy/NNP day/NNP stole/VBD my/PRP$ poor/JJ heart/NN away/RB ,/PCT 
+turned/VBN my/PRP$ skies/NNS to/TO blue/JJ from/IN gray/JJ ,/PCT 
+love/NNP to/TO spend/VB the/DT night/NN with/IN peggy/NNP day/NNP ./PCT 
+
+peggy/NNP day/NNP stole/VBD my/PRP$ poor/JJ heart/NN away/RB ,/PCT 
+by/IN golly/RB ,/PCT what/WP more/RBR can/MD i/PRP say/VB ,/PCT 
+love/NNP to/TO spend/VB the/DT night/NN with/IN peggy/NNP day/NNP ./PCT 
+love/NNP to/TO spend/VB the/DT night/NN with/IN peggy/NNP day/NNP ./PCT 
+

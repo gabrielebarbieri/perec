@@ -1,0 +1,60 @@
+{"tags": [{"word": "farewell", "POS": "NNP"}, {"word": "angelina", "POS": "NNP"}], "sentence": "farewell angelina"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "bells", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "crown", "POS": "NN"}], "sentence": "the bells of the crown"}
+{"tags": [{"word": "are", "POS": "VBP"}, {"word": "being", "POS": "VBG"}, {"word": "stolen", "POS": "VBN"}, {"word": "by", "POS": "IN"}, {"word": "bandits", "POS": "NNS"}], "sentence": "are being stolen by bandits"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "must", "POS": "MD"}, {"word": "follow", "POS": "VB"}, {"word": "the", "POS": "DT"}, {"word": "sound", "POS": "NN"}], "sentence": "i must follow the sound"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "triangle", "POS": "JJ"}, {"word": "tingles", "POS": "NNS"}], "sentence": "the triangle tingles"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "trumpet", "POS": "NN"}, {"word": "play", "POS": "NN"}, {"word": "slow", "POS": "JJ"}], "sentence": "and the trumpet play slow"}
+{"tags": [{"word": "farewell", "POS": "NNP"}, {"word": "angelina", "POS": "NNP"}], "sentence": "farewell angelina"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "sky", "POS": "NN"}, {"word": "is", "POS": "VBZ"}, {"word": "on", "POS": "IN"}, {"word": "fire", "POS": "NN"}], "sentence": "the sky is on fire"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "must", "POS": "MD"}, {"word": "go", "POS": "VB"}, {"word": ".", "POS": "PCT"}], "sentence": "and i must go ."}
+
+{"tags": [{"word": "there", "POS": "EX"}, {"word": "is", "POS": "VBZ"}, {"word": "no", "POS": "DT"}, {"word": "need", "POS": "NN"}, {"word": "for", "POS": "IN"}, {"word": "anger", "POS": "NN"}], "sentence": "there is no need for anger"}
+{"tags": [{"word": "there", "POS": "EX"}, {"word": "is", "POS": "VBZ"}, {"word": "no", "POS": "DT"}, {"word": "need", "POS": "NN"}, {"word": "for", "POS": "IN"}, {"word": "blame", "POS": "NN"}], "sentence": "there is no need for blame"}
+{"tags": [{"word": "there", "POS": "EX"}, {"word": "is", "POS": "VBZ"}, {"word": "nothing", "POS": "NN"}, {"word": "to", "POS": "TO"}, {"word": "prove", "POS": "VB"}], "sentence": "there is nothing to prove"}
+{"tags": [{"word": "ev", "POS": "NNP"}, {"word": "`", "POS": "PCT"}, {"word": "rything", "POS": "NN"}, {"word": "is", "POS": "VBZ"}, {"word": "still", "POS": "RB"}, {"word": "the", "POS": "DT"}, {"word": "same", "POS": "JJ"}], "sentence": "ev ` rything is still the same"}
+{"tags": [{"word": "just", "POS": "RB"}, {"word": "a", "POS": "DT"}, {"word": "table", "POS": "NN"}, {"word": "standing", "POS": "NN"}, {"word": "empty", "POS": "JJ"}], "sentence": "just a table standing empty"}
+{"tags": [{"word": "by", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "edge", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "sea", "POS": "NN"}], "sentence": "by the edge of the sea"}
+{"tags": [{"word": "farewell", "POS": "NNP"}, {"word": "angelina", "POS": "NNP"}], "sentence": "farewell angelina"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "sky", "POS": "NN"}, {"word": "is", "POS": "VBZ"}, {"word": "trembling", "POS": "VBG"}], "sentence": "the sky is trembling"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "must", "POS": "MD"}, {"word": "leave", "POS": "VB"}, {"word": ".", "POS": "PCT"}], "sentence": "and i must leave ."}
+
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "jacks", "POS": "NNS"}, {"word": "and", "POS": "CC"}, {"word": "queens", "POS": "NNS"}], "sentence": "the jacks and queens"}
+{"tags": [{"word": "have", "POS": "NNP"}, {"word": "forsaked", "POS": "VBD"}, {"word": "the", "POS": "DT"}, {"word": "courtyard", "POS": "NN"}], "sentence": "have forsaked the courtyard"}
+{"tags": [{"word": "fifty-two", "POS": "JJ"}, {"word": "gypsies", "POS": "NNS"}], "sentence": "fifty-two gypsies"}
+{"tags": [{"word": "now", "POS": "RB"}, {"word": "file", "POS": "NN"}, {"word": "past", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "guards", "POS": "NNS"}], "sentence": "now file past the guards"}
+{"tags": [{"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "space", "POS": "NN"}, {"word": "where", "POS": "WRB"}, {"word": "the", "POS": "DT"}, {"word": "deuce", "POS": "NN"}], "sentence": "in the space where the deuce"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "ace", "POS": "NN"}, {"word": "once", "POS": "RB"}, {"word": "ran", "POS": "VBD"}, {"word": "wild", "POS": "JJ"}], "sentence": "and the ace once ran wild"}
+{"tags": [{"word": "farewell", "POS": "NNP"}, {"word": "angelina", "POS": "NNP"}], "sentence": "farewell angelina"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "sky", "POS": "NN"}, {"word": "is", "POS": "VBZ"}, {"word": "folding", "POS": "JJ"}], "sentence": "the sky is folding"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "'ll", "POS": "MD"}, {"word": "see", "POS": "VB"}, {"word": "you", "POS": "PRP"}, {"word": "in", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "while", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "i 'll see you in a while ."}
+
+{"tags": [{"word": "see", "POS": "VB"}, {"word": "the", "POS": "DT"}, {"word": "cross-eyed", "POS": "JJ"}, {"word": "pirates", "POS": "NNS"}, {"word": "sitting", "POS": "VBG"}], "sentence": "see the cross-eyed pirates sitting"}
+{"tags": [{"word": "perched", "POS": "VBN"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "sun", "POS": "NN"}], "sentence": "perched in the sun"}
+{"tags": [{"word": "shooting", "POS": "VBG"}, {"word": "tin", "POS": "NN"}, {"word": "cans", "POS": "NNS"}], "sentence": "shooting tin cans"}
+{"tags": [{"word": "with", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "sawed-off", "POS": "JJ"}, {"word": "shotgun", "POS": "NN"}], "sentence": "with a sawed-off shotgun"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "neighbors", "POS": "NNS"}, {"word": "they", "POS": "PRP"}, {"word": "clap", "POS": "VBP"}], "sentence": "and the neighbors they clap"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "they", "POS": "PRP"}, {"word": "cheer", "POS": "VBP"}, {"word": "with", "POS": "IN"}, {"word": "each", "POS": "DT"}, {"word": "blast", "POS": "NN"}], "sentence": "and they cheer with each blast"}
+{"tags": [{"word": "farewell", "POS": "NNP"}, {"word": "angelina", "POS": "NNP"}], "sentence": "farewell angelina"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "sky", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "changing", "POS": "VBG"}, {"word": "color", "POS": "NN"}], "sentence": "the sky 's changing color"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "must", "POS": "MD"}, {"word": "leave", "POS": "VB"}, {"word": "fast", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "and i must leave fast ."}
+
+{"tags": [{"word": "king", "POS": "NNP"}, {"word": "kong", "POS": "NNP"}, {"word": ",", "POS": "PCT"}, {"word": "little", "POS": "JJ"}, {"word": "elves", "POS": "NNS"}], "sentence": "king kong , little elves"}
+{"tags": [{"word": "on", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "rooftoops", "POS": "NNS"}, {"word": "they", "POS": "PRP"}, {"word": "dance", "POS": "VBP"}], "sentence": "on the rooftoops they dance"}
+{"tags": [{"word": "valentino-type", "POS": "JJ"}, {"word": "tangos", "POS": "NNS"}], "sentence": "valentino-type tangos"}
+{"tags": [{"word": "while", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "make-up", "POS": "JJ"}, {"word": "man", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "hands", "POS": "NNS"}], "sentence": "while the make-up man 's hands"}
+{"tags": [{"word": "shut", "POS": "VB"}, {"word": "the", "POS": "DT"}, {"word": "eyes", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "dead", "POS": "JJ"}], "sentence": "shut the eyes of the dead"}
+{"tags": [{"word": "not", "POS": "RB"}, {"word": "to", "POS": "TO"}, {"word": "embarrass", "POS": "VB"}, {"word": "anyone", "POS": "NN"}], "sentence": "not to embarrass anyone"}
+{"tags": [{"word": "farewell", "POS": "NNP"}, {"word": "angelina", "POS": "NNP"}], "sentence": "farewell angelina"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "sky", "POS": "NN"}, {"word": "is", "POS": "VBZ"}, {"word": "embarrassed", "POS": "JJ"}], "sentence": "the sky is embarrassed"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "must", "POS": "MD"}, {"word": "be", "POS": "VB"}, {"word": "gone", "POS": "VBN"}, {"word": ".", "POS": "PCT"}], "sentence": "and i must be gone ."}
+
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "machine", "POS": "NN"}, {"word": "guns", "POS": "NNS"}, {"word": "are", "POS": "VBP"}, {"word": "roaring", "POS": "VBG"}], "sentence": "the machine guns are roaring"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "puppets", "POS": "NNS"}, {"word": "heave", "POS": "VBP"}, {"word": "rocks", "POS": "NNS"}], "sentence": "the puppets heave rocks"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "fiends", "POS": "NNS"}, {"word": "nail", "POS": "VBP"}, {"word": "time", "POS": "NN"}, {"word": "bombs", "POS": "NNS"}], "sentence": "the fiends nail time bombs"}
+{"tags": [{"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "hands", "POS": "NNS"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "clocks", "POS": "NNS"}], "sentence": "to the hands of the clocks"}
+{"tags": [{"word": "call", "POS": "VB"}, {"word": "me", "POS": "PRP"}, {"word": "any", "POS": "DT"}, {"word": "name", "POS": "NN"}, {"word": "you", "POS": "PRP"}, {"word": "like", "POS": "VBP"}], "sentence": "call me any name you like"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "will", "POS": "MD"}, {"word": "never", "POS": "RB"}, {"word": "deny", "POS": "VB"}, {"word": "it", "POS": "PRP"}], "sentence": "i will never deny it"}
+{"tags": [{"word": "farewell", "POS": "NNP"}, {"word": "angelina", "POS": "NNP"}], "sentence": "farewell angelina"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "sky", "POS": "NN"}, {"word": "is", "POS": "VBZ"}, {"word": "erupting", "POS": "VBG"}], "sentence": "the sky is erupting"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "must", "POS": "MD"}, {"word": "go", "POS": "VB"}, {"word": "where", "POS": "WRB"}, {"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "quiet", "POS": "JJ"}, {"word": ".", "POS": "PCT"}], "sentence": "i must go where it is quiet ."}
+

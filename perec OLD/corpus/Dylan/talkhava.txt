@@ -1,0 +1,4 @@
+{"tags": [{"word": "here", "POS": "RB"}, {"word": "is", "POS": "VBZ"}, {"word": "a", "POS": "DT"}, {"word": "foreign", "POS": "JJ"}, {"word": "song", "POS": "NN"}, {"word": "i", "POS": "PRP"}, {"word": "learned", "POS": "VBD"}, {"word": "in", "POS": "IN"}, {"word": "utah", "POS": "NNP"}, {"word": "-", "POS": "PCT"}], "sentence": "here is a foreign song i learned in utah -"}
+{"tags": [{"word": "ha-va-ne-gei-lah", "POS": "NN"}], "sentence": "ha-va-ne-gei-lah"}
+{"tags": [{"word": "o-de-ley-e-e-oo", "POS": "NNP"}, {"word": "-", "POS": "PCT"}], "sentence": "o-de-ley-e-e-oo -"}
+

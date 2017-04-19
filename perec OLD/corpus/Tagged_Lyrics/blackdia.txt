@@ -1,0 +1,91 @@
+up/IN on/IN the/DT white/JJ veranda/NN 
+she/PRP wears/VBZ a/DT necktie/NN and/CC a/DT panama/NNP hat/NN ./PCT 
+her/PRP$ passport/NN shows/VBZ a/DT face/NN 
+from/IN another/DT time/NN and/CC place/NN 
+she/PRP looks/VBZ nothin/NN '/PCT like/IN that/DT ./PCT 
+and/CC all/PDT the/DT remnants/NNS of/IN her/PRP$ recent/JJ past/NN 
+are/VBP scattered/VBN in/IN the/DT wild/JJ wind/NN ./PCT 
+she/PRP walks/VBZ across/IN the/DT marble/NN floor/NN 
+where/WRB a/DT voice/NN from/IN the/DT gambling/NN room/NN is/VBZ callin/VBG '/PCT her/PRP$ to/TO come/VB on/IN in/IN ./PCT 
+she/PRP smiles/VBZ ,/PCT walks/VBZ the/DT other/JJ way/NN 
+as/IN the/DT last/JJ ship/NN sails/NNS and/CC the/DT moon/NN fades/VBZ away/RB 
+from/IN black/NNP diamond/NNP bay/NNP ./PCT 
+
+as/IN the/DT mornin/NN '/PCT light/JJ breaks/NNS open/JJ ,/PCT the/DT greek/JJ comes/VBZ down/RP 
+and/CC he/PRP asks/VBZ for/IN a/DT rope/NN and/CC a/DT pen/NN that/WDT will/MD write/VB ./PCT 
+``/PCT pardon/NN ,/PCT monsieur/NN ,/PCT ''/PCT the/DT desk/NN clerk/NN says/VBZ ,/PCT 
+carefully/RB removes/VBZ his/PRP$ fez/NN ,/PCT 
+``/PCT am/VBP i/PRP hearin/VBG '/PCT you/PRP right/RB ?/PCT ''/PCT 
+and/CC as/IN the/DT yellow/JJ fog/NN is/VBZ liftin/VBG '/PCT 
+the/DT greek/JJ is/VBZ quickly/RB headin/VBG '/PCT for/IN the/DT second/JJ floor/NN ./PCT 
+she/PRP passes/VBZ him/PRP on/IN the/DT spiral/NN staircase/NN 
+thinkin/NNP '/POS he/PRP is/VBZ the/DT soviet/JJ ambassador/NNP ,/PCT 
+she/PRP starts/VBZ to/TO speak/VB ,/PCT but/CC he/PRP walks/VBZ away/RB 
+as/IN the/DT storm/NN clouds/NNS rise/VBP and/CC the/DT palm/NN branches/NNS sway/VBP 
+on/IN black/NNP diamond/NNP bay/NNP ./PCT 
+
+a/DT soldier/NN sits/VBZ beneath/IN the/DT fan/NN 
+doin/NNP '/POS business/NN with/IN a/DT tiny/JJ man/NN who/WP sells/VBZ him/PRP a/DT ring/NN ./PCT 
+lightning/VBG strikes/NNS ,/PCT the/DT lights/NNS blow/VBP out/RP ./PCT 
+the/DT desk/NN clerk/NN wakes/NNS and/CC begins/VBZ to/TO shout/VB ,/PCT 
+``/PCT can/MD you/PRP see/VB anything/NN ?/PCT ''/PCT 
+then/RB the/DT greek/JJ appears/VBZ on/IN the/DT second/JJ floor/NN 
+in/IN his/PRP$ bare/JJ feet/NNS with/IN a/DT rope/NN around/IN his/PRP$ neck/NN ,/PCT 
+while/IN a/DT loser/NN in/IN the/DT gambling/NN room/NN lights/NNS up/IN a/DT candle/NN ,/PCT 
+says/VBZ ,/PCT ``/PCT open/NNP up/IN another/DT deck/NN ./PCT ''/PCT 
+but/CC the/DT dealer/NN says/VBZ ,/PCT ``/PCT attendez-vous/JJ ,/PCT s/PRP `/PCT il/FW vous/FW plalt/FW ,/PCT ''/PCT 
+as/IN the/DT rain/NN beats/VBZ down/RB and/CC the/DT cranes/NNS fly/VBP away/RB 
+from/IN black/NNP diamond/NNP bay/NNP ./PCT 
+
+the/DT desk/NN clerk/NN heard/VBD the/DT woman/NN laugh/NN 
+as/IN he/PRP looked/VBD around/IN the/DT aftermath/NN and/CC the/DT soldier/NN got/VBD tough/JJ ./PCT 
+he/PRP tried/VBD to/TO grab/VB the/DT woman/NN 's/POS hand/NN ,/PCT 
+said/NNP ,/PCT ``/PCT here/RB is/VBZ a/DT ring/NN ,/PCT it/PRP cost/VBD a/DT grand/JJ ./PCT ''/PCT 
+she/PRP said/VBD ,/PCT ``/PCT that/DT ai/VBP not/RB enough/RB ./PCT ''/PCT 
+then/RB she/PRP ran/VBD upstairs/RB to/TO pack/VB her/PRP$ bags/NNS 
+while/IN a/DT horse-drawn/JJ taxi/NN waited/VBD at/IN the/DT curb/NN ./PCT 
+she/PRP passed/VBD the/DT door/NN that/IN the/DT greek/JJ had/VBD locked/VBN ,/PCT 
+where/WRB a/DT handwritten/JJ sign/NN read/NN ,/PCT ``/PCT do/VBP not/RB disturb/NNP ./PCT ''/PCT 
+she/PRP knocked/VBD upon/IN it/PRP anyway/RB 
+as/IN the/DT sun/NN went/VBD down/RB and/CC the/DT music/NN did/VBD play/NN 
+on/IN black/NNP diamond/NNP bay/NNP ./PCT 
+
+``/PCT i/PRP have/VBP got/VBN to/TO talk/VB to/TO someone/NN quick/JJ !/PCT ''/PCT 
+but/CC the/DT greek/JJ said/VBD ,/PCT ``/PCT go/VB away/RB ,/PCT ''/PCT and/CC he/PRP kicked/VBD the/DT chair/NN to/TO the/DT floor/NN ./PCT 
+he/PRP hung/VBD there/RB from/IN the/DT chandelier/NN ./PCT 
+she/PRP cried/VBD ,/PCT ``/PCT help/VB ,/PCT there/EX is/VBZ danger/NN near/IN 
+please/VB open/VB up/RP the/DT door/NN !/PCT ''/PCT 
+then/RB the/DT volcano/NN erupted/VBD 
+and/CC the/DT lava/NN flowed/VBD down/RB from/IN the/DT mountain/NN high/JJ above/IN ./PCT 
+the/DT soldier/NN and/CC the/DT tiny/JJ man/NN were/VBD crouched/VBN in/IN the/DT corner/NN 
+thinking/VBG of/IN forbidden/VBN love/NN ./PCT 
+but/CC the/DT desk/NN clerk/NN said/VBD ,/PCT ``/PCT it/PRP happens/VBZ every/DT day/NN ,/PCT ''/PCT 
+as/IN the/DT stars/NNS fell/VBD down/RB and/CC the/DT fields/NNS burned/VBD away/RB 
+on/IN black/NNP diamond/NNP bay/NNP ./PCT 
+
+as/IN the/DT island/NN slowly/RB sank/VBD 
+the/DT loser/NN finally/RB broke/VBD the/DT bank/NN in/IN the/DT gambling/NN room/NN ./PCT 
+the/DT dealer/NN said/VBD ,/PCT ``/PCT it/PRP is/VBZ too/RB late/RB now/RB ./PCT 
+you/PRP can/MD take/VB your/PRP$ money/NN ,/PCT but/CC i/PRP do/VBP not/RB know/VB how/WRB 
+you/PRP 'll/MD spend/VB it/PRP in/IN the/DT tomb/NN ./PCT ''/PCT 
+the/DT tiny/JJ man/NN bit/NN the/DT soldier/NN 's/POS ear/NN 
+as/IN the/DT floor/NN caved/VBD in/IN and/CC the/DT boiler/NN in/IN the/DT basement/NN blew/VBD ,/PCT 
+while/IN she/PRP is/VBZ out/RP on/IN the/DT balcony/NN ,/PCT where/WRB a/DT stranger/NN tells/VBZ her/PRP ,/PCT 
+``/PCT my/PRP$ darling/NN ,/PCT je/NN vous/JJ aime/NN beaucoup/NN ./PCT ''/PCT 
+she/PRP sheds/VBZ a/DT tear/VB and/CC then/RB begins/VBZ to/TO pray/VB 
+as/IN the/DT fire/NN burns/NNS on/IN and/CC the/DT smoke/NN drifts/VBZ away/RB 
+from/IN black/NNP diamond/NNP bay/NNP ./PCT 
+
+i/PRP was/VBD sittin/VBG '/PCT home/NN alone/RB one/CD night/NN in/IN l.a./NNP ,/PCT 
+watchin/NNP '/POS old/JJ cronkite/NNP on/IN the/DT seven/CD o'clock/RB news/NN ./PCT 
+it/PRP seems/VBZ there/EX was/VBD an/DT earthquake/NN that/WDT 
+left/VBN nothin/NN '/PCT but/CC a/DT panama/NNP hat/NN 
+and/CC a/DT pair/NN of/IN old/JJ greek/JJ shoes/NNS ./PCT 
+did/VBD not/RB seem/VB like/IN much/JJ was/VBD happenin/VBG '/PCT ,/PCT 
+so/IN i/PRP turned/VBD it/PRP off/RP and/CC went/VBD to/TO grab/VB another/DT beer/NN ./PCT 
+seems/VBZ like/IN every/DT time/NN you/PRP turn/VBP around/RP 
+there/EX is/VBZ another/DT hard-luck/NN story/NN that/IN you/PRP are/VBP gonna/NNS hear/VBP 
+and/CC there/EX is/VBZ really/RB nothin/NN '/PCT anyone/NN can/MD say/VB 
+and/CC i/PRP never/RB did/VBD plan/NN to/TO go/VB anyway/RB 
+to/TO black/NNP diamond/NNP bay/NNP ./PCT 
+

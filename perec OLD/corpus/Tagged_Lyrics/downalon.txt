@@ -1,0 +1,21 @@
+down/IN along/IN the/DT cove/NN ,/PCT 
+i/PRP spied/VBD my/PRP$ true/JJ love/NN comin/NN '/PCT my/PRP$ way/NN ./PCT 
+down/IN along/IN the/DT cove/NN ,/PCT 
+i/PRP spied/VBD my/PRP$ true/JJ love/NN comin/NN '/PCT my/PRP$ way/NN ./PCT 
+i/PRP say/VBP ,/PCT ``/PCT lord/NNP ,/PCT have/VBP mercy/NN ,/PCT mama/NN ,/PCT 
+it/PRP sure/RB is/VBZ good/JJ to/TO see/VB you/PRP comin/VB '/PCT today/NN ./PCT ''/PCT 
+
+down/IN along/IN the/DT cove/NN ,/PCT 
+i/PRP spied/VBD my/PRP$ little/JJ bundle/NN of/IN joy/NN ./PCT 
+down/IN along/IN the/DT cove/NN ,/PCT 
+i/PRP spied/VBD my/PRP$ little/JJ bundle/NN of/IN joy/NN ./PCT 
+she/PRP said/VBD ,/PCT ``/PCT lord/NNP ,/PCT have/VBP mercy/NN ,/PCT honey/NN ,/PCT 
+i/PRP am/VBP so/RB glad/JJ you/PRP are/VBP my/PRP$ boy/NN !/PCT ''/PCT 
+
+down/IN along/IN the/DT cove/NN ,/PCT 
+we/PRP walked/VBD together/RB hand/NN in/IN hand/NN ./PCT 
+down/IN along/IN the/DT cove/NN ,/PCT 
+we/PRP walked/VBD together/RB hand/NN in/IN hand/NN ./PCT 
+ev/NNP `/PCT rybody/JJ watchin/NN '/PCT us/PRP go/VB by/IN 
+knows/VBZ we/PRP are/VBP in/IN love/NN ,/PCT yes/UH ,/PCT and/CC they/PRP understand/VBP ./PCT 
+

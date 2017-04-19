@@ -1,0 +1,54 @@
+far/RB between/IN sundown/NN 's/POS finish/NN an/DT '/PCT midnight/NN 's/POS broken/JJ toll/NN 
+we/PRP ducked/VBD inside/IN the/DT doorway/NN ,/PCT thunder/NN crashing/VBG 
+as/IN majestic/JJ bells/NNS of/IN bolts/NNS struck/VBD shadows/NNS in/IN the/DT sounds/NNS 
+seeming/VBG to/TO be/VB the/DT chimes/VBZ of/IN freedom/NN flashing/VBG 
+flashing/VBG for/IN the/DT warriors/NNS whose/WP$ strength/NN is/VBZ not/RB to/TO fight/VB 
+flashing/VBG for/IN the/DT refugees/NNS on/IN the/DT unarmed/JJ road/NN of/IN flight/NN 
+an/DT '/PCT for/IN each/DT an/DT '/PCT ev/FW `/PCT ry/JJ underdog/NN soldier/NN in/IN the/DT night/NN 
+an/DT '/PCT we/PRP gazed/VBD upon/IN the/DT chimes/VBZ of/IN freedom/NN flashing/VBG ./PCT 
+
+in/IN the/DT city/NN 's/POS melted/JJ furnace/NN ,/PCT unexpectedly/RB we/PRP watched/VBD 
+with/IN faces/NNS hidden/VBN while/IN the/DT walls/NNS were/VBD tightening/VBG 
+as/IN the/DT echo/VBP of/IN the/DT wedding/NN bells/NNS before/IN the/DT blowin/VBG '/PCT rain/NN 
+dissolved/VBN into/IN the/DT bells/NNS of/IN the/DT lightning/NN 
+tolling/VBG for/IN the/DT rebel/NN ,/PCT tolling/VBG for/IN the/DT rake/NN 
+tolling/VBG for/IN the/DT luckless/JJ ,/PCT the/DT abandoned/VBN an/DT '/PCT forsaked/VBD 
+tolling/VBG for/IN the/DT outcast/NN ,/PCT burnin/VBG '/PCT constantly/RB at/IN stake/NN 
+an/DT '/PCT we/PRP gazed/VBD upon/IN the/DT chimes/VBZ of/IN freedom/NN flashing/VBG ./PCT 
+
+through/IN the/DT mad/JJ mystic/JJ hammering/NN of/IN the/DT wild/JJ ripping/NN hail/NN 
+the/DT sky/NN cracked/VBD its/PRP$ poems/NNS in/IN naked/JJ wonder/NN 
+that/IN the/DT clinging/NN of/IN the/DT church/NN bells/NNS blew/VBD far/RB into/IN the/DT breeze/NN 
+leaving/VBG only/RB bells/NNS of/IN lightning/NN and/CC its/PRP$ thunder/NN 
+striking/VBG for/IN the/DT gentle/JJ ,/PCT striking/JJ for/IN the/DT kind/NN 
+striking/VBG for/IN the/DT guardians/NNS and/CC protectors/NNS of/IN the/DT mind/NN 
+an/DT '/PCT the/DT unpawned/JJ painter/NN behind/IN beyond/IN his/PRP$ rightful/JJ time/NN 
+an/DT '/PCT we/PRP gazed/VBD upon/IN the/DT chimes/VBZ of/IN freedom/NN flashing/VBG ./PCT 
+
+through/IN the/DT wild/JJ cathedral/NN evening/NN the/DT rain/NN unraveled/VBN tales/NNS 
+for/IN the/DT disrobed/JJ faceless/JJ forms/NNS of/IN no/DT position/NN 
+tolling/VBG for/IN the/DT tongues/NNS with/IN no/DT place/NN to/TO bring/VB their/PRP$ thoughts/NNS 
+all/DT down/RB in/IN taken-for-granted/JJ situations/NNS 
+tolling/VBG for/IN the/DT deaf/JJ an/DT '/PCT blind/JJ ,/PCT tolling/VBG for/IN the/DT mute/JJ 
+tolling/VBG for/IN the/DT mistreated/VBN ,/PCT mateless/JJ mother/NN ,/PCT the/DT mistitled/VBN prostitute/NN 
+for/IN the/DT misdemeanor/NN outlaw/NN ,/PCT chased/VBD an/DT '/PCT cheated/VBN by/IN pursuit/NN 
+an/DT '/PCT we/PRP gazed/VBD upon/IN the/DT chimes/VBZ of/IN freedom/NN flashing/VBG ./PCT 
+
+even/RB though/IN a/DT cloud/NN 's/POS white/JJ curtain/NN in/IN a/DT far-off/JJ corner/NN flashed/VBD 
+an/DT '/PCT the/DT hypnotic/JJ splattered/JJ mist/NN was/VBD slowly/RB lifting/VBG 
+electric/NNP light/NN still/RB struck/VBD like/IN arrows/NNS ,/PCT fired/VBD but/CC for/IN the/DT ones/NNS 
+condemned/VBN to/TO drift/VB or/CC else/RB be/VB kept/VBN from/IN drifting/VBG 
+tolling/VBG for/IN the/DT searching/VBG ones/NNS ,/PCT on/IN their/PRP$ speechless/JJ ,/PCT seeking/VBG trail/NN 
+for/IN the/DT lonesome-hearted/JJ lovers/NNS with/IN too/RB personal/JJ a/DT tale/NN 
+an/DT '/PCT for/IN each/DT unharmful/JJ ,/PCT gentle/JJ soul/NN misplaced/VBD inside/IN a/DT jail/NN 
+an/DT '/PCT we/PRP gazed/VBD upon/IN the/DT chimes/VBZ of/IN freedom/NN flashing/VBG ./PCT 
+
+starry-eyed/VBD an/DT '/PCT laughing/VBG as/IN i/PRP recall/VBP when/WRB we/PRP were/VBD caught/VBN 
+trapped/VBN by/IN no/DT track/NN of/IN hours/NNS for/IN they/PRP hanged/VBD suspended/VBN 
+as/IN we/PRP listened/VBD one/CD last/JJ time/NN an/DT '/PCT we/PRP watched/VBD with/IN one/CD last/JJ look/NN 
+spellbound/NNP an/DT '/PCT swallowed/VBN 'til/IN the/DT tolling/NN ended/VBD 
+tolling/VBG for/IN the/DT aching/VBG ones/NNS whose/WP$ wounds/NNS can/MD not/RB be/VB nursed/VBN 
+for/IN the/DT countless/JJ confused/JJ ,/PCT accused/VBN ,/PCT misused/VBN ,/PCT strung-out/JJ ones/NNS an/DT '/PCT worse/JJR 
+an/DT '/PCT for/IN every/DT hung-up/JJ person/NN in/IN the/DT whole/JJ wide/JJ universe/NN 
+an/DT '/PCT we/PRP gazed/VBD upon/IN the/DT chimes/VBZ of/IN freedom/NN flashing/VBG ./PCT 
+

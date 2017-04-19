@@ -1,0 +1,128 @@
+{"tags": [{"word": "bad", "POS": "JJ"}, {"word": "news", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "bad", "POS": "JJ"}, {"word": "news", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "bad news , bad news ,"}
+{"tags": [{"word": "come", "POS": "VBN"}, {"word": "to", "POS": "TO"}, {"word": "me", "POS": "PRP"}, {"word": "where", "POS": "WRB"}, {"word": "i", "POS": "PRP"}, {"word": "sleep", "POS": "VBP"}, {"word": ",", "POS": "PCT"}], "sentence": "come to me where i sleep ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "again", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "turn , turn , turn again ."}
+{"tags": [{"word": "sayin", "POS": "NNP"}, {"word": "'", "POS": "POS"}, {"word": "one", "POS": "CD"}, {"word": "of", "POS": "IN"}, {"word": "your", "POS": "PRP$"}, {"word": "friends", "POS": "NNS"}], "sentence": "sayin ' one of your friends"}
+{"tags": [{"word": "is", "POS": "VBZ"}, {"word": "in", "POS": "IN"}, {"word": "trouble", "POS": "NN"}, {"word": "deep", "POS": "RB"}, {"word": ",", "POS": "PCT"}], "sentence": "is in trouble deep ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "rain", "POS": "NN"}], "sentence": "turn , turn to the rain"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "wind", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "and the wind ."}
+
+{"tags": [{"word": "tell", "POS": "VB"}, {"word": "me", "POS": "PRP"}, {"word": "the", "POS": "DT"}, {"word": "trouble", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "tell me the trouble ,"}
+{"tags": [{"word": "tell", "POS": "VB"}, {"word": "once", "POS": "RB"}, {"word": "to", "POS": "TO"}, {"word": "my", "POS": "PRP$"}, {"word": "ear", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "tell once to my ear ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "again", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "turn , turn , turn again ."}
+{"tags": [{"word": "joliet", "POS": "NNP"}, {"word": "prison", "POS": "NN"}], "sentence": "joliet prison"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "ninety-nine", "POS": "JJ"}, {"word": "years", "POS": "NNS"}, {"word": ",", "POS": "PCT"}], "sentence": "and ninety-nine years ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "rain", "POS": "NN"}], "sentence": "turn , turn to the rain"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "wind", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "and the wind ."}
+
+{"tags": [{"word": "oh", "POS": "UH"}, {"word": "what", "POS": "WP"}, {"word": "is", "POS": "VBZ"}, {"word": "the", "POS": "DT"}, {"word": "charge", "POS": "NN"}], "sentence": "oh what is the charge"}
+{"tags": [{"word": "of", "POS": "IN"}, {"word": "how", "POS": "WRB"}, {"word": "this", "POS": "DT"}, {"word": "came", "POS": "VBD"}, {"word": "to", "POS": "TO"}, {"word": "be", "POS": "VB"}, {"word": ",", "POS": "PCT"}], "sentence": "of how this came to be ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "again", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "turn , turn , turn again ."}
+{"tags": [{"word": "manslaughter", "POS": "NNP"}], "sentence": "manslaughter"}
+{"tags": [{"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "highest", "POS": "JJS"}, {"word": "of", "POS": "IN"}, {"word": "degree", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "in the highest of degree ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "rain", "POS": "NN"}], "sentence": "turn , turn to the rain"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "wind", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "and the wind ."}
+
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "sat", "POS": "VBD"}, {"word": "down", "POS": "RB"}, {"word": "and", "POS": "CC"}, {"word": "wrote", "POS": "VBD"}], "sentence": "i sat down and wrote"}
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "best", "POS": "JJS"}, {"word": "words", "POS": "NNS"}, {"word": "i", "POS": "PRP"}, {"word": "could", "POS": "MD"}, {"word": "write", "POS": "VB"}, {"word": ",", "POS": "PCT"}], "sentence": "the best words i could write ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "again", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "turn , turn , turn again ."}
+{"tags": [{"word": "explaining", "POS": "VBG"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "judge", "POS": "NN"}], "sentence": "explaining to the judge"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "'d", "POS": "MD"}, {"word": "be", "POS": "VB"}, {"word": "there", "POS": "RB"}, {"word": "on", "POS": "IN"}, {"word": "wednesday", "POS": "NNP"}, {"word": "night", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "i 'd be there on wednesday night ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "rain", "POS": "NN"}], "sentence": "turn , turn to the rain"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "wind", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "and the wind ."}
+
+{"tags": [{"word": "without", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "reply", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "without a reply ,"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "left", "POS": "VBD"}, {"word": "by", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "moon", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "i left by the moon ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "again", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "turn , turn , turn again ."}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "was", "POS": "VBD"}, {"word": "in", "POS": "IN"}, {"word": "his", "POS": "PRP$"}, {"word": "chambers", "POS": "NNS"}], "sentence": "and was in his chambers"}
+{"tags": [{"word": "by", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "next", "POS": "JJ"}, {"word": "afternoon", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "by the next afternoon ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "rain", "POS": "NN"}], "sentence": "turn , turn to the rain"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "wind", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "and the wind ."}
+
+{"tags": [{"word": "could", "POS": "MD"}, {"word": "ya", "POS": "PRP"}, {"word": "tell", "POS": "VB"}, {"word": "me", "POS": "PRP"}, {"word": "the", "POS": "DT"}, {"word": "facts", "POS": "NNS"}, {"word": "?", "POS": "PCT"}], "sentence": "could ya tell me the facts ?"}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "said", "POS": "VBD"}, {"word": "without", "POS": "IN"}, {"word": "fear", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "i said without fear ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "again", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "turn , turn , turn again ."}
+{"tags": [{"word": "that", "POS": "IN"}, {"word": "a", "POS": "DT"}, {"word": "friend", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "mine", "POS": "NN"}], "sentence": "that a friend of mine"}
+{"tags": [{"word": "would", "POS": "MD"}, {"word": "get", "POS": "VB"}, {"word": "ninety-nine", "POS": "JJ"}, {"word": "years", "POS": "NNS"}, {"word": ",", "POS": "PCT"}], "sentence": "would get ninety-nine years ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "rain", "POS": "NN"}], "sentence": "turn , turn to the rain"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "wind", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "and the wind ."}
+
+{"tags": [{"word": "a", "POS": "DT"}, {"word": "crash", "POS": "NN"}, {"word": "on", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "highway", "POS": "NN"}], "sentence": "a crash on the highway"}
+{"tags": [{"word": "flew", "POS": "VBD"}, {"word": "the", "POS": "DT"}, {"word": "car", "POS": "NN"}, {"word": "to", "POS": "TO"}, {"word": "a", "POS": "DT"}, {"word": "field", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "flew the car to a field ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "again", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "turn , turn , turn again ."}
+{"tags": [{"word": "there", "POS": "EX"}, {"word": "was", "POS": "VBD"}, {"word": "four", "POS": "CD"}, {"word": "persons", "POS": "NNS"}, {"word": "killed", "POS": "VBD"}], "sentence": "there was four persons killed"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "he", "POS": "PRP"}, {"word": "was", "POS": "VBD"}, {"word": "at", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "wheel", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "and he was at the wheel ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "rain", "POS": "NN"}], "sentence": "turn , turn to the rain"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "wind", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "and the wind ."}
+
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "knew", "POS": "VBD"}, {"word": "him", "POS": "PRP"}, {"word": "as", "POS": "RB"}, {"word": "good", "POS": "JJ"}], "sentence": "but i knew him as good"}
+{"tags": [{"word": "as", "POS": "IN"}, {"word": "i", "POS": "PRP"}, {"word": "am", "POS": "VBP"}, {"word": "knowin", "POS": "VBG"}, {"word": "'", "POS": "PCT"}, {"word": "myself", "POS": "PRP"}, {"word": ",", "POS": "PCT"}], "sentence": "as i am knowin ' myself ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "again", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "turn , turn , turn again ."}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "he", "POS": "PRP"}, {"word": "would", "POS": "MD"}, {"word": "not", "POS": "RB"}, {"word": "harm", "POS": "VB"}, {"word": "a", "POS": "DT"}, {"word": "life", "POS": "NN"}], "sentence": "and he would not harm a life"}
+{"tags": [{"word": "that", "POS": "DT"}, {"word": "belonged", "POS": "VBD"}, {"word": "to", "POS": "TO"}, {"word": "someone", "POS": "NN"}, {"word": "else", "POS": "RB"}, {"word": ",", "POS": "PCT"}], "sentence": "that belonged to someone else ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "rain", "POS": "NN"}], "sentence": "turn , turn to the rain"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "wind", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "and the wind ."}
+
+{"tags": [{"word": "the", "POS": "DT"}, {"word": "judge", "POS": "NN"}, {"word": "spoke", "POS": "VBD"}], "sentence": "the judge spoke"}
+{"tags": [{"word": "out", "POS": "IN"}, {"word": "of", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "side", "POS": "NN"}, {"word": "of", "POS": "IN"}, {"word": "his", "POS": "PRP$"}, {"word": "mouth", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "out of the side of his mouth ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "again", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "turn , turn , turn again ."}
+{"tags": [{"word": "sayin", "POS": "NNP"}, {"word": "'", "POS": "POS"}, {"word": ",", "POS": "PCT"}, {"word": "``", "POS": "PCT"}, {"word": "the", "POS": "DT"}, {"word": "witness", "POS": "NN"}, {"word": "who", "POS": "WP"}, {"word": "saw", "POS": "VBD"}, {"word": ",", "POS": "PCT"}], "sentence": "sayin ' , `` the witness who saw ,"}
+{"tags": [{"word": "he", "POS": "PRP"}, {"word": "left", "POS": "VBD"}, {"word": "little", "POS": "JJ"}, {"word": "doubt", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "''", "POS": "PCT"}], "sentence": "he left little doubt , ''"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "rain", "POS": "NN"}], "sentence": "turn , turn to the rain"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "wind", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "and the wind ."}
+
+{"tags": [{"word": "that", "POS": "DT"}, {"word": "may", "POS": "MD"}, {"word": "be", "POS": "VB"}, {"word": "true", "POS": "JJ"}, {"word": ",", "POS": "PCT"}], "sentence": "that may be true ,"}
+{"tags": [{"word": "he", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "got", "POS": "VBD"}, {"word": "a", "POS": "DT"}, {"word": "sentence", "POS": "NN"}, {"word": "to", "POS": "TO"}, {"word": "serve", "POS": "VB"}, {"word": ",", "POS": "PCT"}], "sentence": "he is got a sentence to serve ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "again", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "turn , turn , turn again ."}
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "ninety-nine", "POS": "JJ"}, {"word": "years", "POS": "NNS"}, {"word": ",", "POS": "PCT"}], "sentence": "but ninety-nine years ,"}
+{"tags": [{"word": "he", "POS": "PRP"}, {"word": "just", "POS": "RB"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "deserve", "POS": "VB"}, {"word": ",", "POS": "PCT"}], "sentence": "he just do not deserve ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "rain", "POS": "NN"}], "sentence": "turn , turn to the rain"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "wind", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "and the wind ."}
+
+{"tags": [{"word": "too", "POS": "RB"}, {"word": "late", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "too", "POS": "RB"}, {"word": "late", "POS": "RB"}, {"word": ",", "POS": "PCT"}], "sentence": "too late , too late ,"}
+{"tags": [{"word": "for", "POS": "IN"}, {"word": "his", "POS": "PRP$"}, {"word": "case", "POS": "NN"}, {"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "sealed", "POS": "VBN"}, {"word": ",", "POS": "PCT"}], "sentence": "for his case it is sealed ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "again", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "turn , turn , turn again ."}
+{"tags": [{"word": "his", "POS": "PRP$"}, {"word": "sentence", "POS": "NN"}, {"word": "is", "POS": "VBZ"}, {"word": "passed", "POS": "VBN"}], "sentence": "his sentence is passed"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "it", "POS": "PRP"}, {"word": "can", "POS": "MD"}, {"word": "not", "POS": "RB"}, {"word": "be", "POS": "VB"}, {"word": "repealed", "POS": "VBN"}, {"word": ",", "POS": "PCT"}], "sentence": "and it can not be repealed ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "rain", "POS": "NN"}], "sentence": "turn , turn to the rain"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "wind", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "and the wind ."}
+
+{"tags": [{"word": "but", "POS": "CC"}, {"word": "he", "POS": "PRP"}, {"word": "ai", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "no", "POS": "DT"}, {"word": "criminal", "POS": "JJ"}], "sentence": "but he ai not no criminal"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "his", "POS": "PRP$"}, {"word": "crime", "POS": "NN"}, {"word": "it", "POS": "PRP"}, {"word": "is", "POS": "VBZ"}, {"word": "none", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "and his crime it is none ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "again", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "turn , turn , turn again ."}
+{"tags": [{"word": "what", "POS": "WP"}, {"word": "happened", "POS": "VBD"}, {"word": "to", "POS": "TO"}, {"word": "him", "POS": "PRP"}], "sentence": "what happened to him"}
+{"tags": [{"word": "could", "POS": "MD"}, {"word": "happen", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "anyone", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "could happen to anyone ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "rain", "POS": "NN"}], "sentence": "turn , turn to the rain"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "wind", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "and the wind ."}
+
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "at", "POS": "IN"}, {"word": "that", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "judge", "POS": "NN"}, {"word": "jerked", "POS": "VBD"}, {"word": "forward", "POS": "RB"}], "sentence": "and at that the judge jerked forward"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "his", "POS": "PRP$"}, {"word": "face", "POS": "NN"}, {"word": "it", "POS": "PRP"}, {"word": "did", "POS": "VBD"}, {"word": "freeze", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "and his face it did freeze ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "again", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "turn , turn , turn again ."}
+{"tags": [{"word": "sayin", "POS": "NNP"}, {"word": "'", "POS": "POS"}, {"word": ",", "POS": "PCT"}, {"word": "``", "POS": "PCT"}, {"word": "could", "POS": "MD"}, {"word": "you", "POS": "PRP"}, {"word": "kindly", "POS": "RB"}, {"word": "leave", "POS": "VBP"}], "sentence": "sayin ' , `` could you kindly leave"}
+{"tags": [{"word": "my", "POS": "PRP$"}, {"word": "office", "POS": "NN"}, {"word": "now", "POS": "RB"}, {"word": ",", "POS": "PCT"}, {"word": "please", "POS": "VB"}, {"word": ",", "POS": "PCT"}, {"word": "''", "POS": "PCT"}], "sentence": "my office now , please , ''"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "rain", "POS": "NN"}], "sentence": "turn , turn to the rain"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "wind", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "and the wind ."}
+
+{"tags": [{"word": "well", "POS": "UH"}, {"word": "his", "POS": "PRP$"}, {"word": "eyes", "POS": "NNS"}, {"word": "looked", "POS": "VBD"}, {"word": "funny", "POS": "JJ"}], "sentence": "well his eyes looked funny"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "stood", "POS": "VBD"}, {"word": "up", "POS": "RP"}, {"word": "so", "POS": "RB"}, {"word": "slow", "POS": "JJ"}, {"word": ",", "POS": "PCT"}], "sentence": "and i stood up so slow ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "again", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "turn , turn , turn again ."}
+{"tags": [{"word": "with", "POS": "IN"}, {"word": "no", "POS": "DT"}, {"word": "other", "POS": "JJ"}, {"word": "choice", "POS": "NN"}], "sentence": "with no other choice"}
+{"tags": [{"word": "except", "POS": "IN"}, {"word": "for", "POS": "IN"}, {"word": "to", "POS": "TO"}, {"word": "go", "POS": "VB"}, {"word": ",", "POS": "PCT"}], "sentence": "except for to go ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "rain", "POS": "NN"}], "sentence": "turn , turn to the rain"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "wind", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "and the wind ."}
+
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "walked", "POS": "VBD"}, {"word": "down", "POS": "RP"}, {"word": "the", "POS": "DT"}, {"word": "hallway", "POS": "NN"}], "sentence": "i walked down the hallway"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "heard", "POS": "VBD"}, {"word": "his", "POS": "PRP$"}, {"word": "door", "POS": "NN"}, {"word": "slam", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "and i heard his door slam ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "again", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "turn , turn , turn again ."}
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "walked", "POS": "VBD"}, {"word": "down", "POS": "RP"}, {"word": "the", "POS": "DT"}, {"word": "courthouse", "POS": "NN"}, {"word": "stairs", "POS": "NNS"}], "sentence": "i walked down the courthouse stairs"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "did", "POS": "VBD"}, {"word": "not", "POS": "RB"}, {"word": "understand", "POS": "VB"}, {"word": ",", "POS": "PCT"}], "sentence": "and i did not understand ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "rain", "POS": "NN"}], "sentence": "turn , turn to the rain"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "wind", "POS": "NN"}, {"word": ".", "POS": "PCT"}], "sentence": "and the wind ."}
+
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "i", "POS": "PRP"}, {"word": "played", "POS": "VBD"}, {"word": "my", "POS": "PRP$"}, {"word": "guitar", "POS": "NN"}], "sentence": "and i played my guitar"}
+{"tags": [{"word": "through", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "night", "POS": "NN"}, {"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "day", "POS": "NN"}, {"word": ",", "POS": "PCT"}], "sentence": "through the night to the day ,"}
+{"tags": [{"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "NN"}, {"word": ",", "POS": "PCT"}, {"word": "turn", "POS": "VB"}, {"word": "again", "POS": "RB"}, {"word": ".", "POS": "PCT"}], "sentence": "turn , turn , turn again ."}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "only", "POS": "JJ"}, {"word": "tune", "POS": "NN"}], "sentence": "and the only tune"}
+{"tags": [{"word": "my", "POS": "PRP$"}, {"word": "guitar", "POS": "NN"}, {"word": "could", "POS": "MD"}, {"word": "play", "POS": "VB"}], "sentence": "my guitar could play"}
+{"tags": [{"word": "was", "POS": "VBD"}, {"word": ",", "POS": "PCT"}, {"word": "``", "POS": "PCT"}, {"word": "oh", "POS": "UH"}, {"word": "the", "POS": "DT"}, {"word": "cruel", "POS": "NNP"}, {"word": "rain", "POS": "NN"}], "sentence": "was , `` oh the cruel rain"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "the", "POS": "DT"}, {"word": "wind", "POS": "NNP"}, {"word": ".", "POS": "PCT"}, {"word": "''", "POS": "PCT"}], "sentence": "and the wind . ''"}
+

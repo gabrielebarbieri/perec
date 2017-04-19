@@ -1,0 +1,45 @@
+maybe/RB someday/RB you/PRP 'll/MD be/VB satisfied/JJ 
+when/WRB you/PRP have/VBP lost/VBN everything/NN you/PRP 'll/MD have/VB nothing/NN left/VBD to/TO hide/VB ./PCT 
+when/WRB you/PRP are/VBP through/IN running/VBG over/IN things/NNS like/IN you/PRP are/VBP walking/VBG `/PCT cross/VB the/DT tracks/NNS ,/PCT 
+maybe/RB you/PRP 'll/MD beg/VB me/PRP to/TO take/VB you/PRP back/RB ./PCT 
+maybe/RB someday/RB you/PRP 'll/MD find/VB out/RP everybody/NN 's/POS somebody/NN 's/POS fool/NN ,/PCT 
+maybe/RB then/RB you/PRP 'll/MD realize/VB what/WP it/PRP would/MD have/VB taken/VBN to/TO keep/VB me/PRP cool/VB ./PCT 
+maybe/RB someday/RB when/WRB you/PRP are/VBP by/IN yourself/PRP alone/RB 
+you/PRP 'll/MD know/VB the/DT love/NN that/IN i/PRP had/VBD for/IN you/PRP was/VBD never/RB my/PRP$ own/JJ ./PCT 
+
+maybe/RB someday/RB you/PRP 'll/MD have/VB nowhere/RB to/TO turn/VB ,/PCT 
+you/PRP 'll/MD look/VB back/RB and/CC wonder/VB `/PCT bout/NN the/DT bridges/NNS you/PRP have/VBP burned/VBN ./PCT 
+you/PRP 'll/MD look/VB back/RB sometime/RB when/WRB the/DT lights/NNS grow/VBP dim/NN 
+and/CC you/PRP 'll/MD see/VB you/PRP look/VB much/RB better/RBR with/IN me/PRP than/IN you/PRP do/VBP with/IN him/PRP ./PCT 
+through/IN hostile/JJ cities/NNS and/CC unfriendly/JJ towns/NNS ,/PCT 
+thirty/CD pieces/NNS of/IN silver/NN ,/PCT no/DT money/NN down/RB ./PCT 
+maybe/RB someday/RB ,/PCT you/PRP will/MD understand/VB 
+that/DT something/NN for/IN nothing/NN is/VBZ everybody/NN 's/POS plan/NN ./PCT 
+
+maybe/RB someday/RB you/PRP 'll/MD remember/VB what/WP you/PRP felt/VBD 
+when/WRB there/EX was/VBD blood/NN on/IN the/DT moon/NN in/IN the/DT cotton/NN belt/NN ./PCT 
+when/WRB both/DT of/IN us/PRP ,/PCT baby/NN ,/PCT were/VBD going/VBG though/IN some/DT sort/NN of/IN a/DT test/NN 
+neither/DT one/CD of/IN us/PRP could/MD do/VB what/WP we/PRP do/VBP best/RB ./PCT 
+i/PRP should/MD have/VB known/VBN better/RBR ,/PCT baby/NN ,/PCT i/PRP should/MD have/VB called/VBN your/PRP$ bluff/NN ./PCT 
+i/PRP guess/VBP i/PRP was/VBD too/RB off/RB the/DT handle/VB ,/PCT not/RB sentimental/JJ enough/RB ./PCT 
+maybe/RB someday/RB ,/PCT you/PRP 'll/MD believe/VB me/PRP when/WRB i/PRP say/VBP 
+that/DT i/PRP wanted/VBD you/PRP ,/PCT baby/NN ,/PCT in/IN every/DT kind/NN of/IN way/NN ./PCT 
+
+maybe/RB someday/RB you/PRP 'll/MD hear/VB a/DT voice/NN from/IN on/IN high/JJ 
+sayin/NNP '/POS ``/PCT for/IN whose/WP$ sake/NN did/VBD you/PRP live/VBP ,/PCT for/IN whose/WP$ sake/NN did/VBD you/PRP die/VB ?/PCT ''/PCT 
+forgive/VB me/PRP ,/PCT baby/NN ,/PCT for/IN what/WP i/PRP did/VBD not/RB do/VB 
+for/IN not/RB breakin/VBG '/PCT down/IN no/DT bedroom/NN door/NN to/TO get/VB at/IN you/PRP ./PCT 
+always/RB was/VBD a/DT sucker/NN for/IN the/DT right/NN cross/NN ./PCT 
+never/RB wanted/VBD to/TO go/VB home/NN 'til/IN the/DT last/JJ cent/NN was/VBD lost/VBN ./PCT 
+maybe/RB someday/RB you/PRP will/MD look/VB back/RB and/CC see/VB 
+that/DT i/PRP made/VBD it/PRP so/RB easy/JJ for/IN you/PRP to/TO follow/VB me/PRP ./PCT 
+
+maybe/RB someday/RB there/EX 'll/MD be/VB nothing/NN to/TO tell/VB ./PCT 
+i/PRP am/VBP just/RB as/RB happy/JJ as/IN you/PRP ,/PCT baby/NN ,/PCT i/PRP just/RB ca/MD not/RB say/VB it/PRP so/RB well/RB ./PCT 
+never/RB slumbered/VBN or/CC slept/VBN or/CC waited/VBN for/IN lightning/NN to/TO strike/VB ./PCT 
+there/EX is/VBZ no/DT excuse/NN for/IN you/PRP to/TO say/VB that/IN we/PRP do/VBP not/RB think/VB alike/RB ./PCT 
+you/PRP said/VBD you/PRP were/VBD going/VBG '/PCT to/TO frisco/NNP ,/PCT stay/VB a/DT couple/NN of/IN months/NNS ./PCT 
+i/PRP always/RB liked/VBD san/NNP francisco/NNP ,/PCT i/PRP was/VBD there/RB for/IN a/DT party/NN once/RB ./PCT 
+maybe/RB someday/RB you/PRP 'll/MD see/VB that/IN it/PRP is/VBZ true/JJ 
+there/EX was/VBD no/DT greater/JJR love/NN than/IN what/WP i/PRP had/VBD for/IN you/PRP ./PCT 
+

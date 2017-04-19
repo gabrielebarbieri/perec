@@ -1,0 +1,27 @@
+you/PRP must/MD leave/VB now/RB ,/PCT take/VB what/WP you/PRP need/VBP ,/PCT you/PRP think/VBP will/MD last/VB ./PCT 
+but/CC whatever/WDT you/PRP wish/VBP to/TO keep/VB ,/PCT you/PRP better/JJR grab/VB it/PRP fast/RB ./PCT 
+yonder/NNP stands/VBZ your/PRP$ orphan/JJ with/IN his/PRP$ gun/NN ,/PCT 
+crying/VBG like/IN a/DT fire/NN in/IN the/DT sun/NN ./PCT 
+look/VB out/RP the/DT saints/NNS are/VBP comin/VBG '/PCT through/IN 
+and/CC it/PRP is/VBZ all/DT over/IN now/RB ,/PCT baby/NNP blue/NNP ./PCT 
+
+the/DT highway/NN is/VBZ for/IN gamblers/NNS ,/PCT better/JJR use/NN your/PRP$ sense/NN ./PCT 
+take/VB what/WP you/PRP have/VBP gathered/VBN from/IN coincidence/NN ./PCT 
+the/DT empty-handed/JJ painter/NN from/IN your/PRP$ streets/NNS 
+is/VBZ drawing/VBG crazy/JJ patterns/NNS on/IN your/PRP$ sheets/NNS ./PCT 
+this/DT sky/NN ,/PCT too/RB ,/PCT is/VBZ folding/JJ under/IN you/PRP 
+and/CC it/PRP is/VBZ all/DT over/IN now/RB ,/PCT baby/NNP blue/NNP ./PCT 
+
+all/DT your/PRP$ seasick/NN sailors/NNS ,/PCT they/PRP are/VBP rowing/NN home/NN ./PCT 
+all/DT your/PRP$ reindeer/NN armies/NNS ,/PCT are/VBP all/DT going/VBG home/NN ./PCT 
+the/DT lover/NN who/WP just/RB walked/VBD out/RP your/PRP$ door/NN 
+has/VBZ taken/VBN all/PDT his/PRP$ blankets/NNS from/IN the/DT floor/NN ./PCT 
+the/DT carpet/NN ,/PCT too/RB ,/PCT is/VBZ moving/VBG under/IN you/PRP 
+and/CC it/PRP is/VBZ all/DT over/IN now/RB ,/PCT baby/NNP blue/NNP ./PCT 
+
+leave/VB your/PRP$ stepping/VBG stones/NNS behind/IN ,/PCT something/NN calls/VBZ for/IN you/PRP ./PCT 
+forget/VB the/DT dead/JJ you/PRP have/VBP left/VBN ,/PCT they/PRP will/MD not/RB follow/VB you/PRP ./PCT 
+the/DT vagabond/NN who/WP is/VBZ rapping/VBG at/IN your/PRP$ door/NN 
+is/VBZ standing/NN in/IN the/DT clothes/NNS that/IN you/PRP once/RB wore/VBD ./PCT 
+strike/NN another/DT match/NN ,/PCT go/VB start/VB anew/RB 
+and/CC it/PRP is/VBZ all/DT over/IN now/RB ,/PCT baby/NNP blue/NNP ./PCT 

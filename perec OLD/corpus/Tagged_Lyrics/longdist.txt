@@ -1,0 +1,28 @@
+long-distance/JJ operator/NN ,/PCT 
+place/NNP this/DT call/NN ,/PCT it/PRP is/VBZ not/RB for/IN fun/NN ./PCT 
+long-distance/JJ operator/NN ,/PCT 
+please/UH ,/PCT place/NN this/DT call/NN ,/PCT you/PRP know/VBP it/PRP is/VBZ not/RB for/IN fun/NN ./PCT 
+i/PRP gotta/VBP get/VB a/DT message/NN to/TO my/PRP$ baby/NN ,/PCT 
+you/PRP know/VBP ,/PCT she/PRP is/VBZ not/RB just/RB anyone/NN ./PCT 
+
+there/EX are/VBP thousands/NNS in/IN the/DT phone/NN booth/NN ,/PCT 
+thousands/NNS at/IN the/DT gate/NN ./PCT 
+there/EX are/VBP thousands/NNS in/IN the/DT phone/NN booth/NN ,/PCT 
+thousands/NNS at/IN the/DT gate/NN ./PCT 
+ev/NNP `/PCT rybody/JJ wants/VBZ to/TO make/VB a/DT long-distance/NN call/NN 
+but/CC you/PRP know/VBP they/PRP are/VBP just/RB gonna/NNS have/VBP to/TO wait/VB ./PCT 
+
+if/IN a/DT call/NN comes/VBZ from/IN louisiana/NNP ,/PCT 
+please/UH ,/PCT let/VB it/PRP ride/VB ./PCT 
+if/IN a/DT call/NN comes/VBZ from/IN louisiana/NNP ,/PCT 
+please/UH ,/PCT let/VB it/PRP ride/VB ./PCT 
+this/DT phone/NN booth/NN 's/POS on/IN fire/NN ,/PCT 
+it/PRP is/VBZ getting/VBG hot/JJ inside/NN ./PCT 
+
+ev/NNP `/PCT rybody/JJ wants/VBZ to/TO be/VB my/PRP$ friend/NN ,/PCT 
+but/CC nobody/NN wants/VBZ to/TO get/VB higher/JJR ./PCT 
+ev/NNP `/PCT rybody/JJ wants/VBZ to/TO be/VB my/PRP$ friend/NN ,/PCT 
+but/CC nobody/NN wants/VBZ to/TO get/VB higher/JJR ./PCT 
+long-distance/JJ operator/NN ,/PCT 
+i/PRP believe/VBP i/PRP am/VBP stranglin/VBG '/PCT on/IN this/DT telephone/NN wire/NN ./PCT 
+

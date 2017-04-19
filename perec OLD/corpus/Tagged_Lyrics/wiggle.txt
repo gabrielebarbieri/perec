@@ -1,0 +1,30 @@
+wiggle/NNP ,/PCT wiggle/NN ,/PCT wiggle/NN like/IN a/DT gypsy/NN queen/NN ,/PCT 
+wiggle/NNP ,/PCT wiggle/NN ,/PCT wiggle/VB all/DT dressed/VBN in/IN green/JJ ,/PCT 
+wiggle/NNP ,/PCT wiggle/NN ,/PCT wiggle/NN 'til/IN the/DT moon/NN is/VBZ blue/JJ ,/PCT 
+wiggle/NNP 'til/IN the/DT moon/NN sees/VBZ you/PRP ./PCT 
+
+wiggle/NNP ,/PCT wiggle/NN ,/PCT wiggle/NN in/IN your/PRP$ boots/NNS and/CC shoes/NNS ,/PCT 
+wiggle/NNP ,/PCT wiggle/NN ,/PCT wiggle/NN ,/PCT you/PRP got/VBD nothing/NN to/TO lose/VB ,/PCT 
+wiggle/NNP ,/PCT wiggle/NN ,/PCT wiggle/NN ,/PCT like/IN a/DT swarm/NN of/IN bees/NNS ,/PCT 
+wiggle/NNP on/IN your/PRP$ hands/NNS and/CC knees/NNS ./PCT 
+
+wiggle/NNP to/TO the/DT front/NN ,/PCT wiggle/NN to/TO the/DT rear/NN ,/PCT 
+wiggle/NNP 'til/IN you/PRP wiggle/VBP right/JJ out/IN of/IN here/RB ,/PCT 
+wiggle/NNP 'til/IN it/PRP opens/VBZ ,/PCT wiggle/VB 'til/RB it/PRP shuts/VBZ ,/PCT 
+wiggle/NNP 'til/IN it/PRP bites/VBZ ,/PCT wiggle/VB 'til/RB it/PRP cuts/VBZ ./PCT 
+
+wiggle/NNP ,/PCT wiggle/NN ,/PCT wiggle/NN like/IN a/DT bowl/NN of/IN soup/NN ,/PCT 
+wiggle/NNP ,/PCT wiggle/NN ,/PCT wiggle/NN like/IN a/DT rolling/VBG hoop/NN ,/PCT 
+wiggle/NNP ,/PCT wiggle/NN ,/PCT wiggle/NN like/IN a/DT ton/NN of/IN lead/NN ,/PCT 
+wiggle/NNP -/PCT you/PRP can/MD raise/VB the/DT dead/JJ ./PCT 
+
+wiggle/NNP 'til/IN you/PRP are/VBP high/JJ ,/PCT wiggle/NN 'til/IN you/PRP are/VBP higher/JJR ,/PCT 
+wiggle/NNP 'til/IN you/PRP vomit/VBP fire/NN ,/PCT 
+wiggle/NNP 'til/IN it/PRP whispers/VBZ ,/PCT wiggle/VB 'til/RB it/PRP hums/VBZ ,/PCT 
+wiggle/NNP 'til/IN it/PRP answers/VBZ ,/PCT wiggle/VB 'til/RB it/PRP comes/VBZ ./PCT 
+
+wiggle/NNP ,/PCT wiggle/NN ,/PCT wiggle/NN like/IN satin/NN and/CC silk/NN ,/PCT 
+wiggle/NNP ,/PCT wiggle/NN ,/PCT wiggle/NN like/IN a/DT pail/NN of/IN milk/NN ,/PCT 
+wiggle/NNP ,/PCT wiggle/NN ,/PCT wiggle/NN ,/PCT rattle/VB and/CC shake/VB ,/PCT 
+wiggle/NNP like/IN a/DT big/JJ fat/JJ snake/NN ./PCT 
+

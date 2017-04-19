@@ -1,0 +1,34 @@
+feel/NNP like/IN a/DT broke-down/JJ engine/NN ,/PCT ai/VBP not/RB got/VBD no/DT drivin/NN '/PCT wheel/NN ,/PCT 
+feel/NNP like/IN a/DT broke-down/JJ engine/NN ,/PCT ai/VBP not/RB got/VBD no/DT drivin/NN '/PCT wheel/NN ./PCT 
+you/PRP all/RB been/VBN down/RB and/CC lonesome/JJ ,/PCT you/PRP know/VBP just/RB how/WRB a/DT poor/JJ man/NN feels/VBZ ./PCT 
+
+been/VBN shooting/NN craps/NNS and/CC gambling/NN ,/PCT momma/NN ,/PCT and/CC i/PRP done/VBN got/VBD broke/VBD ,/PCT 
+been/VBN shooting/NN craps/NNS and/CC gambling/NN ,/PCT momma/NN ,/PCT and/CC i/PRP done/VBN got/VBD broke/VBD ./PCT 
+i/PRP done/VBD pawned/JJ my/PRP$ pistol/NN ,/PCT baby/NN ,/PCT my/PRP$ best/JJS clothes/NNS been/VBN sold/VBN ./PCT 
+
+lordy/NNP ,/PCT lord/NNP ,/PCT lordy/NNP ,/PCT lord/NNP ,/PCT lordy/NNP ,/PCT lord/NNP ,/PCT lordy/NNP ,/PCT lord/NNP ,/PCT 
+lordy/NNP ,/PCT lord/NNP ./PCT 
+
+i/PRP went/VBD down/RB in/IN my/PRP$ praying/VBG ground/NN ,/PCT fell/VBD on/IN my/PRP$ bended/JJ knees/NNS ,/PCT 
+i/PRP went/VBD down/RB in/IN my/PRP$ praying/VBG ground/NN ,/PCT fell/VBD on/IN my/PRP$ bended/JJ knees/NNS ./PCT 
+i/PRP ai/VBP not/RB cryin/VB '/PCT for/IN no/DT religion/NN ,/PCT lord/NNP ,/PCT give/VBP me/PRP back/VB my/PRP$ good/JJ gal/NN please/VB ./PCT 
+
+if/IN you/PRP give/VBP me/PRP back/VB my/PRP$ baby/NN ,/PCT i/PRP wo/MD not/RB worry/VB you/PRP no/DT more/RBR ,/PCT 
+give/VB me/PRP back/VB my/PRP$ baby/NN ,/PCT i/PRP wo/MD not/RB worry/VB you/PRP no/DT more/RBR ./PCT 
+do/VBP not/RB have/VB to/TO put/VB her/PRP$ in/IN my/PRP$ house/NN ,/PCT lordy/NNP ,/PCT just/RB lead/VB her/PRP to/TO my/PRP$ door/NN ./PCT 
+
+lordy/NNP ,/PCT lord/NNP ,/PCT lordy/NNP ,/PCT lord/NNP ,/PCT lordy/NNP ,/PCT lord/NNP ,/PCT lordy/NNP ,/PCT lord/NNP ,/PCT 
+lordy/NNP ,/PCT lord/NNP ./PCT 
+
+ca/MD not/RB you/PRP hear/VBP me/PRP ,/PCT baby/NN ,/PCT rappin/VBG '/PCT on/IN your/PRP$ door/NN ?/PCT 
+ca/MD not/RB you/PRP hear/VBP me/PRP ,/PCT baby/NN ,/PCT rappin/VBG '/PCT on/IN your/PRP$ door/NN ?/PCT 
+now/RB you/PRP hear/VBP me/PRP tappin/VBG '/PCT ,/PCT tappin/VBG '/PCT across/IN your/PRP$ floor/NN ./PCT 
+
+feel/NNP like/IN a/DT broke-down/JJ engine/NN ,/PCT ai/VBP not/RB got/VBD no/DT drive/NN at/IN all/DT ,/PCT 
+feel/NNP like/IN a/DT broke-down/JJ engine/NN ,/PCT ai/VBP not/RB got/VBD no/DT drive/NN at/IN all/DT ./PCT 
+what/WP make/VBP me/PRP love/VB my/PRP$ woman/NN ,/PCT she/PRP can/MD really/RB do/VB the/DT georgia/NNP crawl/NNP ./PCT 
+
+feel/NNP like/IN a/DT broke-down/JJ engine/NN ,/PCT ai/VBP not/RB got/VBD no/DT whistle/VBP or/CC bell/NN ,/PCT 
+feel/NNP like/IN a/DT broke-down/JJ engine/NN ,/PCT ai/VBP not/RB got/VBD no/DT whistle/VBP or/CC bell/NN ./PCT 
+if/IN you/PRP are/VBP a/DT real/JJ hot/JJ momma/NN ,/PCT come/VB take/VB away/RP daddy/NNP 's/POS weeping/VBG spell/NN ./PCT 
+

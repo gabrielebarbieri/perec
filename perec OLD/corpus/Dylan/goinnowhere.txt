@@ -1,0 +1,49 @@
+{"tags": [{"word": "clouds", "POS": "NNS"}, {"word": "so", "POS": "RB"}, {"word": "swift", "POS": "JJ"}], "sentence": "clouds so swift"}
+{"tags": [{"word": "rain", "POS": "NN"}, {"word": "wo", "POS": "MD"}, {"word": "not", "POS": "RB"}, {"word": "lift", "POS": "VB"}], "sentence": "rain wo not lift"}
+{"tags": [{"word": "gate", "POS": "NNP"}, {"word": "wo", "POS": "MD"}, {"word": "not", "POS": "RB"}, {"word": "close", "POS": "VB"}], "sentence": "gate wo not close"}
+{"tags": [{"word": "railings", "POS": "NNS"}, {"word": "froze", "POS": "VBD"}], "sentence": "railings froze"}
+{"tags": [{"word": "get", "POS": "VB"}, {"word": "your", "POS": "PRP$"}, {"word": "mind", "POS": "NN"}, {"word": "off", "POS": "IN"}, {"word": "wintertime", "POS": "NN"}], "sentence": "get your mind off wintertime"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "ai", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "goin", "POS": "VB"}, {"word": "'", "POS": "PCT"}, {"word": "nowhere", "POS": "RB"}], "sentence": "you ai not goin ' nowhere"}
+{"tags": [{"word": "whoo-ee", "POS": "NN"}, {"word": "!", "POS": "PCT"}, {"word": "ride", "POS": "NN"}, {"word": "me", "POS": "PRP"}, {"word": "high", "POS": "JJ"}], "sentence": "whoo-ee ! ride me high"}
+{"tags": [{"word": "tomorrow", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "the", "POS": "DT"}, {"word": "day", "POS": "NN"}], "sentence": "tomorrow 's the day"}
+{"tags": [{"word": "my", "POS": "PRP$"}, {"word": "bride", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "gonna", "POS": "NNS"}, {"word": "come", "POS": "VBP"}], "sentence": "my bride 's gonna come"}
+{"tags": [{"word": "oh", "POS": "UH"}, {"word": ",", "POS": "PCT"}, {"word": "oh", "POS": "UH"}, {"word": ",", "POS": "PCT"}, {"word": "are", "POS": "VBP"}, {"word": "we", "POS": "PRP"}, {"word": "gonna", "POS": "VBP"}, {"word": "fly", "POS": "NN"}], "sentence": "oh , oh , are we gonna fly"}
+{"tags": [{"word": "down", "POS": "IN"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "easy", "POS": "JJ"}, {"word": "chair", "POS": "NN"}, {"word": "!", "POS": "PCT"}], "sentence": "down in the easy chair !"}
+
+{"tags": [{"word": "i", "POS": "PRP"}, {"word": "do", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "care", "POS": "VB"}], "sentence": "i do not care"}
+{"tags": [{"word": "how", "POS": "WRB"}, {"word": "many", "POS": "JJ"}, {"word": "letters", "POS": "NNS"}, {"word": "they", "POS": "PRP"}, {"word": "sent", "POS": "VBD"}], "sentence": "how many letters they sent"}
+{"tags": [{"word": "morning", "POS": "NN"}, {"word": "came", "POS": "VBD"}, {"word": "and", "POS": "CC"}, {"word": "morning", "POS": "NN"}, {"word": "went", "POS": "VBD"}], "sentence": "morning came and morning went"}
+{"tags": [{"word": "pick", "POS": "VB"}, {"word": "up", "POS": "RP"}, {"word": "your", "POS": "PRP$"}, {"word": "money", "POS": "NN"}], "sentence": "pick up your money"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "pack", "POS": "VB"}, {"word": "up", "POS": "RP"}, {"word": "your", "POS": "PRP$"}, {"word": "tent", "POS": "NN"}], "sentence": "and pack up your tent"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "ai", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "goin", "POS": "VB"}, {"word": "'", "POS": "PCT"}, {"word": "nowhere", "POS": "RB"}], "sentence": "you ai not goin ' nowhere"}
+{"tags": [{"word": "whoo-ee", "POS": "NN"}, {"word": "!", "POS": "PCT"}, {"word": "ride", "POS": "NN"}, {"word": "me", "POS": "PRP"}, {"word": "high", "POS": "JJ"}], "sentence": "whoo-ee ! ride me high"}
+{"tags": [{"word": "tomorrow", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "the", "POS": "DT"}, {"word": "day", "POS": "NN"}], "sentence": "tomorrow 's the day"}
+{"tags": [{"word": "my", "POS": "PRP$"}, {"word": "bride", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "gonna", "POS": "NNS"}, {"word": "come", "POS": "VBP"}], "sentence": "my bride 's gonna come"}
+{"tags": [{"word": "oh", "POS": "UH"}, {"word": ",", "POS": "PCT"}, {"word": "oh", "POS": "UH"}, {"word": ",", "POS": "PCT"}, {"word": "are", "POS": "VBP"}, {"word": "we", "POS": "PRP"}, {"word": "gonna", "POS": "VBP"}, {"word": "fly", "POS": "NN"}], "sentence": "oh , oh , are we gonna fly"}
+{"tags": [{"word": "down", "POS": "IN"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "easy", "POS": "JJ"}, {"word": "chair", "POS": "NN"}, {"word": "!", "POS": "PCT"}], "sentence": "down in the easy chair !"}
+
+{"tags": [{"word": "buy", "POS": "VB"}, {"word": "me", "POS": "PRP"}, {"word": "a", "POS": "DT"}, {"word": "flute", "POS": "NN"}], "sentence": "buy me a flute"}
+{"tags": [{"word": "and", "POS": "CC"}, {"word": "a", "POS": "DT"}, {"word": "gun", "POS": "NN"}, {"word": "that", "POS": "WDT"}, {"word": "shoots", "POS": "VBZ"}], "sentence": "and a gun that shoots"}
+{"tags": [{"word": "tailgates", "POS": "NNS"}, {"word": "and", "POS": "CC"}, {"word": "substitutes", "POS": "NNS"}], "sentence": "tailgates and substitutes"}
+{"tags": [{"word": "strap", "POS": "NNP"}, {"word": "yourself", "POS": "PRP"}], "sentence": "strap yourself"}
+{"tags": [{"word": "to", "POS": "TO"}, {"word": "the", "POS": "DT"}, {"word": "tree", "POS": "NN"}, {"word": "with", "POS": "IN"}, {"word": "roots", "POS": "NNS"}], "sentence": "to the tree with roots"}
+{"tags": [{"word": "you", "POS": "PRP"}, {"word": "ai", "POS": "VBP"}, {"word": "not", "POS": "RB"}, {"word": "goin", "POS": "VB"}, {"word": "'", "POS": "PCT"}, {"word": "nowhere", "POS": "RB"}], "sentence": "you ai not goin ' nowhere"}
+{"tags": [{"word": "whoo-ee", "POS": "NN"}, {"word": "!", "POS": "PCT"}, {"word": "ride", "POS": "NN"}, {"word": "me", "POS": "PRP"}, {"word": "high", "POS": "JJ"}], "sentence": "whoo-ee ! ride me high"}
+{"tags": [{"word": "tomorrow", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "the", "POS": "DT"}, {"word": "day", "POS": "NN"}], "sentence": "tomorrow 's the day"}
+{"tags": [{"word": "my", "POS": "PRP$"}, {"word": "bride", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "gonna", "POS": "NNS"}, {"word": "come", "POS": "VBP"}], "sentence": "my bride 's gonna come"}
+{"tags": [{"word": "oh", "POS": "UH"}, {"word": ",", "POS": "PCT"}, {"word": "oh", "POS": "UH"}, {"word": ",", "POS": "PCT"}, {"word": "are", "POS": "VBP"}, {"word": "we", "POS": "PRP"}, {"word": "gonna", "POS": "VBP"}, {"word": "fly", "POS": "NN"}], "sentence": "oh , oh , are we gonna fly"}
+{"tags": [{"word": "down", "POS": "IN"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "easy", "POS": "JJ"}, {"word": "chair", "POS": "NN"}, {"word": "!", "POS": "PCT"}], "sentence": "down in the easy chair !"}
+
+
+{"tags": [{"word": "genghis", "POS": "NNP"}, {"word": "khan", "POS": "NNP"}], "sentence": "genghis khan"}
+{"tags": [{"word": "he", "POS": "PRP"}, {"word": "could", "POS": "MD"}, {"word": "not", "POS": "RB"}, {"word": "keep", "POS": "VB"}], "sentence": "he could not keep"}
+{"tags": [{"word": "all", "POS": "PDT"}, {"word": "his", "POS": "PRP$"}, {"word": "kings", "POS": "NNS"}], "sentence": "all his kings"}
+{"tags": [{"word": "supplied", "POS": "VBN"}, {"word": "with", "POS": "IN"}, {"word": "sleep", "POS": "NN"}], "sentence": "supplied with sleep"}
+{"tags": [{"word": "we", "POS": "PRP"}, {"word": "'ll", "POS": "MD"}, {"word": "climb", "POS": "VB"}, {"word": "that", "POS": "IN"}, {"word": "hill", "POS": "NN"}, {"word": "no", "POS": "DT"}, {"word": "matter", "POS": "NN"}, {"word": "how", "POS": "WRB"}, {"word": "steep", "POS": "JJ"}], "sentence": "we 'll climb that hill no matter how steep"}
+{"tags": [{"word": "when", "POS": "WRB"}, {"word": "we", "POS": "PRP"}, {"word": "get", "POS": "VBP"}, {"word": "up", "POS": "RB"}, {"word": "to", "POS": "TO"}, {"word": "it", "POS": "PRP"}], "sentence": "when we get up to it"}
+{"tags": [{"word": "whoo-ee", "POS": "NN"}, {"word": "!", "POS": "PCT"}, {"word": "ride", "POS": "NN"}, {"word": "me", "POS": "PRP"}, {"word": "high", "POS": "JJ"}], "sentence": "whoo-ee ! ride me high"}
+{"tags": [{"word": "tomorrow", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "the", "POS": "DT"}, {"word": "day", "POS": "NN"}], "sentence": "tomorrow 's the day"}
+{"tags": [{"word": "my", "POS": "PRP$"}, {"word": "bride", "POS": "NN"}, {"word": "'s", "POS": "POS"}, {"word": "gonna", "POS": "NNS"}, {"word": "come", "POS": "VBP"}], "sentence": "my bride 's gonna come"}
+{"tags": [{"word": "oh", "POS": "UH"}, {"word": ",", "POS": "PCT"}, {"word": "oh", "POS": "UH"}, {"word": ",", "POS": "PCT"}, {"word": "are", "POS": "VBP"}, {"word": "we", "POS": "PRP"}, {"word": "gonna", "POS": "VBP"}, {"word": "fly", "POS": "NN"}], "sentence": "oh , oh , are we gonna fly"}
+{"tags": [{"word": "down", "POS": "IN"}, {"word": "in", "POS": "IN"}, {"word": "the", "POS": "DT"}, {"word": "easy", "POS": "JJ"}, {"word": "chair", "POS": "NN"}, {"word": "!", "POS": "PCT"}], "sentence": "down in the easy chair !"}
+

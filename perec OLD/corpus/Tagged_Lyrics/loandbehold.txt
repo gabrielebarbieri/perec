@@ -1,0 +1,49 @@
+i/PRP pulled/VBD out/RP for/IN san/NNP anton/NNP '/POS ,/PCT 
+i/PRP never/RB felt/VBD so/RB good/JJ ./PCT 
+my/PRP$ woman/NN said/VBD she/PRP 'd/MD meet/VB me/PRP there/EX 
+and/CC of/IN course/NN ,/PCT i/PRP knew/VBD she/PRP would/MD ./PCT 
+the/DT coachman/NN ,/PCT he/PRP hit/VBD me/PRP for/IN my/PRP$ hook/NN 
+and/CC he/PRP asked/VBD me/PRP my/PRP$ name/NN ./PCT 
+i/PRP give/VBP it/PRP to/TO him/PRP right/RB away/RB ,/PCT 
+then/RB i/PRP hung/VBD my/PRP$ head/NN in/IN shame/NN ./PCT 
+lo/NNP and/CC behold/NN !/PCT lo/NNP and/CC behold/NN !/PCT 
+lookin/NNP '/POS for/IN my/PRP$ lo/NN and/CC behold/NN ,/PCT 
+get/VB me/PRP outa/VB here/RB ,/PCT my/PRP$ dear/RB man/NN !/PCT 
+
+i/PRP come/VBP into/IN pittsburgh/NNP 
+at/IN six-thirty/JJ flat/JJ ./PCT 
+i/PRP found/VBD myself/PRP a/DT vacant/JJ seat/NN 
+an/DT '/PCT i/PRP put/VBP down/RP my/PRP$ hat/NN ./PCT 
+``/PCT what/WP is/VBZ the/DT matter/NN ,/PCT molly/NNP ,/PCT dear/RB ,/PCT 
+what/WP is/VBZ the/DT matter/NN with/IN your/PRP$ mound/NN ?/PCT ''/PCT 
+``/PCT what/WP is/VBZ it/PRP to/TO ya/PRP ,/PCT moby/NNP dick/NNP ?/PCT 
+this/DT is/VBZ chicken/NN town/NN !/PCT ''/PCT 
+lo/NNP and/CC behold/NN !/PCT lo/NNP and/CC behold/NN !/PCT 
+lookin/NNP '/POS for/IN my/PRP$ lo/NN and/CC behold/NN ,/PCT 
+get/VB me/PRP outa/VB here/RB ,/PCT my/PRP$ dear/RB man/NN !/PCT 
+
+i/PRP bought/VBD my/PRP$ girl/NN 
+a/DT herd/NN of/IN moose/NN ,/PCT 
+one/CD she/PRP could/MD call/VB her/PRP$ own/JJ ./PCT 
+well/RB ,/PCT she/PRP came/VBD out/RP the/DT very/RB next/JJ day/NN 
+to/TO see/VB where/WRB they/PRP had/VBD flown/VBN ./PCT 
+i/PRP am/VBP goin/VBG '/PCT down/RP to/TO tennessee/NNP ,/PCT 
+get/VB me/PRP a/DT truck/NN '/PCT r/NN somethin'/NN ./PCT 
+gonna/NNP save/VB my/PRP$ money/NN and/CC rip/NN it/PRP up/RP !/PCT 
+lo/NNP and/CC behold/NN !/PCT lo/NNP and/CC behold/NN !/PCT 
+lookin/NNP '/POS for/IN my/PRP$ lo/NN and/CC behold/NN ,/PCT 
+get/VB me/PRP outa/VB here/RB ,/PCT my/PRP$ dear/RB man/NN !/PCT 
+
+
+now/RB ,/PCT i/PRP come/VBP in/IN on/IN a/DT ferris/JJ wheel/NN 
+an/DT '/PCT boys/NNS ,/PCT i/PRP sure/RB was/VBD slick/JJ ./PCT 
+i/PRP come/VBP in/IN like/IN a/DT ton/NN of/IN bricks/NNS ,/PCT 
+laid/VBN a/DT few/JJ tricks/NNS on/IN 'em/PRP ./PCT 
+goin/NNP '/POS back/NN to/TO pittsburgh/NNP ,/PCT 
+count/NN up/IN to/TO thirty/CD ,/PCT 
+round/NNP that/IN horn/NN and/CC ride/NN that/WDT herd/NN ,/PCT 
+gonna/NNP thread/NN up/IN !/PCT 
+lo/NNP and/CC behold/NN !/PCT lo/NNP and/CC behold/NN !/PCT 
+lookin/NNP '/POS for/IN my/PRP$ lo/NN and/CC behold/NN ,/PCT 
+get/VB me/PRP outa/VB here/RB ,/PCT my/PRP$ dear/RB man/NN !/PCT 
+
