@@ -1,7 +1,8 @@
-from nlp_tools import tokenize_corpus
+from nlp_tools import tokenize_corpus, get_semantic_model
 from markovchain import markov_chain
 from markovchain.suffix_tree import get_suffix_tree
 from datetime import datetime
+from random import shuffle
 
 
 class Sentence(object):
@@ -41,9 +42,23 @@ class Corpus(object):
             sentences.append(Sentence(sequence, orders))
         return sentences
 
+    def generate_semantic_sentence(self, sense, length, n):
+        words = [w[0] for w in get_semantic_model().most_similar(sense)]
+        indices = range(length)
+        shuffle(indices)
+        for i in indices:
+            try:
+                cts = ['<s>'] + [None] * i + [words] + [None] * (length - i - 1) + ['</s>']
+                return self.generate_sentences(cts, n)
+            except RuntimeError:
+                pass
+
+        pass
 if __name__ == '__main__':
     dylan = Corpus('data/Dylan')
-    cts = ['<s>'] + [None] * 5 + [
-        ['loved', 'adore', 'loves', 'passion', 'hate', 'loving', 'affection']] + [None] * 5 + ['</s>']
-    for seq in dylan.generate_sentences(cts):
-        print str(seq) + ' (ord:{})'.format(seq.orders)
+
+    song = [dylan.generate_semantic_sentence(s, 10, 10) for s in ['god', 'save', 'queen', 'love', 'peace', 'war']]
+    for i in xrange(10):
+        print
+        for s in song:
+            print s[i]

@@ -1,2 +1,3 @@
 nltk
+gensim
 git+ssh://git@github.com/gabrielebarbieri/markovchain.git
