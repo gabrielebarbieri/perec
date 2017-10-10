@@ -3,6 +3,7 @@ from markovchain import markov_chain
 from markovchain.suffix_tree import get_suffix_tree
 from datetime import datetime
 from random import shuffle
+import json
 
 
 class Sentence(object):
@@ -17,10 +18,10 @@ class Sentence(object):
 
 class Corpus(object):
 
-    def __init__(self, corpus_folder, order=3):
+    def __init__(self, corpus_folder, order=3, replace_dict=None):
         self.corpus_folder = corpus_folder
         t = datetime.now()
-        self.sentences = tokenize_corpus(corpus_folder)
+        self.sentences = tokenize_corpus(corpus_folder, replace_dict)
         print 'time to tokenize the corpus', datetime.now() - t
 
         t = datetime.now()
@@ -53,10 +54,12 @@ class Corpus(object):
             except RuntimeError:
                 pass
 
-        pass
+    def to_json(self, output):
+        with open(output, 'w') as f:
+            json.dump({'sentences': self.sentences}, f)
+
 if __name__ == '__main__':
     dylan = Corpus('data/Dylan')
-
     song = [dylan.generate_semantic_sentence(s, 10, 10) for s in ['god', 'save', 'queen', 'love', 'peace', 'war']]
     for i in xrange(10):
         print

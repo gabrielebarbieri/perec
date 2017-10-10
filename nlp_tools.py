@@ -16,16 +16,25 @@ def download_nltk_data():
         nltk.download(package)
 
 
-def tokenize(string):
-    return [START_SYMBOL] + [w.lower() for w in nltk.word_tokenize(string)] + [END_SYMBOL]
+def process_word(word, replace_dict=None):
+    processed_word = word.lower()
+    if replace_dict is not None:
+        for k, v in replace_dict.items():
+            if k in processed_word:
+                processed_word = processed_word.replace(k, v)
+    return processed_word
 
 
-def tokenize_corpus(corpus_folder):
+def tokenize(string, replace_dict=None):
+    return [START_SYMBOL] + [process_word(w, replace_dict) for w in nltk.word_tokenize(string)] + [END_SYMBOL]
+
+
+def tokenize_corpus(corpus_folder, replace_dict=None):
     sentences = []
     for file_name in os.listdir(corpus_folder):
         try:
             with open(os.path.join(corpus_folder, file_name)) as f:
-                sentences += [tokenize(line) for line in f if line]
+                sentences += [tokenize(line, replace_dict) for line in f if line.strip()]
         except IOError:
             pass
     return sentences
@@ -50,6 +59,3 @@ if __name__ == '__main__':
     print [w[0] for w in model.most_similar(positive=['god', 'money'], negative=['love'])]
     print [w[0] for w in model.most_similar(positive=['love', 'money'], negative=['god'])]
     print [w[0] for w in model.most_similar(positive=['love'], negative=['god'])]
-
-
-
