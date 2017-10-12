@@ -13,15 +13,17 @@ class Sentence(object):
         self.orders = orders
 
     def __repr__(self):
-        return ' '.join(self.words[1:-1])
+        return ' '.join([w for w in self.words if w not in {'<s>', '</s>'}])
 
 
 class Corpus(object):
 
-    def __init__(self, corpus_folder, order=3, replace_dict=None):
+    def __init__(self, corpus_folder, order=3, replace_dict=None, max_sentences=None):
         self.corpus_folder = corpus_folder
         t = datetime.now()
         self.sentences = tokenize_corpus(corpus_folder, replace_dict)
+        if max_sentences is not None:
+            self.sentences = self.sentences[:max_sentences]
         print 'time to tokenize the corpus', datetime.now() - t
 
         t = datetime.now()
@@ -59,9 +61,13 @@ class Corpus(object):
             json.dump({'sentences': self.sentences}, f)
 
 if __name__ == '__main__':
-    dylan = Corpus('data/Dylan')
+
+    dylan = Corpus('data/Dylan', max_sentences=1400, order=2)
+    out = '/Users/gabriele/Workspace/misc/redylan/src/core/dylan_matrices.json'
+    markov_chain.serialize_process(dylan.matrices, out)
     song = [dylan.generate_semantic_sentence(s, 10, 10) for s in ['god', 'save', 'queen', 'love', 'peace', 'war']]
     for i in xrange(10):
         print
         for s in song:
-            print s[i]
+            if s:
+                print s[i]
