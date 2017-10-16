@@ -4,6 +4,8 @@ from markovchain.suffix_tree import get_suffix_tree
 from datetime import datetime
 from random import shuffle
 import json
+import os
+from dylan_popularity import get_most_popular_songs
 
 
 class Sentence(object):
@@ -18,13 +20,14 @@ class Sentence(object):
 
 class Corpus(object):
 
-    def __init__(self, corpus_folder, order=3, replace_dict=None, max_sentences=None):
-        self.corpus_folder = corpus_folder
+    def __init__(self, corpus, order=3, replace_dict=None):
         t = datetime.now()
-        self.sentences = tokenize_corpus(corpus_folder, replace_dict)
-        if max_sentences is not None:
-            self.sentences = self.sentences[:max_sentences]
-        print 'time to tokenize the corpus', datetime.now() - t
+
+        if isinstance(corpus, str):
+            corpus = [os.path.join(corpus, f) for f in os.listdir(corpus)]
+
+        self.sentences = tokenize_corpus(corpus, replace_dict)
+        print 'time to tokenize {} sentences {}'.format(len(self.sentences), datetime.now() - t)
 
         t = datetime.now()
         self.matrices = markov_chain.parse_sequences(self.sentences, order)
@@ -61,8 +64,8 @@ class Corpus(object):
             json.dump({'sentences': self.sentences}, f)
 
 if __name__ == '__main__':
-
-    dylan = Corpus('data/Dylan', max_sentences=1400, order=2)
+    sources = get_most_popular_songs(40)
+    dylan = Corpus(sources, order=2)
     out = '/Users/gabriele/Workspace/misc/redylan/src/core/dylan_matrices.json'
     markov_chain.serialize_process(dylan.matrices, out)
     song = [dylan.generate_semantic_sentence(s, 10, 10) for s in ['god', 'save', 'queen', 'love', 'peace', 'war']]

@@ -29,11 +29,11 @@ def tokenize(string, replace_dict=None):
     return [START_SYMBOL] + [process_word(w, replace_dict) for w in nltk.word_tokenize(string)] + [END_SYMBOL]
 
 
-def tokenize_corpus(corpus_folder, replace_dict=None):
+def tokenize_corpus(sources, replace_dict=None):
     sentences = []
-    for file_name in os.listdir(corpus_folder):
+    for file_name in sources:
         try:
-            with open(os.path.join(corpus_folder, file_name)) as f:
+            with open(file_name) as f:
                 sentences += [tokenize(line, replace_dict) for line in f if line.strip()]
         except IOError:
             pass

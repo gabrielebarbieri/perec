@@ -1,3 +1,4 @@
 nltk
 gensim
+editdistance
 git+ssh://git@github.com/gabrielebarbieri/markovchain.git
