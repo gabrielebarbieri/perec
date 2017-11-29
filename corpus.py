@@ -68,9 +68,32 @@ if __name__ == '__main__':
     dylan = Corpus(sources, order=2)
     # out = '/Users/gabriele/Workspace/misc/redylan/src/core/dylan_matrices.json'
     # markov_chain.serialize_process(dylan.matrices, out)
-    song = [dylan.generate_semantic_sentence(s, 10, 10) for s in ['god', 'save', 'queen', 'love', 'peace', 'war']]
-    for i in xrange(10):
-        print
-        for s in song:
-            if s:
-                print s[i]
+    # song = [dylan.generate_semantic_sentence(s, 10, 10) for s in ['god', 'save', 'queen', 'love', 'peace', 'war']]
+    # for i in xrange(10):
+    #     print
+    #     for s in song:
+    #         if s:
+    #             print s[i]
+
+    d = set()
+    for sentence in dylan.sentences:
+        for w in sentence:
+            d.add(w)
+    sims = {}
+    model = get_semantic_model()
+    from tqdm import tqdm
+    # TODO for each word in model.vocab find the 10 most similar words in the dylan corpus
+    # TODO wrap all of this in a function
+    # TODO and save the results in the redylan project
+    for w1 in tqdm(d):
+        sims[w1] = {}
+        for w2 in d:
+            try:
+                sims[w1][w2] = model.similarity(w1, w2)
+            except KeyError:
+                pass
+    for w, v in sims.iteritems():
+        print w, v
+    import json
+    with open('sims.json', 'w') as f:
+        json.dump(sims, f)
