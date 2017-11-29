@@ -1,4 +1,5 @@
 nltk
 gensim
 editdistance
+pandas
 git+ssh://git@github.com/gabrielebarbieri/markovchain.git

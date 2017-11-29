@@ -38,9 +38,9 @@ class Corpus(object):
         print 'time to compute the suffix tree', datetime.now() - t
 
     def generate_sentences(self, constraints, n=10):
-        t = datetime.now()
+        # t = datetime.now()
         mp = markov_chain.get_markov_process(self.matrices, constraints)
-        print 'time to compute the markov process', datetime.now() - t
+        # print 'time to compute the markov process', datetime.now() - t
         sentences = []
         for _ in xrange(n):
             sequence = markov_chain.generate(mp)
@@ -66,8 +66,8 @@ class Corpus(object):
 if __name__ == '__main__':
     sources = get_most_popular_songs(40)
     dylan = Corpus(sources, order=2)
-    out = '/Users/gabriele/Workspace/misc/redylan/src/core/dylan_matrices.json'
-    markov_chain.serialize_process(dylan.matrices, out)
+    # out = '/Users/gabriele/Workspace/misc/redylan/src/core/dylan_matrices.json'
+    # markov_chain.serialize_process(dylan.matrices, out)
     song = [dylan.generate_semantic_sentence(s, 10, 10) for s in ['god', 'save', 'queen', 'love', 'peace', 'war']]
     for i in xrange(10):
         print

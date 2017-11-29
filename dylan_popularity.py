@@ -6,6 +6,7 @@ import os
 DYLAN_DATA = 'data/Dylan'
 DYLAN_POPULARITY = 'data/dylan_popularity.csv'
 
+
 class Closer(object):
 
     def __init__(self, folder):
