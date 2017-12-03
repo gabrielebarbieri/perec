@@ -6,6 +6,7 @@ from random import shuffle
 import json
 import os
 from dylan_popularity import get_most_popular_songs
+import operator
 
 
 class Sentence(object):
@@ -37,6 +38,14 @@ class Corpus(object):
         self.suffix_tree = get_suffix_tree(self.sentences)
         print 'time to compute the suffix tree', datetime.now() - t
 
+        self._words = None
+
+    @property
+    def words(self):
+        if self._words is None:
+            self._words = list(set(w for sentence in self.sentences for w in sentence))
+        return self._words
+
     def generate_sentences(self, constraints, n=10):
         # t = datetime.now()
         mp = markov_chain.get_markov_process(self.matrices, constraints)
@@ -49,7 +58,7 @@ class Corpus(object):
         return sentences
 
     def generate_semantic_sentence(self, sense, length, n):
-        words = [w[0] for w in get_semantic_model().most_similar(sense)]
+        words = [w[0] for w in self.get_similar_words(sense)]
         indices = range(length)
         shuffle(indices)
         for i in indices:
@@ -63,9 +72,33 @@ class Corpus(object):
         with open(output, 'w') as f:
             json.dump({'sentences': self.sentences}, f)
 
+    def get_similar_words(self, sense, n=10):
+        similarities = {}
+        for w in self.words:
+            try:
+                similarities[w] = get_semantic_model().similarity(sense, w)
+            except KeyError:
+                pass
+        return [k for k, _ in sorted(similarities.items(), key=operator.itemgetter(1), reverse=True)[:n]]
+
+
+def recompute_redylan_similarities():
+    corpus = Corpus(get_most_popular_songs(40), order=2)
+    import json
+    p = '/Users/gabriele/Workspace/misc/redylan/src/core/word_similarities.json'
+    with open(p) as f:
+        words = json.load(f).keys()
+
+    from tqdm import tqdm
+    sims = {w: corpus.get_similar_words(w) for w in tqdm(words)}
+    with open(p, 'w') as f:
+        json.dump(sims, f)
+
+
 if __name__ == '__main__':
     sources = get_most_popular_songs(40)
     dylan = Corpus(sources, order=2)
+
     # out = '/Users/gabriele/Workspace/misc/redylan/src/core/dylan_matrices.json'
     # markov_chain.serialize_process(dylan.matrices, out)
     # song = [dylan.generate_semantic_sentence(s, 10, 10) for s in ['god', 'save', 'queen', 'love', 'peace', 'war']]
@@ -74,26 +107,3 @@ if __name__ == '__main__':
     #     for s in song:
     #         if s:
     #             print s[i]
-
-    d = set()
-    for sentence in dylan.sentences:
-        for w in sentence:
-            d.add(w)
-    sims = {}
-    model = get_semantic_model()
-    from tqdm import tqdm
-    # TODO for each word in model.vocab find the 10 most similar words in the dylan corpus
-    # TODO wrap all of this in a function
-    # TODO and save the results in the redylan project
-    for w1 in tqdm(d):
-        sims[w1] = {}
-        for w2 in d:
-            try:
-                sims[w1][w2] = model.similarity(w1, w2)
-            except KeyError:
-                pass
-    for w, v in sims.iteritems():
-        print w, v
-    import json
-    with open('sims.json', 'w') as f:
-        json.dump(sims, f)

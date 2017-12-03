@@ -4,7 +4,7 @@ import os
 from datetime import datetime
 
 
-NLTK_PACKAGES = ['punkt', 'word2vec_sample']  # 'cmudict'
+NLTK_PACKAGES = ['punkt', 'word2vec_sample', 'cmudict']
 START_SYMBOL = '<s>'
 END_SYMBOL = '</s>'
 
