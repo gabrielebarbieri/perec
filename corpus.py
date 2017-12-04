@@ -64,13 +64,14 @@ class Corpus(object):
             sentences.append(Sentence(sequence, orders))
         return sentences
 
-    def generate_semantic_sentence(self, sense, length, n):
+    def generate_semantic_sentence(self, sense, length, n, rhyme=None):
         words = [w[0] for w in self.get_similar_words(sense)]
+        rhymes = self.rhymes.get(rhyme, None)
         indices = range(length)
         shuffle(indices)
         for i in indices:
             try:
-                cts = ['<s>'] + [None] * i + [words] + [None] * (length - i - 1) + ['</s>']
+                cts = ['<s>'] + [None] * i + [words] + [None] * (length - i - 1) + [rhymes] +['</s>']
                 return self.generate_sentences(cts, n)
             except RuntimeError:
                 pass
@@ -110,9 +111,11 @@ if __name__ == '__main__':
     sources = get_most_popular_songs(40)
     dylan = Corpus(sources, order=2)
 
+    # dylan.save_all_rhymes('/Users/gabriele/Workspace/misc/redylan/src/core/rhymes.json')
     # out = '/Users/gabriele/Workspace/misc/redylan/src/core/dylan_matrices.json'
     # markov_chain.serialize_process(dylan.matrices, out)
-    song = [dylan.generate_semantic_sentence(s, 10, 10) for s in ['god', 'save', 'queen', 'love', 'peace', 'war']]
+    song = [dylan.generate_semantic_sentence(s, 10, 10, 'say')
+            for s in ['god', 'save', 'queen', 'love', 'peace', 'war']]
     for i in xrange(10):
         print
         for s in song:

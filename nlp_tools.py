@@ -73,9 +73,19 @@ def get_rhymes(word):
 
 
 def get_rhyme_from_pronunciation(pronunciation):
-    for i, e in enumerate(pronunciation):
-        if e.endswith('1'):
-            return ','.join(pronunciation[i:])
+
+    stresses = []
+    for p in pronunciation:
+        try:
+            stresses.append(int(p[-1]))
+        except ValueError:
+            pass
+    stress = str(max(stresses))
+
+    # the reversed is needed to deal with the "because" case
+    for i, e in enumerate(reversed(pronunciation)):
+        if e.endswith(stress):
+            return ','.join(pronunciation[len(pronunciation) - 1 - i:])
 
 
 def get_all_rhymes(words):
@@ -102,9 +112,9 @@ if __name__ == '__main__':
     # print [w[0] for w in model.most_similar(positive=['love', 'money'], negative=['god'])]
     # print [w[0] for w in model.most_similar(positive=['love'], negative=['god'])]
 
-    print get_rhymes('at')
-    print get_rhymes('cat')
-
-    rhymes = get_all_rhymes(['hello', 'yesterday', 'yesterday111', 'cat', 'at', 'rat', 'hat'])
-    import json
-    print json.dumps(rhymes, indent=2)
+    print get_rhymes("a")
+    print get_rhymes("be")
+    print get_rhymes("into")
+    print get_rhymes("delacroix")
+    print get_rhymes("to")
+    print get_rhymes("the")
