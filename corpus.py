@@ -1,4 +1,4 @@
-from nlp_tools import tokenize_corpus, get_semantic_model
+from nlp_tools import tokenize_corpus, get_semantic_model, get_all_rhymes
 from markovchain import markov_chain
 from markovchain.suffix_tree import get_suffix_tree
 from datetime import datetime
@@ -39,12 +39,19 @@ class Corpus(object):
         print 'time to compute the suffix tree', datetime.now() - t
 
         self._words = None
+        self._rhymes = None
 
     @property
     def words(self):
         if self._words is None:
             self._words = list(set(w for sentence in self.sentences for w in sentence))
         return self._words
+
+    @property
+    def rhymes(self):
+        if self._rhymes is None:
+            self._rhymes = get_all_rhymes(self.words)
+        return self._rhymes
 
     def generate_sentences(self, constraints, n=10):
         # t = datetime.now()
@@ -80,6 +87,10 @@ class Corpus(object):
             except KeyError:
                 pass
         return [k for k, _ in sorted(similarities.items(), key=operator.itemgetter(1), reverse=True)[:n]]
+
+    def save_all_rhymes(self, destination_path):
+        with open(destination_path, 'w') as f:
+            json.dump(self.rhymes, f)
 
 
 def recompute_redylan_similarities():
