@@ -101,9 +101,9 @@ if __name__ == '__main__':
 
     # out = '/Users/gabriele/Workspace/misc/redylan/src/core/dylan_matrices.json'
     # markov_chain.serialize_process(dylan.matrices, out)
-    # song = [dylan.generate_semantic_sentence(s, 10, 10) for s in ['god', 'save', 'queen', 'love', 'peace', 'war']]
-    # for i in xrange(10):
-    #     print
-    #     for s in song:
-    #         if s:
-    #             print s[i]
+    song = [dylan.generate_semantic_sentence(s, 10, 10) for s in ['god', 'save', 'queen', 'love', 'peace', 'war']]
+    for i in xrange(10):
+        print
+        for s in song:
+            if s:
+                print s[i]

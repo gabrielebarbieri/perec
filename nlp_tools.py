@@ -10,6 +10,8 @@ END_SYMBOL = '</s>'
 
 _WORD2VEC = None
 
+BLACKLIST = ['"', '``', "''"]
+
 
 def download_nltk_data():
     for package in NLTK_PACKAGES:
@@ -26,7 +28,8 @@ def process_word(word, replace_dict=None):
 
 
 def tokenize(string, replace_dict=None):
-    return [START_SYMBOL] + [process_word(w, replace_dict) for w in nltk.word_tokenize(string)] + [END_SYMBOL]
+    words = [process_word(w, replace_dict) for token in nltk.word_tokenize(string) if token not in BLACKLIST]
+    return [START_SYMBOL] + words + [END_SYMBOL]
 
 
 def tokenize_corpus(sources, replace_dict=None):
