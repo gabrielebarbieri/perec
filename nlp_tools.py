@@ -31,6 +31,9 @@ def process_word(word, replace_dict=None):
 
 def tokenize(string, replace_dict=None):
     words = [process_word(token, replace_dict) for token in nltk.word_tokenize(string) if token not in BLACKLIST]
+    # Remove trailing words without rhyme
+    while len(words) > 0 and not get_rhymes(words[-1]):
+        words = words[:-1]
     return [START_SYMBOL] + words + [END_SYMBOL]
 
 
